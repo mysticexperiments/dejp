@@ -4,8 +4,8 @@ Jonas: Dann hänge ich die beiden einfach aneinander und sage: ich, Student.
 Aoki: Fast. Am Ende fehlt noch {です|です|desu|bin, ist}, und das heißt bin oder ist.
 Jonas: Jetzt habe ich alles, was ich brauche, oder?
 Aoki: Noch nicht ganz. Zwischen die beiden Wörter gehört {は|は|wa|Themenpartikel|わ}, und dieses Zeichen sagt: Darüber rede ich jetzt.
-Jonas: Da steht ein Zeichen, das ich als ha gelernt habe, und du sprichst es als wa aus. Warum?
-Aoki: Weil genau dieses Zeichen als Partikel seine alte Aussprache behalten hat. Geschrieben ha, gesprochen wa, und das darfst du einfach auswendig lernen.
+Jonas: Da steht ein Zeichen, das ich als {は|は|ha|Themenpartikel} gelernt habe, und du sprichst es als {わ|わ|wa|der Laut wa} aus. Warum?
+Aoki: Weil genau dieses Zeichen als Partikel seine alte Aussprache behalten hat. Geschrieben {は|は|ha|Themenpartikel}, gesprochen {わ|わ|wa|der Laut wa}, und das darfst du einfach auswendig lernen.
 Jonas: Gut, dann lautet mein Satz {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}, also: Ich bin Student.
 Aoki: Richtig, und hör darauf, was {は|は|wa|Themenpartikel|わ} dabei tut. Auf Deutsch sagst du ungefähr: Was mich betrifft, ich bin Student.
 Jonas: Das klingt im Deutschen ziemlich umständlich.
