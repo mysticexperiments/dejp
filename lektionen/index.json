@@ -1,0 +1,24 @@
+{
+  "formatVersion": 1,
+  "language": { "main": "de", "support": "pt", "target": "ja" },
+  "lessons": [
+    {
+      "id": "lektion-01",
+      "number": 1,
+      "grammar": "は",
+      "title": "Sich vorstellen — das Thema mit は",
+      "titlePt": "Se apresentar — o tema com は",
+      "de": "lektionen/de-pt/lektion-01.txt",
+      "pt": "lektionen/de-pt/lektion-01.pt.txt"
+    },
+    {
+      "id": "lektion-02",
+      "number": 2,
+      "grammar": "か",
+      "title": "Fragen stellen — die Frage mit か",
+      "titlePt": "Fazer perguntas — a pergunta com か",
+      "de": "lektionen/de-pt/lektion-02.txt",
+      "pt": "lektionen/de-pt/lektion-02.pt.txt"
+    }
+  ]
+}
