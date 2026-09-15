@@ -1,6 +1,10 @@
 {
   "formatVersion": 1,
-  "language": { "main": "de", "support": "pt", "target": "ja" },
+  "language": {
+    "main": "de",
+    "support": "pt",
+    "target": "ja"
+  },
   "lessons": [
     {
       "id": "lektion-01",
@@ -19,6 +23,33 @@
       "titlePt": "Fazer perguntas — a pergunta com か",
       "de": "lektionen/de-pt/lektion-02.txt",
       "pt": "lektionen/de-pt/lektion-02.pt.txt"
+    },
+    {
+      "id": "lektion-03",
+      "number": 3,
+      "grammar": "Verb am Satzende",
+      "title": "Sagen, was man tut — das Verb am Satzende",
+      "titlePt": "Dizer o que se faz — o verbo no fim da frase",
+      "de": "lektionen/de-pt/lektion-03.txt",
+      "pt": "lektionen/de-pt/lektion-03.pt.txt"
+    },
+    {
+      "id": "lektion-04",
+      "number": 4,
+      "grammar": "を",
+      "title": "Sagen, was man trinkt — das Objekt mit を",
+      "titlePt": "Dizer o que se bebe — o objeto com を",
+      "de": "lektionen/de-pt/lektion-04.txt",
+      "pt": "lektionen/de-pt/lektion-04.pt.txt"
+    },
+    {
+      "id": "lektion-05",
+      "number": 5,
+      "grammar": "ません",
+      "title": "Höflich ablehnen — die verneinte Form ません",
+      "titlePt": "Recusar com educação — a forma negativa ません",
+      "de": "lektionen/de-pt/lektion-05.txt",
+      "pt": "lektionen/de-pt/lektion-05.pt.txt"
     }
   ]
 }
