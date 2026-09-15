@@ -1,0 +1,22 @@
+Jonas: Ich habe meine Hausaufgabe fertig: {青木は先生です|あおきはせんせいです|Aoki wa sensei desu|Aoki ist Lehrerin|あおきわせんせいです}, {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}, und {彼はドイツ人です|かれはどいつじんです|kare wa doitsujin desu|Er ist Deutscher|かれわどいつじんです} über meinen Kollegen.
+Aoki: Sehr gut, alle drei Sätze sind richtig, und du hast das Thema jedes Mal korrekt an den Anfang gesetzt.
+Jonas: Die neue Kollegin aus Osaka ist heute angekommen, und ich möchte sie etwas fragen, aber ich weiß nicht, wie eine Frage auf Japanisch aussieht.
+Aoki: Dafür reicht dir für heute {か|か|ka|Fragepartikel}, und dieses Zeichen hängst du ganz am Ende an einen Satz.
+Jonas: Also bleibt der Satz sonst genau gleich, und nur am Schluss kommt etwas dazu?
+Aoki: Genau, aus {学生です|がくせいです|gakusei desu|ist Student} wird mit {か|か|ka|Fragepartikel} am Ende eine Frage.
+Jonas: Muss ich dabei die Stimme heben, so wie im Deutschen bei einer Frage?
+Aoki: Nein, das brauchst du nicht, denn {か|か|ka|Fragepartikel} zeigt schon selbst, dass du fragst.
+Jonas: Dann könnte ich die Kollegin fragen: {学生ですか|がくせいですか|gakusei desu ka|Bist du Student|がくせいですか}?
+Aoki: Fast richtig, aber sag dazu, über wen du sprichst, sonst weiß sie nicht, wen du meinst. Sag lieber {あなたは学生ですか|あなたはがくせいですか|anata wa gakusei desu ka|Bist du Student|あなたわがくせいですか}.
+Jonas: Ah, {あなた|あなた|anata|du} heißt also du, und das setze ich wie meinen eigenen Namen an den Anfang.
+Aoki: Richtig, mit {は|は|wa|Themenpartikel|わ} stellst du {あなた|あなた|anata|du} als Thema vor, wenn du über dein Gegenüber sprichst.
+Jonas: Und wenn ich fragen will, ob sie aus Osaka kommt, dann sage ich {あなたは大阪出身ですか|あなたはおおさかしゅっしんですか|anata wa oosaka shusshin desu ka|Kommst du aus Osaka|あなたわおおさかしゅっしんですか}?
+Aoki: Genau so baust du diese Frage, und {か|か|ka|Fragepartikel} steht wieder ganz am Ende.
+Jonas: Wenn sie mir antwortet, kann sie dann einfach {はい|はい|hai|ja} oder {いいえ|いいえ|iie|nein} sagen?
+Aoki: Ja, für eine kurze Antwort reichen {はい|はい|hai|ja} und {いいえ|いいえ|iie|nein} völlig aus.
+Jonas: Dann probiere ich es heute bei ihr aus, sobald ich sie im Büro treffe.
+Aoki: Bereite dir zwei Fragen vor, eine über ihren Beruf und eine über ihre Herkunft, damit du gleich anfangen kannst.
+Jonas: Also frage ich zuerst nach ihrem Beruf, und danach frage ich, ob sie aus Osaka kommt.
+Aoki: Das ist eine gute Reihenfolge, denn du fängst mit dem an, was du schon gut kannst.
+Jonas: Für diesen ersten Satz nenne ich also ihr Thema und hänge am Ende {か|か|ka|Fragepartikel} an, weil ich etwas von ihr wissen will.
+Aoki: Deine Hausaufgabe ist, der Kollegin heute zwei echte Fragen mit dem neuen Zeichen zu stellen und mir morgen zu erzählen, was sie geantwortet hat.
