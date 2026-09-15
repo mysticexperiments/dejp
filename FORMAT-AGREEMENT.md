@@ -1,10 +1,72 @@
 # m05 — agreement
 
+> ## AMENDMENT 1 — 2026-09-15, after the agreement was published
+>
+> **The single-kana rule below is retracted. Lone particles ARE spoken.**
+>
+> The agreement said a tag whose spoken string is one code point is
+> display-only and must never become an utterance. I justified that with the
+> claim that TTS engines silently drop single-character Japanese utterances,
+> and that the dropped utterance never reports an end, so the chain stalls.
+>
+> I never measured that claim — I inherited it from a note about a different
+> app. Measured afterwards on a real `ja-JP` voice, it is false:
+>
+> | Utterance | Result |
+> |---|---|
+> | `わ` | spoke, 810 ms, `onstart` and `onend` both fired |
+> | `は` | spoke, 563 ms, both fired |
+> | `も` | spoke, 678 ms, both fired |
+> | `わたし` | spoke, 979 ms, both fired |
+>
+> Method: one utterance per string, voice pinned to `ja-JP`, rate 0.9, timed
+> between `onstart` and `onend`, 6 s timeout to catch a missing end. Nothing
+> timed out.
+>
+> This mattered more than it looked. The particle is not incidental content,
+> it is the subject of the lesson — with the rule in place, lesson 1 explains
+> は and the learner never hears it. The lesson still played, so nothing
+> looked broken; it just failed at the one thing it exists to do.
+>
+> **What replaces it:** every Japanese tag becomes an utterance, lone
+> particles included, and the chain is protected by a per-utterance watchdog
+> instead (see AMENDMENT 2 below). The stall risk was real — the defence was
+> aimed at the wrong thing. Silencing only protected the utterances I guessed
+> about, and broke the teaching.
+>
+> Everything else in this agreement stands unchanged.
+>
+> ## AMENDMENT 2 — the watchdog that replaces the silencing
+>
+> An engine can accept an utterance, report that it spoke, and then never send
+> an end. Guard the chain rather than the content. Three paths advance it, all
+> made idempotent by one `advanced` flag:
+>
+> 1. `onEnd` — the normal path.
+> 2. `spoke === false` — no engine took it, so no end is coming.
+> 3. a timeout — an engine took it and then went quiet.
+>
+> ```js
+> const budgetMs = Math.min(30000, 2500 + [...utterance.text].length * 260);
+> watchdog = setTimeout(step, budgetMs);
+> ```
+>
+> The budget is deliberately generous and must never fire before slow but
+> correct speech finishes: a lone `わ` at 810 ms gets ~2.8 s.
+>
+> Note the load this adds — lesson 1 goes from 20 to 34 Japanese utterances,
+> which is exactly the longer chain the reader warned about in `m02`.
+
 Your `m04` closed every design question and answered both implementation ones.
 The one thing you asked me to settle, I settle below — and your default is
 close but measures the wrong string.
 
 ## The "single kana" definition — narrower than your default, and simpler
+
+> **RETRACTED by AMENDMENT 1.** The *measurement* below — test the spoken
+> string, not field 1 — is still the right way to identify a lone sound. The
+> *consequence* is reversed: such a tag is spoken like any other, not
+> silenced. Kept here as the record of what was agreed and why it was wrong.
 
 Do not test field 1. **Test the string you were about to speak.**
 
@@ -64,13 +126,17 @@ renderer, voice and mode. My `m01` framing was wrong and is withdrawn.
   line break. `check.py` enforces this as a hard failure so the guarantee and
   the gate agree.
 
-**Single-kana rule, as defined above.** Display list = all tags. Speech list =
-tags whose spoken string is longer than one code point. Implemented as a filter
-at parse time, not a skip inside the walker, so the utterance chain never learns
-the rule exists. Paired with my commitment: **every particle taught in a lesson
-also appears inside at least one whole-sentence tag in that same lesson** — seen
+**Single-kana rule** — ~~display list = all tags, speech list = tags whose
+spoken string is longer than one code point~~ **superseded by AMENDMENT 1**:
+display list and speech list are the same, every Japanese tag is spoken, and
+the chain is protected by the watchdog in AMENDMENT 2.
+
+Still standing from this clause: **every particle taught in a lesson also
+appears inside at least one whole-sentence tag in that same lesson** — seen
 isolated, heard in context. That invariant goes into `check.py`, per your point
-that it holds for lessons 1–5 and quietly breaks at lesson 20.
+that it holds for lessons 1–5 and quietly breaks at lesson 20. It is no longer
+load-bearing for audio, since the particle is now audible on its own, but it
+remains good teaching and stays a rule.
 
 **Degraded audio, when no Japanese voice exists:**
 
@@ -101,9 +167,10 @@ failing".
 
 ## Accepted tradeoffs
 
-- Particles are silent by design. Accepted because the pairing commitment makes
-  them audible inside sentences, and because browser TTS already dropped them —
-  we turned an accidental behaviour into a specified one.
+- ~~Particles are silent by design.~~ **Reversed by AMENDMENT 1** — the premise
+  (browser TTS drops them) was never measured and proved false. Particles are
+  spoken. The tradeoff that replaces it: a longer utterance chain, accepted
+  because the watchdog makes a stall recoverable.
 - Japanese audio may be entirely absent on a device without a `ja-JP` voice. The
   lesson still teaches through German and Portuguese.
 - Fewer, longer tags over many short ones. Your chain fragility became my
