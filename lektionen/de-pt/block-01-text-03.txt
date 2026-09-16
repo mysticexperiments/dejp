@@ -1,0 +1,80 @@
+Jonas: In unserer vorgestellten Pause trinke ich Tee, aber jetzt möchte ich auch sagen können, was Nakamura trinkt.
+Aoki: Dann verändern wir die Person in einem bereits verstandenen Satz und hören nach jedem Schritt das vollständige Ergebnis.
+Jonas: Mein Ausgangssatz ist {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます}, also Ich trinke Tee.
+Aoki: Genau, bisher kündigt der Anfang dich selbst als Thema an; Tee ist das Getränk, und die Handlung trinken steht am Ende.
+Jonas: Wenn Nakamura ebenfalls Tee trinkt, bleibt also die Handlung gleich, aber ich rede über eine andere Person.
+Aoki: Richtig, deshalb verändern wir zunächst nur den Teil, der die Person benennt, und lassen das Getränk sowie das Verb stehen.
+Jonas: Bevor ich etwas ersetzen kann, muss ich ihren Namen in der japanischen Aussprache kennen.
+Aoki: Der Name ist {中村|なかむら|Nakamura|Nakamura}; so heißt die Kollegin, über die wir in unserem Beispiel sprechen.
+Jonas: Bei japanischen Namen höre ich oft noch einen kurzen Zusatz; brauche ich den hier ebenfalls?
+Aoki: In unserem Beispiel benutzen wir {さん|さん|san|höflicher Namenszusatz}, einen höflichen Zusatz nach dem Namen der anderen Person.
+Jonas: Ist das eine zweite Partikel, die genauso wie der Themenmarker die Rolle im Satz bestimmt?
+Aoki: Nein, der Namenszusatz gehört hier zur höflichen Bezeichnung der Person; die grammatische Markierung des Themas kommt anschließend noch dazu.
+Jonas: Wie klingt ihr Name mit diesem Zusatz, bevor wir daraus einen ganzen Satz machen?
+Aoki: {中村さん|なかむらさん|Nakamura san|Frau Nakamura} ist hier unsere höfliche Bezeichnung für Frau Nakamura.
+Jonas: Bedeutet der Zusatz selbst dann Frau, sodass ich ihn nur bei einer Frau verwenden dürfte?
+Aoki: Nein, {さん|さん|san|höflicher Namenszusatz} ist nicht auf Frauen beschränkt; Frau ist hier die passende deutsche Wiedergabe für diese konkrete Person.
+Jonas: Welchen Teil meines Teesatzes tausche ich nun genau aus, ohne dabei versehentlich die Partikel zu verlieren?
+Aoki: Du ersetzt das Wort für ich durch den Namen mit seinem höflichen Zusatz; {は|は|wa|Themenpartikel|わ} bleibt danach stehen und markiert jetzt Nakamura als Thema.
+Jonas: Dann möchte ich den neuen Satz vollständig hören und nicht nur wissen, an welcher Stelle ich etwas ändern soll.
+Aoki: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます} bedeutet Frau Nakamura trinkt Tee.
+Jonas: Jetzt wird also über Nakamura gesagt, dass sie Tee trinkt; der Satz sagt nicht mehr, dass ich Tee trinke.
+Aoki: Genau, der Personenbezug hat sich geändert, während Tee als Objekt und trinken als Handlung unverändert geblieben sind.
+Jonas: Im Deutschen ist aus Ich trinke Tee jetzt Frau Nakamura trinkt Tee geworden; dort hat sich auch das Verb verändert.
+Aoki: Im Japanischen bleibt in beiden Beispielen {飲みます|のみます|nomimasu|trinken} stehen; diese Verbform verändert sich nicht danach, ob ich oder eine andere Person handelt.
+Jonas: Das bedeutet also nicht, dass japanische Verben sich überhaupt niemals verändern.
+Aoki: Richtig, Zeit, Verneinung und andere grammatische Aufgaben können die Form verändern; der bloße Wechsel von ich zu Nakamura verlangt hier keine neue Verbform.
+Jonas: Kannst du beide vollständigen Sätze vergleichen, damit ich die unveränderte Handlung auch wirklich höre?
+Aoki: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます} heißt Ich trinke Tee, und {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます} heißt Frau Nakamura trinkt Tee.
+Jonas: Der unterschiedliche Anfang nennt die Person, und am Ende höre ich in beiden Fällen dieselbe höfliche Form für trinken.
+Aoki: Genau; die Person erkennen wir in diesen vollständigen Beispielen am ausdrücklich genannten Thema, nicht an einer besonderen Personenendung des Verbs.
+Jonas: Wenn Nakamura nun Kaffee statt Tee nimmt, möchte ich erst das Getränk ändern, ohne gleichzeitig noch eine andere Person einzuführen.
+Aoki: Dann beginnen wir beim Satz über Nakamuras Tee und ersetzen ausschließlich Tee durch das bereits bekannte Wort für Kaffee.
+Jonas: Wie lautet dieses Ergebnis, wenn wir alle unveränderten Teile wieder mitsprechen?
+Aoki: {中村さんはコーヒーを飲みます|なかむらさんはこーひーをのみます|Nakamura san wa koohii o nomimasu|Frau Nakamura trinkt Kaffee|なかむらさんわこーひーおのみます} heißt Frau Nakamura trinkt Kaffee.
+Jonas: Der Satz spricht weiterhin über dieselbe Kollegin, aber die Information über ihr Getränk ist jetzt eine andere.
+Aoki: Richtig, der Themenanfang benennt weiterhin Nakamura; nur das Getränk vor der Objektpartikel hat sich verändert.
+Jonas: Damit habe ich zwei verschiedene Änderungen kennengelernt: zuerst mich durch Nakamura und danach ihren Tee durch Kaffee ersetzen.
+Aoki: Genau, und weil wir sie nacheinander vorgenommen haben, kannst du jede Bedeutungsänderung einem bestimmten Teil des Satzes zuordnen.
+Jonas: Wenn ich jetzt über dich sprechen möchte, brauche ich auch deinen Namen in der japanischen Form.
+Aoki: Mein Name ist {青木|あおき|Aoki|Aoki}; in unseren Sätzen über mich verwenden wir die Personenbezeichnung {青木さん|あおきさん|Aoki san|Frau Aoki}, also Frau Aoki.
+Jonas: Dann könnte ich aus dem Kaffeesatz über Nakamura einen Kaffeesatz über dich machen, ohne das Getränk nochmals zu ändern.
+Aoki: Ja, {青木さんはコーヒーを飲みます|あおきさんはこーひーをのみます|Aoki san wa koohii o nomimasu|Frau Aoki trinkt Kaffee|あおきさんわこーひーおのみます} bedeutet Frau Aoki trinkt Kaffee.
+Jonas: Ich spreche dabei über dich als genannte Person; ich behaupte nicht, dass Kaffee mein eigenes Getränk ist.
+Aoki: Genau, der Name macht den Bezug ausdrücklich, und das Verb bleibt dieselbe höfliche Form, obwohl nun eine andere Person das Thema ist.
+Jonas: Darf ich bei meiner eigenen Vorstellung den gleichen höflichen Zusatz an meinen Namen hängen?
+Aoki: In deiner gewöhnlichen Selbstvorstellung benutzt du diesen Zusatz nicht; der bereits erklärte Satz {ヨナスです|よなすです|Yonasu desu|Ich bin Jonas} bedeutet Ich bin Jonas und enthält ihn nicht.
+Jonas: Ich muss also unterscheiden, ob ich mich selbst vorstelle oder eine andere Person höflich beim Namen nenne.
+Aoki: Ja, und die passende Anrede kann zusätzlich von Beziehung und Rolle abhängen; wir lernen hier zunächst die Namen in unseren einfachen Aussagen über andere Personen.
+Jonas: Wenn ich von Kaffee zu Wasser wechseln möchte und wieder über mich spreche, wären das nun zwei Änderungen gleichzeitig.
+Aoki: Deshalb zerlegen wir diesen Wechsel in zwei klare Schritte, ausgehend von Frau Aoki trinkt Kaffee.
+Jonas: Im ersten Schritt ersetze ich Frau Aoki durch ich und lasse den Kaffee noch unverändert.
+Aoki: Dann lautet das Ergebnis {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}, also Ich trinke Kaffee.
+Jonas: Erst im zweiten Schritt ersetze ich Kaffee durch Wasser; das Thema bin dann bereits ich selbst.
+Aoki: Daraus wird {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Ich trinke Wasser|わたしわみずおのみます}, und dieser vollständige Satz bedeutet Ich trinke Wasser.
+Jonas: So kann ich nach jedem Schritt sagen, was der Satz gerade bedeutet, statt nur Wörter an verschiedenen Stellen auszutauschen.
+Aoki: Genau, nach dem ersten Schritt wechselte die Person, nach dem zweiten das Getränk; Thema, Objekt und Verb behielten ihre erklärten Aufgaben.
+Jonas: Funktioniert das Benennen einer anderen Person auch bei meiner ersten Satzart, also bei einer Aussage darüber, wer jemand ist?
+Aoki: Ja, wir können bei der bekannten Aussage Lehrerin sein bleiben und nun meinen Namen ausdrücklich als Thema nennen.
+Jonas: Dann brauche ich als Ergebnis einen Satz über Frau Aoki, nicht einen Satz, in dem ich selbst plötzlich Lehrer werde.
+Aoki: {青木さんは先生です|あおきさんはせんせいです|Aoki san wa sensei desu|Frau Aoki ist Lehrerin|あおきさんわせんせいです} bedeutet Frau Aoki ist Lehrerin.
+Jonas: Das Thema ist dein Name, und die Information danach nennt deine Rolle; am Ende höre ich diesmal keinen Trinkvorgang.
+Aoki: Richtig, hier steht die bekannte Nominalaussage mit {です|です|desu|höflicher Abschluss einer Nominalaussage}; bei der Getränkeaussage steht stattdessen das Verb für trinken.
+Jonas: Ich kann also die Person in beiden Satzarten benennen, muss aber den Abschluss passend zur jeweiligen Aussage wählen.
+Aoki: Genau: {青木さんは先生です|あおきさんはせんせいです|Aoki san wa sensei desu|Frau Aoki ist Lehrerin|あおきさんわせんせいです} heißt Frau Aoki ist Lehrerin, während {青木さんはコーヒーを飲みます|あおきさんはこーひーをのみます|Aoki san wa koohii o nomimasu|Frau Aoki trinkt Kaffee|あおきさんわこーひーおのみます} Frau Aoki trinkt Kaffee bedeutet.
+Jonas: Wenn ich danach wieder über Nakamura rede, sollte ich den neuen Namen nennen, damit der Wechsel klar wird.
+Aoki: In unserer Situation mit mehreren Personen ist das hilfreich; mit dem neuen Namen als Thema zeigst du ausdrücklich, dass die folgende Aussage nun diese andere Person betrifft.
+Jonas: Dann beginne ich mit {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます}, also Frau Nakamura trinkt Tee.
+Aoki: Und für die andere Person folgt {青木さんはコーヒーを飲みます|あおきさんはこーひーをのみます|Aoki san wa koohii o nomimasu|Frau Aoki trinkt Kaffee|あおきさんわこーひーおのみます}, also Frau Aoki trinkt Kaffee.
+Jonas: Die beiden ausgesprochenen Namen helfen mir, Tee und Kaffee den richtigen Personen zuzuordnen.
+Aoki: Genau, dabei bleiben die Partikeln an ihren Aufgaben erkennbar: der Themenmarker nach der Person und der Objektmarker nach dem jeweiligen Getränk.
+Jonas: Eine andere Person bedeutet also nicht automatisch ein anderes Getränk, und ein anderes Getränk bedeutet nicht automatisch eine andere Person.
+Aoki: Richtig; das sind zwei unabhängig veränderbare Informationen, und unsere vollständigen Beispiele zeigen jeweils genau die Änderung, über die wir sprechen.
+Jonas: Zum Abschluss möchte ich sagen, dass Nakamura Wasser trinkt, und dabei beide Bausteine bewusst auswählen.
+Aoki: Das ergibt {中村さんは水を飲みます|なかむらさんはみずをのみます|Nakamura san wa mizu o nomimasu|Frau Nakamura trinkt Wasser|なかむらさんわみずおのみます}; die vollständige Bedeutung ist Frau Nakamura trinkt Wasser.
+Jonas: Ich erkenne jetzt ihren Namen als Thema, Wasser als das Getrunkene und dieselbe Verbform, die ich schon bei mir selbst gehört habe.
+Aoki: Genau, damit kannst du den Satz nicht nur wiederholen, sondern auch erklären, weshalb er von Nakamura und ihrem Getränk handelt.
+Jonas: Trotzdem höre ich in echten Gesprächen vermutlich nicht vor jeder Aussage erneut einen vollständigen Namen.
+Aoki: Richtig, wenn der Bezug bereits klar ist, kann die Person ungenannt bleiben; wenn mehrere Personen infrage kommen, muss der Zusammenhang die Zuordnung ermöglichen.
+Jonas: Dann möchte ich als Nächstes verstehen, wann das Thema genannt wird und wann ich es aus dem Gespräch erschließen kann.
+Aoki: Genau das folgt in der nächsten Klasse: Wir unterscheiden Thema und handelnde Person und erklären anschließend an vollständigen Situationen, welche Information unausgesprochen bleiben kann.

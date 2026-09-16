@@ -1,0 +1,80 @@
+Jonas: Amanhã vou conhecer no escritório minha nova colega Nakamura, e quero dizer a ela em japonês quem eu sou.
+Aoki: Então vamos montar sua apresentação de um jeito que você entenda cada parte e, no final, ouça uma frase completa.
+Jonas: Eu ainda não sei ler os caracteres japoneses; mesmo assim consigo entender como essa frase funciona?
+Aoki: Sim, vamos explicar tudo pelo que você ouve, e depois você pode conhecer também a escrita.
+Jonas: Em alemão eu começaria dizendo: Eu sou estudante, porque estudo e também trabalho nesse escritório.
+Aoki: Para isso você pode dizer: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Eu sou estudante|わたしわがくせいです}. Isso significa: Eu sou estudante.
+Jonas: Eu ouço várias partes, mas ainda não sei qual delas corresponde ao eu da minha frase em alemão.
+Aoki: A primeira parte é {私|わたし|watashi|eu}, que significa eu; com ela, a pessoa que está falando se refere a si mesma.
+Jonas: Depois eu ouço um som curto, antes da palavra estudante; qual é a função desse som?
+Aoki: É {は|は|wa|partícula de tema|わ}; essa partícula vem depois do tema e indica sobre o que você vai falar.
+Jonas: O que exatamente você quer dizer com tema, se estamos apenas fazendo uma frase sobre mim?
+Aoki: Aqui, o tema é a pessoa de quem falamos, ou seja, você mesmo; depois vem a informação de que você é estudante.
+Jonas: Então essa partícula significa sou em alemão, porque fica entre eu e estudante?
+Aoki: Não, {は|は|wa|partícula de tema|わ} não significa sou; aqui ela apenas marca que a parte seguinte diz algo sobre você.
+Jonas: Qual é a palavra que descreve minha condição de estudante?
+Aoki: {学生|がくせい|gakusei|estudante} se refere a um estudante; no seu caso, traduzimos como estudante universitário, porque você estuda na universidade.
+Jonas: Então já conheço o tema e a informação, mas no fim da frase ainda ouço outra coisa.
+Aoki: Ali aparece {です|です|desu|fecho educado de uma afirmação com substantivo}; com isso, terminamos de forma educada essa afirmação com um substantivo.
+Jonas: Aqui, substantivo é uma palavra como estudante ou um nome, e ainda não uma ação como beber?
+Aoki: Exatamente; na nossa frase, toda a combinação com {です|です|desu|fecho educado de uma afirmação com substantivo} corresponde ao sou estudante da frase alemã.
+Jonas: Então posso tratar essa terminação em qualquer frase japonesa simplesmente como o verbo ser em alemão?
+Aoki: Isso seria uma generalização; primeiro você aprende esse modelo para dizer quem alguém é, e depois veremos separadamente as frases de ação.
+Jonas: Você pode dizer a frase inteira outra vez, agora que eu consigo identificar as partes?
+Aoki: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Eu sou estudante|わたしわがくせいです} significa Eu sou estudante: primeiro eu como tema, depois a informação de ser estudante.
+Jonas: Em alemão eu digo eu, depois sou e depois estudante; então a ordem soa diferente em japonês.
+Aoki: Sim, depois do tema marcado vem primeiro estudante, e o fecho educado vem depois; não basta mover cada palavra alemã separadamente.
+Jonas: Por que então o alemão não tem uma palavra própria para essa pequena partícula depois de eu?
+Aoki: As duas línguas constroem a frase de formas diferentes; uma função gramatical pode ter uma palavra própria numa língua e ser indicada de outro jeito na outra.
+Jonas: Claro que Nakamura também precisa saber meu nome; como meu nome soaria numa frase japonesa?
+Aoki: Aqui representamos seu nome como {ヨナス|よなす|Yonasu|Jonas}; é Jonas numa forma sonora japonesa.
+Jonas: Se eu quiser dizer que sou Jonas, preciso aprender uma frase completamente diferente?
+Aoki: Não, trocamos só a informação estudante pelo seu nome: {私はヨナスです|わたしはよなすです|watashi wa Yonasu desu|Eu sou Jonas|わたしわよなすです}. Isso significa: Eu sou Jonas.
+Jonas: No começo continuo falando de mim, e só muda a informação depois do marcador de tema.
+Aoki: Isso; agora a frase informa seu nome, não sua condição de estudante, e o fecho educado continua no mesmo lugar.
+Jonas: Então posso colocar as duas palavras uma depois da outra para a frase informar ao mesmo tempo meu nome e minha condição?
+Aoki: Não basta juntar as palavras nesse modelo; por enquanto fazemos duas afirmações separadas e claras, sem depender de uma ligação nova.
+Jonas: Para minha condição, continuo com {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Eu sou estudante|わたしわがくせいです}, ou seja, Eu sou estudante.
+Aoki: Exatamente, e a outra frase completa informa seu nome; assim cada afirmação traz uma informação bem explicada.
+Jonas: Também quero dizer que sou alemão, sem precisar ainda de outro tipo de frase.
+Aoki: Para isso usamos {ドイツ人|どいつじん|doitsujin|alemão ou alemã}; a palavra indica uma pessoa alemã, no seu caso um alemão.
+Jonas: Então de novo só deve mudar a informação depois do tema, enquanto eu continuo sendo o tema.
+Aoki: Assim temos {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Eu sou alemão|わたしわどいつじんです}. A frase inteira significa: Eu sou alemão.
+Jonas: A palavra alemão substitui estudante, mas minha frase não afirma que por isso deixei de ser estudante.
+Aoki: Exatamente; uma frase informa sua nacionalidade, a outra sua condição, e as duas podem ser verdadeiras sobre a mesma pessoa.
+Jonas: Agora entendo melhor por que preciso do significado do resultado inteiro, e não só da palavra trocada.
+Aoki: Compare as duas afirmações: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Eu sou estudante|わたしわがくせいです} significa Eu sou estudante, enquanto {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Eu sou alemão|わたしわどいつじんです} significa Eu sou alemão.
+Jonas: Nas duas frases ouço o mesmo fecho, embora uma fale dos meus estudos e a outra da minha nacionalidade.
+Aoki: Sim, as duas seguem aqui o mesmo modelo básico: dizer quem ou o que o tema é e terminar a afirmação de forma educada.
+Jonas: Quando você fala da sua profissão, provavelmente precisa de uma informação diferente de estudante.
+Aoki: Para isso existe {先生|せんせい|sensei|professora ou professor}; na nossa conversa, essa palavra indica meu trabalho como professora.
+Jonas: Como fica a frase completa quando você mesma diz que é professora?
+Aoki: Eu digo {私は先生です|わたしはせんせいです|watashi wa sensei desu|Eu sou professora|わたしわせんせいです}, e com isso quero dizer: Eu sou professora.
+Jonas: O começo soa igual ao meu, mas agora a palavra eu se refere a você, e não a mim.
+Aoki: Exatamente, {私|わたし|watashi|eu} indica a pessoa que está falando; funciona como o eu em alemão, que muda de referência quando muda quem fala.
+Jonas: Então a partícula depois dessa palavra não significa eu; ela apenas marca o tema que já foi mencionado.
+Aoki: Isso; a palavra identifica a pessoa, e a partícula mostra como essa pessoa se liga à afirmação que vem depois.
+Jonas: Se eu simplesmente disser sua frase sobre mim mesmo, vou afirmar por engano que sou professor.
+Aoki: Sim, por isso a estrutura da frase precisa combinar com a situação; repetir também exige saber de quem estamos falando e o que estamos afirmando.
+Jonas: Eu continuo estudante e você continua professora; a gramática permite falar dos dois papéis sem trocá-los.
+Aoki: Exatamente, e depois vamos mencionar uma pessoa pelo nome, para também falar de alguém que não está falando naquele momento.
+Jonas: Mas numa apresentação de verdade, Nakamura já sabe que estou falando de mim quando digo meu nome.
+Aoki: Nesse caso, {ヨナスです|よなすです|Yonasu desu|Eu sou Jonas} pode bastar; nessa apresentação também significa Eu sou Jonas, embora eu não seja dito explicitamente.
+Jonas: Então aprendi algo errado com a forma mais longa, já que a mais curta também funciona?
+Aoki: Não, a forma longa deixa a estrutura clara; numa conversa, muitas vezes omitimos o que o contexto já esclarece, e vamos explicar isso com mais calma depois.
+Jonas: Então não devo concluir que toda conversa japonesa precisa começar com um eu dito em voz alta.
+Aoki: Exatamente, agora usamos a forma completa para entender, não como uma obrigação de repeti-la mecanicamente em toda frase.
+Jonas: Quando ouço as duas versões, o nome é o mesmo; o que muda é a informação explícita no começo.
+Aoki: Isso: {私はヨナスです|わたしはよなすです|watashi wa Yonasu desu|Eu sou Jonas|わたしわよなすです} e, na sua apresentação, {ヨナスです|よなすです|Yonasu desu|Eu sou Jonas} significam Eu sou Jonas.
+Jonas: Então a frase não precisa ter a mesma quantidade de palavras faladas que sua tradução alemã.
+Aoki: Sim, traduzimos a mensagem que se entende; não tentamos forçar uma palavra japonesa separada para cada palavra alemã.
+Jonas: Para minha apresentação, agora tenho meu nome, minha condição de estudante e minha nacionalidade como três informações possíveis.
+Aoki: E em cada caso você sabe qual informação vem depois do tema; assim consegue ouvir as diferenças, em vez de decorar três frases sem ligação.
+Jonas: Quero ser breve no começo e dizer primeiro só meu nome, antes de contar mais sobre mim.
+Aoki: Nessa situação basta a frase já explicada {ヨナスです|よなすです|Yonasu desu|Eu sou Jonas}, ou seja, Eu sou Jonas; uma apresentação curta pode ser perfeitamente clara.
+Jonas: Se a conversa chegar aos meus estudos, reconheço {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Eu sou estudante|わたしわがくせいです} como Eu sou estudante.
+Aoki: Exatamente; agora você liga a afirmação a uma situação adequada e sabe qual informação ela realmente transmite.
+Jonas: Mas na pausa juntos eu não quero apenas dizer quem sou; também quero dizer que bebo café.
+Aoki: Então precisamos de uma frase de ação: café é a bebida e beber é a ação; para isso vamos aprender um fecho diferente do usado na apresentação.
+Jonas: Então aproveito o tema que já conheço e aprendo em seguida como acrescentar uma bebida e uma ação.
+Aoki: É daí que partimos no próximo texto: vamos montar Eu bebo café por inteiro e explicar por que o verbo fica no fim.
