@@ -7,9 +7,12 @@ wenn das Deutsche nur zur Haelfte verstanden wird.
 
 ## Ordner
 
+    lektionen/index.json     Manifest. Was hier nicht steht, sieht die App nicht.
+    lektionen/vokabular.md   erlaubtes Vokabular, kumulativ je Lektion
     lektionen/de-pt/     lektion-NN.txt      deutsche Fassung
                          lektion-NN.pt.txt   portugiesische Fassung
-    prompts/             writer.md, translator.md, reviewer.md
+    prompts/             WORKFLOW.md   der Ablauf, und warum die Regeln so sind
+                         writer.md, translator.md, reviewer.md
     tools/               check.py  (Tier 1, deterministisch)
                          recap.py  (baut den Rueckblick aus alten Lektionen)
 
@@ -28,9 +31,15 @@ Fassungen zeichengenau identisch.
     python3 tools/check.py lektionen/de-pt/lektion-02.txt か \
       --pt=lektionen/de-pt/lektion-02.pt.txt
 
+## Neue Lektion schreiben
+
+Lies `prompts/WORKFLOW.md`. Dort steht der ganze Ablauf in sieben Schritten,
+und davor, was die App mit dem Text macht: sie liest ihn VOR. Fast jede Regel
+in `prompts/writer.md` folgt daraus. Wer das ueberspringt, haelt die Regeln
+fuer Geschmack und bricht sie.
+
 ## Herkunft
 
-Entwickelt und geprueft in /tmp/jptest (siehe dortiges README.md fuer den
-vollen Ablauf: Schreiben, Tier-1-Zaehlung, Tier-2-Pruefung durch ein
-Sprachmodell). Lektionen 1 und 2 sind von Hand geschrieben und durch
-gpt-5.6-luna als Pruefer gegengelesen.
+Lektionen 1 bis 5 sind von Hand geschrieben und durch ein zweites Sprachmodell
+(gpt-5.6-luna) gegengelesen. Der Ablauf, der dabei entstand, steht jetzt in
+`prompts/WORKFLOW.md`.
