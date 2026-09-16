@@ -6,7 +6,8 @@ Der Kurs beginnt neu. Die bisherigen fünf Kurzlektionen und der alte
 - [Hauptplan](hauptplan.md): die vollständige Grammatiklandkarte mit den
   ursprünglichen Nummern 1–90 und den vom Lernenden festgelegten Arbeitsregeln.
 - [Block 1 im Detail](bloecke/block-01.md): vier Klassen, aufgeteilt in neun
-  zusammenhängende Hörtexte. Die ersten drei Texte sind ausgearbeitet.
+  zusammenhängende Hörtexte. Alle neun Texte sind in Deutsch und Portugiesisch
+  ausgearbeitet; jeder Text umfasst 80 Zeilen pro Sprache.
 
 Ein **Block** ist ein nummerierter Themenbereich des Hauptplans. Eine
 **Klasse** ist eine didaktische Untereinheit. Ein **Text** ist eine separat

@@ -1,0 +1,80 @@
+Jonas: No último texto falamos de um livro no quarto. De onde veio o ein alemão, se não ouvi uma palavra japonesa própria para ele?
+Aoki: Da tradução natural em alemão e da nossa situação. Hoje vamos separar três questões: artigos, gênero gramatical e singular ou plural.
+Jonas: Vamos começar com o artigo e um objeto que a senhora segura na mão.
+Aoki: Eu levanto um único livro e digo {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}. Significa: isto é um livro. A situação deixa claro para qual objeto estou apontando.
+Jonas: Qual parte significa um livro?
+Aoki: {本|ほん|hon|livro} significa livro. A palavra não contém também um artigo indefinido. O alemão precisa de ein Buch nessa frase; o japonês constrói essa afirmação nominal sem esse tipo de artigo.
+Jonas: E isto aqui não é o artigo que falta?
+Aoki: Não. {これ|これ|kore|isto aqui} indica o objeto perto da pessoa que fala. Aqui corresponde a isto aqui e, junto com o marcador de tema, forma o tema da afirmação.
+Jonas: Então, se eu procurar cada palavra alemã separadamente, vou procurar da maneira errada.
+Aoki: Exatamente. {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです} significa, como frase inteira, isto é um livro. As duas línguas não distribuem essa informação pelo mesmo número de palavras com funções idênticas.
+Jonas: Então, em japonês, não há a mesma obrigação de escolher entre ein e der ou das?
+Aoki: Isso mesmo. Não há um sistema de artigos correspondente ao alemão. Mesmo assim, o contexto pode indicar que se trata de um objeto específico.
+Jonas: Como posso ouvir essa diferença com nosso exemplo do quarto?
+Aoki: Imagine que você abre um quarto que ainda não conhece e descobre um livro ali. {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Há um livro no quarto} significa nessa cena: há um livro no quarto.
+Jonas: O livro é mencionado aqui pela primeira vez.
+Aoki: Sim. A tradução alemã com ein Buch cabe nessa apresentação. Isso não faz o substantivo japonês receber um artigo indefinido adicional.
+Jonas: Se o livro já for conhecido, preciso de outra palavra japonesa para livro?
+Aoki: Não. A palavra {本|ほん|hon|livro} continua sendo livro. O contexto ou a organização da frase pode esclarecer a referência conhecida sem que o substantivo receba um artigo definido alemão.
+Jonas: Pode mostrar também uma frase inteira em que falamos de um livro específico e conhecido?
+Aoki: Sim. Você procura o livro que acabamos de usar. Eu digo {本は部屋にあります|ほんはへやにあります|hon wa heya ni arimasu|O livro está no quarto|ほんわへやにあります}: o livro está no quarto. Agora esse livro é explicitamente nosso tema.
+Jonas: Qual é a diferença em relação à primeira frase sobre um livro no quarto?
+Aoki: {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Há um livro no quarto} significava, na situação da descoberta, há um livro no quarto. Agora a afirmação é {本は部屋にあります|ほんはへやにあります|hon wa heya ni arimasu|O livro está no quarto|ほんわへやにあります}: o livro está no quarto, como resposta à procura do livro conhecido.
+Jonas: O que mudou além da tradução alemã?
+Aoki: Livro agora vem no início com o marcador de tema. O quarto continua ligado ao marcador de lugar de existência, e o verbo continua dizendo que algo está presente.
+Jonas: Então o marcador de sujeito depois de livro foi substituído pelo marcador de tema.
+Aoki: Exatamente, nesse padrão. Retomamos o livro conhecido como tema e dizemos onde ele está. É uma função diferente na conversa em relação a informar o que existe no quarto.
+Jonas: Por isso posso traduzir o marcador de tema como o artigo definido?
+Aoki: Não. Ele marca o tema, não a palavra alemã das. Nossas frases sobre mim já usam esse marcador, embora não haja um artigo definido alemão antes.
+Jonas: Então o novo exemplo combina conhecimentos anteriores em vez de introduzir um artigo escondido.
+Aoki: Exatamente. {本は部屋にあります|ほんはへやにあります|hon wa heya ni arimasu|O livro está no quarto|ほんわへやにあります} significa o livro está no quarto. A referência específica vem da procura desse livro e de sua apresentação como tema; a palavra livro em si não recebeu um artigo.
+Jonas: Essa é a primeira questão. O que muda quando falamos de gênero gramatical?
+Aoki: Em alemão, você aprende das Buch, der Kaffee e die Person em classes de gênero diferentes. Essa classificação em masculino, feminino e neutro é o gênero gramatical.
+Jonas: No caso do café, isso não significa que a bebida seja um homem.
+Aoki: Exatamente. Gênero gramatical não é a mesma coisa que o gênero de uma pessoa. Os substantivos japoneses não têm um sistema obrigatório correspondente a essas três classes alemãs.
+Jonas: Então, com livro, não preciso aprender uma forma japonesa adicional para neutro?
+Aoki: Isso mesmo. {本|ほん|hon|livro} continua sendo livro. Aqui nem o substantivo nem um artigo associado precisam ser adaptados à classe alemã neutro.
+Jonas: E como funciona com uma profissão como professora ou professor?
+Aoki: A palavra conhecida {先生|せんせい|sensei|professora ou professor} pode indicar uma professora ou um professor. Sabemos de qual pessoa se trata pelo nome ou pelo contexto.
+Jonas: No caso da senhora, a pessoa já está clara na conversa.
+Aoki: Sim. {青木さんは先生です|あおきさんはせんせいです|Aoki-san wa sensei desu|A senhora Aoki é professora|あおきさんわせんせいです} significa: a senhora Aoki é professora. A profissão no feminino em alemão corresponde a mim; ela não vem de uma terminação feminina da palavra japonesa para a profissão.
+Jonas: E como mostramos que a mesma palavra para a profissão também serve para um homem?
+Aoki: Imagine outra pessoa, um homem de quem já estamos falando. Sobre ele digo {先生です|せんせいです|sensei desu|Ele é professor}: ele é professor. A pessoa em questão vem dessa nova situação.
+Jonas: Com isso a senhora não está passando a dizer que é um professor?
+Aoki: Não. Nessa situação, descrevo o homem já mencionado. Como no texto sobre omissão, quem fala não é automaticamente a pessoa descrita.
+Jonas: E, sobre a senhora Aoki, eu poderia usar a mesma forma curta?
+Aoki: Sim. Quando está claro que você fala de mim, {先生です|せんせいです|sensei desu|Ela é professora} significa: ela é professora. A forma japonesa continua igual; a referência à pessoa em alemão depende de quem está sendo descrito.
+Jonas: Isso significa que o japonês não consegue expressar o gênero de uma pessoa?
+Aoki: Não. Existem palavras e descrições para isso. O que não existe aqui é o sistema alemão de gênero gramatical; isso não significa que diferenças entre pessoas sejam impossíveis de expressar.
+Jonas: E o tratamento depois do nome da senhora Nakamura também não indica gênero feminino?
+Aoki: Isso mesmo. {さん|さん|san|tratamento respeitoso após o nome} é um tratamento respeitoso depois do nome, não um artigo feminino. Senhora é nossa tradução alemã adequada para a colega conhecida, não uma tradução geral para qualquer pessoa.
+Jonas: Então chegamos à terceira questão: um livro ou vários livros.
+Aoki: Exatamente. Em geral, os substantivos japoneses não precisam distinguir singular e plural obrigatoriamente como os alemães. Por isso a palavra conhecida para livro não muda automaticamente.
+Jonas: Podemos ouvir duas situações explicitamente diferentes para isso?
+Aoki: Na primeira situação, há exatamente um livro sobre a mesa. Você informa {本があります|ほんがあります|hon ga arimasu|Há um livro}: há um livro. Sabemos que é singular pela situação descrita.
+Jonas: E na segunda situação há vários livros ali.
+Aoki: Nesse caso, a mesma forma {本があります|ほんがあります|hon ga arimasu|Há livros} pode significar: há livros. A situação fornece o plural; a palavra japonesa não recebeu uma terminação adicional de plural como em alemão.
+Jonas: A afirmação japonesa realmente soou igual nos dois casos.
+Aoki: Sim. Mudamos a situação e por isso adaptamos a tradução natural. Não aprendemos uma nova forma japonesa de plural na segunda frase.
+Jonas: Se eu ouvir só a gravação e não souber nada sobre a situação, não saberei a quantidade?
+Aoki: Exatamente. Essa forma curta, sozinha, não indica se se trata de um livro ou de vários. Muito menos permite deduzir um número exato.
+Jonas: Posso traduzir sempre como muitos, por segurança?
+Aoki: Não. A ausência de singular explícito não significa automaticamente muitos. Sem informação adicional, a quantidade permanece em aberto.
+Jonas: E, no sentido contrário, uma palavra sem mudança não significa automaticamente exatamente um.
+Aoki: Isso mesmo. A tradução alemã precisa considerar a situação conhecida. Se não houver situação conhecida, devemos explicar a indefinição em vez de inventar uma quantidade.
+Jonas: Isso também vale para palavras que designam pessoas, como estudante?
+Aoki: Sim. Na sua própria apresentação você diz {学生です|がくせいです|gakusei desu|Eu sou estudante}: eu sou estudante. A situação trata de você como uma única pessoa.
+Jonas: Como seria com um grupo que já foi mencionado na conversa?
+Aoki: Estamos falando explicitamente de um grupo de estudantes. Então {学生です|がくせいです|gakusei desu|Eles são estudantes} pode significar: eles são estudantes. O substantivo e a finalização polida permanecem iguais aos da afirmação curta sobre uma pessoa.
+Jonas: Não muda como em alemão, de bin para sind?
+Aoki: Nesse padrão japonês, não. A tradução alemã precisa de outra forma de pessoa e número; a afirmação japonesa não recebe por isso uma terminação correspondente.
+Jonas: Mesmo assim, o japonês consegue expressar uma quantidade exata de forma clara?
+Aoki: Sim. Mais adiante aprenderemos números com os contadores adequados. Também existem certas expressões de grupo e plural; geralmente não marcado não significa impossível de expressar.
+Jonas: Então não devo transformar este texto numa proibição de todas as formas de plural.
+Aoki: Exatamente. Você apenas não deve procurar automaticamente, em cada substantivo japonês, um artigo alemão, uma classe de gênero e uma terminação de plural.
+Jonas: Então o que nossa palavra para livro informa por si só?
+Aoki: Ela designa livro ou livros como tipo de objeto. Qual exemplar, quantos e qual função na frase são informações dadas pelo contexto, por indicações adicionais e pelas partículas.
+Jonas: No caso do café, também não posso deduzir pela palavra da bebida um número específico de xícaras.
+Aoki: Exatamente. {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます} significa eu bebo café. A frase não menciona nem uma xícara nem várias; uma quantidade exata seria informação adicional.
+Jonas: E os substantivos sem mudança ainda não dizem quão polidamente estou falando.
+Aoki: Exatamente. Por isso, no último texto deste bloco vamos ouvir como as afirmações conhecidas soam no estilo polido e como reconhecer algumas formas informais.

@@ -1,0 +1,80 @@
+Jonas: Wenn Frau Nakamura schon unser Thema ist, muss ihr Name nicht immer wiederkommen. Aber wie verstehe ich dann, wer trinkt?
+Aoki: Du verbindest die gesprochenen Wörter mit der Situation. Heute vergleichen wir dieselben kurzen Sätze in klaren und in unklaren Zusammenhängen.
+Jonas: Beginnen wir mit mir, damit die gemeinte Person eindeutig ist.
+Aoki: Ich frage dich auf Deutsch, was du in der Büropause trinken möchtest. Du antwortest {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます}. Das bedeutet hier: Ich trinke Tee.
+Jonas: Ist das trotz der Frage nach meinem Wunsch eine passende Antwort?
+Aoki: Ja. Du nennst damit deine Wahl für diese Pause. Die Verbform selbst bedeutet nicht wünschen; die Frage macht klar, dass du eine Wahl mitteilst.
+Jonas: Und wie klingt die kürzere Antwort?
+Aoki: {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ich trinke Tee|おちゃおのみます} bedeutet in dieser Situation ebenfalls: Ich trinke Tee. Du musst ich als Thema nicht noch einmal ausdrücklich nennen.
+Jonas: Was genau ist aus dem langen Satz verschwunden?
+Aoki: Die ganze Einheit aus {私|わたし|watashi|ich}, also ich, und dem Themenmarker {は|は|wa|Themenmarker|わ}. Das Getränk, sein Objektmarker und die höfliche Verbform bleiben erhalten.
+Jonas: Also darf ich nicht nur ich löschen und den Themenmarker stehen lassen.
+Aoki: Genau. Der Themenmarker gehört hier zur genannten Person. Wird diese ganze Einheit nicht ausgesprochen, bleibt er nicht allein vor dem Getränk übrig.
+Jonas: Können Sie beide vollständigen Fassungen direkt gegenüberstellen?
+Aoki: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます} heißt Ich trinke Tee, mit ausdrücklich genanntem ich. Die kürzere Fassung {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ich trinke Tee|おちゃおのみます} heißt in unserer Situation ebenfalls Ich trinke Tee.
+Jonas: Aber in der kürzeren Fassung höre ich gar kein Wort für ich.
+Aoki: Richtig. Das deutsche ich kommt in der Übersetzung aus dem Zusammenhang. Es ist kein verstecktes Wort innerhalb des japanischen Verbs.
+Jonas: Zeigt dann vielleicht die Verbendung an, dass ich gemeint bin?
+Aoki: Nein. {飲みます|のみます|nomimasu|trinken, höfliche Form} ist dieselbe höfliche Form bei dir und bei Frau Nakamura. Sie verrät nicht durch eine besondere Personenendung, wer trinkt.
+Jonas: Ich möchte erst das Getränk wechseln, bevor wir die Person wechseln.
+Aoki: Du hast {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ich trinke Tee|おちゃおのみます} gesagt, also Ich trinke Tee. Wählst du Wasser, lautet die ganze kürzere Antwort {水を飲みます|みずをのみます|mizu o nomimasu|Ich trinke Wasser|みずおのみます}: Ich trinke Wasser.
+Jonas: Die Person bleibt durch Ihre Frage klar, obwohl sich das Getränk verändert.
+Aoki: Ja. Geändert wurde Tee zu Wasser. Der Objektmarker und das Verb bleiben gleich, und wir sprechen weiterhin über deine Getränkewahl.
+Jonas: Und bei Kaffee gilt dasselbe?
+Aoki: {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Ich trinke Kaffee|こーひーおのみます} bedeutet als deine Antwort: Ich trinke Kaffee. Wieder kommt ich aus der Situation; Kaffee ist jetzt das ausdrücklich genannte Getränk.
+Jonas: Wann brauche ich den ausführlichen Satz trotzdem?
+Aoki: Wenn die Person sonst unklar wäre oder du dich ausdrücklich zum Thema machen möchtest. {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます} heißt Ich trinke Kaffee und nennt dich dafür ausdrücklich.
+Jonas: Nun können wir zu Frau Nakamura wechseln.
+Aoki: Stell dir vor, wir besprechen nur ihre Getränkewahl. Ich frage auf Deutsch: Was trinkt Frau Nakamura normalerweise in der Pause?
+Jonas: Die lange Antwort kenne ich.
+Aoki: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます} bedeutet: Frau Nakamura trinkt Tee. Ihr Name legt eindeutig fest, über wen du etwas sagst.
+Jonas: Wie hört sich jetzt die kurze Antwort an?
+Aoki: {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Sie trinkt Tee|おちゃおのみます} bedeutet in dieser Situation: Sie trinkt Tee. Frau Nakamura wurde schon in meiner Frage genannt, deshalb kannst du ihren Namen weglassen.
+Jonas: Das klingt genau wie meine eigene kurze Teeantwort.
+Aoki: Es ist dieselbe japanische Form. Vorhin bezog sich die Frage auf dich; jetzt bezieht sie sich auf Frau Nakamura. Deshalb wechselt die natürliche deutsche Übersetzung von ich zu sie.
+Jonas: Dann bedeutet der kurze Satz nicht automatisch Ich trinke Tee.
+Aoki: Genau. Er nennt Tee und trinken, aber keine Person ausdrücklich. Wer gemeint ist, muss aus dem Gespräch oder der Situation hervorgehen.
+Jonas: Würde das auch funktionieren, wenn wir gerade über Sie sprechen?
+Aoki: Ja. Du erzählst jemandem ausdrücklich von Frau Aoki und ihrer Getränkewahl. Dann kann {水を飲みます|みずをのみます|mizu o nomimasu|Sie trinkt Wasser|みずおのみます} in diesem Zusammenhang bedeuten: Sie trinkt Wasser.
+Jonas: Und wenn ich Ihnen selbst auf die Getränkefrage antworte?
+Aoki: Dieselbe Form {水を飲みます|みずをのみます|mizu o nomimasu|Ich trinke Wasser|みずおのみます} bedeutet als deine eigene Antwort: Ich trinke Wasser. Die Wörter allein entscheiden nicht zwischen diesen beiden Personen.
+Jonas: Wie verhindern wir, dass ich die Person falsch errate?
+Aoki: Wir betrachten einen unsicheren Fall: Im Büro stehen du, Frau Nakamura und ich. Es gab noch keine Frage und kein eindeutiges Gesprächsthema.
+Jonas: Wenn ich jetzt nur sage, dass Tee getrunken wird, weiß niemand sicher, von wem ich rede.
+Aoki: Genau. Die kurze Form ist nicht automatisch falsch, aber ohne weitere Hinweise kann sie mehrdeutig sein. Dann ist eine ausdrücklich genannte Person hilfreich.
+Jonas: Für meine eigene Wahl nehme ich also wieder den langen Satz.
+Aoki: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます} bedeutet Ich trinke Tee. Damit setzt du dich ausdrücklich als Thema und lässt die Zuhörer nicht zwischen drei Personen raten.
+Jonas: Und um Frau Nakamuras Wahl zu nennen?
+Aoki: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます} bedeutet Frau Nakamura trinkt Tee. Nun wurde statt deiner Person die Kollegin ausdrücklich genannt; das Getränk und das Verb bleiben unverändert.
+Jonas: Was passiert, wenn wir zuerst über Frau Nakamura sprechen und dann über Sie?
+Aoki: Wir beginnen mit {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます}: Frau Nakamura trinkt Tee. Wenn du danach meine Wasserwahl mitteilen möchtest, muss der Wechsel zu mir verständlich werden.
+Jonas: Reicht dann die kurze Wasserantwort allein?
+Aoki: Nicht zuverlässig. Ohne weiteren Hinweis könnten die Zuhörer weiterhin Frau Nakamura als gemeinte Person verstehen und denken, du korrigierst ihre Getränkewahl.
+Jonas: Wie mache ich den Personenwechsel eindeutig?
+Aoki: {青木さんは水を飲みます|あおきさんはみずをのみます|Aoki-san wa mizu o nomimasu|Frau Aoki trinkt Wasser|あおきさんわみずおのみます} bedeutet: Frau Aoki trinkt Wasser. Du nennst meinen Namen mit dem Themenmarker und gibst dann die neue Information über mich.
+Jonas: Also ändern sich hier sowohl die Person als auch das Getränk.
+Aoki: Ja. Erst Frau Nakamura und Tee, danach Frau Aoki und Wasser. Die vollständige zweite Aussage macht beide Änderungen hörbar, statt einen stillen Personenwechsel zu verlangen.
+Jonas: Muss ich anschließend Ihren Namen in jedem Satz wiederholen?
+Aoki: Nein. Sobald ich eindeutig das Gesprächsthema bin, können folgende passende Aussagen ohne meinen Namen auskommen. Wichtig ist die Klarheit, nicht eine feste Wiederholungszahl.
+Jonas: Ist die kürzere Form weniger höflich?
+Aoki: Nicht allein wegen der ausgelassenen Person. In unseren Beispielen bleibt {飲みます|のみます|nomimasu|trinken, höfliche Form} die höfliche Verbform; wir haben die Höflichkeitsform nicht entfernt.
+Jonas: Können auch Aussagen ohne Handlung kürzer sein?
+Aoki: Ja. Wenn du dich vorstellst und dein Studium erwähnst, kannst du {学生です|がくせいです|gakusei desu|Ich bin Student} sagen. Das bedeutet in deiner Selbstvorstellung: Ich bin Student.
+Jonas: Fehlt dort wieder die ausdrücklich genannte Person?
+Aoki: Ja. Die Situation liefert dich als gemeinte Person. Der höfliche Abschluss bleibt vorhanden; es wurde nicht einfach das Ende des Satzes abgeschnitten.
+Jonas: Dann ist Auslassen keine beliebige Methode, möglichst wenige Wörter zu sagen.
+Aoki: Genau. Wir lassen hier verständliche Informationen unausgesprochen. Wenn dadurch unklar wird, über wen gesprochen wird, nennen wir die Person lieber wieder.
+Jonas: Muss ich beim Zuhören gedanklich immer den langen japanischen Satz ergänzen?
+Aoki: Nein. Du kannst die Aussage unmittelbar mit der Situation verbinden. Die langen Fassungen helfen beim Lernen, aber ein normaler kurzer Satz ist kein kaputter Satz.
+Jonas: Was bleibt im kurzen Teesatz ausdrücklich erhalten?
+Aoki: Das Getränk mit seinem Objektmarker und das Verb: {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ich trinke Tee|おちゃおのみます} heißt als deine eigene Getränkewahl Ich trinke Tee. Nur die Person wird hier aus dem Kontext verstanden.
+Jonas: Der Objektmarker darf also nicht weg, nur weil die Person schon klar ist.
+Aoki: Für unsere heutigen vollständigen Muster behalten wir ihn. Das Weglassen der Person ist eine andere Frage als das Weglassen einzelner Partikeln in lockerer Alltagssprache.
+Jonas: Was ist, wenn eine längere Pause oder ein ganz anderes Gespräch dazwischenliegt?
+Aoki: Dann ist das frühere Thema vielleicht nicht mehr eindeutig. Wenn du wieder Frau Nakamura meinst, schafft {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます} Klarheit: Frau Nakamura trinkt Tee.
+Jonas: Und wenn ich mich beim Zuhören trotzdem zwischen zwei Personen nicht entscheiden kann?
+Aoki: Dann fehlt dir möglicherweise wirklich Information. Du musst keine besondere Verbendung finden, die es hier nicht gibt. Auch Gesprächspartner können nachfragen, wer gemeint ist.
+Jonas: Macht es einen Unterschied, ob der Sprecher wechselt?
+Aoki: Der Sprecherwechsel allein legt die gemeinte Person nicht neu fest. Wenn du mich etwas über Frau Nakamura fragst und ich antworte, kann sie weiterhin die ungenannte Person sein.
+Jonas: Ich höre jetzt genauer, welche Information gesprochen wird und welche schon bekannt ist.
+Aoki: Als Nächstes betrachten wir die kleinen Marker an den ausgesprochenen Wörtern: Sie helfen dir, Thema, Subjekt und Objekt im ganzen Satz auseinanderzuhalten.

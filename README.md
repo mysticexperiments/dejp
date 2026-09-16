@@ -20,9 +20,17 @@ Die neue Reihe ersetzt die fünf alten Kurzlektionen. Aktuell ausgearbeitet:
 | B01-T01 | Erst das Thema, dann die Aussage | [Deutsch](lektionen/de-pt/block-01-text-01.txt) / [Português](lektionen/de-pt/block-01-text-01.pt.txt) |
 | B01-T02 | Was ich trinke — die Handlung am Ende | [Deutsch](lektionen/de-pt/block-01-text-02.txt) / [Português](lektionen/de-pt/block-01-text-02.pt.txt) |
 | B01-T03 | Eine andere Person, derselbe Satzbau | [Deutsch](lektionen/de-pt/block-01-text-03.txt) / [Português](lektionen/de-pt/block-01-text-03.pt.txt) |
+| B01-T04 | Thema und Subjekt auseinanderhalten | [Deutsch](lektionen/de-pt/block-01-text-04.txt) / [Português](lektionen/de-pt/block-01-text-04.pt.txt) |
+| B01-T05 | Was aus dem Zusammenhang klar ist | [Deutsch](lektionen/de-pt/block-01-text-05.txt) / [Português](lektionen/de-pt/block-01-text-05.pt.txt) |
+| B01-T06 | Partikeln als Rollenmarker | [Deutsch](lektionen/de-pt/block-01-text-06.txt) / [Português](lektionen/de-pt/block-01-text-06.pt.txt) |
+| B01-T07 | Existenzort und Handlungsort | [Deutsch](lektionen/de-pt/block-01-text-07.txt) / [Português](lektionen/de-pt/block-01-text-07.pt.txt) |
+| B01-T08 | Artikel, Genus und Zahl | [Deutsch](lektionen/de-pt/block-01-text-08.txt) / [Português](lektionen/de-pt/block-01-text-08.pt.txt) |
+| B01-T09 | Höflicher und schlichter Stil | [Deutsch](lektionen/de-pt/block-01-text-09.txt) / [Português](lektionen/de-pt/block-01-text-09.pt.txt) |
 
-Jede Fassung hat 80 Zeilen. Die drei Texte bilden zusammen Klasse 1 des
-ersten Blocks. B01-T04 bis B01-T09 sind geplant, noch nicht geschrieben.
+Block 1 ist vollständig ausgearbeitet: neun Texte in vier Klassen, jeweils
+80 deutsche und 80 portugiesische Dialogzeilen. Das sind 720 Zeilen je
+Sprache. Die ersten drei Texte bleiben unverändert; T04–T09 führen ihre
+Beispiele und Begriffe weiter. Weitere Blöcke sind noch nicht ausgearbeitet.
 
 ## Hören und Dateiformat
 
@@ -52,7 +60,10 @@ python3 -B -m unittest discover -s tests
 
 Die Prüfung kontrolliert Format, Länge, Tagstruktur und Parallelität.
 Sie beweist weder sprachliche Richtigkeit noch Lernerfolg.
-[Prüfbericht zur ersten Lieferung](planung/pruefung-block-01-texte-01-03.md).
+[Prüfbericht zur ersten Lieferung](planung/pruefung-block-01-texte-01-03.md)
+und [Prüfbericht zur Vervollständigung](planung/pruefung-block-01-texte-04-09.md).
+Struktur und erzeugte Sprachsegmente sind geprüft; eine reale Hörprobe auf
+dem Zielgerät und eine unabhängige sprachliche Abnahme stehen noch aus.
 
 ## Veröffentlichung
 

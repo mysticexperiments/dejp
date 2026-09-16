@@ -1,0 +1,80 @@
+Jonas: Im kurzen Satz fehlt manchmal die Person. Aber die kleinen Wörter hinter Tee oder Kaffee bleiben in unseren Beispielen stehen.
+Aoki: Ja. Diese kleinen Wörter heißen Partikeln. Sie zeigen unter anderem, welche Aufgabe die Wörter davor im Satz haben.
+Jonas: Was bedeutet davor genau? Ich höre ja keine geschriebenen Abstände.
+Aoki: Höre zuerst {お茶|おちゃ|ocha|Tee}, also Tee, und danach {を|を|o|Objektmarker|お}, den Objektmarker. Zusammen markieren sie in unserem Trinksatz das Getränk als Objekt.
+Jonas: Der Marker erklärt also nicht das Wort, das als Nächstes kommt.
+Aoki: In diesem Muster gehört er zum Ausdruck vor ihm. Bei {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ich trinke Tee|おちゃおのみます}, als deine Antwort Ich trinke Tee, gehört der Objektmarker zu Tee, nicht zum folgenden Verb.
+Jonas: Warum sagen Sie Ausdruck und nicht einfach immer ein einzelnes Wort?
+Aoki: Weil zum Beispiel Frau Nakamura aus einem Namen und dem höflichen Namenszusatz besteht. Eine Partikel kann diese ganze Personenbezeichnung markieren.
+Jonas: Können wir dafür einen vollständigen Satz hören?
+Aoki: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます} heißt: Frau Nakamura trinkt Tee. Der Themenmarker gehört zur vollständigen Personenbezeichnung; der Objektmarker gehört zum Tee.
+Jonas: Und der Zusatz nach ihrem Namen ist selbst kein Themenmarker?
+Aoki: Richtig. {さん|さん|san|höflicher Namenszusatz} ist der höfliche Namenszusatz. Erst {は|は|wa|Themenmarker|わ} markiert Frau Nakamura als Thema. Diese beiden kleinen Teile haben unterschiedliche Aufgaben.
+Jonas: Im Deutschen erkenne ich solche Beziehungen teilweise an der Reihenfolge.
+Aoki: Ja. Im Japanischen helfen dir besonders die Partikeln. Trotzdem werfen wir die Wörter nicht beliebig durcheinander; wir lernen zuerst unsere klaren vollständigen Muster.
+Jonas: Wie höre ich das bekannte Muster über mich?
+Aoki: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます} bedeutet Ich trinke Kaffee. Ich ist das Thema, Kaffee das direkte Objekt, und die höfliche Verbform steht am Ende.
+Jonas: Was ist das direkte Objekt hier in einfachen Worten?
+Aoki: Es ist das, was du trinkst: der Kaffee. Wir benennen damit eine Beziehung zur Handlung, nicht bloß eine Kategorie wie Sache statt Mensch.
+Jonas: Kann ich deshalb jedes Getränk einfach mit demselben Marker einsetzen?
+Aoki: In unseren Sätzen mit trinken, ja. Aus {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}, Ich trinke Kaffee, wird mit Wasser {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Ich trinke Wasser|わたしわみずおのみます}: Ich trinke Wasser.
+Jonas: Was ist dabei gleich geblieben?
+Aoki: Du bist weiterhin das Thema und die trinkende Person. Wasser übernimmt die Objektstelle von Kaffee; der Objektmarker und die höfliche Verbform bleiben erhalten.
+Jonas: Jetzt fehlt mir noch die Aufgabe des Subjektmarkers in einer normalen Antwort.
+Aoki: Stell dir vor, in der Pause wird Tee angeboten. Ich frage auf Deutsch: Wer trinkt Tee? Die offene Information ist die Person.
+Jonas: Und ich weiß, dass Frau Nakamura den Tee nimmt.
+Aoki: Dann sagst du {中村さんがお茶を飲みます|なかむらさんがおちゃをのみます|Nakamura-san ga ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんがおちゃおのみます}. Das bedeutet: Frau Nakamura trinkt Tee. Mit dem Subjektmarker benennst du hier die gesuchte Person.
+Jonas: Also steht nach ihrem Namen jetzt ein anderer Marker.
+Aoki: Ja, jetzt steht dort {が|が|ga|Subjektmarker}. Er markiert Frau Nakamura als Subjekt. In diesem Handlungssatz ist sie die Person, die trinkt.
+Jonas: Wie unterscheidet sich das von unserem alten Satz über sie?
+Aoki: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます} heißt ebenfalls Frau Nakamura trinkt Tee. Dort machen wir sie zum Thema und erzählen etwas über ihre Getränkewahl.
+Jonas: Die deutsche Übersetzung allein zeigt den Unterschied also nicht immer.
+Aoki: Genau. Deshalb gehören die Situationen dazu: Was trinkt Frau Nakamura? führt uns zu einer Aussage über sie. Wer trinkt Tee? sucht die trinkende Person.
+Jonas: Können Sie die Antwort auf die Personenfrage noch einmal vollständig sagen?
+Aoki: {中村さんがお茶を飲みます|なかむらさんがおちゃをのみます|Nakamura-san ga ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんがおちゃおのみます} bedeutet Frau Nakamura trinkt Tee. Der Subjektmarker hebt sie in dieser Antwort als die gesuchte Person hervor; Tee bleibt das Objekt.
+Jonas: Heißt dieser Marker dann immer nur diese Person und niemand sonst?
+Aoki: Nein. Unsere Antwort identifiziert eine Person, aber der Marker ist kein Wort für nur. Ob andere ausgeschlossen werden, hängt von der Aussage und vom Gespräch ab.
+Jonas: Was passiert bei der Frage, wer Wasser trinkt?
+Aoki: Angenommen, ich nehme Wasser. Du antwortest {青木さんが水を飲みます|あおきさんがみずをのみます|Aoki-san ga mizu o nomimasu|Frau Aoki trinkt Wasser|あおきさんがみずおのみます}: Frau Aoki trinkt Wasser. Jetzt benennt der Subjektmarker mich als die gesuchte Person.
+Jonas: Da haben wir die Person und das Getränk gleichzeitig gewechselt.
+Aoki: Ja. Frau Nakamura und Tee wurden zu Frau Aoki und Wasser. Das Muster bleibt: Person mit Subjektmarker, Getränk mit Objektmarker, höfliches Verb am Ende.
+Jonas: Können wir auch nur die Person ändern und Kaffee beibehalten?
+Aoki: Wir beginnen mit der Frage, wer Kaffee trinkt. Deine Antwort über dich lautet {私がコーヒーを飲みます|わたしがこーひーをのみます|watashi ga koohii o nomimasu|Ich trinke Kaffee|わたしがこーひーおのみます}: Ich trinke Kaffee.
+Jonas: Und wenn Frau Nakamura statt meiner Person die Antwort ist?
+Aoki: Dann lautet der ganze Satz {中村さんがコーヒーを飲みます|なかむらさんがこーひーをのみます|Nakamura-san ga koohii o nomimasu|Frau Nakamura trinkt Kaffee|なかむらさんがこーひーおのみます}: Frau Nakamura trinkt Kaffee. Nur die Personenbezeichnung wurde ersetzt; die Marker und das Getränk bleiben gleich.
+Jonas: Warum nehmen wir dabei nicht automatisch den Themenmarker nach dem Namen?
+Aoki: Weil wir hier weiterhin die Frage nach der Person beantworten. Ein Name entscheidet nicht selbst, welcher Marker passt; seine Aufgabe in der Aussage ist wichtig.
+Jonas: Kann derselbe Name also in verschiedenen Aufgaben vorkommen?
+Aoki: Ja. Bei {中村さんはコーヒーを飲みます|なかむらさんはこーひーをのみます|Nakamura-san wa koohii o nomimasu|Frau Nakamura trinkt Kaffee|なかむらさんわこーひーおのみます}, Frau Nakamura trinkt Kaffee, sprechen wir über ihre Getränkewahl. Bei {中村さんがコーヒーを飲みます|なかむらさんがこーひーをのみます|Nakamura-san ga koohii o nomimasu|Frau Nakamura trinkt Kaffee|なかむらさんがこーひーおのみます}, ebenfalls Frau Nakamura trinkt Kaffee, identifizieren wir die gesuchte Person.
+Jonas: Wäre bekannt gegen neu eine einfache Regel dafür?
+Aoki: Als allgemeine Austauschregel wäre das zu grob. Wir kennen Frau Nakamura längst und können ihren Namen trotzdem als Antwort auf Wer? mit dem Subjektmarker verwenden.
+Jonas: Es geht also nicht darum, ob ich diese Person schon einmal getroffen habe.
+Aoki: Richtig. Hier geht es darum, welche Information im aktuellen Gespräch gebraucht wird. Der Unterschied lässt sich nicht auf bekannte Menschen gegen unbekannte Menschen reduzieren.
+Jonas: Wie passen Thema und Subjektmarker gemeinsam in unseren Kaffeesatz?
+Aoki: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます} bedeutet Den Kaffee trinke ich. Kaffee ist mit dem Themenmarker aufgegriffen; ich ist mit dem Subjektmarker als trinkende Person genannt.
+Jonas: Dort steht hinter Kaffee kein Objektmarker mehr.
+Aoki: Genau. In diesem Muster übernimmt der Themenmarker seine Stelle. Inhaltlich bleibt Kaffee das Getränk, das getrunken wird; die Handlung hat sich nicht umgedreht.
+Jonas: Kann ich deshalb Partikeln nicht einfach durch einzelne deutsche Wörter ersetzen?
+Aoki: Genau. Der Objektmarker wird im Deutschen meist nicht durch ein zusätzliches Wort gesprochen. Die Übersetzung Ich trinke Kaffee drückt die Beziehung auf deutsche Weise aus.
+Jonas: Und beim Thema hilft was betrifft, ohne jedes Mal ausgesprochen werden zu müssen.
+Aoki: Ja. Wir verwenden solche Formulierungen zum Erklären. Die natürliche Übersetzung und die Erklärung der japanischen Struktur sind zwei verschiedene Aufgaben.
+Jonas: Könnte ich die kleinen Marker beim Zuhören einfach ignorieren und nur die Nomen lernen?
+Aoki: Dann würdest du wichtige Beziehungen verlieren. Kaffee, ich und trinken verraten ohne Satzbau weniger darüber, was als Thema gesetzt und welche Person hervorgehoben wird.
+Jonas: Aber ich muss noch nicht jede mögliche Verwendung kennen.
+Aoki: Nein. Heute erkennst du drei Aufgaben an konkreten Beispielen: Thema aufgreifen, Subjekt benennen und das Getränk als direktes Objekt markieren.
+Jonas: Was soll ich bei einem längeren Satz zuerst zusammendenken?
+Aoki: Das genannte Wort mit seinem folgenden Marker. Danach verbindest du diese Einheiten mit der Aussage am Ende und mit dem Gesprächszusammenhang.
+Jonas: Kann ich bei einer kurzen Antwort trotzdem einen klaren Objektmarker hören?
+Aoki: Ja. {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Ich trinke Kaffee|こーひーおのみます} bedeutet bei deiner Getränkewahl Ich trinke Kaffee. Die Person ist nicht ausgesprochen, aber Kaffee bleibt ausdrücklich als Objekt markiert.
+Jonas: Also verschwindet nicht die ganze Satzstruktur, wenn die Person fehlt.
+Aoki: Genau. Wir unterscheiden ausgesprochene Beziehungen und ergänzbare Information. Das Verb und das markierte Getränk bilden weiterhin eine verständliche Aussage im passenden Kontext.
+Jonas: Kann das Thema auch weiterhin ein Ding sein, das gar nicht getrunken wird?
+Aoki: Ja. {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです} bedeutet Das ist ein Buch. Der Themenmarker folgt hier dies hier; Buch ist die Information, die wir diesem Thema zuordnen.
+Jonas: Warum steht dann nicht automatisch der Objektmarker hinter Buch?
+Aoki: Weil ein Gegenstand nicht automatisch ein direktes Objekt ist. Dieser Satz beschreibt, was etwas ist. Er enthält keine Handlung wie trinken mit einem getrunkenen Objekt.
+Jonas: Die Wörter Sache und Objekt meinen also nicht dasselbe.
+Aoki: Richtig. Sache beschreibt etwas in der Welt. Direktes Objekt beschreibt eine grammatische Beziehung innerhalb eines bestimmten Satzes. Unser Kaffee ist beim Trinken ein Beispiel dafür.
+Jonas: Dann sollte ich beim nächsten neuen Satz zuerst verstehen, was ausgesagt wird.
+Aoki: Ja. Die Marker helfen dir dabei, aber ihre Funktion wird erst zusammen mit den Wörtern und dem Satzabschluss klar. Wir lernen sie deshalb nie nur als isolierte Übersetzungsliste.
+Jonas: Haben wir damit schon alle Partikeln behandelt, die ich am Anfang brauche?
+Aoki: Noch nicht. Uns fehlt zum Beispiel ein Ort: Wo gibt es etwas, und wo tut jemand etwas? Dafür lernen wir als Nächstes zwei weitere Marker in vollständigen Sätzen.

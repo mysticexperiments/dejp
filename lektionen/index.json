@@ -42,6 +42,80 @@
       "particles": [
         "は"
       ]
+    },
+    {
+      "id": "block-01-text-04",
+      "number": 4,
+      "grammar": "Thema und Subjekt",
+      "title": "1.4 — Worüber wir reden und wer etwas tut",
+      "titlePt": "1.4 — De que falamos e quem faz alguma coisa",
+      "de": "lektionen/de-pt/block-01-text-04.txt",
+      "pt": "lektionen/de-pt/block-01-text-04.pt.txt",
+      "particles": [
+        "は",
+        "が",
+        "を"
+      ]
+    },
+    {
+      "id": "block-01-text-05",
+      "number": 5,
+      "grammar": "Kontext und Auslassung",
+      "title": "1.5 — Was aus dem Zusammenhang klar ist",
+      "titlePt": "1.5 — O que fica claro pelo contexto",
+      "de": "lektionen/de-pt/block-01-text-05.txt",
+      "pt": "lektionen/de-pt/block-01-text-05.pt.txt",
+      "particles": [
+        "は"
+      ]
+    },
+    {
+      "id": "block-01-text-06",
+      "number": 6,
+      "grammar": "Partikeln als Rollenmarker",
+      "title": "1.6 — Kleine Wörter hinter großen Informationen",
+      "titlePt": "1.6 — Pequenas palavras que indicam relações",
+      "de": "lektionen/de-pt/block-01-text-06.txt",
+      "pt": "lektionen/de-pt/block-01-text-06.pt.txt",
+      "particles": [
+        "は",
+        "が",
+        "を"
+      ]
+    },
+    {
+      "id": "block-01-text-07",
+      "number": 7,
+      "grammar": "Existenzort und Handlungsort",
+      "title": "1.7 — Wo etwas ist und wo etwas geschieht",
+      "titlePt": "1.7 — Onde algo está e onde algo acontece",
+      "de": "lektionen/de-pt/block-01-text-07.txt",
+      "pt": "lektionen/de-pt/block-01-text-07.pt.txt",
+      "particles": [
+        "に",
+        "で",
+        "が"
+      ]
+    },
+    {
+      "id": "block-01-text-08",
+      "number": 8,
+      "grammar": "Artikel, Genus und Zahl",
+      "title": "1.8 — Ohne Artikel, Genus und Pflichtplural",
+      "titlePt": "1.8 — Sem artigos, gênero gramatical e plural obrigatório",
+      "de": "lektionen/de-pt/block-01-text-08.txt",
+      "pt": "lektionen/de-pt/block-01-text-08.pt.txt",
+      "particles": []
+    },
+    {
+      "id": "block-01-text-09",
+      "number": 9,
+      "grammar": "Höflicher und schlichter Stil",
+      "title": "1.9 — Höflich sprechen, lockere Sprache erkennen",
+      "titlePt": "1.9 — Falar de forma polida e reconhecer a linguagem informal",
+      "de": "lektionen/de-pt/block-01-text-09.txt",
+      "pt": "lektionen/de-pt/block-01-text-09.pt.txt",
+      "particles": []
     }
   ]
 }

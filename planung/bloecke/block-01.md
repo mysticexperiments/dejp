@@ -42,12 +42,17 @@ und keine tatsächlich erledigte Hausaufgabe erfunden.
 | 1: Satzbau | B01-T01 | Sich beschreiben | Thema und Aussage mit です | ausgearbeitet |
 | 1: Satzbau | B01-T02 | Eine Handlung ausdrücken | Thema, Objekt, Verb; Verb am Ende | ausgearbeitet |
 | 1: Satzbau | B01-T03 | Über eine andere Person sprechen | vollständiger Austausch des Themas; Verb bleibt gleich | ausgearbeitet |
-| 2: Kontext | B01-T04 | Thema und Subjekt auseinanderhalten | worüber gesprochen wird gegenüber wer handelt | geplant |
-| 2: Kontext | B01-T05 | Bekanntes nicht wiederholen | Auslassung nur bei verständlichem Bezug | geplant |
-| 3: Partikeln | B01-T06 | Rollen nach dem Wort markieren | は, が und を in begrenzten Beispielen | geplant |
-| 3: Partikeln | B01-T07 | Orte richtig zuordnen | Existenzort mit に gegenüber Handlungsort mit で | geplant |
-| 4: Unterschiede/Stil | B01-T08 | Nomen ohne europäische Pflichtmarkierungen | Artikel, Genus, Zahl aus Kontext | geplant |
-| 4: Unterschiede/Stil | B01-T09 | Höfliche Aussagen erkennen | Nominal- und Verbsatz; lockere Formen nur erkennen | geplant |
+| 2: Kontext | B01-T04 | Thema und Subjekt auseinanderhalten | worüber gesprochen wird gegenüber wer handelt | ausgearbeitet |
+| 2: Kontext | B01-T05 | Bekanntes nicht wiederholen | Auslassung nur bei verständlichem Bezug | ausgearbeitet |
+| 3: Partikeln | B01-T06 | Rollen nach dem Wort markieren | は, が und を in begrenzten Beispielen | ausgearbeitet |
+| 3: Partikeln | B01-T07 | Orte richtig zuordnen | Existenzort mit に gegenüber Handlungsort mit で | ausgearbeitet |
+| 4: Unterschiede/Stil | B01-T08 | Nomen ohne europäische Pflichtmarkierungen | Artikel, Genus, Zahl aus Kontext | ausgearbeitet |
+| 4: Unterschiede/Stil | B01-T09 | Höfliche Aussagen erkennen | Nominal- und Verbsatz; lockere Formen nur erkennen | ausgearbeitet |
+
+Alle neun Texte sind geschrieben und im Manifest eingetragen. Die Lieferung
+T04–T09 und ihre Prüfgrenzen sind im [Prüfbericht](../pruefung-block-01-texte-04-09.md)
+festgehalten. „Ausgearbeitet“ bedeutet nicht, dass Geräteklang oder Lernerfolg
+bereits erprobt wären.
 
 Es werden keine zusätzlichen Wiederholungstexte eingeschoben. Die späteren
 Texte verwenden Bekanntes für eine neue Einsicht.
@@ -200,7 +205,9 @@ werden, ohne dass der Lernende den neuen Satz selbst erraten muss.
   bewusste Vorschaugebrauch wird in T06 ausgebaut, nicht als vollständige
   は/が-Lehre behandelt.
 - Jonas formuliert sein Missverständnis; Aoki erklärt es anhand des Beispiels.
-- **Aufgeschoben:** Kontrast, exhaustive Identifikation und vollständiger は/が-Vergleich.
+- **Aufgeschoben:** systematische Kontrastlehre, exhaustive Identifikation und
+  vollständiger は/が-Vergleich. T04 grenzt lediglich ab, dass nicht jedes
+  Thema zwingend als Gegensatz übersetzt werden muss.
 - **Ausgangs- und Ergebnissatz:** 私はコーヒーを飲みます — Ich trinke Kaffee,
   mit Jonas als Thema; dann コーヒーは私が飲みます im ausdrücklich anderen
   Gespräch über den übrig gebliebenen Kaffee. Nicht als beliebige Umstellung
@@ -280,6 +287,10 @@ werden, ohne dass der Lernende den neuen Satz selbst erraten muss.
   dem Tisch: 本があります — Es gibt Bücher. Dieselbe Nomenform trägt
   nicht von sich aus die deutsche Artikel- und Pluralendung. Die zweite
   Übersetzung folgt aus der Szene, nicht aus einer behaupteten Pluralform.
+- **Bekannter Bezug ohne Artikel:** 部屋に本があります in einer Entdeckungsszene
+  mit 本は部屋にあります bei der Suche nach dem bereits bekannten Buch
+  vergleichen. Umstellung und Wechsel von が zu は erklären; は ist trotzdem
+  kein bestimmter Artikel. Dafür werden nur bereits eingeführte Bausteine kombiniert.
 - **Genus:** Bei 本 kein zusätzliches Wort für das deutsche das suchen.
   Mit dem bekannten 先生 über eine Lehrerin oder einen Lehrer sprechen;
   die Personen unterscheiden, ohne eine deutsche Genusklasse auf jedes

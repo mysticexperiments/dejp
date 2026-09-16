@@ -74,12 +74,128 @@ Kenntnisgrenze: Person wechseln, vollständiges Ergebnis verstehen, dieselbe
 Verbform bei unterschiedlichen Personen. Keine Behauptung, Verben würden
 sich bei Zeit/Verneinung ebenfalls nicht verändern.
 
-## Noch nicht voraussetzen
+## B01-T04 — Thema und Subjekt unterscheiden
 
-が, に, で, Frageformen, Negation, Vergangenheit, Verbgruppen, Zählwörter,
-Adjektivformen und systematische lockere Formen sind noch nicht unterrichtet.
-Die Gespräche erwähnen einige dieser späteren Aufgaben auf Deutsch, lehren
-aber noch keine japanischen Formen dafür.
+Zusätzlich zu T01–T03:
+
+| Schreibung | Kana | Romaji | Bedeutung / erklärte Funktion |
+|---|---|---|---|
+| これ | これ | kore | dies hier, beim Sprecher; nur diese Form eingeführt |
+| 本 | ほん | hon | Buch; Zahl später in T08 ausdrücklich erklärt |
+| が | が | ga | Subjektmarker; hier die gesuchte trinkende Person |
+
+Vollständig erklärte neue Sätze:
+- これは本です — Das ist ein Buch.
+- コーヒーは私が飲みます — Den Kaffee trinke ich, beim Verteilen des übrigen Kaffees.
+- お茶は私が飲みます — Den Tee trinke ich, in der entsprechenden Teeszene.
+
+Thema kann Person oder Sache sein. Im Kaffeesatz sind Thema und handelnde
+Person verschieden. Der Umbau aus 私はコーヒーを飲みます betrifft Anordnung
+und Marker: は ersetzt hier を, 私 erhält が. Keine freie Umstellung bei
+unverändertem Gesprächsfokus, keine vollständige は/が-Theorie.
+
+## B01-T05 — Verständliche Information unausgesprochen lassen
+
+Keine neuen lexikalischen Grundbausteine. Neu sind vollständig erklärte
+Kurzfassungen mit explizitem Bezug:
+- お茶を飲みます — Ich trinke Tee bei Jonas' eigener Wahl; Sie trinkt Tee
+  bei einer Frage über Nakamura. Dieselbe japanische Form, anderer Kontext.
+- 水を飲みます — Ich trinke Wasser oder Sie trinkt Wasser, jeweils in der
+  ausdrücklich beschriebenen Situation.
+- コーヒーを飲みます — Ich trinke Kaffee als eigene Antwort.
+- 学生です — Ich bin Student bei Jonas' Selbstvorstellung.
+
+Ausgelassen wird die ganze Personeneinheit einschließlich ihres Markers.
+Keine Personenendung im Verb versteckt. Nach unklarem Kontext, Themenpause
+oder Personenwechsel hilft die ausdrücklich genannte Person. Keine Regel,
+dass kurze Sätze unhöflich seien; keine Lehre lockerer Partikelauslassung.
+
+## B01-T06 — Die Rolle einer Partikel am ganzen Satz hören
+
+Bekannte Marker は, が, を und Namen werden vertieft:
+- 中村さんがお茶を飲みます — Frau Nakamura trinkt Tee, Antwort auf Wer trinkt Tee?
+- 青木さんが水を飲みます — Frau Aoki trinkt Wasser, entsprechende Identifikation.
+- 私がコーヒーを飲みます — Ich trinke Kaffee, Antwort auf die Personenfrage.
+- 中村さんがコーヒーを飲みます — Frau Nakamura trinkt Kaffee, gleiche Frage.
+
+Fragen werden in der Erklärungssprache gestellt, keine japanische Frageform
+wird vorausgesetzt. Partikel gehört zum Ausdruck davor; さん ist dagegen
+ein Namenszusatz. Subjekt nicht mit Mensch und direktes Objekt nicht mit
+jeder Sache gleichsetzen. が bedeutet nicht automatisch nur; die Unterscheidung
+zu は ist keine Regel bekannte gegen unbekannte Menschen.
+
+## B01-T07 — Existenzort gegenüber Handlungsort
+
+| Schreibung | Kana | Romaji | Bedeutung / erklärte Funktion |
+|---|---|---|---|
+| 部屋 | へや | heya | Zimmer, Raum; nicht ausschließlich Schlafzimmer |
+| あります | あります | arimasu | vorhanden sein, hier für Dinge und Getränke |
+| に | に | ni | Ort des Vorhandenseins in diesem Muster |
+| で | で | de | Ort der Handlung in diesem Muster |
+
+Neue vollständige Beispiele:
+- 部屋に水があります — Im Zimmer gibt es Wasser.
+- 部屋に本があります — Im Zimmer gibt es ein Buch, im eingeführten Kontext.
+- 部屋にお茶があります / 部屋にコーヒーがあります — entsprechende Getränke vorhanden.
+- 部屋で水を飲みます — Ich trinke Wasser im Zimmer, mit Jonas als bekanntem Bezug.
+- 私は部屋で水を飲みます / 私は部屋でお茶を飲みます — Person ausdrücklich genannt.
+- 中村さんは部屋でお茶を飲みます — Frau Nakamura trinkt Tee im Zimmer.
+- 青木さんは部屋でコーヒーを飲みます — Frau Aoki trinkt Kaffee im Zimmer.
+- 水があります — Es gibt Wasser; bekannter Ort kann ungesagt bleiben.
+
+が markiert im Existenzsatz das Vorhandene, keine handelnde Person.
+Beim Vergleich mit trinken ändern sich Ortsmarker, Rolle des Wassers und
+Verb. Keine universelle Übersetzung ni = sein oder de = tun. Für anwesende
+Menschen/Tiere ist eine andere Existenzform angekündigt, aber noch nicht gelehrt.
+Ziel, Uhrzeit, Empfänger, Verkehrsmittel und Werkzeug bleiben aufgeschoben.
+
+## B01-T08 — Artikel, Genus und gewöhnlich unmarkierte Zahl
+
+Bekannte Wörter in ausdrücklich unterschiedlichen Szenen:
+- 本は部屋にあります — Das Buch ist im Zimmer, bei der Suche nach dem bekannten
+  Buch. Gegenüber dem Existenzbeispiel Buch nach vorn und は statt が;
+  Themenmarker ist trotzdem kein bestimmter Artikel.
+- 先生です — Er ist Lehrer oder Sie ist Lehrerin, mit jeweils vorher
+  eingeführter Person. Der andere Lehrer ist ein hypothetischer Mann, nicht Aoki.
+- 本があります — Es gibt ein Buch oder Es gibt Bücher, je nach erklärter Szene.
+- 学生です — Ich bin Student bei Jonas; Sie sind Studierende bei der
+  ausdrücklich beschriebenen Gruppe.
+
+Kein deutsches Artikelsystem oder entsprechendes Genus-Kongruenzsystem.
+Nomen markieren gewöhnlich nicht verpflichtend Einzahl/Mehrzahl. Daraus folgt
+nicht, dass Geschlecht, Gruppen oder genaue Mengen unausdrückbar wären.
+Zählwörter und besondere Mehrzahlausdrücke sind noch nicht eingeführt.
+Das Trinken von Kaffee nennt auch keine bestimmte Zahl von Tassen.
+
+## B01-T09 — Höflicher Stil und erste schlichte Gegenstücke
+
+| Schreibung | Kana | Romaji | Bedeutung / erklärte Funktion |
+|---|---|---|---|
+| だ | だ | da | schlichter Abschluss der hier behandelten Nominalaussage |
+| ます | ます | masu | höfliche Verbendung im bekannten Formenpaar, nicht bin |
+| 飲む | のむ | nomu | schlichte Form und Wörterbuchform von trinken |
+
+Vollständig erklärte Formenpaare bei gleicher Grundinformation:
+- 学生です / 学生だ — Ich bin Student, in Jonas' Selbstvorstellung.
+- これは本です / これは本だ — Das ist ein Buch.
+- コーヒーを飲みます / コーヒーを飲む — Ich trinke Kaffee, in Jonas' Getränkeszene.
+- 水を飲みます / 水を飲む — entsprechende Wasserwahl.
+- 中村さんはコーヒーを飲みます / 中村さんはコーヒーを飲む — Aussage über Nakamura.
+
+Schlichte Formen zunächst erkennen, selbst beim höflichen Ausgangsstil bleiben.
+飲む entsteht nicht durch bloßes Abschneiden von ます; keine zusätzliche Kopula
+nach dem schlichten oder höflichen Trinkverb. Kein allgemeines desu→da-Rezept
+für alle Satzarten. さん und Satzstil sind unterschiedliche Entscheidungen.
+Auslassung ist nicht gleich Unhöflichkeit, schlicht ist nicht gleich aggressiv,
+grammatisch höflich ist keine Garantie für eine passende Bitte.
+
+## Nach Block 1 noch nicht voraussetzen
+
+Japanische Frageformen, Verneinung, Vergangenheit, Verbgruppen, Zählwörter,
+Adjektivformen, います und systematische schlichte Formen sind noch nicht
+unterrichtet. Die einzelnen Vorschauformen sind keine Beherrschung dieser
+Systeme. Auch die Partikeln wurden nur in den dokumentierten Funktionen
+eingeführt; spätere Funktionen brauchen eigene Erklärungen.
 
 Geschichte und Kenntnisse sind getrennt: Aus dem Namen einer Kollegin in
 deutscher Prosa folgt nicht, dass ihre japanische Namensform schon bekannt ist.
