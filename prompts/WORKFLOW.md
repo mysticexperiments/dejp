@@ -98,15 +98,35 @@ Zeichen TUT. Aber bei jedem Wort und jedem Satz.
 Dieser Fehler ist mir in Lektion 4 passiert und wurde erst beim Gegenlesen
 gefunden. Er sieht auf dem Bildschirm vollkommen richtig aus.
 
-## A6. Deutsch, Portugiesisch, Deutsch
+## A6. Deutsch, Portugiesisch, Deutsch — pro ZEILE
 
-Die App spielt eine Lektion so:
+Die App durchlaeuft jede Zeile dreimal, bevor sie zur naechsten geht:
 
-    deutsche Fassung  ->  portugiesische Fassung  ->  deutsche Fassung
+    Zeile 1: deutsch -> portugiesisch -> deutsch
+    Zeile 2: deutsch -> portugiesisch -> deutsch
+    ...
+
+Nicht die ganze Lektion dreimal. **Zeile fuer Zeile.** Beides ist im Code
+abschaltbar: ohne Portugiesisch bleibt deutsch, deutsch; ohne Wiederholung
+bleibt deutsch, portugiesisch. Voreingestellt ist beides an.
 
 Portugiesisch ist das Sicherheitsnetz: wer die deutsche Erklaerung nur halb
-verstanden hat, bekommt sie einfacher noch einmal, und hoert danach die
-deutsche Fassung mit dem Wissen, was gemeint war.
+verstanden hat, bekommt sie sofort einfacher, und hoert dieselbe deutsche
+Zeile dann noch einmal mit dem Wissen, was gemeint war.
+
+Das hat eine Folge fuers Schreiben: **die portugiesische Zeile muss allein
+stehen koennen.** Sie steht zwischen zwei deutschen Durchgaengen derselben
+Zeile, nicht am Ende einer ganzen Lektion. Ein Rueckverweis wie "wie vorhin
+gesagt" geht dort ins Leere.
+
+## A6b. Japanische Stuecke werden mehrfach gesprochen
+
+Die App spricht jedes japanische Tag standardmaessig DREIMAL hintereinander,
+einstellbar zwischen ein- und mehrmals. Der deutsche Text daneben nur einmal.
+
+Deshalb ist die Obergrenze fuer Tags nicht nur Geschmack: eine Zeile mit sechs
+Tags wird zu achtzehn japanischen Ansagen plus dem deutschen Text, mal drei
+Durchgaenge. Das ist keine Zeile mehr, das ist eine Uebung.
 
 Deshalb muessen beide Fassungen Zeile fuer Zeile und Tag fuer Tag
 uebereinstimmen. Die App zaehlt mit. Und deshalb ist die portugiesische
