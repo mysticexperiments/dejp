@@ -54,6 +54,11 @@ T04–T09 und ihre Prüfgrenzen sind im [Prüfbericht](../pruefung-block-01-text
 festgehalten. „Ausgearbeitet“ bedeutet nicht, dass Geräteklang oder Lernerfolg
 bereits erprobt wären.
 
+Die redaktionelle Überarbeitung aller neun Texte ist im
+[Revisionsbericht](../revision-block-01-texte-01-09.md) dokumentiert. Dieser
+Bericht enthält die aktuellen Zeilenzahlen; ältere Prüfberichte beschreiben
+den jeweiligen früheren Stand. Die Figuren bleiben beim gegenseitigen du.
+
 Es werden keine zusätzlichen Wiederholungstexte eingeschoben. Die späteren
 Texte verwenden Bekanntes für eine neue Einsicht.
 
@@ -71,7 +76,8 @@ Information wird darüber gesagt, wie wird die höfliche Aussage abgeschlossen?
 einzeln erklärt und unmittelbar in ganzen Sätzen verwendet.
 
 **Neue Bausteine:** 私, は als Themenmarker, です im Nominalsatz, ヨナス,
-学生, ドイツ人, 先生. Die deutsche Figur ist Student; die Lehrerin stellt
+学生, ドイツ人, 教師 und 先生 mit begrenzter Unterscheidung zwischen eigener
+Berufsangabe und respektvoller Bezeichnung einer Lehrperson. Die deutsche Figur ist Student; die Lehrerin stellt
 sich als Lehrerin dar. Keine Figur bekommt für ein Beispiel einen falschen Beruf.
 
 **Erklärweg:**
@@ -93,7 +99,7 @@ sich als Lehrerin dar. Keine Figur bekommt für ein Beispiel einen falschen Beru
 - 私は学生です。— Ich bin Student.
 - 私はヨナスです。— Ich bin Jonas.
 - 私はドイツ人です。— Ich bin Deutscher.
-- 私は先生です。— Ich bin Lehrerin, wenn Aoki den Satz sagt.
+- 私は教師です。— Ich bin Lehrerin, als Aokis eigene Berufsangabe.
 
 **Begrenzungen:** Keine allgemeine Gleichsetzung von は und Subjekt. Keine
 Behauptung, 私 müsse bei einer Vorstellung ausgesprochen werden. Die
@@ -205,6 +211,9 @@ werden, ohne dass der Lernende den neuen Satz selbst erraten muss.
   bewusste Vorschaugebrauch wird in T06 ausgebaut, nicht als vollständige
   は/が-Lehre behandelt.
 - Jonas formuliert sein Missverständnis; Aoki erklärt es anhand des Beispiels.
+- Kaffee und Tee mit は sowie 私が werden einzeln hörbar erklärt, dann zum
+  ganzen Satz zusammengesetzt. In お茶は中村さんが飲みます übernimmt Nakamura
+  den Tee; das Getränk bleibt Thema, nur die trinkende Person ändert sich.
 - **Aufgeschoben:** systematische Kontrastlehre, exhaustive Identifikation und
   vollständiger は/が-Vergleich. T04 grenzt lediglich ab, dass nicht jedes
   Thema zwingend als Gegensatz übersetzt werden muss.
@@ -241,6 +250,9 @@ werden, ohne dass der Lernende den neuen Satz selbst erraten muss.
 - **Voraussetzung:** Thema, handelnde Person, direktes Objekt, einfacher Kontext.
 - **Ziel:** Partikeln als nachgestellte Beziehungen hören, nicht als frei
   schwebende Wörter mit immer gleicher deutscher Übersetzung.
+- Gegenüber T04 steht nun das Erkennen ganzer Nomen-Partikel-Einheiten und
+  das Beantworten verschiedener Gesprächsfragen im Vordergrund. Jonas spricht
+  die Antworten selbst; Aoki erklärt, weshalb der jeweilige Marker passt.
 - Bekanntes は und を an vollständigen Getränkesätzen vergleichen.
 - Den in T04 begrenzt eingeführten Marker が in einer klaren
   Identifikationssituation vertiefen: Die Frage Wer trinkt Tee wird zunächst

@@ -1,0 +1,82 @@
+Jonas: Com a finalização negativa longa, consigo corrigir uma informação errada. Qual forma mais curta pode aparecer numa conversa?
+Aoki: Continuamos com o caderno da última cena. Ele está novamente bem à sua frente. Alguém pensa que é um livro, e você quer corrigir a confusão.
+Jonas: Minha forma conhecida é {これは本ではありません|これはほんではありません|kore wa hon dewa arimasen|Isto não é um livro|これわほんでわありません}. Isto não é um livro.
+Aoki: Aqui você pode expressar a mesma afirmação com {これは本じゃありません|これはほんじゃありません|kore wa hon ja arimasen|Isto não é um livro|これわほんじゃありません}. Isso também significa: isto não é um livro.
+Jonas: Ouço um começo diferente na finalização. A negação se transformou em outra coisa?
+Aoki: Não. A finalização mais curta é {じゃありません|じゃありません|ja arimasen|finalização nominal negativa polida}. Aqui ela nega a mesma classificação que a forma mais longa.
+Jonas: Posso comparar as duas finalizações sem o restante da frase?
+Aoki: Primeiro {ではありません|ではありません|dewa arimasen|finalização nominal negativa polida|でわありません}, a forma mais longa. Ao lado dela, {じゃありません|じゃありません|ja arimasen|finalização nominal negativa polida}, a variante falada mais curta. Ambas são polidas e negativas no nosso padrão.
+Jonas: Qual parte exatamente ficou mais curta?
+Aoki: No começo {では|では|dewa|começo da forma negativa mais longa|でわ}, a sequência de sons se transforma, nesse uso, em {じゃ|じゃ|ja|começo contraído da forma negativa}. É uma contração dentro da finalização.
+Jonas: Por isso também devo mudar o marcador de tema depois da expressão esta coisa aqui?
+Aoki: Não. O começo conhecido {これは|これは|kore wa|isto aqui como tema|これわ} continua igual. A contração acontece no começo da finalização negativa depois do substantivo, não em todo trecho da frase que tenha som parecido.
+Jonas: Então preciso ouvir o resultado novamente como frase inteira.
+Aoki: De {これは本ではありません|これはほんではありません|kore wa hon dewa arimasen|Isto não é um livro|これわほんでわありません}, isto não é um livro, passamos a {これは本じゃありません|これはほんじゃありません|kore wa hon ja arimasen|Isto não é um livro|これわほんじゃありません}: isto não é um livro.
+Jonas: {これは本じゃありません|これはほんじゃありません|kore wa hon ja arimasen|Isto não é um livro|これわほんじゃありません}. Isto não é um livro. O tema e a palavra livro continuaram iguais.
+Aoki: Exatamente. A negação também foi mantida. Você não escolheu outro objeto nem transformou a afirmação em pergunta.
+Jonas: A forma mais curta poderia significar que tenho menos certeza do que digo?
+Aoki: Essa contração não significa talvez. Na nossa cena, você continua sabendo que tem um caderno diante de si e nega claramente que seja um livro.
+Jonas: E mais curto aqui significa que de repente estou falando com muita intimidade ou sem educação?
+Aoki: Não. A forma {じゃありません|じゃありません|ja arimasen|finalização nominal negativa polida} continua polida. A variante mais longa muitas vezes soa mais formal; a mais curta também cabe em conversas polidas.
+Jonas: Então a diferença não é simplesmente polido contra não polido.
+Aoki: Isso mesmo. Aqui distinguimos duas variantes polidas. O tom e o motivo da conversa também influenciam se sua correção soa gentil ou brusca.
+Jonas: Se eu usar a forma longa numa conversa, ela estará errada?
+Aoki: Não. Você pode continuar usando. A forma mais curta também ajuda na compreensão oral: você reconhece uma afirmação já compreendida, apesar do som diferente.
+Jonas: Quero terminar a correção com a informação certa.
+Aoki: Para o caderno, vem em seguida {これはノートです|これはのーとです|kore wa nooto desu|Isto é um caderno|これわのーとです}: isto é um caderno. A afirmação positiva não precisa de finalização negativa.
+Jonas: Digo {これは本じゃありません|これはほんじゃありません|kore wa hon ja arimasen|Isto não é um livro|これわほんじゃありません}: isto não é um livro. Depois {これはノートです|これはのーとです|kore wa nooto desu|Isto é um caderno|これわのーとです}: isto é um caderno.
+Aoki: Assim sua primeira afirmação corrige a suposição, e a segunda identifica o objeto real. A forma negativa mais curta não faz as duas coisas de uma vez.
+Jonas: Podemos ouvir a mesma contração numa outra classificação errada?
+Aoki: Agora há uma xícara de chá à sua frente. Alguém supõe que seja café. Com a forma mais longa, você diz {これはコーヒーではありません|これはこーひーではありません|kore wa koohii dewa arimasen|Isto não é café|これわこーひーでわありません}: isto não é café.
+Jonas: Já conheço a palavra café das frases sobre beber.
+Aoki: Mas aqui ela identifica o tipo de bebida que a pessoa supõe estar ali. Ainda não dizemos quem bebe alguma coisa. A negação diz respeito a ser café.
+Jonas: Qual é a versão mais curta completa?
+Aoki: {これはコーヒーじゃありません|これはこーひーじゃありません|kore wa koohii ja arimasen|Isto não é café|これわこーひーじゃありません} significa: isto não é café. Apenas o começo da finalização negativa foi contraído.
+Jonas: {これはコーヒーじゃありません|これはこーひーじゃありません|kore wa koohii ja arimasen|Isto não é café|これわこーひーじゃありません}. Isto não é café. Como a outra pessoa descobre agora que é chá?
+Aoki: Pela sua afirmação adicional {これはお茶です|これはおちゃです|kore wa ocha desu|Isto é chá|これわおちゃです}: isto é chá. A negação sozinha também deixaria outras bebidas como possibilidades.
+Jonas: Então posso negar algo com certeza sem já excluir todas as outras possibilidades.
+Aoki: Exatamente. Não ser café é uma informação limitada. Na nossa cena, você acrescenta a identificação exata, chá, porque conhece o conteúdo.
+Jonas: Agora gostaria de trocar a suposição errada. Pegamos outro copo, com água, que alguém confunde com chá.
+Aoki: Então, no padrão negativo conhecido, você troca café por chá. O resultado é {これはお茶じゃありません|これはおちゃじゃありません|kore wa ocha ja arimasen|Isto não é chá|これわおちゃじゃありません}: isto não é chá.
+Jonas: {これはお茶じゃありません|これはおちゃじゃありません|kore wa ocha ja arimasen|Isto não é chá|これわおちゃじゃありません}. Isto não é chá. E a informação correta é {これは水です|これはみずです|kore wa mizu desu|Isto é água|これわみずです}: isto é água.
+Aoki: Você apresentou expressamente o outro conteúdo antes. Assim fica claro por que agora negamos chá e identificamos água, em vez de mudar a cena anterior sem avisar.
+Jonas: Com a finalização longa, também era possível corrigir uma informação errada sobre minha profissão.
+Aoki: Sim. Sua frase conhecida {私は教師ではありません|わたしはきょうしではありません|watashi wa kyoushi dewa arimasen|Eu não sou professor|わたしわきょうしでわありません} significa: eu não sou professor.
+Jonas: Como essa frase muda na variante mais curta?
+Aoki: Ela fica {私は教師じゃありません|わたしはきょうしじゃありません|watashi wa kyoushi ja arimasen|Eu não sou professor|わたしわきょうしじゃありません}: eu não sou professor. Sua pessoa e a palavra que indica a profissão continuam iguais.
+Jonas: {私は教師じゃありません|わたしはきょうしじゃありません|watashi wa kyoushi ja arimasen|Eu não sou professor|わたしわきょうしじゃありません}. Eu não sou professor. Depois explico {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Eu sou estudante|わたしわがくせいです}: eu sou estudante.
+Aoki: As duas afirmações combinam com seu papel na nossa história. A contração não mudou nem sua profissão nem sua pessoa.
+Jonas: Às vezes já está claro que estou falando de mim. O começo da frase também pode ficar mais curto?
+Aoki: Sim, por outro motivo. Quando a pessoa está clara, você pode dizer, em vez da frase longa, {教師じゃありません|きょうしじゃありません|kyoushi ja arimasen|Eu não sou professor}: eu não sou professor.
+Jonas: Nesse caso, falta a unidade inteira que me apresenta expressamente como tema.
+Aoki: Exatamente. Você já conhece isso do bloco um. Deixar a pessoa conhecida implícita e fazer a contração dentro da finalização negativa são dois passos diferentes.
+Jonas: Eu poderia deixar a pessoa implícita e ainda assim manter a finalização negativa mais longa?
+Aoki: Sim. {教師ではありません|きょうしではありません|kyoushi dewa arimasen|Eu não sou professor|きょうしでわありません}, com referência clara a você mesmo, também significa: eu não sou professor. Um começo curto não exige um final curto.
+Jonas: Então comprimento de frase e polidez não são uma conta simples.
+Aoki: Isso mesmo. As duas respostas curtas mantêm uma finalização negativa polida. A necessidade de mencionar a pessoa depende de ela estar clara para quem ouve.
+Jonas: Gostaria de ouvir como a nova variante corrige uma confusão de nomes.
+Aoki: Você já conheceu {私は青木ではありません|わたしはあおきではありません|watashi wa Aoki dewa arimasen|Eu não sou Aoki|わたしわあおきでわありません}: eu não sou Aoki. Novamente se trata de alguém que confunde você comigo.
+Jonas: Então troco apenas a finalização pela variante mais curta.
+Aoki: O resultado completo é {私は青木じゃありません|わたしはあおきじゃありません|watashi wa Aoki ja arimasen|Eu não sou Aoki|わたしわあおきじゃありません}: eu não sou Aoki.
+Jonas: {私は青木じゃありません|わたしはあおきじゃありません|watashi wa Aoki ja arimasen|Eu não sou Aoki|わたしわあおきじゃありません}. Eu não sou Aoki. Depois {ヨナスです|よなすです|Yonasu desu|Eu sou Jonas}: eu sou Jonas.
+Aoki: Assim a confusão fica completamente esclarecida. Em alemão, desta vez aparece nicht em vez de kein; a construção japonesa continua sendo o mesmo tipo de negação.
+Jonas: Posso usar apenas o começo curto da finalização como resposta quando quero dizer não?
+Aoki: Não como nossa palavra para não. Estamos aprendendo esse trecho como parte da finalização negativa inteira. Uma palavra própria para responder não virá depois, junto com as perguntas.
+Jonas: Além dessas duas formas, existem outras possibilidades corretas?
+Aoki: Sim. Você vai ouvir outras formas negativas. Hoje tratamos dessas duas variantes relacionadas para que consiga distinguir com segurança sua estrutura e seu significado.
+Jonas: Isso não quer dizer que outra forma esteja automaticamente errada.
+Aoki: Exatamente. Nossa seleção limita o passo de aprendizagem de hoje. Não é uma lista completa de todas as formas que as pessoas usam no dia a dia.
+Jonas: Quero explicar mais um caso inteiro. Agora tenho o livro na mão, e alguém o chama de caderno.
+Aoki: Então, desta vez, você nega que seja caderno. A versão mais curta é {これはノートじゃありません|これはのーとじゃありません|kore wa nooto ja arimasen|Isto não é um caderno|これわのーとじゃありません}: isto não é um caderno.
+Jonas: {これはノートじゃありません|これはのーとじゃありません|kore wa nooto ja arimasen|Isto não é um caderno|これわのーとじゃありません}. Isto não é um caderno. Depois {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}: isto é um livro.
+Aoki: A outra suposição leva a outro substantivo na negação. A finalização negativa polida continua cumprindo a mesma função.
+Jonas: Como essa mesma correção começaria com a finalização mais longa?
+Aoki: Com {これはノートではありません|これはのーとではありません|kore wa nooto dewa arimasen|Isto não é um caderno|これわのーとでわありません}: isto não é um caderno. Depois pode vir a mesma afirmação positiva sobre ser livro.
+Jonas: Então não aprendi dois fatos diferentes, mas duas formas para a mesma afirmação negativa.
+Aoki: Sim. Você pode reconhecer a forma mais curta ao ouvir e escolher uma variante polida adequada ao falar. Numa conversa real, não precisa dizer toda frase nas duas variantes.
+Jonas: E se eu quiser recusar uma bebida com educação, basta dizer que não é café?
+Aoki: Primeiro você estaria negando o tipo de bebida. Isso não é automaticamente uma recusa adequada. Nossa cena de hoje corrige uma confusão; pedidos e recusas precisam de outras explicações.
+Jonas: Então preciso saber se estou corrigindo algo ou se quero alcançar outro resultado.
+Aoki: Exatamente. Na nossa correção, o ponto é saber se a descrição suposta está certa. Antes de corrigir, também podemos perguntar se essa descrição procede.
+Jonas: Então, a seguir, quero conseguir dizer: isto é um livro? Sem logo afirmar que é.
+Aoki: É isso que vem agora. Vamos transformar uma afirmação conhecida numa pergunta polida e ouvir tanto uma resposta afirmativa quanto uma negativa.

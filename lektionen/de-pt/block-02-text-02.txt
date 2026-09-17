@@ -1,0 +1,82 @@
+Jonas: Mit dem langen negativen Abschluss kann ich eine falsche Angabe korrigieren. Welche kürzere Form kann mir im Gespräch begegnen?
+Aoki: Wir bleiben beim Notizheft aus der letzten Szene. Es liegt wieder direkt vor dir. Jemand hält es für ein Buch, und du möchtest die Verwechslung berichtigen.
+Jonas: Meine bisherige Form ist {これは本ではありません|これはほんではありません|kore wa hon dewa arimasen|Das ist kein Buch|これわほんでわありません}. Das ist kein Buch.
+Aoki: Dieselbe Aussage kannst du hier mit {これは本じゃありません|これはほんじゃありません|kore wa hon ja arimasen|Das ist kein Buch|これわほんじゃありません} ausdrücken. Das bedeutet ebenfalls: Das ist kein Buch.
+Jonas: Ich höre einen anderen Anfang des Abschlusses. Ist aus der Verneinung etwas anderes geworden?
+Aoki: Nein. Der kürzere Abschluss lautet {じゃありません|じゃありません|ja arimasen|höflicher negativer Nominalabschluss}. Er verneint hier dieselbe Zuordnung wie die längere Form.
+Jonas: Kann ich beide Abschlüsse ohne den übrigen Satz vergleichen?
+Aoki: Zuerst {ではありません|ではありません|dewa arimasen|höflicher negativer Nominalabschluss|でわありません}, die längere Form. Daneben {じゃありません|じゃありません|ja arimasen|höflicher negativer Nominalabschluss}, die kürzere gesprochene Variante. Beide sind in unserem Muster höflich und negativ.
+Jonas: Welcher Teil wurde genau kürzer?
+Aoki: Im Anfang {では|では|dewa|Anfang der längeren Negativform|でわ} wird die Lautfolge in dieser Verwendung zu {じゃ|じゃ|ja|verkürzter Anfang der Negativform}. Das ist eine Verkürzung innerhalb des Abschlusses.
+Jonas: Soll ich deshalb auch den Themenmarker nach dieses Ding hier verändern?
+Aoki: Nein. Der bekannte Anfang {これは|これは|kore wa|dies hier als Thema|これわ} bleibt unverändert. Gekürzt wird der Anfang des negativen Abschlusses nach dem Nomen, nicht jeder ähnlich klingende Teil des Satzes.
+Jonas: Dann brauche ich das Ergebnis noch einmal als ganzen Satz.
+Aoki: Aus {これは本ではありません|これはほんではありません|kore wa hon dewa arimasen|Das ist kein Buch|これわほんでわありません}, Das ist kein Buch, wird {これは本じゃありません|これはほんじゃありません|kore wa hon ja arimasen|Das ist kein Buch|これわほんじゃありません}: Das ist kein Buch.
+Jonas: {これは本じゃありません|これはほんじゃありません|kore wa hon ja arimasen|Das ist kein Buch|これわほんじゃありません}. Das ist kein Buch. Das Thema und das Wort Buch sind dieselben geblieben.
+Aoki: Genau. Auch die Verneinung ist erhalten. Du hast weder einen anderen Gegenstand gewählt noch die Aussage in eine Frage verwandelt.
+Jonas: Könnte die kürzere Form bedeuten, dass ich meiner Aussage weniger sicher bin?
+Aoki: Diese Verkürzung bedeutet nicht vielleicht. In unserer Szene weißt du weiterhin, dass du ein Notizheft vor dir hast, und verneinst klar die Zuordnung als Buch.
+Jonas: Und bedeutet kürzer hier, dass ich plötzlich sehr vertraut oder unhöflich spreche?
+Aoki: Nein. Die Form {じゃありません|じゃありません|ja arimasen|höflicher negativer Nominalabschluss} bleibt höflich. Die längere Variante klingt häufig förmlicher; die kürzere passt auch in höfliche Gespräche.
+Jonas: Dann ist der Unterschied nicht einfach höflich gegen unhöflich.
+Aoki: Richtig. Wir unterscheiden hier zwei höfliche Varianten. Wie freundlich oder schroff deine Korrektur wirkt, hängt außerdem vom Ton und vom Anlass ab.
+Jonas: Wenn ich in einem Gespräch die lange Form benutze, ist sie dann falsch?
+Aoki: Nein. Du darfst sie weiter benutzen. Die kürzere Form hilft dir auch beim Zuhören: Du erkennst eine bereits verstandene Aussage trotz ihres anderen Klangs.
+Jonas: Ich möchte die Korrektur mit der richtigen Angabe abschließen.
+Aoki: Für das Notizheft folgt {これはノートです|これはのーとです|kore wa nooto desu|Das ist ein Notizheft|これわのーとです}: Das ist ein Notizheft. Die positive Aussage braucht keinen negativen Abschluss.
+Jonas: Ich sage {これは本じゃありません|これはほんじゃありません|kore wa hon ja arimasen|Das ist kein Buch|これわほんじゃありません}: Das ist kein Buch. Danach {これはノートです|これはのーとです|kore wa nooto desu|Das ist ein Notizheft|これわのーとです}: Das ist ein Notizheft.
+Aoki: Damit berichtigt deine erste Aussage die Vermutung, und deine zweite nennt den tatsächlichen Gegenstand. Die kürzere Negativform erledigt nicht beide Aufgaben auf einmal.
+Jonas: Können wir dieselbe Verkürzung bei einer anderen falschen Zuordnung hören?
+Aoki: Jetzt steht eine Tasse Tee vor dir. Jemand vermutet Kaffee. Mit der längeren Form sagst du {これはコーヒーではありません|これはこーひーではありません|kore wa koohii dewa arimasen|Das ist kein Kaffee|これわこーひーでわありません}: Das ist kein Kaffee.
+Jonas: Das Wort Kaffee kenne ich schon aus den Sätzen über das Trinken.
+Aoki: Hier benennt es aber die vermutete Art des Getränks. Wir sagen noch nichts darüber, wer etwas trinkt. Die Verneinung betrifft Kaffee sein.
+Jonas: Wie lautet die vollständige kürzere Fassung?
+Aoki: {これはコーヒーじゃありません|これはこーひーじゃありません|kore wa koohii ja arimasen|Das ist kein Kaffee|これわこーひーじゃありません} bedeutet: Das ist kein Kaffee. Nur der Anfang des negativen Abschlusses wurde verkürzt.
+Jonas: {これはコーヒーじゃありません|これはこーひーじゃありません|kore wa koohii ja arimasen|Das ist kein Kaffee|これわこーひーじゃありません}. Das ist kein Kaffee. Woher erfährt die andere Person jetzt, dass es Tee ist?
+Aoki: Durch deine zusätzliche Aussage {これはお茶です|これはおちゃです|kore wa ocha desu|Das ist Tee|これわおちゃです}: Das ist Tee. Die Verneinung allein hätte auch andere Getränke offengelassen.
+Jonas: Also kann ich sicher verneinen, ohne damit bereits jede andere Möglichkeit auszuschließen.
+Aoki: Genau. Kein Kaffee ist eine begrenzte Information. In unserer Szene ergänzt du die genaue Angabe Tee, weil du den Inhalt kennst.
+Jonas: Jetzt würde ich gern selbst die falsche Vermutung austauschen. Wir nehmen ein neues Glas Wasser, das jemand für Tee hält.
+Aoki: Dann wechselst du im bekannten negativen Muster Kaffee zu Tee. Das Ergebnis ist {これはお茶じゃありません|これはおちゃじゃありません|kore wa ocha ja arimasen|Das ist kein Tee|これわおちゃじゃありません}: Das ist kein Tee.
+Jonas: {これはお茶じゃありません|これはおちゃじゃありません|kore wa ocha ja arimasen|Das ist kein Tee|これわおちゃじゃありません}. Das ist kein Tee. Und die richtige Angabe lautet {これは水です|これはみずです|kore wa mizu desu|Das ist Wasser|これわみずです}: Das ist Wasser.
+Aoki: Du hast den anderen Inhalt vorher ausdrücklich eingeführt. So ist klar, weshalb wir jetzt Tee verneinen und Wasser nennen, statt die vorige Szene unbemerkt zu verändern.
+Jonas: Beim langen Abschluss war auch eine falsche Angabe über meinen Beruf möglich.
+Aoki: Ja. Dein bekannter Satz {私は教師ではありません|わたしはきょうしではありません|watashi wa kyoushi dewa arimasen|Ich bin kein Lehrer|わたしわきょうしでわありません} bedeutet: Ich bin kein Lehrer.
+Jonas: Wie verändert sich dieser Satz in der kürzeren Variante?
+Aoki: Er lautet {私は教師じゃありません|わたしはきょうしじゃありません|watashi wa kyoushi ja arimasen|Ich bin kein Lehrer|わたしわきょうしじゃありません}: Ich bin kein Lehrer. Deine Person und die Berufsbezeichnung bleiben gleich.
+Jonas: {私は教師じゃありません|わたしはきょうしじゃありません|watashi wa kyoushi ja arimasen|Ich bin kein Lehrer|わたしわきょうしじゃありません}. Ich bin kein Lehrer. Anschließend erkläre ich {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}: Ich bin Student.
+Aoki: Die zwei Aussagen passen zu deiner Rolle in unserer Geschichte. Die Verkürzung hat weder deinen Beruf noch deine Person verändert.
+Jonas: Manchmal ist längst klar, dass ich von mir spreche. Kann auch der Satzanfang kürzer werden?
+Aoki: Ja, aus einem anderen Grund. Wenn die Person eindeutig ist, kannst du statt des langen Satzes {教師じゃありません|きょうしじゃありません|kyoushi ja arimasen|Ich bin kein Lehrer} sagen: Ich bin kein Lehrer.
+Jonas: Dabei fehlt die ganze Einheit, die mich ausdrücklich zum Thema macht.
+Aoki: Genau. Das kennst du aus Block eins. Das Weglassen der bekannten Person und die Verkürzung innerhalb des negativen Abschlusses sind zwei verschiedene Schritte.
+Jonas: Könnte ich die Person auch weglassen und trotzdem den längeren negativen Abschluss behalten?
+Aoki: Ja. {教師ではありません|きょうしではありません|kyoushi dewa arimasen|Ich bin kein Lehrer|きょうしでわありません} bedeutet bei deinem klaren Selbstbezug ebenfalls: Ich bin kein Lehrer. Kurz am Anfang verlangt nicht kurz am Ende.
+Jonas: Dann sind Satzlänge und Höflichkeit keine einfache Rechnung.
+Aoki: Richtig. Beide kurzen Antworten behalten einen höflichen negativen Abschluss. Ob wir die Person aussprechen müssen, hängt davon ab, ob sie für die Zuhörer klar ist.
+Jonas: Ich würde gern hören, wie die neue Variante eine Namensverwechslung berichtigt.
+Aoki: Du hast bereits {私は青木ではありません|わたしはあおきではありません|watashi wa Aoki dewa arimasen|Ich bin nicht Aoki|わたしわあおきでわありません} kennengelernt: Ich bin nicht Aoki. Es geht wieder um jemanden, der dich für mich hält.
+Jonas: Dann wechsle ich nur den Abschluss zu seiner kürzeren Variante.
+Aoki: Das vollständige Ergebnis ist {私は青木じゃありません|わたしはあおきじゃありません|watashi wa Aoki ja arimasen|Ich bin nicht Aoki|わたしわあおきじゃありません}: Ich bin nicht Aoki.
+Jonas: {私は青木じゃありません|わたしはあおきじゃありません|watashi wa Aoki ja arimasen|Ich bin nicht Aoki|わたしわあおきじゃありません}. Ich bin nicht Aoki. Danach {ヨナスです|よなすです|Yonasu desu|Ich bin Jonas}: Ich bin Jonas.
+Aoki: So ist die Verwechslung vollständig geklärt. Im Deutschen steht diesmal nicht statt kein; die japanische Konstruktion bleibt trotzdem dieselbe Art von Verneinung.
+Jonas: Kann ich den kurzen Anfang des Abschlusses allein als Antwort verwenden, wenn ich nein meine?
+Aoki: Nicht als unser Wort für nein. Wir lernen ihn als Bestandteil des ganzen negativen Abschlusses. Ein eigenes Antwortwort für nein kommt später mit den Fragen.
+Jonas: Gibt es außer diesen beiden Formen noch andere korrekte Möglichkeiten?
+Aoki: Ja. Du wirst weitere negative Formen hören. Wir nehmen heute diese beiden zusammengehörigen Varianten, damit du ihren Aufbau und ihre Bedeutung sicher unterscheiden kannst.
+Jonas: Das heißt nicht, dass eine andere Form automatisch falsch ist.
+Aoki: Genau. Unsere Auswahl begrenzt den heutigen Lernschritt. Sie ist keine vollständige Liste aller Formen, die Menschen im Alltag verwenden.
+Jonas: Ich möchte noch einmal einen ganzen Fall selbst erklären. In meiner Hand liegt jetzt das Buch, und jemand nennt es Notizheft.
+Aoki: Dann verneinst du diesmal Notizheft sein. Die kürzere Fassung lautet {これはノートじゃありません|これはのーとじゃありません|kore wa nooto ja arimasen|Das ist kein Notizheft|これわのーとじゃありません}: Das ist kein Notizheft.
+Jonas: {これはノートじゃありません|これはのーとじゃありません|kore wa nooto ja arimasen|Das ist kein Notizheft|これわのーとじゃありません}. Das ist kein Notizheft. Danach {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです}: Das ist ein Buch.
+Aoki: Die andere Vermutung führt zu einem anderen Nomen in der Verneinung. Der höfliche negative Abschluss erfüllt weiterhin dieselbe Aufgabe.
+Jonas: Wie würde genau diese Korrektur mit dem längeren Abschluss beginnen?
+Aoki: Mit {これはノートではありません|これはのーとではありません|kore wa nooto dewa arimasen|Das ist kein Notizheft|これわのーとでわありません}: Das ist kein Notizheft. Danach kann dieselbe positive Buchaussage folgen.
+Jonas: Ich habe also nicht zwei verschiedene Tatsachen gelernt, sondern zwei Formen für dieselbe negative Aussage.
+Aoki: Ja. Du kannst beim Hören die kürzere Form erkennen und selbst eine passende höfliche Variante wählen. In einem echten Gespräch musst du nicht jeden Satz in beiden Varianten sagen.
+Jonas: Und wenn ich ein Getränk höflich ablehnen möchte, genügt dann die Aussage, dass es kein Kaffee ist?
+Aoki: Damit würdest du zunächst seine Art bestreiten. Das ist nicht automatisch eine passende Ablehnung. Unsere heutige Szene korrigiert eine Verwechslung; Bitten und Ablehnungen brauchen andere Erklärungen.
+Jonas: Ich muss also wissen, ob ich etwas berichtige oder ob ich etwas ganz anderes erreichen will.
+Aoki: Genau. Bei unserer Korrektur geht es darum, ob die vermutete Beschreibung stimmt. Vor einer Korrektur kann man diese Beschreibung auch erst einmal erfragen.
+Jonas: Dann möchte ich als Nächstes sagen können: Ist das ein Buch? Ohne sofort zu behaupten, dass es eines ist.
+Aoki: Damit geht es weiter. Wir machen aus einer bekannten Aussage eine höfliche Frage und hören sowohl eine bestätigende als auch eine verneinende Antwort.

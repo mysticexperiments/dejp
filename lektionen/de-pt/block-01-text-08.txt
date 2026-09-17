@@ -1,6 +1,6 @@
 Jonas: Im letzten Text war von einem Buch im Zimmer die Rede. Woher kam das deutsche ein, wenn ich dafür kein eigenes japanisches Wort gehört habe?
 Aoki: Aus der natürlichen deutschen Übersetzung und unserer Situation. Heute trennen wir drei Fragen: Artikel, grammatisches Geschlecht und Einzahl oder Mehrzahl.
-Jonas: Beginnen wir mit dem Artikel und einem Gegenstand, den Sie in der Hand halten.
+Jonas: Beginnen wir mit dem Artikel und einem Gegenstand, den du in der Hand hältst.
 Aoki: Ich halte ein einzelnes Buch hoch und sage {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです}. Das bedeutet: Das ist ein Buch. Die Situation macht klar, auf welchen Gegenstand ich zeige.
 Jonas: Welcher Bestandteil bedeutet ein Buch?
 Aoki: {本|ほん|hon|Buch} bedeutet Buch. Es enthält nicht zusätzlich einen unbestimmten Artikel. Deutsch braucht in diesem Satz ein Buch; Japanisch baut diese Nominalaussage ohne einen solchen Artikel.
@@ -16,7 +16,7 @@ Jonas: Das Buch wird hier erstmals erwähnt.
 Aoki: Ja. Die deutsche Übersetzung mit ein Buch passt zu dieser Einführung. Das japanische Nomen selbst bekommt dadurch keinen zusätzlichen unbestimmten Artikel.
 Jonas: Wenn das Buch schon bekannt ist, brauche ich dann ein anderes japanisches Wort für Buch?
 Aoki: Nein. Das Wort {本|ほん|hon|Buch} bleibt Buch. Der Zusammenhang oder die Satzgestaltung kann den bekannten Bezug klären, ohne dass das Nomen einen deutschen bestimmten Artikel erhält.
-Jonas: Können Sie auch einen ganzen Satz zeigen, in dem wir über ein bestimmtes bekanntes Buch sprechen?
+Jonas: Kannst du auch einen ganzen Satz zeigen, in dem wir über ein bestimmtes bekanntes Buch sprechen?
 Aoki: Ja. Du suchst das Buch, das wir eben benutzt haben. Ich sage {本は部屋にあります|ほんはへやにあります|hon wa heya ni arimasu|Das Buch ist im Zimmer|ほんわへやにあります}: Das Buch ist im Zimmer. Dieses Buch ist jetzt ausdrücklich unser Thema.
 Jonas: Wie unterscheidet sich das vom ersten Satz über ein Buch im Zimmer?
 Aoki: {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Im Zimmer gibt es ein Buch} bedeutete in der Entdeckungsszene Im Zimmer gibt es ein Buch. Jetzt lautet die Aussage {本は部屋にあります|ほんはへやにあります|hon wa heya ni arimasu|Das Buch ist im Zimmer|ほんわへやにあります}: Das Buch ist im Zimmer, als Antwort auf die Suche nach dem bekannten Buch.
@@ -26,24 +26,24 @@ Jonas: Der Subjektmarker nach Buch wurde also durch den Themenmarker ersetzt.
 Aoki: Genau, in diesem Muster. Wir greifen das bekannte Buch als Thema auf und sagen, wo es ist. Das ist eine andere Gesprächsaufgabe als die Mitteilung, was im Zimmer vorhanden ist.
 Jonas: Kann ich den Themenmarker deshalb als den bestimmten Artikel übersetzen?
 Aoki: Nein. Er markiert das Thema, nicht das deutsche Wort das. Schon unsere Sätze über mich haben diesen Marker, obwohl davor kein deutscher bestimmter Artikel steht.
-Jonas: Das neue Beispiel verbindet also Bekanntes, statt heimlich einen Artikel einzuführen.
-Aoki: Genau. {本は部屋にあります|ほんはへやにあります|hon wa heya ni arimasu|Das Buch ist im Zimmer|ほんわへやにあります} bedeutet Das Buch ist im Zimmer. Der bestimmte Bezug stammt aus der Suche nach diesem Buch und der Thematisierung; das Wort Buch selbst hat keinen Artikel erhalten.
-Jonas: Das ist die erste Frage. Was kommt beim grammatischen Geschlecht hinzu?
-Aoki: Im Deutschen lernst du das Buch, der Kaffee und die Person mit unterschiedlichen Genusklassen. Diese Einteilung in männlich, weiblich und sächlich ist grammatisches Geschlecht.
+Jonas: Wenn Nakamura dieses bekannte Buch sucht, kann ich ihr sagen {本は部屋にあります|ほんはへやにあります|hon wa heya ni arimasu|Das Buch ist im Zimmer|ほんわへやにあります}: Das Buch ist im Zimmer. Ich muss nicht erneut erklären, um welches Buch es geht.
+Aoki: Genau. Ihr sprecht bereits über dasselbe Buch. Deshalb passt in der deutschen Übersetzung das Buch. Im japanischen Satz markiert die Partikel das Thema; sie ist kein Artikel.
+Jonas: Damit ist der Artikel geklärt. Aber im Deutschen heißt es das Buch und der Kaffee. Muss ich auch diesen Unterschied ins Japanische übertragen?
+Aoki: Damit sind wir bei der zweiten Frage, dem grammatischen Geschlecht. Im Deutschen gehören das Buch, der Kaffee und die Person zu verschiedenen Klassen: sächlich, männlich und weiblich. Der Fachbegriff für das grammatische Geschlecht lautet Genus.
 Jonas: Das bedeutet bei Kaffee ja nicht, dass das Getränk ein Mann ist.
 Aoki: Genau. Genus ist nicht dasselbe wie das Geschlecht eines Menschen. Japanische Nomen haben kein entsprechendes Pflichtsystem dieser drei deutschen Genusklassen.
 Jonas: Muss ich also bei Buch keine zusätzliche japanische Form für sächlich lernen?
 Aoki: Richtig. {本|ほん|hon|Buch} bleibt Buch. Weder das Nomen noch ein zugehöriger Artikel muss hier an die deutsche Klasse sächlich angepasst werden.
 Jonas: Wie ist es dann bei einem Beruf wie Lehrerin oder Lehrer?
 Aoki: Das bekannte {先生|せんせい|sensei|Lehrerin oder Lehrer} kann eine Lehrerin oder einen Lehrer bezeichnen. Welcher Mensch gemeint ist, erfahren wir aus dem Namen oder dem Zusammenhang.
-Jonas: Bei Ihnen ist die Person im Gespräch schon klar.
+Jonas: Bei dir ist die Person im Gespräch schon klar.
 Aoki: Ja. {青木さんは先生です|あおきさんはせんせいです|Aoki-san wa sensei desu|Frau Aoki ist Lehrerin|あおきさんわせんせいです} bedeutet: Frau Aoki ist Lehrerin. Die deutsche weibliche Berufsbezeichnung passt zu mir; sie entsteht nicht aus einer weiblichen Endung des japanischen Berufsworts.
 Jonas: Und wie zeige ich, dass dieselbe Berufsbezeichnung auch für einen Mann passt?
 Aoki: Stell dir einen anderen Menschen vor, einen Mann, über den wir bereits sprechen. Über ihn sage ich {先生です|せんせいです|sensei desu|Er ist Lehrer}: Er ist Lehrer. Die gemeinte Person kommt aus dieser neuen Szene.
-Jonas: Machen Sie damit nicht plötzlich aus sich selbst einen Lehrer?
+Jonas: Machst du damit nicht plötzlich aus dir selbst einen Lehrer?
 Aoki: Nein. Ich beschreibe in dieser Szene den bereits genannten Mann. Wie im Text über Auslassung ist die sprechende Person nicht automatisch die beschriebene Person.
-Jonas: Und über Frau Aoki könnte ich dieselbe kurze Form verwenden?
-Aoki: Ja. Wenn klar ist, dass du über mich sprichst, bedeutet {先生です|せんせいです|sensei desu|Sie ist Lehrerin}: Sie ist Lehrerin. Die japanische Form bleibt gleich; die deutsche Personenbezeichnung richtet sich nach dem Bezug.
+Jonas: Nun erzähle ich Nakamura von dir und sage {先生です|せんせいです|sensei desu|Sie ist Lehrerin}: Sie ist Lehrerin. Ich benutze dieselbe Form, spreche aber über eine Frau.
+Aoki: Genau. Du hast mich als besprochene Person eingeführt. Daher passt auf Deutsch Lehrerin. Das japanische Wort bekommt keine weibliche Endung; die Person ist aus dem Gespräch klar.
 Jonas: Heißt das, Japanisch könne das Geschlecht einer Person gar nicht ausdrücken?
 Aoki: Nein. Es gibt Wörter und Beschreibungen dafür. Es fehlt hier das deutsche grammatische Genussystem; daraus folgt nicht, dass Unterschiede zwischen Menschen unausdrückbar wären.
 Jonas: Und der Namenszusatz bei Frau Nakamura zeigt ebenfalls nicht weibliches Geschlecht an?
@@ -52,10 +52,12 @@ Jonas: Dann kommen wir zur dritten Frage: ein Buch oder mehrere Bücher.
 Aoki: Genau. Japanische Nomen werden gewöhnlich nicht wie deutsche Nomen verpflichtend in Einzahl und Mehrzahl unterschieden. Das bekannte Wort Buch verändert sich deshalb nicht automatisch.
 Jonas: Können wir dafür zwei ausdrücklich verschiedene Szenen hören?
 Aoki: In der ersten Szene liegt genau ein Buch auf dem Tisch. Du meldest {本があります|ほんがあります|hon ga arimasu|Es gibt ein Buch}: Es gibt ein Buch. Wir kennen die Einzahl aus der beschriebenen Szene.
-Jonas: Und in der zweiten Szene liegen mehrere Bücher dort.
+Jonas: Ich gebe die erste Beobachtung weiter: {本があります|ほんがあります|hon ga arimasu|Es gibt ein Buch}. Es gibt ein Buch. Was passiert, wenn in einer zweiten Szene mehrere Bücher dort liegen?
 Aoki: Dann kann dieselbe Form {本があります|ほんがあります|hon ga arimasu|Es gibt Bücher} bedeuten: Es gibt Bücher. Die Szene liefert die Mehrzahl; das japanische Wort hat keine zusätzliche deutsche Pluralendung bekommen.
-Jonas: Die japanische Aussage klang in beiden Fällen wirklich gleich.
+Jonas: In dieser zweiten Szene sage ich {本があります|ほんがあります|hon ga arimasu|Es gibt Bücher}: Es gibt Bücher. Die japanische Aussage klingt wirklich gleich, obwohl ich jetzt mehrere Bücher meine.
 Aoki: Ja. Wir haben die Situation geändert und deshalb die natürliche Übersetzung angepasst. Wir haben nicht im zweiten Satz eine neue japanische Mehrzahlform gelernt.
+Jonas: Wenn Nakamura die Bücher nicht sehen kann und nur meinen Satz hört, weiß sie dann trotzdem, dass es mehrere sind?
+Aoki: Nicht aus diesem Satz allein. Unsere deutsche Szenenbeschreibung hat dir die Mehrzahl verraten. Nakamura bräuchte ebenfalls einen passenden Zusammenhang oder eine zusätzliche Mengenangabe.
 Jonas: Wenn ich nur die Aufnahme höre und nichts über die Szene weiß, kenne ich die Anzahl dann nicht?
 Aoki: Genau. Aus dieser kurzen Form allein folgt nicht, ob ein Buch oder mehrere gemeint sind. Eine genaue Zahl lässt sich daraus erst recht nicht ableiten.
 Jonas: Kann ich zur Sicherheit immer viele übersetzen?
@@ -73,7 +75,7 @@ Aoki: Ja. Später lernen wir Zahlen mit passenden Zählwörtern. Außerdem gibt 
 Jonas: Dann darf ich aus diesem Text kein Verbot aller Mehrzahlformen machen.
 Aoki: Genau. Du sollst nur nicht bei jedem Nomen automatisch einen deutschen Artikel, eine Genusklasse und eine Pluralendung im Japanischen suchen.
 Jonas: Was trägt unser Buchwort also selbst bei?
-Aoki: Es bezeichnet ein Buch beziehungsweise Bücher als Art von Gegenstand. Welches Exemplar, wie viele und welche Rolle im Satz gemeint sind, erklären Zusammenhang, zusätzliche Angaben und Partikeln.
+Aoki: Es sagt, um welche Art von Gegenstand es geht: Buch oder Bücher. Welches Buch und wie viele gemeint sind, erfahren wir aus dem Zusammenhang oder zusätzlichen Angaben. Die Partikeln zeigen dagegen Beziehungen innerhalb des Satzes.
 Jonas: Beim Kaffee kann ich aus dem Getränkewort auch nicht auf eine bestimmte Zahl von Tassen schließen.
 Aoki: Genau. {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます} heißt Ich trinke Kaffee. Der Satz nennt weder eine Tasse noch mehrere Tassen; eine genaue Menge wäre zusätzliche Information.
 Jonas: Und die unveränderten Nomen sagen noch nichts darüber, wie höflich ich spreche.

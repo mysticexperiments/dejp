@@ -1,0 +1,80 @@
+Jonas: Até agora eu conseguia corrigir uma descrição errada. Agora quero primeiro perguntar se ela está certa.
+Aoki: Você segura na mão um objeto com capa firme. Supõe que seja um livro, mas ainda não tem certeza. Eu conheço o objeto.
+Jonas: Se eu logo disser isto é um livro, já apresento minha suposição como fato.
+Aoki: Exatamente. {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです} significa: isto é um livro. Com esse padrão, você faz uma afirmação.
+Jonas: Em vez disso, quero saber: isto é um livro?
+Aoki: Para isso, você diz {これは本ですか|これはほんですか|kore wa hon desu ka|Isto é um livro?|これわほんですか}. Significa: isto é um livro?
+Jonas: Depois do final conhecido, vem mais um som curto. Qual é sua função?
+Aoki: É {か|か|ka|partícula interrogativa}. Essa partícula transforma nossa frase afirmativa polida numa pergunta. Aqui ela fica no final de tudo, depois da finalização polida.
+Jonas: Em alemão, a afirmação Das ist ein Buch vira a pergunta Ist das ein Buch. Em japonês também se desloca alguma coisa para o começo?
+Aoki: Não no nosso padrão. As partes que já existiam mantêm sua ordem. Acrescentamos o marcador interrogativo no final, em vez de transferir a inversão alemã para o japonês.
+Jonas: Posso ouvir a afirmação e a pergunta uma logo depois da outra?
+Aoki: {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです} é a afirmação isto é um livro. Dela fazemos {これは本ですか|これはほんですか|kore wa hon desu ka|Isto é um livro?|これわほんですか}, a pergunta isto é um livro?
+Jonas: {これは本ですか|これはほんですか|kore wa hon desu ka|Isto é um livro?|これわほんですか}. Isto é um livro? Continuo mencionando o mesmo objeto e a mesma classificação suposta.
+Aoki: Isso mesmo. A novidade é que você pergunta se essa classificação está correta. Não precisa de outra ordem de palavras nem já afirma que sua suposição está certa.
+Jonas: E qual é a importância da minha voz nisso? Basta pronunciar o novo som?
+Aoki: Na nossa pergunta neutra, normalmente a voz sobe no final. A partícula interrogativa tem uma função gramatical; o tom também contribui para o efeito da sua pergunta.
+Jonas: Vamos supor que o objeto na minha mão seja mesmo um livro. Como começa uma resposta afirmativa?
+Aoki: Com {はい|はい|hai|sim}, aqui sim. Assim confirmo a classificação suposta na sua pergunta. Depois posso apresentar expressamente a informação da resposta.
+Jonas: Como fica essa resposta inteira sobre o livro?
+Aoki: {はい、本です|はいほんです|hai, hon desu|Sim, isto é um livro} significa na nossa cena: sim, isto é um livro.
+Jonas: Nessa resposta, ouço a palavra livro, mas não novamente esta coisa aqui.
+Aoki: Porque sua pergunta já deixou claro qual é o objeto. Minha resposta curta descreve a mesma coisa na sua mão. Não passo de repente a apontar para algo perto de mim.
+Jonas: Então, na resposta, não preciso de outro objeto nem de um novo começo que apresente o tema.
+Aoki: Exatamente. A pergunta fornece a referência. Livro com a finalização polida fornece a descrição confirmada. A palavra própria para sim deixa a concordância ainda mais explícita.
+Jonas: Podemos ouvir a mesma pergunta numa cena em que a resposta seja negativa?
+Aoki: Você deixa o livro de lado. Agora segura um caderno fechado e pergunta que tipo de objeto é. Eu sei que essa nova coisa não é um livro.
+Jonas: Pergunto {これは本ですか|これはほんですか|kore wa hon desu ka|Isto é um livro?|これわほんですか}: isto é um livro?
+Aoki: Minha resposta começa com {いいえ|いいえ|iie|não}, aqui não. Com isso nego sua suposição de que o objeto seja um livro.
+Jonas: Então a palavra de resposta é nova, mas já conheço a finalização negativa da frase.
+Aoki: Juntando tudo, a resposta é {いいえ、本ではありません|いいえほんではありません|iie, hon dewa arimasen|Não, isto não é um livro|いいえほんでわありません}. Significa: não, isto não é um livro.
+Jonas: Como descubro o que é, então?
+Aoki: Acrescento {ノートです|のーとです|nooto desu|Isto é um caderno}: isto é um caderno. O objeto continua o mesmo; agora forneço sua descrição correta.
+Jonas: Minha pergunta em japonês estava errada porque perguntei se era livro e não era?
+Aoki: Não. Era justamente isso que você queria descobrir. Uma pergunta formulada corretamente pode conter uma suposição que a resposta mostra estar errada.
+Jonas: Então distinguimos um erro na estrutura da frase de uma suposição incorreta.
+Aoki: Exatamente. Sua pergunta era compreensível e gramaticalmente adequada. Minha resposta corrige o conteúdo suposto, não a forma da pergunta.
+Jonas: Agora você pode perguntar diretamente a mim se sou estudante?
+Aoki: Dirijo-me expressamente a você: {学生ですか|がくせいですか|gakusei desu ka|Você é estudante?} Nesta conversa, isso significa: você é estudante?
+Jonas: Na pergunta curta não aparece uma palavra para você. Mesmo assim, como sei que se refere a mim?
+Aoki: Eu me dirigi a você e pergunto sobre sua pessoa. Esse contexto da conversa fornece a referência; ela não está escondida numa terminação especial de pessoa.
+Jonas: Como respondo de maneira suficientemente completa sem precisar aprender outra palavra?
+Aoki: Com {はい、学生です|はいがくせいです|hai, gakusei desu|Sim, eu sou estudante}: sim, eu sou estudante. Você responde à pergunta sobre si mesmo.
+Jonas: Então respondo {はい、学生です|はいがくせいです|hai, gakusei desu|Sim, eu sou estudante}: sim, eu sou estudante.
+Aoki: A pergunta se refere a você, e a resposta vem de você. Por isso, em alemão, minha pergunta usa du e sua resposta usa ich. A resposta japonesa curta não precisa de um pronome pronunciado para isso.
+Jonas: O marcador interrogativo não fica no final da minha resposta.
+Aoki: Isso mesmo. {学生ですか|がくせいですか|gakusei desu ka|Você é estudante?} pergunta aqui você é estudante? Já sua resposta {学生です|がくせいです|gakusei desu|Eu sou estudante} afirma eu sou estudante.
+Jonas: Assim a função da partícula interrogativa fica mais clara: ela pertence à pergunta, não automaticamente a toda fala da conversa.
+Aoki: Sim. Uma resposta pode ser uma afirmação comum. Não copiamos todas as partes da pergunta só porque estamos respondendo a ela.
+Jonas: Agora quero perguntar sobre uma bebida, em vez de um objeto de papel.
+Aoki: Numa nova cena, há uma xícara bem perto de você. Ela contém chá. Eu o servi; você ainda não sabe com certeza qual é o conteúdo.
+Jonas: Então, no padrão sobre o livro, preciso substituir livro por chá. Como fica o resultado completo?
+Aoki: Da pergunta conhecida sobre livro, fazemos {これはお茶ですか|これはおちゃですか|kore wa ocha desu ka|Isto é chá?|これわおちゃですか}: isto é chá? O tema e a finalização interrogativa continuam; o substantivo agora é chá.
+Jonas: {これはお茶ですか|これはおちゃですか|kore wa ocha desu ka|Isto é chá?|これわおちゃですか}. Isto é chá?
+Aoki: {はい、お茶です|はいおちゃです|hai, ocha desu|Sim, isto é chá}. Sim, isto é chá. Confirmo sua suposição sobre a bebida perto de você.
+Jonas: E, para uma resposta negativa, precisamos mudar a situação, não transformar o mesmo chá em água sem avisar.
+Aoki: Exatamente. Pegamos outro recipiente. Desta vez, há água à sua frente. Novamente eu sei o que há nele, e você pergunta se é chá.
+Jonas: {これはお茶ですか|これはおちゃですか|kore wa ocha desu ka|Isto é chá?|これわおちゃですか}. Isto é chá?
+Aoki: {いいえ、お茶じゃありません|いいえおちゃじゃありません|iie, ocha ja arimasen|Não, isto não é chá}. Não, isto não é chá. Uso a finalização negativa polida mais curta do último texto.
+Jonas: Então o não e a afirmação negativa combinam. Realmente não é chá.
+Aoki: Isso mesmo. A informação adicional é {水です|みずです|mizu desu|Isto é água}: isto é água. Agora o tipo real de bebida também está claro.
+Jonas: Por que você não disse novamente todo o começo com esta coisa aqui?
+Aoki: Continuamos falando do mesmo copo. Como no caso do livro, a resposta nominal curta basta. Se vários objetos fossem referências possíveis, primeiro precisaríamos esclarecer qual deles estamos mencionando.
+Jonas: Minha pergunta sobre chá já expressou que quero beber chá?
+Aoki: Não automaticamente. Aqui você pergunta se a bebida presente é chá. Isso não é um pedido explicitamente formulado nem uma solicitação completa de chá.
+Jonas: Então preciso distinguir a pergunta sobre o tipo de uma coisa do meu desejo.
+Aoki: Exatamente. A situação descrita dá à nossa pergunta sua finalidade. Verificamos uma descrição suposta, em vez de expressar uma ação de beber ou um desejo.
+Jonas: Apenas a palavra de resposta sim já bastaria?
+Aoki: Com referência clara, pode bastar. Nas aulas, frequentemente acrescentamos a afirmação para que você ouça o que exatamente foi confirmado. Isso não torna a palavra de resposta obrigatória antes de toda resposta.
+Jonas: E por que ainda não praticamos a pergunta isto não é chá?
+Aoki: Essa seria uma pergunta formulada de maneira negativa. Hoje perguntamos positivamente isto é chá? e respondemos de forma positiva ou negativa. O outro tipo de pergunta precisa de uma explicação própria.
+Jonas: Então não posso transferir cegamente minhas novas palavras de resposta para qualquer pergunta imaginável.
+Aoki: Isso mesmo. Primeiro você as entende nas nossas perguntas claramente formuladas de maneira positiva. Não estamos afirmando nada além disso com esses exemplos.
+Jonas: Agora posso usar o padrão tendo caderno como a suposição correta?
+Aoki: Sim. Imagine novamente o caderno na sua mão. Na pergunta, você coloca caderno no lugar de livro: {これはノートですか|これはのーとですか|kore wa nooto desu ka|Isto é um caderno?|これわのーとですか}. Isto é um caderno?
+Jonas: {これはノートですか|これはのーとですか|kore wa nooto desu ka|Isto é um caderno?|これわのーとですか}. Isto é um caderno? Desta vez, a classificação suposta está certa.
+Aoki: {はい、ノートです|はいのーとです|hai, nooto desu|Sim, isto é um caderno}. Sim, isto é um caderno. A nova pergunta só precisou de outro substantivo conhecido, não de outra estrutura.
+Jonas: Se eu retirasse completamente a finalização polida e mantivesse apenas o marcador interrogativo, seria a mesma coisa?
+Aoki: Esse não é o padrão polido que aprendemos hoje. Mantenha a finalização interrogativa completa. Aprenderemos outras formas de conversa depois, com o tom e o contexto adequados.
+Jonas: Agora consigo perguntar se uma descrição está certa. Mas, nas respostas curtas, preciso saber exatamente a quem ou a que elas se referem.
+Aoki: Vamos aprofundar isso a seguir. Deixaremos partes já claras implícitas, confirmaremos afirmações inteiras e corrigiremos suposições erradas sem perder a referência.

@@ -8,6 +8,7 @@ Portugiesisch vermittelt dieselbe Erklärung.
 
 - [Hauptplan: alle 90 Themen](planung/hauptplan.md)
 - [Block 1: vier Klassen und neun Teiltexte](planung/bloecke/block-01.md)
+- [Block 2: Kopula, vier Klassen und acht geplante Teiltexte](planung/bloecke/block-02.md)
 - [Lektionsmanifest](lektionen/index.json)
 - [Kumulatives Vokabular](lektionen/vokabular.md)
 - [Autorablauf](prompts/WORKFLOW.md)
@@ -26,11 +27,17 @@ Die neue Reihe ersetzt die fünf alten Kurzlektionen. Aktuell ausgearbeitet:
 | B01-T07 | Existenzort und Handlungsort | [Deutsch](lektionen/de-pt/block-01-text-07.txt) / [Português](lektionen/de-pt/block-01-text-07.pt.txt) |
 | B01-T08 | Artikel, Genus und Zahl | [Deutsch](lektionen/de-pt/block-01-text-08.txt) / [Português](lektionen/de-pt/block-01-text-08.pt.txt) |
 | B01-T09 | Höflicher und schlichter Stil | [Deutsch](lektionen/de-pt/block-01-text-09.txt) / [Português](lektionen/de-pt/block-01-text-09.pt.txt) |
+| B02-T01 | Das ist kein Buch | [Deutsch](lektionen/de-pt/block-02-text-01.txt) / [Português](lektionen/de-pt/block-02-text-01.pt.txt) |
+| B02-T02 | Kürzer gesprochen, weiterhin höflich | [Deutsch](lektionen/de-pt/block-02-text-02.txt) / [Português](lektionen/de-pt/block-02-text-02.pt.txt) |
+| B02-T03 | Ist das ein Buch? | [Deutsch](lektionen/de-pt/block-02-text-03.txt) / [Português](lektionen/de-pt/block-02-text-03.pt.txt) |
+| B02-T04 | Kurz antworten, den Bezug behalten | [Deutsch](lektionen/de-pt/block-02-text-04.txt) / [Português](lektionen/de-pt/block-02-text-04.pt.txt) |
 
-Block 1 ist vollständig ausgearbeitet: neun Texte in vier Klassen, jeweils
-80 deutsche und 80 portugiesische Dialogzeilen. Das sind 720 Zeilen je
-Sprache. Die ersten drei Texte bleiben unverändert; T04–T09 führen ihre
-Beispiele und Begriffe weiter. Weitere Blöcke sind noch nicht ausgearbeitet.
+Block 1 ist vollständig ausgearbeitet: neun Texte in vier Klassen mit
+80–88 Dialogzeilen je Sprache nach der redaktionellen Überarbeitung.
+Von Block 2 sind die ersten vier der acht geplanten Texte geschrieben:
+82, 82, 80 und 86 Zeilen je Sprache, zusammen 330 je Sprache.
+Sie bauen Verneinung, Fragen und passende Antworten auf. Texte 5–8 sind
+weiterhin geplant, nicht geschrieben oder im Manifest registriert.
 
 ## Hören und Dateiformat
 
@@ -62,6 +69,7 @@ Die Prüfung kontrolliert Format, Länge, Tagstruktur und Parallelität.
 Sie beweist weder sprachliche Richtigkeit noch Lernerfolg.
 [Prüfbericht zur ersten Lieferung](planung/pruefung-block-01-texte-01-03.md)
 und [Prüfbericht zur Vervollständigung](planung/pruefung-block-01-texte-04-09.md).
+Für den neuen Abschnitt: [Prüfbericht Block 2, Texte 1–4](planung/pruefung-block-02-texte-01-04.md).
 Struktur und erzeugte Sprachsegmente sind geprüft; eine reale Hörprobe auf
 dem Zielgerät und eine unabhängige sprachliche Abnahme stehen noch aus.
 

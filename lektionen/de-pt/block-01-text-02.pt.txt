@@ -8,7 +8,7 @@ Jonas: Preciso saber de quais terminações essa forma é feita antes de usá-la
 Aoki: Não, para esta frase você aprende a forma completa com seu significado; depois vamos explicar passo a passo como se formam os verbos.
 Jonas: Também preciso da bebida, porque não quero dizer apenas que bebo alguma coisa.
 Aoki: Café é {コーヒー|こーひー|koohii|café}; agora temos a ação e também a coisa que você bebe.
-Jonas: Na frase alemã Eu bebo café, o verbo fica entre a pessoa e a bebida.
+Jonas: Na frase alemã que significa Eu bebo café, o verbo fica entre a pessoa e a bebida.
 Aoki: No modelo japonês que vamos aprender agora, a bebida vem antes do verbo; a ação é mencionada mais tarde do que na oração principal alemã.
 Jonas: Então posso simplesmente colocar eu, café e beber nessa ordem, e a frase já está pronta?
 Aoki: No nosso modelo completo também precisamos de marcadores que mostrem qual palavra é o tema e qual é o objeto.
@@ -23,9 +23,9 @@ Aoki: {私はコーヒーを飲みます|わたしはこーひーをのみます
 Jonas: No começo reconheço a mim mesmo como tema, igual à minha apresentação do primeiro texto.
 Aoki: Sim, {私は|わたしは|watashi wa|quanto a mim|わたしわ} anuncia aqui que você diz algo sobre si; agora a nova informação descreve sua ação.
 Jonas: Depois desse começo vem café com o marcador de objeto, e só depois aparece a forma de beber.
-Aoki: Exatamente, a organização é: Quanto a mim, café eu bebo; naturalmente, traduzimos a frase pronta para o alemão na ordem Eu bebo café.
-Jonas: Então essa ordem incomum em alemão é só uma ajuda para entender a estrutura, não a tradução normal.
-Aoki: Isso; a tradução do sentido continua sendo uma frase alemã normal, mesmo quando explicamos as partes japonesas na ordem delas.
+Aoki: Ouça o elemento do meio: {コーヒーを|こーひーを|koohii o|café como objeto|こーひーお}. Ele menciona café e o marca como aquilo que é bebido. Esse elemento vem antes da ação.
+Jonas: E ouço a ação em {飲みます|のみます|nomimasu|beber}. Aqui significa bebo e vem depois de café com seu marcador.
+Aoki: Exatamente. A ordem das funções é: tema, bebida como objeto, ação. Isso descreve os elementos japoneses, não é uma frase de exemplo em alemão. A tradução natural significa Eu bebo café.
 Jonas: Você pode repetir a frase para eu prestar atenção no verbo bem no final?
 Aoki: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます} significa Eu bebo café; a última parte indica beber e termina essa afirmação educada.
 Jonas: Depois do verbo preciso acrescentar o fecho educado da minha frase Eu sou estudante?
@@ -42,8 +42,8 @@ Jonas: Então o pequeno marcador de objeto continua depois da bebida, embora ch�
 Aoki: Sim, {を|を|o|partícula de objeto|お} não depende aqui do tamanho da palavra da bebida; a partícula marca a função dessa palavra na ação de beber.
 Jonas: Quero comparar as duas afirmações prontas diretamente, para não mudar o verbo por engano.
 Aoki: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます} significa Eu bebo café, e {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Eu bebo chá|わたしわおちゃおのみます} significa Eu bebo chá.
-Jonas: Ouço o mesmo começo e o mesmo final; só no meio aparece outra bebida antes do marcador de objeto.
-Aoki: É aí que muda o significado, e as outras partes ajudam você a acompanhar, porque já conhece suas funções.
+Jonas: Então, para minha escolha de chá, digo {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Eu bebo chá|わたしわおちゃおのみます}: eu bebo chá. O marcador depois de chá não pertence à palavra beber.
+Aoki: Isso mesmo. Ouça a unidade {お茶を|おちゃを|ocha o|chá como objeto|おちゃお}: chá com o marcador de objeto. Na frase inteira, o verbo vem depois. A bebida muda, mas sua função continua igual.
 Jonas: Se eu não quiser uma bebida quente e escolher água, posso usar o mesmo procedimento?
 Aoki: Sim, água é {水|みず|mizu|água}; colocamos essa palavra no lugar da bebida, sem mudar a ação.
 Jonas: Então a nova frase mostra que bebo água, mas continuo falando de mim mesmo.
@@ -52,8 +52,8 @@ Jonas: Então os pequenos marcadores mostram funções diferentes: um acompanha 
 Aoki: Exatamente; {は|は|wa|partícula de tema|わ} anuncia aqui o tema, enquanto {を|を|o|partícula de objeto|お} marca a bebida como objeto da ação de beber.
 Jonas: Posso trocar os dois marcadores de lugar, se ainda usar as mesmas palavras para eu, água e beber?
 Aoki: Assim o modelo que explicamos já não seria o mesmo; os marcadores não são enfeites, eles mostram como as palavras se ligam à afirmação.
-Jonas: Então não basta reconhecer as palavras; também preciso ouvir qual partícula vem depois de cada uma.
-Aoki: Sim, por isso observamos a pessoa e a bebida, cada uma com seu marcador, antes de ouvir o verbo final.
+Jonas: Com água, tento assim: {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Eu bebo água|わたしわみずおのみます}. Eu bebo água. Desta vez, qual elemento ouço entre o tema e o verbo?
+Aoki: {水を|みずを|mizu o|água como objeto|みずお}, ou seja, água com o marcador de objeto. Você não mudou o verbo; colocou exatamente a unidade que informa o que bebe.
 Jonas: A frase Eu bebo café significa que estou tomando um gole exatamente neste momento?
 Aoki: Essa forma sozinha não diz isso; na nossa situação da pausa, ela expressa sua escolha, e em outro contexto adequado pode expressar um hábito.
 Jonas: Então para dizer claramente que estou bebendo agora, preciso aprender depois outra forma.
@@ -64,8 +64,8 @@ Jonas: Vou descrever a afirmação pelas funções: falar de mim, mencionar águ
 Aoki: É exatamente isso que você ouve em {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Eu bebo água|わたしわみずおのみます}, ou seja, Eu bebo água.
 Jonas: E se a situação pedir café de novo, mudo só a parte da bebida, sem mudar a frase toda por hábito.
 Aoki: Então você volta a {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます}, com o significado completo Eu bebo café.
-Jonas: Ajuda ouvir o resultado depois de cada troca; assim consigo ligar a explicação ao som real.
-Aoki: Exatamente, a mesma estrutura aparece com bebidas diferentes, e você não precisa adivinhar a nova frase a partir de uma simples instrução.
+Jonas: Imagine que eu queria água, mas disse a frase do café. Nesse caso, Nakamura entende minha escolha de forma errada, embora minha frase esteja gramaticalmente correta.
+Aoki: Exatamente. Você corrige a escolha da bebida com {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Eu bebo água|わたしわみずおのみます}: eu bebo água. A estrutura estava certa; a bebida precisava corresponder à sua intenção.
 Jonas: Mas não posso concluir que basta substituir qualquer verbo alemão por esse mesmo final japonês.
 Aoki: Isso, {飲みます|のみます|nomimasu|beber} é a forma específica para beber; para outras ações, você precisa de outros verbos explicados.
 Jonas: Para nossa pausa agora tenho três possibilidades claras: beber café, chá ou água.

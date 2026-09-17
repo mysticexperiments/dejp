@@ -16,11 +16,11 @@ Jonas: Então essa forma significa senhora, e só posso usá-la para uma mulher?
 Aoki: Não, {さん|さん|san|forma respeitosa após o nome} não se limita às mulheres; senhora é a tradução adequada para esta pessoa específica no exemplo alemão.
 Jonas: Qual parte da minha frase sobre chá eu troco exatamente, sem perder a partícula por engano?
 Aoki: Você substitui a palavra eu pelo nome com a forma respeitosa; {は|は|wa|partícula de tema|わ} continua depois e agora marca Nakamura como tema.
-Jonas: Então quero ouvir a nova frase inteira, não apenas saber em que lugar devo mudar alguma coisa.
+Jonas: Já vou tentar o novo começo: {中村さんは|なかむらさんは|Nakamura san wa|senhora Nakamura como tema|なかむらさんわ}. Assim apresento a senhora Nakamura como tema. Como continua a frase inteira?
 Aoki: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura san wa ocha o nomimasu|A senhora Nakamura bebe chá|なかむらさんわおちゃおのみます} significa A senhora Nakamura bebe chá.
 Jonas: Agora a frase diz que Nakamura bebe chá; ela já não diz que eu bebo chá.
 Aoki: Exatamente, a pessoa mencionada mudou, mas chá como objeto e beber como ação continuaram iguais.
-Jonas: Em alemão, Eu bebo chá virou A senhora Nakamura bebe chá; nessa língua o verbo também mudou.
+Jonas: Em alemão, passamos da frase que significa Eu bebo chá para a que significa A senhora Nakamura bebe chá; nessa língua, a forma do verbo também mudou.
 Aoki: Em japonês, {飲みます|のみます|nomimasu|beber} continua nos dois exemplos; essa forma verbal não muda conforme a ação seja minha ou de outra pessoa.
 Jonas: Então isso não significa que os verbos japoneses nunca mudam de forma.
 Aoki: Isso, tempo, negação e outras funções gramaticais podem mudar a forma; só trocar eu por Nakamura não exige aqui uma nova forma verbal.
@@ -32,8 +32,8 @@ Jonas: Se Nakamura escolher café em vez de chá, quero mudar primeiro a bebida,
 Aoki: Então partimos da frase sobre o chá de Nakamura e substituímos apenas chá pela palavra café, que já conhecemos.
 Jonas: Como fica o resultado, quando falamos de novo todas as partes que não mudaram?
 Aoki: {中村さんはコーヒーを飲みます|なかむらさんはこーひーをのみます|Nakamura san wa koohii o nomimasu|A senhora Nakamura bebe café|なかむらさんわこーひーおのみます} significa A senhora Nakamura bebe café.
-Jonas: A frase continua falando da mesma colega, mas agora a informação sobre a bebida dela é outra.
-Aoki: Isso, o começo com o tema continua identificando Nakamura; só mudou a bebida antes da partícula de objeto.
+Jonas: Informo a escolha dela: {中村さんはコーヒーを飲みます|なかむらさんはこーひーをのみます|Nakamura san wa koohii o nomimasu|A senhora Nakamura bebe café|なかむらさんわこーひーおのみます}. A senhora Nakamura bebe café. Mas com isso ainda não estou pedindo um café para ela, certo?
+Aoki: Isso mesmo. Você informa a escolha de bebida dela. Se alguém entende isso como um pedido depende da situação; ainda não aprendemos a fazer um pedido explícito.
 Jonas: Assim conheci duas mudanças diferentes: primeiro substituir eu por Nakamura, e depois substituir o chá dela por café.
 Aoki: Exatamente, e como fizemos uma depois da outra, você consegue ligar cada mudança de sentido a uma parte específica da frase.
 Jonas: Se agora eu quiser falar de você, também preciso do seu nome na forma japonesa.
@@ -52,8 +52,8 @@ Jonas: No primeiro passo substituo a senhora Aoki por eu e ainda mantenho o caf�
 Aoki: Então o resultado é {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます}, ou seja, Eu bebo café.
 Jonas: Só no segundo passo substituo café por água; nessa altura o tema já sou eu mesmo.
 Aoki: Assim temos {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Eu bebo água|わたしわみずおのみます}, e a frase completa significa Eu bebo água.
-Jonas: Assim, depois de cada passo, consigo dizer o que a frase significa, em vez de só trocar palavras em lugares diferentes.
-Aoki: Exatamente, depois do primeiro passo mudou a pessoa, depois do segundo a bebida; tema, objeto e verbo mantiveram suas funções já explicadas.
+Jonas: Se eu deixar seu nome por engano, a pessoa entende A senhora Aoki bebe água. Isso não seria minha própria escolha de água.
+Aoki: Exatamente. Sua própria escolha é {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Eu bebo água|わたしわみずおのみます}: eu bebo água. Aqui o começo determina de quem você fala; água e beber, sozinhos, não bastam para isso.
 Jonas: Mencionar outra pessoa também funciona no meu primeiro tipo de frase, quando digo quem alguém é?
 Aoki: Sim, podemos manter a afirmação conhecida sobre ser professora e agora mencionar meu nome explicitamente como tema.
 Jonas: Então o resultado precisa ser uma frase sobre a senhora Aoki, não uma frase em que eu viro professor de repente.
@@ -70,8 +70,8 @@ Jonas: Os dois nomes ditos em voz alta me ajudam a ligar chá e café às pessoa
 Aoki: Exatamente, e as partículas continuam mostrando suas funções: o marcador de tema depois da pessoa e o de objeto depois da bebida correspondente.
 Jonas: Outra pessoa não significa automaticamente outra bebida, e outra bebida não significa automaticamente outra pessoa.
 Aoki: Isso; são duas informações que podem mudar separadamente, e cada exemplo completo mostra exatamente a mudança de que estamos falando.
-Jonas: Para terminar, quero dizer que Nakamura bebe água, escolhendo conscientemente as duas partes.
-Aoki: O resultado é {中村さんは水を飲みます|なかむらさんはみずをのみます|Nakamura san wa mizu o nomimasu|A senhora Nakamura bebe água|なかむらさんわみずおのみます}; o significado completo é A senhora Nakamura bebe água.
+Jonas: Agora mudo a escolha dela para água: {中村さんは水を飲みます|なかむらさんはみずをのみます|Nakamura san wa mizu o nomimasu|A senhora Nakamura bebe água|なかむらさんわみずおのみます}. A senhora Nakamura bebe água. O nome dela permanece, mas chá é substituído por água.
+Aoki: Assim a nova escolha fica clara. Primeiro tínhamos Nakamura com chá e Aoki com café. Agora você mudou apenas a bebida de Nakamura; essa nova frase não diz nada sobre a escolha de Aoki.
 Jonas: Agora reconheço o nome dela como tema, água como o que é bebido e a mesma forma verbal que já ouvi ao falar de mim.
 Aoki: Exatamente, assim você consegue não só repetir a frase, mas também explicar por que ela fala de Nakamura e da bebida dela.
 Jonas: Mesmo assim, numa conversa real provavelmente não ouço um nome completo de novo antes de cada afirmação.

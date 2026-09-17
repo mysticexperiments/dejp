@@ -1,0 +1,82 @@
+Jonas: Ich kann mich vorstellen und sagen, was etwas ist. Aber was sage ich, wenn jemand etwas verwechselt?
+Aoki: Dafür brauchen wir eine Verneinung. Stell dir vor, wir bereiten die Büropause vor. Auf dem Tisch liegen ein Buch und ein Notizheft.
+Jonas: Beginnen wir mit dem Buch. Darüber kann ich schon eine richtige Aussage machen.
+Aoki: Nimm das Buch gedanklich in die Hand. Du sagst {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです}. Das bedeutet: Das ist ein Buch.
+Jonas: {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです}. Das ist ein Buch. Ich sage damit, zu welcher Art von Gegenstand dieses Ding gehört.
+Aoki: Genau. Nun legst du das Buch zurück und nimmst das Notizheft. Jemand hält es ebenfalls für ein Buch. Diese Vermutung möchtest du korrigieren.
+Jonas: Ich möchte also über den Gegenstand in meiner Hand sagen: Das ist kein Buch.
+Aoki: Dafür lautet der ganze Satz {これは本ではありません|これはほんではありません|kore wa hon dewa arimasen|Das ist kein Buch|これわほんでわありません}. Das bedeutet: Das ist kein Buch.
+Jonas: Das Ende ist viel länger als vorher. Welchen Teil muss ich neu lernen?
+Aoki: Den Abschluss {ではありません|ではありません|dewa arimasen|höflicher negativer Nominalabschluss|でわありません}. Er verneint hier die Zuordnung: Der Gegenstand ist kein Buch.
+Jonas: Muss ich diesen langen Abschluss zusätzlich hinter den alten setzen?
+Aoki: Nein. Im Ausgangssatz steht {です|です|desu|höflicher Nominalabschluss}, der bekannte höfliche Abschluss. Für unsere Verneinung ersetzen wir ihn durch den neuen negativen Abschluss.
+Jonas: Das Wort für Buch selbst bleibt also unverändert?
+Aoki: Ja. {本|ほん|hon|Buch} bedeutet weiterhin Buch. Verneint wird nicht das Wort allein, sondern die Aussage, dass unser Gegenstand ein Buch ist.
+Jonas: Kann ich den Austausch mit beiden vollständigen Sätzen hören?
+Aoki: {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです} heißt Das ist ein Buch. Mit dem anderen Abschluss entsteht {これは本ではありません|これはほんではありません|kore wa hon dewa arimasen|Das ist kein Buch|これわほんでわありません}: Das ist kein Buch.
+Jonas: Der Anfang nennt weiterhin dieses Ding hier als Thema. Die Änderung kommt nach Buch.
+Aoki: Richtig. Die Reihenfolge bleibt: dieses Ding als Thema, Buch als vermutete Zuordnung, dann der Abschluss, der diese Zuordnung verneint.
+Jonas: Ich probiere die Korrektur selbst: {これは本ではありません|これはほんではありません|kore wa hon dewa arimasen|Das ist kein Buch|これわほんでわありません}. Das ist kein Buch.
+Aoki: Damit weist du die falsche Vermutung über das Notizheft zurück. Du hast nicht das Thema gewechselt und nicht über einen anderen Gegenstand gesprochen.
+Jonas: Im neuen Abschluss höre ich einen Laut, den ich vom Themenmarker kenne.
+Aoki: Der Anfang des Abschlusses lautet {では|では|dewa|Anfang des hier gelernten negativen Abschlusses|でわ}. Höre ihn hier als Anfang der ganzen Negativform, nicht als neue Ortsangabe.
+Jonas: Warum erwähnst du den Ort? Wir haben doch noch gar kein Zimmer genannt.
+Aoki: Du kennst einen ähnlich klingenden Marker vom Ort des Trinkens. Diese ältere Ortsregel erklärt unseren negativen Abschluss nicht. Gleiche Laute müssen nicht dieselbe Aufgabe haben.
+Jonas: Und der Themenmarker am Anfang des Satzes bleibt trotzdem hörbar?
+Aoki: Ja. {これは|これは|kore wa|dies hier als Thema|これわ} nennt dieses Ding als Thema. Später folgt die Negativform. Die beiden Stellen erfüllen nicht dieselbe Aufgabe.
+Jonas: Wenn ich nur höre und nichts lese, muss ich also vor allem die ganzen Einheiten unterscheiden.
+Aoki: Genau. Höre {本ではありません|ほんではありません|hon dewa arimasen|Es ist kein Buch|ほんでわありません}: Es ist kein Buch. Buch und der negative Abschluss bilden hier die Aussage über den bekannten Gegenstand.
+Jonas: Habe ich damit auch gesagt, dass im ganzen Zimmer kein Buch vorhanden ist?
+Aoki: Nein. Auf dem Tisch liegt weiterhin das andere Buch. Deine Aussage betrifft nur das Ding in deiner Hand: Dieses Ding ist kein Buch.
+Jonas: Und wissen die anderen nun automatisch, dass ich ein Notizheft halte?
+Aoki: Noch nicht. Es könnte nach deiner Verneinung auch etwas anderes sein. Um das Notizheft ausdrücklich zu nennen, brauchst du eine zweite Information.
+Jonas: Dann fehlt mir jetzt das japanische Wort für Notizheft.
+Aoki: Das Wort lautet {ノート|のーと|nooto|Notizheft}. Es bedeutet hier Heft oder Notizheft, in das man schreibt, nicht einen tragbaren Computer.
+Jonas: Wie sage ich vollständig, dass der Gegenstand ein Notizheft ist?
+Aoki: {これはノートです|これはのーとです|kore wa nooto desu|Das ist ein Notizheft|これわのーとです} bedeutet: Das ist ein Notizheft. Jetzt bejahst du die richtige Zuordnung.
+Jonas: Also erst {これは本ではありません|これはほんではありません|kore wa hon dewa arimasen|Das ist kein Buch|これわほんでわありません}: Das ist kein Buch. Danach {これはノートです|これはのーとです|kore wa nooto desu|Das ist ein Notizheft|これわのーとです}: Das ist ein Notizheft.
+Aoki: Genau. Die erste Aussage beseitigt den Irrtum. Die zweite erklärt, was tatsächlich vorliegt. Beide betreffen denselben Gegenstand.
+Jonas: Im zweiten Satz ist der negative Abschluss wieder verschwunden.
+Aoki: Weil du die zweite Zuordnung nicht verneinst. Das Ding ist wirklich ein Notizheft. Die Korrektur braucht deshalb eine negative und eine positive Aussage.
+Jonas: Können wir dasselbe mit etwas machen, das schon in unserer Pause vorkommt?
+Aoki: Stell dir nun ein Glas Wasser direkt vor dir vor. Jemand vermutet, es sei Tee. Du weißt aber, dass du Wasser vor dir hast.
+Jonas: Das Wort für Tee kenne ich. Es soll an die Stelle von Buch treten.
+Aoki: Aus {これは本ではありません|これはほんではありません|kore wa hon dewa arimasen|Das ist kein Buch|これわほんでわありません}, Das ist kein Buch, wird {これはお茶ではありません|これはおちゃではありません|kore wa ocha dewa arimasen|Das ist kein Tee|これわおちゃでわありません}: Das ist kein Tee.
+Jonas: {これはお茶ではありません|これはおちゃではありません|kore wa ocha dewa arimasen|Das ist kein Tee|これわおちゃでわありません}. Das ist kein Tee. Ich habe die verneinte Zuordnung geändert, nicht den ganzen Bauplan.
+Aoki: Richtig. Der Anfang und der negative Abschluss bleiben gleich. An der Stelle des Nomens steht jetzt Tee statt Buch.
+Jonas: Wie folgt dann die richtige Angabe über den Inhalt des Glases?
+Aoki: Mit {これは水です|これはみずです|kore wa mizu desu|Das ist Wasser|これわみずです}: Das ist Wasser. Du verneinst Tee und benennst anschließend Wasser.
+Jonas: {これは水です|これはみずです|kore wa mizu desu|Das ist Wasser|これわみずです}. Das ist Wasser. Ich sage damit noch nicht, dass ich es trinke.
+Aoki: Genau. Ein Getränk benennen ist etwas anderes als eine Trinkhandlung beschreiben. Unser heutiges Muster sagt, was etwas ist oder nicht ist.
+Jonas: Gilt dieser negative Abschluss auch bei einer Aussage über meine eigene Person?
+Aoki: Ja. Nehmen wir an, jemand hält dich für einen Lehrer. In unserer Geschichte bist du Student und arbeitest nebenbei im Büro, aber du bist kein Lehrer.
+Jonas: Für die neutrale eigene Berufsangabe kenne ich das Wort {教師|きょうし|kyoushi|Lehrer oder Lehrerin von Beruf}, also Lehrer oder Lehrerin von Beruf.
+Aoki: Damit sagst du {私は教師ではありません|わたしはきょうしではありません|watashi wa kyoushi dewa arimasen|Ich bin kein Lehrer|わたしわきょうしでわありません}. Das bedeutet, von dir gesprochen: Ich bin kein Lehrer.
+Jonas: {私は教師ではありません|わたしはきょうしではありません|watashi wa kyoushi dewa arimasen|Ich bin kein Lehrer|わたしわきょうしでわありません}. Ich bin kein Lehrer. Der Abschluss ist derselbe wie bei unserem Buch.
+Aoki: Ja. Wir haben ein anderes Thema und ein anderes Nomen, aber wieder eine verneinte nominale Beschreibung. Die Form ändert sich nicht bloß deshalb, weil du über dich sprichst.
+Jonas: Danach kann ich sagen, was auf mich zutrifft: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}. Ich bin Student.
+Aoki: Das ist deine passende positive Angabe. Allerdings beweist Student sein allein nicht, dass jemand kein Lehrer sein kann. Wir kennen deine konkrete Rolle aus unserer Geschichte.
+Jonas: Sonst würde ich aus der Grammatik plötzlich eine Regel über Berufe machen.
+Aoki: Genau. Die Sprache verneint eine bestimmte Angabe. Ob zwei Tätigkeiten zusammen möglich sind, entscheidet nicht dieser Abschluss.
+Jonas: Im Deutschen sage ich kein Buch und kein Lehrer. Bei einem Namen klingt das anders.
+Aoki: Ja. Im Deutschen heißt es beispielsweise Ich bin nicht Aoki. Dieselbe japanische Negativform kann in unserer Situation auch eine falsche Namenszuordnung zurückweisen.
+Jonas: Wie klingt das, wenn jemand mich mit dir verwechselt?
+Aoki: Du sagst {私は青木ではありません|わたしはあおきではありません|watashi wa Aoki dewa arimasen|Ich bin nicht Aoki|わたしわあおきでわありません}: Ich bin nicht Aoki. Hier berichtigt der Name eine Verwechslung deiner eigenen Identität.
+Jonas: Und dann ergänze ich {ヨナスです|よなすです|Yonasu desu|Ich bin Jonas}: Ich bin Jonas. So weiß die Person auch, wer ich wirklich bin.
+Aoki: Genau. In dieser Selbstidentifikation steht kein respektvoller Namenszusatz am eigenen Namen. Wenn du dagegen über mich als andere Person sprichst, gilt wieder der bekannte andere Kontext.
+Jonas: Der japanische negative Abschluss entspricht also nicht immer genau einem deutschen Wort.
+Aoki: Richtig. Je nach deutscher Aussage übersetzen wir mit kein oder nicht. Du lernst hier die ganze japanische Konstruktion, nicht einen Ersatz für jedes deutsche Verneinungswort.
+Jonas: Gehen wir zurück zum Tisch. Jetzt nehme ich wieder das wirkliche Buch, nicht das Notizheft.
+Aoki: Gut. Diesmal hält jemand es für ein Notizheft. Das neue Wort steht nun selbst in der verneinten Zuordnung: {これはノートではありません|これはのーとではありません|kore wa nooto dewa arimasen|Das ist kein Notizheft|これわのーとでわありません}. Das ist kein Notizheft.
+Jonas: {これはノートではありません|これはのーとではありません|kore wa nooto dewa arimasen|Das ist kein Notizheft|これわのーとでわありません}. Das ist kein Notizheft. Anschließend sage ich {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです}: Das ist ein Buch.
+Aoki: Nun ist die Zuordnung genau umgekehrt wie am Anfang. Nicht die Gegenstände haben ihre Art verändert; du hast einen anderen Gegenstand genommen und eine andere Vermutung berichtigt.
+Jonas: Muss ich beim Verneinen besonders scharf oder ärgerlich sprechen?
+Aoki: Nein. Verneinung ist eine grammatische Funktion, kein Ärger. Du kannst eine falsche Angabe ruhig korrigieren; dein Ton und die Situation bleiben trotzdem wichtig.
+Jonas: Und die negative Form ist noch höflich, obwohl der vertraute positive Abschluss fehlt?
+Aoki: Ja. {ではありません|ではありません|dewa arimasen|höflicher negativer Nominalabschluss|でわありません} ist selbst der höfliche negative Abschluss dieses Musters. Du musst ihn nicht durch einen zweiten Abschluss höflicher machen.
+Jonas: Könnte ich denselben Abschluss nun auch einfach hinter mein Verb für trinken setzen?
+Aoki: So bilden wir die Verneinung einer Trinkhandlung nicht. Heute verändern wir nominale Aussagen wie Buch sein oder Lehrer sein. Verben erhalten später ihre eigenen Erklärungen.
+Jonas: Ich brauche also zuerst die Frage: Was genau möchte ich verneinen?
+Aoki: Ja. Beim Notizheft bestreitest du Buch sein, beim Wasser Tee sein, bei deiner Person Lehrer sein. Die passende positive Information sagst du jeweils zusätzlich.
+Jonas: Dann kann ich eine Verwechslung schon berichtigen. Manchmal höre ich aber eine kürzere negative Form.
+Aoki: Die nehmen wir als Nächstes. Du wirst dieselbe Verneinung mit einem kürzeren Anfang hören und verstehen, warum kürzer hier nicht automatisch unhöflich bedeutet.

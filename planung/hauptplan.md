@@ -66,6 +66,7 @@ der Vorlage durch die ausdrücklich gewählte Hörform ersetzt.
   Anweisung, überall です wegzulassen.
 - Beispiele aus der Karte: これは本です。— Das ist ein Buch.
   これは本じゃありません。— Das ist kein Buch.
+- Ausarbeitung: [Block 2](bloecke/block-02.md), vier Klassen mit acht geplanten Hörtexten.
 
 ### 3. は — Thema
 

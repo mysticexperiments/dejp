@@ -1,0 +1,80 @@
+Jonas: Bisher konnte ich eine falsche Beschreibung korrigieren. Jetzt möchte ich zuerst fragen, ob sie überhaupt stimmt.
+Aoki: Du hältst einen Gegenstand mit einem festen Einband in der Hand. Du vermutest ein Buch, bist aber noch nicht sicher. Ich kenne den Gegenstand.
+Jonas: Wenn ich sofort Das ist ein Buch sage, stelle ich meine Vermutung schon als Tatsache dar.
+Aoki: Genau. {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです} bedeutet: Das ist ein Buch. Mit diesem Muster machst du eine Aussage.
+Jonas: Ich möchte stattdessen wissen: Ist das ein Buch?
+Aoki: Dafür sagst du {これは本ですか|これはほんですか|kore wa hon desu ka|Ist das ein Buch?|これわほんですか}. Das bedeutet: Ist das ein Buch?
+Jonas: Nach dem bekannten Ende kommt noch ein kurzer Laut. Welche Aufgabe hat er?
+Aoki: Das ist {か|か|ka|Fragepartikel}. Diese Partikel macht aus unserem höflichen Aussagesatz eine Frage. Sie steht hier ganz am Ende, nach dem höflichen Abschluss.
+Jonas: Im Deutschen wird aus Das ist ein Buch die Frage Ist das ein Buch. Wandert im Japanischen auch etwas nach vorn?
+Aoki: Nicht in unserem Muster. Die bisherigen Teile bleiben in ihrer Reihenfolge. Wir ergänzen den Fragemarker am Ende, statt die deutsche Umstellung zu übertragen.
+Jonas: Kann ich Aussage und Frage direkt nacheinander hören?
+Aoki: {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです} ist die Aussage Das ist ein Buch. Daraus wird {これは本ですか|これはほんですか|kore wa hon desu ka|Ist das ein Buch?|これわほんですか}, die Frage Ist das ein Buch?
+Jonas: {これは本ですか|これはほんですか|kore wa hon desu ka|Ist das ein Buch?|これわほんですか}. Ist das ein Buch? Ich nenne weiterhin denselben Gegenstand und dieselbe vermutete Zuordnung.
+Aoki: Richtig. Neu ist, dass du die Zuordnung erfragst. Du verlangst keine andere Wortstellung und behauptest noch nicht, dass deine Vermutung stimmt.
+Jonas: Und wie wichtig ist meine Stimme dabei? Reicht es, dass ich den neuen Laut ausspreche?
+Aoki: Bei unserer neutralen Frage hört man gewöhnlich eine steigende Stimme am Schluss. Die Fragepartikel trägt eine grammatische Funktion; der Ton trägt trotzdem zur Wirkung deiner Frage bei.
+Jonas: Nehmen wir an, der Gegenstand in meiner Hand ist wirklich ein Buch. Wie beginnt eine bestätigende Antwort?
+Aoki: Mit {はい|はい|hai|ja}, hier ja. Damit bestätige ich die in deiner Frage vermutete Zuordnung. Danach kann ich die sachliche Antwort ausdrücklich nennen.
+Jonas: Wie klingt diese ganze Antwort über das Buch?
+Aoki: {はい、本です|はいほんです|hai, hon desu|Ja, das ist ein Buch} bedeutet in unserer Szene: Ja, das ist ein Buch.
+Jonas: In dieser Antwort höre ich das Wort für Buch, aber nicht noch einmal dieses Ding hier.
+Aoki: Weil dein Gegenstand durch die Frage schon eindeutig ist. Meine kurze Antwort beschreibt dasselbe Ding in deiner Hand. Ich zeige nicht plötzlich auf etwas bei mir.
+Jonas: Damit brauche ich in der Antwort keinen neuen Gegenstand und keinen neuen Themenanfang.
+Aoki: Genau. Die Frage liefert den Bezug. Buch mit dem höflichen Abschluss liefert die bestätigte Beschreibung. Das eigene Wort für ja macht die Zustimmung zusätzlich deutlich.
+Jonas: Können wir dieselbe Frage in einer Szene hören, in der die Antwort negativ ausfällt?
+Aoki: Du legst das Buch weg. Jetzt hältst du ein geschlossenes Notizheft und fragst nach seiner Art. Ich weiß, dass dieses neue Ding kein Buch ist.
+Jonas: Ich frage {これは本ですか|これはほんですか|kore wa hon desu ka|Ist das ein Buch?|これわほんですか}: Ist das ein Buch?
+Aoki: Meine Antwort beginnt mit {いいえ|いいえ|iie|nein}, hier nein. Damit verneine ich deine Vermutung, dass der Gegenstand ein Buch ist.
+Jonas: Das Antwortwort ist also neu, aber den negativen Satzabschluss kenne ich bereits.
+Aoki: Zusammen lautet die Antwort {いいえ、本ではありません|いいえほんではありません|iie, hon dewa arimasen|Nein, das ist kein Buch|いいえほんでわありません}. Das bedeutet: Nein, das ist kein Buch.
+Jonas: Woher erfahre ich, was es stattdessen ist?
+Aoki: Ich ergänze {ノートです|のーとです|nooto desu|Das ist ein Notizheft}: Das ist ein Notizheft. Der Gegenstand bleibt derselbe; ich liefere jetzt seine richtige Beschreibung.
+Jonas: War meine japanische Frage falsch, weil ich nach einem Buch gefragt habe und es keines ist?
+Aoki: Nein. Gerade das wolltest du herausfinden. Eine korrekt gestellte Frage kann eine Vermutung enthalten, die sich durch die Antwort als falsch herausstellt.
+Jonas: Dann unterscheiden wir einen Fehler im Satzbau von einer Vermutung, die nicht stimmt.
+Aoki: Genau. Deine Frage war verständlich und grammatisch passend. Meine Antwort korrigiert ihren vermuteten Inhalt, nicht die Form deiner Frage.
+Jonas: Kannst du nun mich direkt nach meinem Studentenstatus fragen?
+Aoki: Ich wende mich ausdrücklich an dich: {学生ですか|がくせいですか|gakusei desu ka|Bist du Student?} Das heißt in diesem Gespräch: Bist du Student?
+Jonas: In der kurzen Frage fehlt ein Wort für du. Woher weiß ich trotzdem, dass ich gemeint bin?
+Aoki: Ich habe dich angesprochen und frage nach deiner Person. Dieser Gesprächsrahmen liefert den Bezug; er steckt nicht als besondere Personenendung im Abschluss.
+Jonas: Wie antworte ich darauf vollständig genug, ohne ein neues Wort lernen zu müssen?
+Aoki: Mit {はい、学生です|はいがくせいです|hai, gakusei desu|Ja, ich bin Student}: Ja, ich bin Student. Du antwortest auf die Frage nach dir selbst.
+Jonas: Dann antworte ich {はい、学生です|はいがくせいです|hai, gakusei desu|Ja, ich bin Student}: Ja, ich bin Student.
+Aoki: Die Frage betrifft dich, und die Antwort stammt von dir. Deshalb steht auf Deutsch in meiner Frage du und in deiner Antwort ich. Die japanische kurze Antwort braucht dafür kein ausgesprochenes Pronomen.
+Jonas: Der Fragemarker bleibt nicht am Ende meiner Antwort stehen.
+Aoki: Richtig. {学生ですか|がくせいですか|gakusei desu ka|Bist du Student?} fragt hier Bist du Student? Deine Antwort {学生です|がくせいです|gakusei desu|Ich bin Student} sagt dagegen Ich bin Student.
+Jonas: Damit ist die Aufgabe der Fragepartikel klarer: Sie gehört zur Frage, nicht automatisch zu jedem Gesprächsbeitrag.
+Aoki: Ja. Eine Antwort kann eine ganz normale Aussage sein. Wir übernehmen nicht einfach alle Teile der Frage, nur weil wir auf sie reagieren.
+Jonas: Ich möchte jetzt selbst nach einem Getränk fragen, statt nach einem Gegenstand aus Papier.
+Aoki: In einer neuen Szene steht eine Tasse direkt bei dir. Sie enthält Tee. Ich habe ihn eingeschenkt; du kennst den Inhalt noch nicht sicher.
+Jonas: Im Buchmuster muss ich also Buch durch Tee ersetzen. Wie klingt das vollständige Ergebnis?
+Aoki: Aus der bekannten Buchfrage wird {これはお茶ですか|これはおちゃですか|kore wa ocha desu ka|Ist das Tee?|これわおちゃですか}: Ist das Tee? Thema und Frageabschluss bleiben; das Nomen ist jetzt Tee.
+Jonas: {これはお茶ですか|これはおちゃですか|kore wa ocha desu ka|Ist das Tee?|これわおちゃですか}. Ist das Tee?
+Aoki: {はい、お茶です|はいおちゃです|hai, ocha desu|Ja, das ist Tee}. Ja, das ist Tee. Ich bestätige deine Vermutung über das Getränk bei dir.
+Jonas: Und für eine negative Antwort müssen wir die Situation ändern, nicht heimlich denselben Tee zu Wasser erklären.
+Aoki: Genau. Wir nehmen ein anderes Gefäß. Diesmal steht Wasser vor dir. Wieder weiß ich, was darin ist, und du fragst, ob es Tee ist.
+Jonas: {これはお茶ですか|これはおちゃですか|kore wa ocha desu ka|Ist das Tee?|これわおちゃですか}. Ist das Tee?
+Aoki: {いいえ、お茶じゃありません|いいえおちゃじゃありません|iie, ocha ja arimasen|Nein, das ist kein Tee}. Nein, das ist kein Tee. Ich verwende den kürzeren höflichen negativen Abschluss aus dem letzten Text.
+Jonas: Das nein und die negative Aussage passen also zusammen. Es ist wirklich kein Tee.
+Aoki: Richtig. Die zusätzliche Angabe lautet {水です|みずです|mizu desu|Das ist Wasser}: Das ist Wasser. Nun ist auch die tatsächliche Art des Getränks klar.
+Jonas: Warum hast du nicht erneut den ganzen Anfang mit dieses Ding hier gesagt?
+Aoki: Wir sprechen weiter über dasselbe Glas. Wie beim Buch genügt die kurze nominale Antwort. Wenn mehrere Dinge als Bezug möglich wären, müssten wir erst klarstellen, welches wir meinen.
+Jonas: Hat meine Frage nach Tee schon ausgedrückt, dass ich Tee trinken möchte?
+Aoki: Nicht automatisch. Du fragst hier, ob das vorhandene Getränk Tee ist. Das ist keine ausdrücklich formulierte Bestellung und keine vollständige Bitte um Tee.
+Jonas: Dann muss ich die Frage nach der Art einer Sache von meinem Wunsch unterscheiden.
+Aoki: Genau. Die beschriebene Situation gibt unserer Frage ihren Zweck. Wir prüfen eine vermutete Beschreibung, statt eine Trinkhandlung oder einen Wunsch auszudrücken.
+Jonas: Würde das bloße Antwortwort ja schon reichen?
+Aoki: Bei klarem Bezug kann es genügen. Wir ergänzen im Unterricht oft die Aussage, damit du hörst, was genau bestätigt wurde. Das macht das Antwortwort nicht zur Pflicht vor jeder Antwort.
+Jonas: Und warum üben wir noch nicht die Frage Ist das kein Tee?
+Aoki: Das wäre eine negativ formulierte Frage. Heute fragen wir positiv Ist das Tee? und antworten darauf positiv oder negativ. Die andere Art von Frage braucht eine eigene Erklärung.
+Jonas: Also darf ich meine neuen Antwortwörter nicht blind auf jede denkbare Frage übertragen.
+Aoki: Richtig. Zunächst verstehst du sie in unseren eindeutig positiv formulierten Fragen. Mehr behaupten wir mit diesen Beispielen nicht.
+Jonas: Kann ich das Muster jetzt noch mit dem Notizheft als richtiger Vermutung verwenden?
+Aoki: Ja. Nimm gedanklich wieder das Notizheft in die Hand. Statt Buch setzt du Notizheft in die Frage ein: {これはノートですか|これはのーとですか|kore wa nooto desu ka|Ist das ein Notizheft?|これわのーとですか}. Ist das ein Notizheft?
+Jonas: {これはノートですか|これはのーとですか|kore wa nooto desu ka|Ist das ein Notizheft?|これわのーとですか}. Ist das ein Notizheft? Die vermutete Zuordnung ist diesmal richtig.
+Aoki: {はい、ノートです|はいのーとです|hai, nooto desu|Ja, das ist ein Notizheft}. Ja, das ist ein Notizheft. Die neue Frage brauchte nur ein anderes bekanntes Nomen, keinen neuen Bauplan.
+Jonas: Wenn ich den höflichen Abschluss ganz wegließe und nur den Fragemarker behielte, wäre das dann dasselbe?
+Aoki: Das ist nicht unser heute gelerntes höfliches Muster. Behalte den vollständigen Frageabschluss. Andere Gesprächsformen lernen wir später mit ihrem passenden Ton und Kontext.
+Jonas: Ich kann jetzt erfragen, ob eine Beschreibung stimmt. Bei kurzen Antworten muss ich aber genau wissen, auf wen oder was sie sich beziehen.
+Aoki: Das vertiefen wir als Nächstes. Wir lassen verständliche Teile unausgesprochen, bestätigen ganze Aussagen und korrigieren falsche Vermutungen, ohne den Bezug zu verlieren.

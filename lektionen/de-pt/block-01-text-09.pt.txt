@@ -5,29 +5,29 @@ Aoki: Não. Seu estilo inicial continua sendo polido. As novas formas servem pri
 Jonas: Vamos começar com minha apresentação como estudante.
 Aoki: Quando está claro que você está se apresentando, {学生です|がくせいです|gakusei desu|Eu sou estudante} significa: eu sou estudante. O substantivo informa sua condição; a finalização torna essa afirmação polida.
 Jonas: Qual parte eu conheço como finalização polida?
-Aoki: {です|です|desu|finalização polida} é a finalização dessa frase nominal. Ele faz parte da afirmação sobre o que você é, não de um verbo de ação como beber.
-Jonas: Como essa mesma apresentação poderia soar numa forma simples em uma conversa entre pessoas próximas?
-Aoki: {学生だ|がくせいだ|gakusei da|Eu sou estudante, forma simples} também significa, nessa apresentação pessoal: eu sou estudante. A novidade é {だ|だ|da|finalização simples de uma afirmação nominal}, a finalização simples dessa frase nominal.
+Aoki: {です|です|desu|finalização polida} é a finalização dessa frase nominal. Esse elemento faz parte da afirmação sobre o que você é, não de um verbo de ação como beber.
+Jonas: Vamos supor que um conhecido conte a um amigo próximo que é estudante. Que outra forma eu poderia ouvir nessa situação?
+Aoki: Você poderia ouvir {学生だ|がくせいだ|gakusei da|Eu sou estudante, forma simples}: eu sou estudante. A novidade é {だ|だ|da|finalização simples de uma afirmação nominal}, a finalização simples dessa frase nominal. Aqui a pessoa fala de si mesma.
 Jonas: O que significa simples aqui? É uma forma pior ou incompleta?
 Aoki: Não. Simples designa aqui uma forma de estilo gramatical sem a finalização polida do primeiro exemplo. Ela pode caber em conversas entre pessoas próximas, mas não é a escolha adequada para toda situação.
-Jonas: Minha atividade ou minha condição muda por causa dessa troca?
-Aoki: Não. {学生です|がくせいです|gakusei desu|Eu sou estudante} significa eu sou estudante na forma polida. {学生だ|がくせいだ|gakusei da|Eu sou estudante, forma simples} também significa eu sou estudante, agora na forma simples. A informação básica continua igual.
+Jonas: Então, ao ouvir essa forma, reconheço a condição de estudante. A outra finalização não transforma isso em outra profissão.
+Aoki: Exatamente. {学生です|がくせいです|gakusei desu|Eu sou estudante} significa eu sou estudante na forma polida. {学生だ|がくせいだ|gakusei da|Eu sou estudante, forma simples} também significa eu sou estudante, agora na forma simples. A informação básica continua igual.
 Jonas: Posso ouvir a mesma distinção com um objeto?
 Aoki: Sim. Aponto para o livro perto de mim: {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです} significa isto é um livro. É nossa afirmação nominal polida conhecida.
 Jonas: E como essa mesma afirmação fica na forma simples?
 Aoki: {これは本だ|これはほんだ|kore wa hon da|Isto é um livro, forma simples|これわほんだ} também significa isto é um livro. Isto aqui, o marcador de tema e livro permanecem; apenas a finalização dessa afirmação nominal muda.
-Jonas: Então o objeto ao qual a frase se refere não muda de repente.
-Aoki: Isso mesmo. Não introduzimos um objeto novo nem uma negação. Comparamos a mesma afirmação sobre o mesmo livro em duas formas de estilo.
+Jonas: Para minha própria fala, continuo com {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}: isto é um livro. Por enquanto, quero apenas entender a outra forma.
+Aoki: Isso corresponde ao nosso objetivo. Você pode reconhecer o mesmo objeto nas duas versões e ainda usar a forma polida conhecida ao falar.
 Jonas: Toda frase informal precisa terminar com essa nova finalização curta?
-Aoki: Não. Aqui o usamos em afirmações nominais. Para uma frase de ação, precisamos da forma verbal adequada, não automaticamente da mesma finalização.
+Aoki: Não. Aqui usamos esse elemento em afirmações nominais. Para uma frase de ação, precisamos da forma verbal adequada, não automaticamente da mesma finalização.
 Jonas: Então vamos voltar ao meu café na pausa.
 Aoki: Se já estivermos falando da sua escolha, você diz de forma polida {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Eu bebo café|こーひーおのみます}: eu bebo café. Nessa situação clara, a pessoa não precisa ser mencionada explicitamente.
 Jonas: Onde está a polidez nessa frase de ação?
 Aoki: Na forma verbal {飲みます|のみます|nomimasu|beber, forma polida}, ou seja, beber na forma polida conhecida. A terminação {ます|ます|masu|terminação verbal polida} marca aqui a forma verbal polida; ela não significa sou por si só.
 Jonas: Qual forma eu poderia ouvir no lugar dela entre pessoas próximas?
 Aoki: A forma simples desse verbo é {飲む|のむ|nomu|beber, forma simples}, ou seja, beber. Aprenda-a agora como uma forma completa ouvida ao lado da forma polida conhecida.
-Jonas: Como fica a frase inteira sobre café com ela?
-Aoki: {コーヒーを飲む|こーひーをのむ|koohii o nomu|Eu bebo café, forma simples|こーひーおのむ} significa, na conversa sobre sua escolha: eu bebo café. Café e seu marcador de objeto permanecem; agora o verbo está na forma simples.
+Jonas: Ouço dois amigos escolhendo suas bebidas. Um pergunta ao outro o que gostaria de beber. Como poderia ser a resposta com café?
+Aoki: Ele poderia dizer {コーヒーを飲む|こーひーをのむ|koohii o nomu|Eu bebo café, forma simples|こーひーおのむ}: eu bebo café. Café e seu marcador de objeto permanecem; agora o verbo está na forma simples. A pessoa em questão é o amigo que responde.
 Jonas: Pode comparar novamente as duas versões inteiras?
 Aoki: {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Eu bebo café|こーひーおのみます} significa eu bebo café de forma polida. {コーヒーを飲む|こーひーをのむ|koohii o nomu|Eu bebo café, forma simples|こーひーおのむ} significa eu bebo café com a mesma informação básica, na forma simples. Nessa situação muda o estilo, não a bebida.
 Jonas: A forma simples surge apenas cortando a terminação polida?
@@ -40,7 +40,7 @@ Jonas: E, na forma polida de beber, continuo sem acrescentar outra finalização
 Aoki: Isso mesmo. {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Eu bebo café|こーひーおのみます} já é a frase polida completa eu bebo café. Finalização nominal e forma verbal são elementos diferentes, não palavras de polidez que se podem empilhar à vontade.
 Jonas: Podemos comparar o verbo simples também com água?
 Aoki: Sim. A afirmação polida sobre sua escolha é {水を飲みます|みずをのみます|mizu o nomimasu|Eu bebo água|みずおのみます}: eu bebo água. Na forma simples, é {水を飲む|みずをのむ|mizu o nomu|Eu bebo água, forma simples|みずおのむ}: também eu bebo água.
-Jonas: A bebida não muda qual das duas formas é polida.
+Jonas: Se a nova colega perguntar minha escolha, continuo respondendo {水を飲みます|みずをのみます|mizu o nomimasu|Eu bebo água|みずおのみます}: eu bebo água. Para isso não preciso de outro marcador de objeto.
 Aoki: Exatamente. Com café e água, a diferença de estilo continua a mesma. O marcador de objeto ainda pertence à bebida; ele não é retirado apenas porque o verbo está na forma simples.
 Jonas: E se eu falar da senhora Nakamura em vez de mim?
 Aoki: A frase polida conhecida é {中村さんはコーヒーを飲みます|なかむらさんはこーひーをのみます|Nakamura-san wa koohii o nomimasu|A senhora Nakamura bebe café|なかむらさんわこーひーおのみます}: a senhora Nakamura bebe café. Agora vamos ouvir a mesma informação numa afirmação simples.
@@ -48,8 +48,8 @@ Jonas: Qual é o resultado completo?
 Aoki: {中村さんはコーヒーを飲む|なかむらさんはこーひーをのむ|Nakamura-san wa koohii o nomu|A senhora Nakamura bebe café, forma simples|なかむらさんわこーひーおのむ} também significa a senhora Nakamura bebe café. O nome dela, o marcador de tema e a bebida permanecem; apenas a forma verbal agora é simples.
 Jonas: O tratamento respeitoso depois do nome pode continuar numa frase assim?
 Aoki: Sim. O tratamento depois do nome trata a pessoa mencionada com respeito. Aqui o estilo polido ou simples da frase diz respeito à maneira de falar com seu interlocutor. São decisões relacionadas, mas não idênticas.
-Jonas: Então falar informalmente não significa automaticamente retirar todas as expressões respeitosas.
-Aoki: Exatamente. Não mudamos sem critério o tratamento ou o nome de uma pessoa. Para seu próprio uso, nosso estilo inicial polido continua sendo a base de aprendizagem segura.
+Jonas: Então eu poderia ouvir um amigo próximo falando de Nakamura, sem que ela estivesse presente. O tratamento após o nome se refere a ela; aqui o estilo da frase diz respeito à conversa com o amigo.
+Aoki: Exatamente. Por isso, um nome mencionado respeitosamente e uma forma verbal simples podem aparecer juntos. Como você fala de uma pessoa e com quem você fala não são a mesma questão.
 Jonas: Uma forma simples é sempre mal-educada ou agressiva?
 Aoki: Não. Entre interlocutores próximos, numa situação adequada, ela pode ser perfeitamente normal. Uma forma se torna inadequada pela situação e pela relação, não apenas por se chamar simples.
 Jonas: E a forma polida não garante que toda afirmação pareça gentil?
@@ -64,8 +64,10 @@ Jonas: Então deixar a pessoa implícita é uma decisão diferente de falar de f
 Aoki: Isso mesmo. {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Eu bebo café|こーひーおのみます} significa, na situação da sua bebida, eu bebo café de forma polida, embora eu não seja mencionado explicitamente. Uma afirmação curta pode continuar sendo inteiramente polida.
 Jonas: E a forma simples também não revela pela terminação qual pessoa está sendo mencionada.
 Aoki: Exatamente. Quando o nome fica implícito, o contexto continua importante. O par de formas de hoje não transforma o verbo japonês num verbo alemão com terminações diferentes para eu e ela.
-Jonas: Se eu quiser mais polidez, poderia simplesmente dizer várias finalizações polidas em sequência?
-Aoki: Não. As formas gramaticais não ficam mais polidas quando você as duplica sem critério. Use a frase completa conhecida; outros recursos de polidez precisarão de uma explicação própria mais adiante.
+Jonas: Então vamos ensaiar outra vez minha primeira pausa no escritório. Ainda não conheço bem Nakamura e não quero soar muito íntimo sem motivo.
+Aoki: Comece mantendo o padrão polido. Se ela perguntar em alemão o que você gostaria de beber, você pode dar a resposta completa que já conhece.
+Jonas: {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Eu bebo café|こーひーおのみます}. Eu bebo café. A resposta é curta, mas a forma verbal polida permanece.
+Aoki: Isso mesmo. Você não precisa nem de uma palavra adicional para eu nem de uma segunda finalização polida. A pergunta fornece a pessoa; aqui a forma verbal fornece o estilo polido.
 Jonas: O padrão polido deste bloco já é toda a linguagem de respeito do japonês?
 Aoki: Não. Existem outras formas respeitosas e humildes de expressão. Hoje tratamos da diferença básica entre nossas afirmações polidas e algumas correspondentes simples.
 Jonas: Posso concluir pela frase sobre ser estudante que todo final polido é substituído pela mesma finalização simples?

@@ -1,5 +1,5 @@
 Jonas: Wir können sagen, wer was trinkt. Jetzt möchte ich auch verstehen, wie ein Ort in den Satz kommt.
-Aoki: Dafür bleiben wir bei einer einfachen Szene: Du bist in einem Zimmer, in dem Wasser bereitsteht. Erst beschreiben wir das Vorhandene, danach deine Getränkewahl dort.
+Aoki: Stell dir einen kleinen Raum neben dem Büro vor, in dem wir unsere Pause machen. Dort steht Wasser bereit. Erst sagen wir, was es in diesem Zimmer gibt; danach sprechen wir darüber, was du dort trinkst.
 Jonas: Welches neue Wort brauche ich für Zimmer?
 Aoki: {部屋|へや|heya|Zimmer} bedeutet Zimmer oder Raum. Unser Beispiel spielt in einem Zimmer; du musst dir kein bestimmtes Schlafzimmer vorstellen.
 Jonas: Und wie sage ich, dass Wasser vorhanden ist?
@@ -12,11 +12,17 @@ Jonas: Und hinter Wasser höre ich den Subjektmarker. Warum?
 Aoki: {が|が|ga|Subjektmarker} markiert hier das, dessen Vorhandensein wir feststellen: Wasser. Wasser ist das Subjekt dieser Aussage, obwohl es nichts tut.
 Jonas: Das ist also der angekündigte Fall, in dem das Subjekt kein handelnder Mensch ist.
 Aoki: Genau. {部屋に水があります|へやにみずがあります|heya ni mizu ga arimasu|Im Zimmer gibt es Wasser} heißt Im Zimmer gibt es Wasser. Der Ort ist das Zimmer; das Vorhandene ist Wasser; die Aussage endet mit der höflichen Existenzform.
+Jonas: Den ganzen Satz finde ich noch lang. Wie klingt zuerst nur die Ortsangabe?
+Aoki: {部屋に|へやに|heya ni|im Zimmer, Ort des Vorhandenseins} heißt hier im Zimmer. Das Wort für Zimmer und der folgende Marker gehören zusammen; sie nennen den Ort des vorhandenen Wassers.
+Jonas: Danach höre ich {水が|みずが|mizu ga|Wasser als Subjekt}. Das ist Wasser mit dem Subjektmarker, also das, was vorhanden ist.
+Aoki: Richtig. Danach kommt {あります|あります|arimasu|ist vorhanden}: ist vorhanden. Die Reihenfolge unserer Bausteine lautet also: Ort, vorhandene Sache mit Subjektmarker, Verb.
+Jonas: Dann setze ich sie zusammen: {部屋に水があります|へやにみずがあります|heya ni mizu ga arimasu|Im Zimmer gibt es Wasser}. Im Zimmer gibt es Wasser. Das Wasser ist hier kein Objekt des Trinkens.
+Aoki: Genau. Noch trinkt in unserer Aussage niemand. Deshalb ist Wasser hier als das Vorhandene markiert, nicht als das Getränk einer Trinkhandlung.
 Jonas: Muss ich danach noch den höflichen Abschluss aus dem Buchsatz anhängen?
 Aoki: Nein. {あります|あります|arimasu|es gibt; ist vorhanden} ist hier bereits die vollständige höfliche Verbform. Wir hängen kein zusätzliches {です|です|desu|höflicher Abschluss} an, genau wie beim bekannten höflichen Trinken.
 Jonas: Können wir erst einmal nur den vorhandenen Gegenstand ändern?
 Aoki: Ja. Statt Wasser liegt nun ein Buch im Zimmer. Der vollständige Satz lautet {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Im Zimmer gibt es ein Buch}: Im Zimmer gibt es ein Buch.
-Jonas: Was hat sich gegenüber dem Wassersatz geändert?
+Jonas: {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Im Zimmer gibt es ein Buch}. Im Zimmer gibt es ein Buch. Was hat sich gegenüber dem Wassersatz geändert?
 Aoki: Nur Wasser wurde durch Buch ersetzt. Das Zimmer bleibt der Ort, und wir stellen weiterhin fest, dass etwas dort vorhanden ist; die beiden Marker bleiben gleich.
 Jonas: Sagt dieser Satz auch, dass das Buch auf einem Tisch liegt?
 Aoki: Nein. {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Im Zimmer gibt es ein Buch} bedeutet nur Im Zimmer gibt es ein Buch. Die genaue Position innerhalb des Zimmers und die Lage auf einer Oberfläche werden nicht genannt.
@@ -28,13 +34,15 @@ Jonas: Jetzt möchte ich Wasser trinken, und zwar in diesem Zimmer.
 Aoki: Wir sprechen also schon über deine Wahl. Dann passt {部屋で水を飲みます|へやでみずをのみます|heya de mizu o nomimasu|Ich trinke Wasser im Zimmer|へやでみずおのみます}: Ich trinke Wasser im Zimmer. Die Person ist aus unserer Situation klar und wird nicht ausdrücklich genannt.
 Jonas: Nach Zimmer höre ich diesmal etwas anderes.
 Aoki: Diesmal steht dort {で|で|de|Ort der Handlung}. Es markiert hier den Ort der Handlung: Das Trinken findet im Zimmer statt.
+Jonas: Also höre ich {部屋で|へやで|heya de|im Zimmer, Ort der Handlung}: im Zimmer als Ort des Trinkens. Das Wort für Zimmer ist gleich geblieben.
+Aoki: Ja. Vergleiche es mit {部屋に|へやに|heya ni|im Zimmer, Ort des Vorhandenseins}: im Zimmer als Ort des Vorhandenseins. Der andere Marker zeigt eine andere Beziehung zum Verb; er bezeichnet nicht ein anderes Zimmer.
 Jonas: Warum können wir nicht denselben Ortsmarker wie vorher verwenden?
 Aoki: Weil wir eine andere Beziehung ausdrücken. Vorher lag der Schwerpunkt auf vorhandenem Wasser an einem Ort; jetzt nennen wir den Ort einer Handlung mit dem Verb trinken.
 Jonas: Im Deutschen höre ich aber in beiden Fällen im Zimmer.
 Aoki: Genau. Eine deutsche Ortsangabe entscheidet nicht allein über die japanische Partikel. Du musst auch verstehen, ob dieser Satz Vorhandensein oder eine Handlung ausdrückt.
 Jonas: Können wir die zwei ganzen Aussagen direkt vergleichen?
 Aoki: {部屋に水があります|へやにみずがあります|heya ni mizu ga arimasu|Im Zimmer gibt es Wasser} heißt Im Zimmer gibt es Wasser. Dagegen heißt {部屋で水を飲みます|へやでみずをのみます|heya de mizu o nomimasu|Ich trinke Wasser im Zimmer|へやでみずおのみます} in unserem Gespräch über dich Ich trinke Wasser im Zimmer.
-Jonas: Es hat sich nicht nur der Marker nach Zimmer geändert.
+Jonas: Ich sage nun selbst {部屋で水を飲みます|へやでみずをのみます|heya de mizu o nomimasu|Ich trinke Wasser im Zimmer|へやでみずおのみます}: Ich trinke Wasser im Zimmer. Dabei hat sich nicht nur der Marker nach Zimmer geändert.
 Aoki: Richtig. Beim Vorhandensein steht Wasser mit dem Subjektmarker. Beim Trinken steht Wasser mit dem Objektmarker, weil es das Getränk ist, das du trinkst.
 Jonas: Und natürlich ist das Verb ein anderes.
 Aoki: Ja. Die Existenzform sagt, dass Wasser da ist. Das Trinkverb sagt etwas über deine Handlung oder Wahl. Deshalb vergleichen wir ganze Sätze statt nur zwei Partikeln auszutauschen.
@@ -44,11 +52,11 @@ Jonas: Wie viele Aufgaben werden dort ausdrücklich markiert?
 Aoki: Drei: Du bist das Thema, das Zimmer ist der Ort der Handlung, und Wasser ist das direkte Objekt. Das Verb am Ende verbindet diese Informationen zur Aussage über das Trinken.
 Jonas: Kann ich dieselbe Ortsangabe behalten und wieder Tee einsetzen?
 Aoki: Aus {私は部屋で水を飲みます|わたしはへやでみずをのみます|watashi wa heya de mizu o nomimasu|Ich trinke Wasser im Zimmer|わたしわへやでみずおのみます}, Ich trinke Wasser im Zimmer, wird {私は部屋でお茶を飲みます|わたしはへやでおちゃをのみます|watashi wa heya de ocha o nomimasu|Ich trinke Tee im Zimmer|わたしわへやでおちゃおのみます}: Ich trinke Tee im Zimmer. Nur das Getränk wurde geändert.
-Jonas: Und wenn ich danach über Frau Nakamura statt über mich spreche?
-Aoki: Dann lautet das vollständige Ergebnis {中村さんは部屋でお茶を飲みます|なかむらさんはへやでおちゃをのみます|Nakamura-san wa heya de ocha o nomimasu|Frau Nakamura trinkt Tee im Zimmer|なかむらさんわへやでおちゃおのみます}: Frau Nakamura trinkt Tee im Zimmer. Ihre Personenbezeichnung ersetzt ich; Ort, Getränk und Verb bleiben gleich.
+Jonas: Jetzt ersetze ich mich durch Frau Nakamura: {中村さんは部屋でお茶を飲みます|なかむらさんはへやでおちゃをのみます|Nakamura-san wa heya de ocha o nomimasu|Frau Nakamura trinkt Tee im Zimmer|なかむらさんわへやでおちゃおのみます}. Frau Nakamura trinkt Tee im Zimmer.
+Aoki: Damit hast du nur die Person geändert. Tee, das Zimmer und die Handlung sind gleich geblieben. Nakamuras Name mit dem Themenmarker ersetzt die Einheit, mit der du vorher dich selbst zum Thema gemacht hast.
 Jonas: Der neue Name verlangt also keinen anderen Marker für das Zimmer.
 Aoki: Richtig. Das Zimmer bleibt der Ort des Trinkens. Die Person kann wechseln, ohne dass aus einer Handlung plötzlich eine Existenzaussage wird.
-Jonas: Wie wäre eine Aussage über Sie und Kaffee im Zimmer?
+Jonas: Wie wäre eine Aussage über dich und Kaffee im Zimmer?
 Aoki: {青木さんは部屋でコーヒーを飲みます|あおきさんはへやでこーひーをのみます|Aoki-san wa heya de koohii o nomimasu|Frau Aoki trinkt Kaffee im Zimmer|あおきさんわへやでこーひーおのみます} bedeutet: Frau Aoki trinkt Kaffee im Zimmer. Gegenüber dem letzten Beispiel ändern sich Person und Getränk; die Handlung findet weiterhin im selben Zimmer statt.
 Jonas: Muss ich aus dem Wort Zimmer schließen, welcher Marker richtig ist?
 Aoki: Nein. Dasselbe Wort Zimmer kann in unseren beiden Mustern vorkommen. Entscheidend ist seine Beziehung zur Aussage: Ort des Vorhandenseins oder Ort des Trinkens.
@@ -76,5 +84,5 @@ Jonas: Dann ist die kürzere Aussage nicht automatisch eine Handlung an einem an
 Aoki: Genau. Nicht genannt bedeutet nicht verneint oder geändert. Der Ort kann gleich bleiben, nur wird er in der kürzeren Aussage nicht ausdrücklich mitgeteilt.
 Jonas: Wenn eine neue Person nur die kurze Aussage hört, kennt sie den Ort vielleicht nicht.
 Aoki: Das stimmt. Ohne den vorherigen Zusammenhang kann ihr diese Information fehlen. Soll sie den Ort sicher erfahren, nennen wir das Zimmer mit dem zum Satz passenden Marker.
-Jonas: Beim Buch übersetzen Sie ein Buch. Woher weiß ich eigentlich, ob dort eines oder mehrere liegen?
+Jonas: Beim Buch übersetzt du ein Buch. Woher weiß ich eigentlich, ob dort eines oder mehrere liegen?
 Aoki: Das klären wir im nächsten Text. Wir untersuchen, welche Angaben japanische Nomen nicht automatisch mitbringen: deutsche Artikel, grammatisches Geschlecht und eine verpflichtende Einzahl-Mehrzahl-Unterscheidung.

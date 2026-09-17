@@ -116,6 +116,48 @@
       "de": "lektionen/de-pt/block-01-text-09.txt",
       "pt": "lektionen/de-pt/block-01-text-09.pt.txt",
       "particles": []
+    },
+    {
+      "id": "block-02-text-01",
+      "number": 10,
+      "grammar": "Höfliche Verneinung einer Nominalaussage",
+      "title": "2.1 — Das ist kein Buch",
+      "titlePt": "2.1 — Isto não é um livro",
+      "de": "lektionen/de-pt/block-02-text-01.txt",
+      "pt": "lektionen/de-pt/block-02-text-01.pt.txt",
+      "particles": []
+    },
+    {
+      "id": "block-02-text-02",
+      "number": 11,
+      "grammar": "Gesprochene Variante der höflichen Verneinung",
+      "title": "2.2 — Kürzer gesprochen, weiterhin höflich",
+      "titlePt": "2.2 — Uma forma mais curta, ainda polida",
+      "de": "lektionen/de-pt/block-02-text-02.txt",
+      "pt": "lektionen/de-pt/block-02-text-02.pt.txt",
+      "particles": []
+    },
+    {
+      "id": "block-02-text-03",
+      "number": 12,
+      "grammar": "Höfliche Fragen mit ですか",
+      "title": "2.3 — Ist das ein Buch?",
+      "titlePt": "2.3 — Isto é um livro?",
+      "de": "lektionen/de-pt/block-02-text-03.txt",
+      "pt": "lektionen/de-pt/block-02-text-03.pt.txt",
+      "particles": [
+        "か"
+      ]
+    },
+    {
+      "id": "block-02-text-04",
+      "number": 13,
+      "grammar": "Kurze Antworten, Bestätigung und Richtigstellung",
+      "title": "2.4 — Kurz antworten, den Bezug behalten",
+      "titlePt": "2.4 — Responder brevemente sem perder a referência",
+      "de": "lektionen/de-pt/block-02-text-04.txt",
+      "pt": "lektionen/de-pt/block-02-text-04.pt.txt",
+      "particles": []
     }
   ]
 }

@@ -1,11 +1,15 @@
 Jonas: Se a senhora Nakamura já é nosso tema, o nome dela não precisa aparecer sempre. Mas como entendo quem bebe?
 Aoki: Você relaciona as palavras faladas com a situação. Hoje vamos comparar as mesmas frases curtas em contextos claros e pouco claros.
 Jonas: Vamos começar comigo, para que a pessoa em questão fique bem clara.
-Aoki: Pergunto a você em alemão o que deseja beber na pausa do escritório. Você responde {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Eu bebo chá|わたしわおちゃおのみます}. Aqui significa: eu bebo chá.
-Jonas: Essa resposta cabe mesmo sendo uma pergunta sobre o que eu quero?
+Aoki: Vamos encenar a escolha da bebida; minha pergunta continua em alemão e significa: Jonas, o que você gostaria de beber na pausa do escritório?
+Jonas: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Eu bebo chá|わたしわおちゃおのみます}. Eu bebo chá. Essa resposta cabe, embora você tenha perguntado o que eu queria?
 Aoki: Sim. Assim você informa sua escolha para essa pausa. A forma verbal em si não significa desejar; a pergunta deixa claro que você está comunicando uma escolha.
 Jonas: E como fica a resposta mais curta?
 Aoki: {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Eu bebo chá|おちゃおのみます} também significa nessa situação: eu bebo chá. Você não precisa mencionar explicitamente eu como tema mais uma vez.
+Jonas: Então me pergunte de novo, para eu ouvir a resposta curta na mesma situação.
+Aoki: Jonas, o que você gostaria de beber na pausa? Pergunto explicitamente a você sobre sua própria escolha.
+Jonas: {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Eu bebo chá|おちゃおのみます}. Eu bebo chá. Desta vez não disse nenhuma palavra para eu.
+Aoki: Mesmo assim, a resposta é compreensível. Minha pergunta identifica você como a pessoa cuja escolha está em questão. A frase japonesa curta não precisa repetir essa informação.
 Jonas: O que exatamente saiu da frase longa?
 Aoki: A unidade inteira formada por {私|わたし|watashi|eu}, ou seja, eu, e pelo marcador de tema {は|は|wa|marcador de tema|わ}. A bebida, seu marcador de objeto e a forma verbal polida permanecem.
 Jonas: Então não devo apagar apenas eu e deixar o marcador de tema.
@@ -18,7 +22,7 @@ Jonas: Então talvez a terminação do verbo indique que a pessoa sou eu?
 Aoki: Não. {飲みます|のみます|nomimasu|beber, forma polida} é a mesma forma polida para você e para a senhora Nakamura. Ela não revela quem bebe por meio de uma terminação específica de pessoa.
 Jonas: Quero mudar primeiro a bebida, antes de mudarmos a pessoa.
 Aoki: Você disse {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Eu bebo chá|おちゃおのみます}, ou seja, eu bebo chá. Se escolher água, a resposta curta inteira será {水を飲みます|みずをのみます|mizu o nomimasu|Eu bebo água|みずおのみます}: eu bebo água.
-Jonas: A pessoa continua clara por causa da sua pergunta, embora a bebida mude.
+Jonas: {水を飲みます|みずをのみます|mizu o nomimasu|Eu bebo água|みずおのみます}. Eu bebo água. A pessoa continua clara por causa da sua pergunta, embora a bebida mude.
 Aoki: Sim. Mudamos chá para água. O marcador de objeto e o verbo continuam iguais, e ainda falamos da sua escolha de bebida.
 Jonas: E com café vale a mesma coisa?
 Aoki: {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Eu bebo café|こーひーおのみます} significa, como resposta sua: eu bebo café. Novamente, eu vem da situação; agora café é a bebida mencionada explicitamente.
@@ -26,31 +30,31 @@ Jonas: Quando ainda preciso da frase mais completa?
 Aoki: Quando a pessoa ficaria pouco clara ou quando você quiser se apresentar explicitamente como tema. {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます} significa eu bebo café e menciona você explicitamente para isso.
 Jonas: Agora podemos passar para a senhora Nakamura.
 Aoki: Imagine que estamos falando apenas da escolha de bebida dela. Pergunto em alemão: o que a senhora Nakamura costuma beber na pausa?
-Jonas: Conheço a resposta longa.
-Aoki: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|A senhora Nakamura bebe chá|なかむらさんわおちゃおのみます} significa: a senhora Nakamura bebe chá. O nome dela define claramente de quem você está falando.
-Jonas: Como fica agora a resposta curta?
-Aoki: {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ela bebe chá|おちゃおのみます} significa nessa situação: ela bebe chá. A senhora Nakamura já foi mencionada na minha pergunta, por isso você pode deixar o nome dela de fora.
+Jonas: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|A senhora Nakamura bebe chá|なかむらさんわおちゃおのみます}. A senhora Nakamura bebe chá. Mencionei o nome dela explicitamente.
+Aoki: Sim. Agora a mesma pergunta outra vez: o que a senhora Nakamura costuma beber? Responda com a forma curta sobre chá; minha pergunta já deixa claro de quem se trata.
+Jonas: {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ela bebe chá|おちゃおのみます}. Aqui significa: ela bebe chá. Com ela, quero dizer a senhora Nakamura.
+Aoki: Exatamente. Na resposta japonesa, não se pronuncia nem eu nem ela. Identificamos a senhora Nakamura pela pergunta e por isso a tradução alemã usa a palavra que significa ela.
 Jonas: Isso soa exatamente como minha própria resposta curta sobre chá.
 Aoki: É a mesma forma japonesa. Antes a pergunta se referia a você; agora se refere à senhora Nakamura. Por isso a tradução natural em alemão muda de ich para sie.
 Jonas: Então a frase curta não significa automaticamente eu bebo chá.
 Aoki: Exatamente. Ela menciona chá e beber, mas não menciona explicitamente nenhuma pessoa. A pessoa em questão precisa ficar clara pela conversa ou pela situação.
-Jonas: Isso também funcionaria se estivéssemos falando da senhora?
+Jonas: Isso também funcionaria se estivéssemos falando de você?
 Aoki: Sim. Você está contando a alguém explicitamente sobre a senhora Aoki e sua escolha de bebida. Então {水を飲みます|みずをのみます|mizu o nomimasu|Ela bebe água|みずおのみます} pode significar nesse contexto: ela bebe água.
-Jonas: E se eu estiver respondendo à senhora sobre minha bebida?
+Jonas: E se eu estiver respondendo a você sobre minha bebida?
 Aoki: A mesma forma {水を飲みます|みずをのみます|mizu o nomimasu|Eu bebo água|みずおのみます} significa, como resposta sobre você: eu bebo água. As palavras sozinhas não decidem entre essas duas pessoas.
 Jonas: Como evitamos que eu adivinhe a pessoa errada?
 Aoki: Vamos considerar um caso incerto: você, a senhora Nakamura e eu estamos no escritório. Ainda não houve uma pergunta nem um tema de conversa claro.
-Jonas: Se agora eu apenas disser que alguém bebe chá, ninguém saberá com certeza de quem estou falando.
+Jonas: Então, se eu disser agora apenas a frase curta sobre chá, pode não ficar claro se informo minha própria escolha ou a de outra pessoa.
 Aoki: Exatamente. A forma curta não está automaticamente errada, mas, sem outras pistas, pode ser ambígua. Nesse caso, mencionar explicitamente uma pessoa ajuda.
 Jonas: Então, para minha própria escolha, volto a usar a frase longa.
 Aoki: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Eu bebo chá|わたしわおちゃおのみます} significa eu bebo chá. Assim você se apresenta explicitamente como tema e não deixa os ouvintes adivinharem entre três pessoas.
 Jonas: E para informar a escolha da senhora Nakamura?
 Aoki: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|A senhora Nakamura bebe chá|なかむらさんわおちゃおのみます} significa a senhora Nakamura bebe chá. Agora mencionamos explicitamente a colega em vez de você; a bebida e o verbo permanecem iguais.
-Jonas: O que acontece se primeiro falarmos da senhora Nakamura e depois da senhora?
+Jonas: O que acontece se primeiro falarmos da senhora Nakamura e depois de você?
 Aoki: Começamos com {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|A senhora Nakamura bebe chá|なかむらさんわおちゃおのみます}: a senhora Nakamura bebe chá. Se depois você quiser informar que eu escolho água, a mudança para mim precisa ficar clara.
-Jonas: Então basta a resposta curta sobre água?
+Jonas: Tento {水を飲みます|みずをのみます|mizu o nomimasu|Ela bebe água|みずおのみます}: ela bebe água. Agora me refiro a você, não mais a Nakamura. Dá para perceber essa mudança pelo que eu disse?
 Aoki: Não de forma segura. Sem outra pista, os ouvintes poderiam continuar entendendo que a pessoa é a senhora Nakamura e pensar que você está corrigindo a bebida dela.
-Jonas: Como deixo clara a mudança de pessoa?
+Jonas: Então menciono você explicitamente: {青木さんは水を飲みます|あおきさんはみずをのみます|Aoki-san wa mizu o nomimasu|A senhora Aoki bebe água|あおきさんわみずおのみます}. A senhora Aoki bebe água. Agora a nova pessoa não fica implícita.
 Aoki: {青木さんは水を飲みます|あおきさんはみずをのみます|Aoki-san wa mizu o nomimasu|A senhora Aoki bebe água|あおきさんわみずおのみます} significa: a senhora Aoki bebe água. Você menciona meu nome com o marcador de tema e depois dá a nova informação sobre mim.
 Jonas: Então aqui mudam tanto a pessoa quanto a bebida.
 Aoki: Sim. Primeiro, a senhora Nakamura e chá; depois, a senhora Aoki e água. A segunda afirmação completa torna as duas mudanças audíveis, em vez de exigir uma mudança silenciosa de pessoa.

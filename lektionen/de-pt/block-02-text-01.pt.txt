@@ -1,0 +1,82 @@
+Jonas: Consigo me apresentar e dizer o que uma coisa é. Mas o que digo quando alguém confunde alguma coisa?
+Aoki: Para isso precisamos de uma negação. Imagine que estamos preparando a pausa no escritório. Na mesa há um livro e um caderno de anotações.
+Jonas: Vamos começar pelo livro. Já consigo fazer uma afirmação correta sobre ele.
+Aoki: Imagine que pega o livro na mão. Você diz {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}. Isso significa: isto é um livro.
+Jonas: {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}. Isto é um livro. Assim digo a que tipo de objeto esta coisa pertence.
+Aoki: Exatamente. Agora você coloca o livro de volta e pega o caderno. Alguém também o toma por um livro. Você quer corrigir essa suposição.
+Jonas: Então quero dizer sobre o objeto na minha mão: isto não é um livro.
+Aoki: Para isso, a frase inteira é {これは本ではありません|これはほんではありません|kore wa hon dewa arimasen|Isto não é um livro|これわほんでわありません}. Significa: isto não é um livro.
+Jonas: O final é muito mais longo do que antes. Qual parte preciso aprender agora?
+Aoki: A finalização {ではありません|ではありません|dewa arimasen|finalização nominal negativa polida|でわありません}. Aqui ela nega a classificação: o objeto não é um livro.
+Jonas: Preciso acrescentar essa finalização longa depois da anterior?
+Aoki: Não. Na frase inicial aparece {です|です|desu|finalização nominal polida}, a finalização polida conhecida. Para nossa negação, nós a substituímos pela nova finalização negativa.
+Jonas: Então a palavra livro em si continua igual?
+Aoki: Sim. {本|ほん|hon|livro} continua significando livro. Não negamos apenas a palavra isolada, mas a afirmação de que nosso objeto é um livro.
+Jonas: Posso ouvir essa troca nas duas frases completas?
+Aoki: {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです} significa isto é um livro. Com a outra finalização, temos {これは本ではありません|これはほんではありません|kore wa hon dewa arimasen|Isto não é um livro|これわほんでわありません}: isto não é um livro.
+Jonas: O começo continua apresentando esta coisa aqui como tema. A mudança vem depois de livro.
+Aoki: Isso mesmo. A ordem permanece: esta coisa como tema, livro como classificação suposta e, depois, a finalização que nega essa classificação.
+Jonas: Tento fazer a correção: {これは本ではありません|これはほんではありません|kore wa hon dewa arimasen|Isto não é um livro|これわほんでわありません}. Isto não é um livro.
+Aoki: Assim você rejeita a suposição errada sobre o caderno. Não mudou o tema nem passou a falar de outro objeto.
+Jonas: Na nova finalização, ouço um som que conheço do marcador de tema.
+Aoki: O começo da finalização é {では|では|dewa|começo da finalização negativa aprendida aqui|でわ}. Ouça esse trecho aqui como começo da forma negativa inteira, não como uma nova indicação de lugar.
+Jonas: Por que você menciona lugar? Ainda nem falamos de uma sala.
+Aoki: Você conhece um marcador com som semelhante que indica o lugar onde alguém bebe. Aquela regra de lugar não explica nossa finalização negativa. Sons iguais não precisam ter a mesma função.
+Jonas: E o marcador de tema no começo da frase continua audível?
+Aoki: Sim. {これは|これは|kore wa|isto aqui como tema|これわ} apresenta esta coisa como tema. Mais adiante vem a forma negativa. As duas posições não cumprem a mesma função.
+Jonas: Então, se eu apenas escutar sem ler, preciso distinguir principalmente as unidades inteiras.
+Aoki: Exatamente. Ouça {本ではありません|ほんではありません|hon dewa arimasen|Não é um livro|ほんでわありません}: não é um livro. Livro e a finalização negativa formam aqui a afirmação sobre o objeto conhecido.
+Jonas: Com isso também afirmei que não existe nenhum livro na sala inteira?
+Aoki: Não. O outro livro continua na mesa. Sua afirmação diz respeito apenas à coisa na sua mão: esta coisa não é um livro.
+Jonas: E agora as outras pessoas sabem automaticamente que estou segurando um caderno?
+Aoki: Ainda não. Depois da sua negação, poderia ser outra coisa. Para identificar expressamente o caderno, você precisa de uma segunda informação.
+Jonas: Então agora me falta a palavra japonesa para caderno.
+Aoki: A palavra é {ノート|のーと|nooto|caderno de anotações}. Aqui significa caderno ou caderno de anotações, no qual se escreve, não um computador portátil.
+Jonas: Como digo de forma completa que o objeto é um caderno?
+Aoki: {これはノートです|これはのーとです|kore wa nooto desu|Isto é um caderno|これわのーとです} significa: isto é um caderno. Agora você afirma a classificação correta.
+Jonas: Então primeiro {これは本ではありません|これはほんではありません|kore wa hon dewa arimasen|Isto não é um livro|これわほんでわありません}: isto não é um livro. Depois {これはノートです|これはのーとです|kore wa nooto desu|Isto é um caderno|これわのーとです}: isto é um caderno.
+Aoki: Exatamente. A primeira afirmação desfaz o engano. A segunda explica o que realmente temos ali. Ambas se referem ao mesmo objeto.
+Jonas: Na segunda frase, a finalização negativa desapareceu novamente.
+Aoki: Porque você não está negando a segunda classificação. A coisa realmente é um caderno. Por isso, a correção precisa de uma afirmação negativa e outra positiva.
+Jonas: Podemos fazer o mesmo com algo que já aparece na nossa pausa?
+Aoki: Agora imagine um copo de água bem à sua frente. Alguém supõe que seja chá. Mas você sabe que tem água diante de si.
+Jonas: Conheço a palavra para chá. Ela deve entrar no lugar de livro.
+Aoki: De {これは本ではありません|これはほんではありません|kore wa hon dewa arimasen|Isto não é um livro|これわほんでわありません}, isto não é um livro, passamos a {これはお茶ではありません|これはおちゃではありません|kore wa ocha dewa arimasen|Isto não é chá|これわおちゃでわありません}: isto não é chá.
+Jonas: {これはお茶ではありません|これはおちゃではありません|kore wa ocha dewa arimasen|Isto não é chá|これわおちゃでわありません}. Isto não é chá. Mudei a classificação negada, não a estrutura inteira.
+Aoki: Isso mesmo. O começo e a finalização negativa continuam iguais. Na posição do substantivo, agora temos chá em vez de livro.
+Jonas: Como vem depois a informação correta sobre o conteúdo do copo?
+Aoki: Com {これは水です|これはみずです|kore wa mizu desu|Isto é água|これわみずです}: isto é água. Você nega que seja chá e depois identifica a água.
+Jonas: {これは水です|これはみずです|kore wa mizu desu|Isto é água|これわみずです}. Isto é água. Com isso ainda não digo que bebo essa água.
+Aoki: Exatamente. Identificar uma bebida é diferente de descrever a ação de beber. Nosso padrão de hoje diz o que uma coisa é ou não é.
+Jonas: Essa finalização negativa também serve numa afirmação sobre mim mesmo?
+Aoki: Sim. Vamos supor que alguém pense que você é professor. Na nossa história, você é estudante e também trabalha no escritório, mas não é professor.
+Jonas: Para indicar minha própria profissão de forma neutra, conheço a palavra {教師|きょうし|kyoushi|professor ou professora de profissão}, ou seja, professor ou professora de profissão.
+Aoki: Com ela você diz {私は教師ではありません|わたしはきょうしではありません|watashi wa kyoushi dewa arimasen|Eu não sou professor|わたしわきょうしでわありません}. Dito por você, significa: eu não sou professor.
+Jonas: {私は教師ではありません|わたしはきょうしではありません|watashi wa kyoushi dewa arimasen|Eu não sou professor|わたしわきょうしでわありません}. Eu não sou professor. A finalização é a mesma da frase sobre nosso livro.
+Aoki: Sim. Temos outro tema e outro substantivo, mas novamente uma descrição nominal negada. A forma não muda só porque você está falando de si mesmo.
+Jonas: Depois posso dizer o que se aplica a mim: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Eu sou estudante|わたしわがくせいです}. Eu sou estudante.
+Aoki: Essa é a informação positiva adequada sobre você. Mas ser estudante, por si só, não prova que alguém não possa ser professor. Conhecemos seu papel específico pela nossa história.
+Jonas: Senão eu acabaria transformando a gramática numa regra sobre profissões.
+Aoki: Exatamente. A língua nega uma informação específica. Essa finalização não determina se duas atividades podem ser exercidas pela mesma pessoa.
+Jonas: Em alemão, uso a palavra kein com livro e com professor. Com um nome, a frase fica diferente.
+Aoki: Sim. Em alemão, por exemplo, a frase que significa eu não sou Aoki usa nicht. Na nossa situação, a mesma forma negativa japonesa também pode rejeitar uma identificação errada pelo nome.
+Jonas: Como fica quando alguém me confunde com você?
+Aoki: Você diz {私は青木ではありません|わたしはあおきではありません|watashi wa Aoki dewa arimasen|Eu não sou Aoki|わたしわあおきでわありません}: eu não sou Aoki. Aqui o nome corrige uma confusão sobre sua própria identidade.
+Jonas: E depois acrescento {ヨナスです|よなすです|Yonasu desu|Eu sou Jonas}: eu sou Jonas. Assim a pessoa também sabe quem eu realmente sou.
+Aoki: Exatamente. Nessa identificação de si mesmo, não há tratamento respeitoso junto ao próprio nome. Quando você fala de mim como outra pessoa, volta a valer aquele outro contexto já conhecido.
+Jonas: Então a finalização negativa japonesa nem sempre corresponde exatamente a uma palavra alemã.
+Aoki: Isso mesmo. Dependendo da afirmação em alemão, traduzimos com kein ou nicht. Aqui você aprende a construção japonesa inteira, não um substituto para toda palavra negativa alemã.
+Jonas: Vamos voltar à mesa. Agora pego novamente o livro de verdade, não o caderno.
+Aoki: Certo. Desta vez, alguém pensa que é um caderno. Agora a nova palavra entra na classificação negada: {これはノートではありません|これはのーとではありません|kore wa nooto dewa arimasen|Isto não é um caderno|これわのーとでわありません}. Isto não é um caderno.
+Jonas: {これはノートではありません|これはのーとではありません|kore wa nooto dewa arimasen|Isto não é um caderno|これわのーとでわありません}. Isto não é um caderno. Depois digo {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}: isto é um livro.
+Aoki: Agora a classificação é exatamente o contrário daquela do início. Os objetos não mudaram de tipo; você pegou outro objeto e corrigiu outra suposição.
+Jonas: Ao negar, preciso falar de forma especialmente dura ou irritada?
+Aoki: Não. Negação é uma função gramatical, não irritação. Você pode corrigir uma informação errada com calma; seu tom e a situação continuam sendo importantes.
+Jonas: E a forma negativa continua polida, embora a finalização positiva conhecida não apareça?
+Aoki: Sim. {ではありません|ではありません|dewa arimasen|finalização nominal negativa polida|でわありません} já é a finalização negativa polida desse padrão. Não precisa torná-la mais polida acrescentando uma segunda finalização.
+Jonas: Agora eu poderia simplesmente colocar essa mesma finalização depois do meu verbo para beber?
+Aoki: Não é assim que formamos a negação de uma ação de beber. Hoje modificamos afirmações nominais, como ser livro ou ser professor. Os verbos terão suas próprias explicações mais adiante.
+Jonas: Então primeiro preciso perguntar: o que exatamente quero negar?
+Aoki: Sim. No caso do caderno, você nega que seja livro; no da água, que seja chá; no seu caso, que seja professor. Em cada caso, você acrescenta a informação positiva adequada.
+Jonas: Então já consigo corrigir uma confusão. Mas às vezes ouço uma forma negativa mais curta.
+Aoki: Vamos tratar dela a seguir. Você vai ouvir a mesma negação com um começo mais curto e entender por que mais curto aqui não significa automaticamente menos polido.

@@ -16,7 +16,7 @@ Jonas: Então não estamos dizendo que o livro faz alguma coisa?
 Aoki: Isso mesmo. É uma afirmação nominal, ou seja, uma afirmação que tem um substantivo como núcleo. Livro é um substantivo; a finalização polida é {です|です|desu|finalização polida}.
 Jonas: Por que o marcador de tema não fica depois da palavra livro, então?
 Aoki: Porque apresentamos isto aqui como tema e dizemos a respeito: um livro. Em {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}, a frase completa significa: isto é um livro.
-Jonas: Posso comparar isso com a frase sobre a senhora?
+Jonas: Posso comparar isso com a frase sobre você?
 Aoki: Sim. {青木さんは先生です|あおきさんはせんせいです|Aoki-san wa sensei desu|A senhora Aoki é professora|あおきさんわせんせいです} significa: a senhora Aoki é professora. Novamente apresentamos um tema e o descrevemos; ninguém precisa realizar uma ação.
 Jonas: Então o tema pode ser uma pessoa ou uma coisa.
 Aoki: Sim. Tema não significa automaticamente pessoa nem pessoa que realiza uma ação. Nossa afirmação também pode explicar o que uma coisa é.
@@ -26,12 +26,18 @@ Jonas: Quero dizer: o café, eu bebo. Não a senhora Nakamura.
 Aoki: Nesse caso cabe {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café, eu bebo|こーひーわわたしがのみます}. Aqui significa: o café, eu bebo. Café é o tema; você se apresenta como a pessoa que vai bebê-lo.
 Jonas: O que é a palavrinha depois de eu?
 Aoki: É {が|が|ga|marcador de sujeito}. Aqui ele marca o sujeito, ou seja, a pessoa que bebe. Nessa situação, a resposta destaca quem fica com o café.
-Jonas: Por que isso não se chama simplesmente tema outra vez?
+Jonas: Quero ouvir as partes separadamente. Como apresento café como tema?
+Aoki: Com {コーヒーは|こーひーは|koohii wa|café como tema|こーひーわ}. Como ajuda para explicar, significa: quanto ao café. Café com seu marcador de tema forma o primeiro elemento.
+Jonas: Depois vem {私が|わたしが|watashi ga|eu como sujeito}, ou seja, eu com o marcador de sujeito. Assim me identifico como a pessoa que bebe.
+Aoki: Isso mesmo. Por último vem {飲みます|のみます|nomimasu|beber, forma polida}, a forma polida de beber. Falamos do café, você o bebe e o verbo encerra a afirmação.
+Jonas: Juntando tudo, digo {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café, eu bebo|こーひーわわたしがのみます}: o café, eu bebo. Agora reconheço os três elementos.
+Aoki: Exatamente. Assim você responde à nossa pergunta sobre a xícara que sobrou. Não explica apenas que bebe café em geral, mas quem fica com esse café.
+Jonas: Por que você me chama de sujeito nessa frase sobre o café, e não simplesmente de tema outra vez?
 Aoki: Porque as funções são diferentes: já estamos falando do café. A informação que ainda falta é que você vai bebê-lo.
 Jonas: Pode explicar a frase novamente com as duas funções?
 Aoki: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café, eu bebo|こーひーわわたしがのみます} quer dizer: o café, eu bebo. Depois de café vem o marcador de tema; depois de eu vem o marcador de sujeito; no final vem beber na forma polida.
 Jonas: Então o café não vira de repente aquele que bebe.
-Aoki: Exatamente. Café continua sendo a bebida que é consumida. Sua função como tema é uma questão diferente de sua função dentro da ação.
+Aoki: Exatamente. Falamos do café, mas o café não bebe nada. Você o bebe. Por isso distinguimos duas perguntas: de que estamos falando? E quem bebe?
 Jonas: Onde foi parar o marcador de objeto que eu já conheço?
 Aoki: Na frase conhecida {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます}, ou seja, eu bebo café, {を|を|o|marcador de objeto|お} vem depois de café. Ali ele marca a bebida como objeto direto.
 Jonas: E quando essa mesma bebida passa a ser o tema?
@@ -42,30 +48,30 @@ Jonas: Quando eu usaria a primeira versão?
 Aoki: Quando falamos de você e da sua escolha de bebida: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます}. Significa eu bebo café. Por exemplo, você conta o que costuma beber na pausa.
 Jonas: E quando eu usaria a versão que começa com café?
 Aoki: Quando o café já é o nosso tema e esclarecemos quem vai bebê-lo: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café, eu bebo|こーひーわわたしがのみます}. Aqui significa o café, eu bebo.
-Jonas: As duas frases podem descrever a mesma ação, mas cumprir funções diferentes na conversa.
-Aoki: Sim. A pessoa e a bebida podem continuar iguais. O que retomamos como tema e a informação que destacamos mudam.
+Jonas: Se eu apenas contar como costuma ser minha pausa, digo {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます}: eu bebo café. Nesse caso, apareço como tema no começo.
+Aoki: Sim. Já no caso da xícara que sobrou, estávamos falando do café. A mesma pessoa pode beber a mesma bebida, enquanto a pergunta na conversa é outra.
 Jonas: Posso entender esse segundo padrão também com chá?
 Aoki: Sim. O ponto de partida é {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café, eu bebo|こーひーわわたしがのみます}: o café, eu bebo. Agora sobrou uma xícara de chá, e estamos falando desse chá.
-Jonas: Então precisamos mudar a bebida apresentada como tema.
+Jonas: O novo começo é {お茶は|おちゃは|ocha wa|chá como tema|おちゃわ}, ou seja, chá como tema. O marcador de tema continua depois da bebida.
 Aoki: O resultado completo é {お茶は私が飲みます|おちゃはわたしがのみます|ocha wa watashi ga nomimasu|O chá, eu bebo|おちゃわわたしがのみます}. Significa: o chá, eu bebo. Chá substitui café; a pessoa eu e a forma verbal polida continuam iguais.
 Jonas: E como seria minha afirmação normal sobre escolher chá?
 Aoki: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Eu bebo chá|わたしわおちゃおのみます} significa: eu bebo chá. Aqui você é o tema, e chá é marcado como aquilo que você bebe.
-Jonas: Eu poderia entender automaticamente a versão com chá como um contraste com café?
-Aoki: Um marcador de tema também pode ajudar a estabelecer contraste, mas nosso exemplo explica primeiro a xícara de chá da qual já estamos falando. O contexto determina essas ênfases adicionais.
-Jonas: Então não devo traduzir imediatamente todo tema como um contraste.
-Aoki: Exatamente. Em {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}, isto é um livro, simplesmente apresentamos um objeto. Não precisamos estar discutindo o que ele não é.
-Jonas: Preciso sempre montar uma tradução alemã com quanto a?
+Jonas: Mantemos a xícara de chá que sobrou, mas desta vez Nakamura fica com ela. Qual parte precisa mudar?
+Aoki: A pessoa que bebe. De O chá, eu bebo passamos para {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|O chá, a senhora Nakamura bebe|おちゃわなかむらさんがのみます}: o chá, a senhora Nakamura bebe. Chá continua sendo o tema; o nome de Nakamura substitui eu antes do marcador de sujeito.
+Jonas: Então digo {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|O chá, a senhora Nakamura bebe|おちゃわなかむらさんがのみます}: o chá, a senhora Nakamura bebe. A frase trata do chá, embora seja Nakamura quem o bebe.
+Aoki: Essa é exatamente a diferença de que precisamos hoje. Em outras situações, o marcador de tema também pode ajudar a estabelecer contraste. Por enquanto, basta isto: retomamos o chá e dizemos quem o bebe.
+Jonas: Preciso sempre montar uma tradução alemã com uma expressão que significa quanto a?
 Aoki: Não. Quanto ao chá é uma ajuda para explicar. Em alemão natural, basta dizer Den Tee trinke ich. O marcador de tema não tem uma única palavra fixa como tradução em alemão.
-Jonas: E o sujeito é sempre uma pessoa?
-Aoki: Não. Nas frases de hoje sobre beber, é a pessoa que realiza a ação. Mais adiante haverá frases em que o sujeito é algo que existe e não realiza nenhuma ação.
+Jonas: Nas nossas frases sobre bebidas, encontro o sujeito perguntando Quem bebe? Posso usar essa pergunta em qualquer frase?
+Aoki: Não. Ela ajuda nas nossas frases sobre beber. Mas um sujeito não precisa ser uma pessoa nem fazer alguma coisa. Na frase futura sobre água na sala, água será o sujeito, sem beber nada.
 Jonas: Então não devo decorar sujeito simplesmente como autor da ação.
 Aoki: Exatamente. Para o nosso café, a pergunta Quem bebe? ajuda. É uma ajuda para esse tipo de frase, não uma definição para todas as frases japonesas.
 Jonas: Uma frase pode conter os dois marcadores sem que eles se contradigam?
 Aoki: Nosso exemplo mostra isso: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café, eu bebo|こーひーわわたしがのみます} quer dizer o café, eu bebo. O marcador de tema pertence a café; o marcador de sujeito, a eu. Eles têm funções diferentes.
 Jonas: Por isso preciso construir todas as frases de forma tão completa?
 Aoki: Não. Este é um exemplo de duas funções. Não vamos transformar isso numa obrigação de dizer separadamente tema e sujeito em toda frase.
-Jonas: O que devo perceber quando a senhora Nakamura for mencionada de novo?
-Aoki: Em {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|A senhora Nakamura bebe chá|なかむらさんわおちゃおのみます} você ouve: a senhora Nakamura bebe chá. Aqui ela é tanto nosso tema quanto a pessoa que bebe. As duas funções juntas continuam sendo perfeitamente normais.
+Jonas: Agora volto a contar um hábito de Nakamura: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|A senhora Nakamura bebe chá|なかむらさんわおちゃおのみます}. A senhora Nakamura bebe chá. Aqui ela mesma é o tema.
+Aoki: E ela é a pessoa que bebe. Portanto, o tema e a pessoa que age podem coincidir. Nosso exemplo da xícara que sobrou mostra apenas que isso não precisa acontecer sempre.
 Jonas: E, no caso do livro, não há uma pessoa realizando uma ação.
 Aoki: Isso mesmo. {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです} significa isto é um livro. Dizemos o que uma coisa é; o tema é esta coisa aqui.
 Jonas: Então primeiro procuro entender a afirmação, não apenas a posição de uma palavra.

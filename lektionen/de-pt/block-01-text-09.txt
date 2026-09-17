@@ -6,18 +6,18 @@ Jonas: Beginnen wir mit meiner Vorstellung als Student.
 Aoki: Wenn klar ist, dass du dich vorstellst, bedeutet {学生です|がくせいです|gakusei desu|Ich bin Student}: Ich bin Student. Das Nomen nennt deinen Status, der Abschluss macht diese Aussage höflich.
 Jonas: Welchen Teil davon kenne ich als höflichen Abschluss?
 Aoki: {です|です|desu|höflicher Abschluss} ist der Abschluss in diesem Nominalsatz. Er gehört zur Aussage darüber, was du bist, nicht zu einem Handlungsverb wie trinken.
-Jonas: Wie könnte dieselbe Vorstellung in einem vertrauten Gespräch schlicht klingen?
-Aoki: {学生だ|がくせいだ|gakusei da|Ich bin Student, schlicht} bedeutet in dieser Selbstvorstellung ebenfalls: Ich bin Student. Neu ist {だ|だ|da|schlichter Abschluss einer Nominalaussage}, der schlichte Abschluss dieses Nominalsatzes.
+Jonas: Nehmen wir an, ein Bekannter erzählt einem engen Freund, dass er Student ist. Welche andere Form könnte ich dabei hören?
+Aoki: Du könntest {学生だ|がくせいだ|gakusei da|Ich bin Student, schlicht} hören: Ich bin Student. Neu ist {だ|だ|da|schlichter Abschluss einer Nominalaussage}, der schlichte Abschluss dieses Nominalsatzes. Die Person erzählt hier von sich selbst.
 Jonas: Was bedeutet schlicht hier? Ist das eine schlechtere oder unvollständige Form?
 Aoki: Nein. Schlicht bezeichnet hier eine grammatische Stilform ohne den höflichen Abschluss unseres ersten Beispiels. Sie kann in vertrauten Gesprächen passen, ist aber nicht für jede Situation die passende Wahl.
-Jonas: Ändert sich meine Tätigkeit oder mein Status durch diesen Wechsel?
-Aoki: Nein. {学生です|がくせいです|gakusei desu|Ich bin Student} heißt Ich bin Student in höflicher Form. {学生だ|がくせいだ|gakusei da|Ich bin Student, schlicht} heißt ebenfalls Ich bin Student, jetzt in schlichter Form. Die Grundinformation bleibt gleich.
+Jonas: Wenn ich diese Form höre, erkenne ich also den Status Student wieder. Der andere Abschluss macht daraus keinen anderen Beruf.
+Aoki: Genau. {学生です|がくせいです|gakusei desu|Ich bin Student} heißt Ich bin Student in höflicher Form. {学生だ|がくせいだ|gakusei da|Ich bin Student, schlicht} heißt ebenfalls Ich bin Student, jetzt in schlichter Form. Die Grundinformation bleibt gleich.
 Jonas: Kann ich dieselbe Unterscheidung an einem Gegenstand hören?
 Aoki: Ja. Ich zeige auf das Buch bei mir: {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです} bedeutet Das ist ein Buch. Das ist unsere bekannte höfliche Nominalaussage.
 Jonas: Und wie klingt genau diese Aussage schlicht?
 Aoki: {これは本だ|これはほんだ|kore wa hon da|Das ist ein Buch, schlicht|これわほんだ} bedeutet ebenfalls Das ist ein Buch. Dies hier, der Themenmarker und Buch bleiben; nur der Abschluss dieser Nominalaussage wechselt.
-Jonas: Also verändert sich nicht plötzlich, welcher Gegenstand gemeint ist.
-Aoki: Richtig. Wir haben keinen neuen Gegenstand und keine Verneinung eingeführt. Wir vergleichen dieselbe Aussage über dasselbe Buch in zwei Stilformen.
+Jonas: Für mein eigenes Sprechen bleibe ich bei {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです}: Das ist ein Buch. Die andere Form möchte ich erst einmal nur verstehen.
+Aoki: Das passt zu unserem Ziel. Du kannst denselben Gegenstand in beiden Fassungen erkennen und trotzdem selbst die vertraute höfliche Form benutzen.
 Jonas: Muss jeder lockere Satz mit diesem neuen kurzen Abschluss enden?
 Aoki: Nein. Wir haben ihn hier bei Nominalaussagen benutzt. Für einen Handlungssatz brauchen wir die passende Verbform, nicht automatisch denselben Abschluss.
 Jonas: Dann nehmen wir wieder meinen Kaffee in der Pause.
@@ -26,21 +26,21 @@ Jonas: Wo steckt die Höflichkeit in diesem Handlungssatz?
 Aoki: In der Verbform {飲みます|のみます|nomimasu|trinken, höfliche Form}, also trinken in der bekannten höflichen Form. Die Endung {ます|ます|masu|höfliche Verbendung} kennzeichnet hier die höfliche Verbform; sie bedeutet nicht für sich allein bin.
 Jonas: Welche Form könnte ich stattdessen unter vertrauten Personen hören?
 Aoki: Die schlichte Form dieses Verbs ist {飲む|のむ|nomu|trinken, schlichte Form}, also trinken. Lerne sie jetzt als vollständige gehörte Form neben der bekannten höflichen Form.
-Jonas: Wie lautet damit der ganze Kaffeesatz?
-Aoki: {コーヒーを飲む|こーひーをのむ|koohii o nomu|Ich trinke Kaffee, schlicht|こーひーおのむ} bedeutet im Gespräch über deine Wahl: Ich trinke Kaffee. Kaffee und sein Objektmarker bleiben; das Verb steht jetzt in der schlichten Form.
-Jonas: Können Sie beide ganzen Fassungen noch einmal vergleichen?
+Jonas: Ich höre zwei Freunde bei der Getränkewahl. Einer wird gefragt, was er trinken möchte. Wie könnte seine Antwort mit Kaffee klingen?
+Aoki: Er könnte sagen {コーヒーを飲む|こーひーをのむ|koohii o nomu|Ich trinke Kaffee, schlicht|こーひーおのむ}: Ich trinke Kaffee. Kaffee und sein Objektmarker bleiben; das Verb steht jetzt in der schlichten Form. Gemeint ist der Freund, der antwortet.
+Jonas: Kannst du beide ganzen Fassungen noch einmal vergleichen?
 Aoki: {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Ich trinke Kaffee|こーひーおのみます} heißt höflich Ich trinke Kaffee. {コーヒーを飲む|こーひーをのむ|koohii o nomu|Ich trinke Kaffee, schlicht|こーひーおのむ} heißt mit derselben Grundinformation schlicht Ich trinke Kaffee. In dieser Situation ändert sich der Stil, nicht das Getränk.
 Jonas: Entsteht die schlichte Form einfach, indem ich die höfliche Endung abschneide?
 Aoki: Nein. Höre die ganzen Formen: {飲みます|のみます|nomimasu|trinken, höfliche Form} ist die höfliche Form für trinken; {飲む|のむ|nomu|trinken, schlichte Form} ist die hier gelernte schlichte Form. Bloßes Abschneiden liefert nicht diese vollständige Form.
 Jonas: Dann darf ich aus einem einzigen Verb noch keine allgemeine Umwandlungsregel machen.
 Aoki: Genau. Die Verbgruppen und ihre Umwandlungen lernen wir später systematisch. Heute erkennst du dieses eine vollständige Formenpaar und seine Verwendung in ganzen Sätzen.
-Jonas: Was passiert, wenn ich hinter die schlichte Trinkform noch den Abschluss vom Studentsatz setze?
+Jonas: Was passiert, wenn ich hinter die schlichte Trinkform noch den Abschluss vom Satz über mein Studium setze?
 Aoki: Das wäre nicht unser korrektes Muster. Der schlichte Verbabschluss genügt in {コーヒーを飲む|こーひーをのむ|koohii o nomu|Ich trinke Kaffee, schlicht|こーひーおのむ}, Ich trinke Kaffee. Wir hängen hier nicht zusätzlich {だ|だ|da|schlichter Abschluss einer Nominalaussage} an.
 Jonas: Und beim höflichen Trinken hänge ich weiterhin keinen zweiten höflichen Abschluss an.
 Aoki: Richtig. {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Ich trinke Kaffee|こーひーおのみます} ist bereits der vollständige höfliche Satz Ich trinke Kaffee. Nominalabschluss und Verbform sind verschiedene Bausteine, keine beliebig stapelbaren Höflichkeitswörter.
 Jonas: Können wir das schlichte Verb noch mit Wasser vergleichen?
 Aoki: Ja. Höflich lautet die Aussage über deine Wahl {水を飲みます|みずをのみます|mizu o nomimasu|Ich trinke Wasser|みずおのみます}: Ich trinke Wasser. Schlicht lautet sie {水を飲む|みずをのむ|mizu o nomu|Ich trinke Wasser, schlicht|みずおのむ}: ebenfalls Ich trinke Wasser.
-Jonas: Das Getränk verändert nicht, welche der beiden Formen höflich ist.
+Jonas: Wenn mich die neue Kollegin nach meiner Wahl fragt, antworte ich weiterhin {水を飲みます|みずをのみます|mizu o nomimasu|Ich trinke Wasser|みずおのみます}: Ich trinke Wasser. Dafür brauche ich keinen anderen Objektmarker.
 Aoki: Genau. Bei Kaffee und Wasser bleibt derselbe Stilunterschied. Der Objektmarker gehört weiterhin zum Getränk; er wird nicht allein wegen der schlichten Verbform entfernt.
 Jonas: Wie ist es, wenn ich über Frau Nakamura statt über mich spreche?
 Aoki: Höflich lautet der bekannte Satz {中村さんはコーヒーを飲みます|なかむらさんはこーひーをのみます|Nakamura-san wa koohii o nomimasu|Frau Nakamura trinkt Kaffee|なかむらさんわこーひーおのみます}: Frau Nakamura trinkt Kaffee. Jetzt hören wir dieselbe Information in einer schlichten Aussage.
@@ -48,8 +48,8 @@ Jonas: Wie lautet das vollständige Ergebnis?
 Aoki: {中村さんはコーヒーを飲む|なかむらさんはこーひーをのむ|Nakamura-san wa koohii o nomu|Frau Nakamura trinkt Kaffee, schlicht|なかむらさんわこーひーおのむ} bedeutet ebenfalls Frau Nakamura trinkt Kaffee. Ihr Name, der Themenmarker und das Getränk bleiben; nur die Verbform ist jetzt schlicht.
 Jonas: Darf der respektvolle Namenszusatz in so einem Satz stehen bleiben?
 Aoki: Ja. Der Namenszusatz behandelt die genannte Person respektvoll. Der höfliche oder schlichte Satzstil betrifft hier die Sprechweise gegenüber deinem Gesprächspartner. Das sind verbundene, aber nicht identische Entscheidungen.
-Jonas: Dann heißt locker sprechen nicht automatisch, alle respektvollen Ausdrücke zu entfernen.
-Aoki: Genau. Wir verändern nicht blind die Anrede oder den Namen einer Person. Für deinen eigenen Gebrauch bleibt unser höflicher Ausgangsstil die sichere Lernbasis.
+Jonas: Also könnte ich einen engen Freund über Nakamura sprechen hören, ohne dass Nakamura selbst dabei ist. Der Namenszusatz betrifft sie; der Satzstil betrifft hier das Gespräch mit dem Freund.
+Aoki: Genau. Deshalb können ein respektvoll genannter Name und eine schlichte Verbform zusammen vorkommen. Wie du über eine Person sprichst und mit wem du sprichst, sind nicht dieselbe Frage.
 Jonas: Ist eine schlichte Form immer unhöflich oder aggressiv?
 Aoki: Nein. Unter passenden vertrauten Gesprächspartnern kann sie ganz normal sein. Unpassend wird eine Form durch die Situation und Beziehung, nicht allein dadurch, dass sie schlicht heißt.
 Jonas: Und die höfliche Form garantiert nicht, dass jede Aussage freundlich wirkt?
@@ -64,11 +64,13 @@ Jonas: Wenn die Person im Satz fehlt, ist das also eine andere Entscheidung als 
 Aoki: Richtig. {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Ich trinke Kaffee|こーひーおのみます} heißt in deiner Getränkesituation höflich Ich trinke Kaffee, obwohl ich nicht ausdrücklich genannt wird. Eine kurze Aussage kann weiterhin vollständig höflich sein.
 Jonas: Und die schlichte Form verrät ebenfalls nicht durch ihre Endung, welche Person gemeint ist.
 Aoki: Genau. Wenn der Name fehlt, bleibt der Zusammenhang wichtig. Unser heutiges Formenpaar macht aus dem japanischen Verb kein deutsches Verb mit unterschiedlichen Endungen für ich und sie.
-Jonas: Wenn ich mehr Höflichkeit möchte, könnte ich einfach mehrere höfliche Abschlüsse hintereinander sagen?
-Aoki: Nein. Grammatische Formen werden nicht höflicher, indem du sie wahllos verdoppelst. Benutze den vollständigen bekannten Satz; weitere Höflichkeitsmittel brauchen später ihre eigene Erklärung.
+Jonas: Dann probieren wir noch einmal meine erste Büropause. Ich kenne Nakamura noch nicht gut und möchte nicht ohne Anlass sehr vertraut klingen.
+Aoki: Bleibe zunächst beim höflichen Muster. Wenn sie auf Deutsch fragt, was du trinken möchtest, kannst du deine bekannte vollständige Antwort geben.
+Jonas: {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Ich trinke Kaffee|こーひーおのみます}. Ich trinke Kaffee. Die Antwort ist kurz, aber die höfliche Verbform bleibt erhalten.
+Aoki: Richtig. Du brauchst weder ein zusätzliches Wort für ich noch einen zweiten höflichen Abschluss. Die Frage liefert die Person; die Verbform liefert hier den höflichen Stil.
 Jonas: Ist das höfliche Muster aus diesem Block schon die ganze japanische Höflichkeitssprache?
 Aoki: Nein. Es gibt weitere respektvolle und bescheidene Ausdrucksweisen. Wir behandeln heute den grundlegenden Unterschied zwischen unseren höflichen Aussagen und einigen schlichten Gegenstücken.
-Jonas: Darf ich aus dem Studentsatz schließen, dass jedes höfliche Ende durch denselben schlichten Abschluss ersetzt wird?
+Jonas: Darf ich aus dem Satz über mein Studium schließen, dass jedes höfliche Ende durch denselben schlichten Abschluss ersetzt wird?
 Aoki: Nein. Unser Beispiel betrifft ein Nomen als Aussagekern. Andere Satzarten, etwa Aussagen mit Eigenschaftswörtern, bekommen später eigene Erklärungen und dürfen nicht blind nach diesem Muster umgebaut werden.
 Jonas: Wenn ich später im Wörterbuch trinken suche, kann dort die schlichte Form stehen?
 Aoki: Ja. {飲む|のむ|nomu|trinken, schlichte Form} ist auch die Wörterbuchform dieses Verbs. Du musst dafür jetzt kein Wörterbuch lesen können; die Bezeichnung erklärt nur, warum diese Form später wieder auftaucht.

@@ -16,7 +16,7 @@ Jonas: Also nicht: Das Buch tut etwas?
 Aoki: Richtig. Das ist eine Nominalaussage, also eine Aussage mit einem Nomen als Kern. Buch ist ein Nomen; der höfliche Abschluss ist {です|です|desu|höflicher Abschluss}.
 Jonas: Warum steht der Themenmarker dann nicht hinter dem Wort Buch?
 Aoki: Weil wir dies hier zum Thema machen und darüber sagen: ein Buch. In {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです} bedeutet der vollständige Satz: Das ist ein Buch.
-Jonas: Kann ich das mit dem Satz über Sie vergleichen?
+Jonas: Kann ich das mit dem Satz über dich vergleichen?
 Aoki: Ja. {青木さんは先生です|あおきさんはせんせいです|Aoki-san wa sensei desu|Frau Aoki ist Lehrerin|あおきさんわせんせいです} bedeutet: Frau Aoki ist Lehrerin. Wieder nennen wir ein Thema und beschreiben es; niemand muss dabei handeln.
 Jonas: Das Thema kann also eine Person oder eine Sache sein.
 Aoki: Ja. Thema bedeutet nicht automatisch Mensch und auch nicht automatisch handelnde Person. Unsere Aussage kann ebenso erklären, was etwas ist.
@@ -26,12 +26,18 @@ Jonas: Ich möchte sagen: Den Kaffee trinke ich. Nicht Frau Nakamura.
 Aoki: Dann passt {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}. Das bedeutet hier: Den Kaffee trinke ich. Kaffee ist das Thema; du nennst dich als die Person, die ihn trinkt.
 Jonas: Was ist das kleine Wort hinter ich?
 Aoki: Das ist {が|が|ga|Subjektmarker}. Es markiert hier das Subjekt, also die Person, die trinkt. In dieser Situation hebt die Antwort hervor, wer den Kaffee übernimmt.
-Jonas: Warum heißt das nicht einfach noch einmal Thema?
+Jonas: Ich möchte die Teile getrennt hören. Womit kündige ich den Kaffee als Thema an?
+Aoki: Mit {コーヒーは|こーひーは|koohii wa|Kaffee als Thema|こーひーわ}. Das heißt als Erklärungshilfe: Was den Kaffee betrifft. Kaffee mit seinem Themenmarker bildet den ersten Baustein.
+Jonas: Danach kommt {私が|わたしが|watashi ga|ich als Subjekt}, also ich mit dem Subjektmarker. Damit nenne ich mich als die Person, die trinkt.
+Aoki: Richtig. Zuletzt folgt {飲みます|のみます|nomimasu|trinken, höfliche Form}, die höfliche Form für trinken. Der Kaffee wird besprochen, du trinkst ihn, und das Verb schließt die Aussage ab.
+Jonas: Zusammengesetzt sage ich {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}: Den Kaffee trinke ich. Jetzt erkenne ich die drei Bausteine wieder.
+Aoki: Genau. Damit beantwortest du unsere offene Frage zur übrigen Tasse. Du erklärst nicht bloß, dass du grundsätzlich Kaffee trinkst, sondern wer diesen Kaffee übernimmt.
+Jonas: Warum nennst du mich in diesem Kaffeesatz Subjekt und nicht einfach noch einmal Thema?
 Aoki: Weil die Aufgaben verschieden sind: Über den Kaffee sprechen wir schon. Die noch offene Information ist, dass du ihn trinkst.
-Jonas: Können Sie den Satz noch einmal mit beiden Aufgaben erklären?
+Jonas: Kannst du den Satz noch einmal mit beiden Aufgaben erklären?
 Aoki: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます} heißt: Den Kaffee trinke ich. Nach Kaffee steht der Themenmarker; nach ich steht der Subjektmarker; am Ende steht trinken in höflicher Form.
 Jonas: Dann ist der Kaffee nicht plötzlich derjenige, der trinkt.
-Aoki: Genau. Kaffee bleibt das Getränk, das getrunken wird. Seine Rolle als Thema ist eine andere Frage als seine Rolle innerhalb der Handlung.
+Aoki: Genau. Wir sprechen über den Kaffee, aber der Kaffee trinkt nichts. Du trinkst ihn. Deshalb unterscheiden wir zwei Fragen: Worüber sprechen wir? Und wer trinkt?
 Jonas: Wo ist der Objektmarker geblieben, den ich schon kenne?
 Aoki: Im vertrauten Satz {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}, also Ich trinke Kaffee, steht {を|を|o|Objektmarker|お} hinter Kaffee. Dort markiert er das Getränk als direktes Objekt.
 Jonas: Und wenn genau dieses Getränk das Thema wird?
@@ -42,30 +48,30 @@ Jonas: Wann würde ich die erste Version benutzen?
 Aoki: Wenn wir über dich und deine Getränkewahl sprechen: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Das bedeutet Ich trinke Kaffee. Zum Beispiel erzählst du, was du in der Pause normalerweise trinkst.
 Jonas: Und wann die Version mit dem Kaffee zuerst?
 Aoki: Wenn der Kaffee schon unser Thema ist und wir klären, wer ihn trinkt: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}. Das bedeutet hier Den Kaffee trinke ich.
-Jonas: Die beiden Sätze können dieselbe Handlung beschreiben, aber im Gespräch etwas anderes leisten.
-Aoki: Ja. Die Person und das Getränk können gleich bleiben. Was wir als Thema aufgreifen und welche Information wir hervorheben, verändert sich.
+Jonas: Wenn ich nur von meiner üblichen Pause erzähle, sage ich {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}: Ich trinke Kaffee. Dann stehe ich als Thema am Anfang.
+Aoki: Ja. Bei der übrigen Tasse haben wir dagegen schon über den Kaffee gesprochen. Dieselbe Person kann dasselbe Getränk trinken, während unsere Frage im Gespräch eine andere ist.
 Jonas: Kann ich dieses zweite Muster auch mit Tee verstehen?
 Aoki: Ja. Ausgangspunkt ist {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}: Den Kaffee trinke ich. Jetzt ist stattdessen eine Tasse Tee übrig, und wir sprechen über diesen Tee.
-Jonas: Dann muss das Getränk als Thema geändert werden.
+Jonas: Der neue Anfang ist {お茶は|おちゃは|ocha wa|Tee als Thema|おちゃわ}, also Tee als Thema. Hinter dem Getränk bleibt der Themenmarker.
 Aoki: Das vollständige Ergebnis lautet {お茶は私が飲みます|おちゃはわたしがのみます|ocha wa watashi ga nomimasu|Den Tee trinke ich|おちゃわわたしがのみます}. Es bedeutet: Den Tee trinke ich. Tee ersetzt Kaffee; die Person ich und die höfliche Verbform bleiben gleich.
 Jonas: Wie wäre dagegen meine gewöhnliche Aussage über meine Teeauswahl?
 Aoki: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます} bedeutet: Ich trinke Tee. Hier bist du das Thema, und Tee ist als das markiert, was du trinkst.
-Jonas: Könnte ich aus der Tee-Version automatisch einen Gegensatz zum Kaffee heraushören?
-Aoki: Ein Themenmarker kann auch einen Gegensatz unterstützen, aber unser Beispiel erklärt zuerst die Tasse Tee, über die wir schon sprechen. Der Zusammenhang entscheidet über solche zusätzlichen Betonungen.
-Jonas: Also soll ich nicht jedes Thema sofort als Gegensatz übersetzen.
-Aoki: Genau. Bei {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです}, Das ist ein Buch, stellen wir einfach einen Gegenstand vor. Wir müssen dabei keinen Streit darüber führen, was er nicht ist.
+Jonas: Wir lassen die übrige Tasse Tee stehen, aber diesmal übernimmt Nakamura sie. Welcher Teil muss sich ändern?
+Aoki: Die trinkende Person. Aus Den Tee trinke ich wird {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|Den Tee trinkt Frau Nakamura|おちゃわなかむらさんがのみます}: Den Tee trinkt Frau Nakamura. Tee bleibt das Thema; Nakamuras Name ersetzt ich vor dem Subjektmarker.
+Jonas: Dann sage ich {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|Den Tee trinkt Frau Nakamura|おちゃわなかむらさんがのみます}: Den Tee trinkt Frau Nakamura. Der Satz handelt vom Tee, obwohl Nakamura ihn trinkt.
+Aoki: Genau das ist der Unterschied, den wir heute brauchen. Der Themenmarker kann in anderen Situationen auch einen Gegensatz unterstützen. Hier genügt zunächst: Wir greifen den Tee auf und sagen, wer ihn trinkt.
 Jonas: Muss ich immer eine deutsche Übersetzung mit was betrifft bilden?
 Aoki: Nein. Was den Tee betrifft ist eine Erklärungshilfe. Natürliches Deutsch kann einfach Den Tee trinke ich sagen. Der Themenmarker hat kein festes einzelnes deutsches Übersetzungswort.
-Jonas: Und das Subjekt ist immer ein Mensch?
-Aoki: Nein. In den heutigen Trinksätzen ist es die handelnde Person. Später gibt es Sätze, in denen das Subjekt etwas Vorhandenes ist und überhaupt nicht handelt.
+Jonas: Bei unseren Getränken finde ich das Subjekt mit der Frage Wer trinkt? Kann ich diese Frage für jeden Satz benutzen?
+Aoki: Nein. Sie hilft bei unseren Trinksätzen. Ein Subjekt muss aber kein Mensch sein und nichts tun. Beim späteren Satz über Wasser im Zimmer wird Wasser das Subjekt sein, ohne selbst etwas zu trinken.
 Jonas: Dann sollte ich Subjekt nicht einfach als Täter auswendig lernen.
 Aoki: Genau. Für unseren Kaffee ist die Frage Wer trinkt? hilfreich. Das ist eine Hilfe für diesen Satztyp, keine Definition für alle japanischen Sätze.
 Jonas: Kann ein Satz beide Marker enthalten, ohne dass sie sich widersprechen?
 Aoki: Unser Beispiel zeigt es: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます} heißt Den Kaffee trinke ich. Der Themenmarker gehört zum Kaffee, der Subjektmarker zu ich. Sie haben verschiedene Aufgaben.
 Jonas: Muss ich deshalb jeden Satz so ausführlich bauen?
 Aoki: Nein. Dies ist ein Beispiel für zwei Aufgaben. Wir machen daraus keine Pflicht, in jedem Satz Thema und Subjekt getrennt auszusprechen.
-Jonas: Was soll ich hören, wenn noch einmal Frau Nakamura genannt wird?
-Aoki: Bei {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます} hörst du: Frau Nakamura trinkt Tee. Sie ist hier sowohl unser Thema als auch die trinkende Person. Beides zusammen ist weiterhin ganz normal.
+Jonas: Nun erzähle ich wieder von Nakamuras Gewohnheit: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます}. Frau Nakamura trinkt Tee. Hier ist sie selbst das Thema.
+Aoki: Und sie ist die trinkende Person. Thema und handelnde Person können also zusammenfallen. Unser Beispiel mit der übrigen Tasse zeigt nur, dass das nicht immer so sein muss.
 Jonas: Und beim Buch gibt es keine handelnde Person.
 Aoki: Richtig. {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです} bedeutet Das ist ein Buch. Wir sagen, was etwas ist; das Thema ist dieses Ding hier.
 Jonas: Also frage ich zuerst nach der Aussage, nicht nur nach der Position eines Wortes.

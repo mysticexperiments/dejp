@@ -42,22 +42,26 @@ Jonas: Dann müsste wieder nur die Information nach dem Thema wechseln, während
 Aoki: So entsteht {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Ich bin Deutscher|わたしわどいつじんです}. Der ganze Satz bedeutet: Ich bin Deutscher.
 Jonas: Das Wort Deutscher ersetzt also Student, aber meine Aussage behauptet nicht, dass ich deshalb kein Student mehr bin.
 Aoki: Genau; ein Satz nennt deine Nationalität, der andere deinen Status, und beide Aussagen können zugleich auf dieselbe Person zutreffen.
-Jonas: Ich höre jetzt besser, warum ich die Bedeutung des ganzen Ergebnisses brauche und nicht nur das ausgetauschte Wort.
+Jonas: Wenn Nakamura nach meiner Herkunft fragt, sage ich also {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Ich bin Deutscher|わたしわどいつじんです}: Ich bin Deutscher. Über mein Studium habe ich damit noch nichts gesagt.
 Aoki: Vergleiche die beiden Aussagen: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです} heißt Ich bin Student, während {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Ich bin Deutscher|わたしわどいつじんです} Ich bin Deutscher bedeutet.
 Jonas: Bei beiden Sätzen höre ich denselben Abschluss, obwohl einmal mein Studium und einmal meine Nationalität gemeint ist.
 Aoki: Ja, beide gehören hier zum gleichen Grundmuster: über ein Thema sagen, wer oder was es ist, und die Aussage höflich abschließen.
 Jonas: Wenn du nun über deinen Beruf sprichst, brauchst du dafür vermutlich eine andere Information als Student.
-Aoki: Dafür gibt es {先生|せんせい|sensei|Lehrerin oder Lehrer}; in unserem Gespräch bezeichnet das meine Tätigkeit als Lehrerin.
+Aoki: Für meinen eigenen Beruf verwende ich hier {教師|きょうし|kyoushi|Lehrerin oder Lehrer von Beruf}. Das bedeutet Lehrerin oder Lehrer von Beruf; bei mir also Lehrerin.
 Jonas: Wie klingt der vollständige Satz, wenn du selbst sagst, dass du Lehrerin bist?
-Aoki: Ich sage {私は先生です|わたしはせんせいです|watashi wa sensei desu|Ich bin Lehrerin|わたしわせんせいです}, und damit meine ich: Ich bin Lehrerin.
-Jonas: Der Anfang klingt wie bei mir, aber diesmal verweist das Wort für ich auf dich und nicht auf mich.
+Aoki: Ich sage {私は教師です|わたしはきょうしです|watashi wa kyoushi desu|Ich bin Lehrerin|わたしわきょうしです}, und damit meine ich: Ich bin Lehrerin. Die Berufsbezeichnung ersetzt Student; das Satzmuster bleibt gleich.
+Jonas: Ich habe aber schon ein anderes japanisches Wort für Lehrer gehört. Gibt es dafür mehrere Wörter?
+Aoki: Ja. {先生|せんせい|sensei|respektvolle Bezeichnung für eine Lehrperson} ist eine respektvolle Bezeichnung, zum Beispiel für eine Lehrerin. Du kannst damit über deine Lehrerin sprechen oder sie ansprechen.
+Jonas: Welches der beiden Wörter nehme ich dann als Vorbild, wenn ich meinen eigenen Beruf beschreibe?
+Aoki: Für eine neutrale Vorstellung des eigenen Lehrerberufs ist die eben gelernte Berufsbezeichnung die sichere Wahl. Die respektvolle Bezeichnung lernst du zunächst für andere Personen; sie ist nicht einfach in jeder Situation austauschbar.
+Jonas: In deinem vollständigen Satz über deinen Beruf klingt der Anfang wie bei mir. Aber diesmal verweist das Wort für ich auf dich und nicht auf mich.
 Aoki: Genau, {私|わたし|watashi|ich} meint die Person, die gerade spricht; das ist wie das deutsche ich, dessen Bezug mit dem Sprecher wechselt.
 Jonas: Dann trägt die Partikel nach diesem Wort nicht selbst die Bedeutung ich, sondern markiert nur das bereits genannte Thema.
 Aoki: Richtig; das Wort benennt die Person, und die Partikel zeigt, wie diese Person in die folgende Aussage eingebunden wird.
 Jonas: Wenn ich deinen Satz einfach über mich selbst sage, behaupte ich also fälschlich, dass ich Lehrer bin.
 Aoki: Ja, deshalb müssen Satzbau und gemeinte Situation zusammenpassen; zum Nachsprechen gehört auch zu wissen, über wen man gerade was behauptet.
-Jonas: Ich bleibe Student und du bleibst Lehrerin; die Grammatik lässt uns über beide Rollen sprechen, ohne sie zu vertauschen.
-Aoki: Genau, und später werden wir eine Person ausdrücklich beim Namen nennen, damit wir auch über jemanden sprechen können, der gerade nicht selbst redet.
+Jonas: Dann antworte ich mit meinem eigenen Beruf beziehungsweise Status: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}. Ich bin Student, nicht die Lehrerin in unserem Gespräch.
+Aoki: Jetzt passt die Aussage zu dir. Beide Sätze beginnen mit ich, aber bei meinem Satz bin ich gemeint und bei deinem Satz du. Wer spricht, ist also ein Teil der Bedeutung.
 Jonas: Bei einer echten Vorstellung weiß Nakamura aber doch schon, dass ich über mich spreche, wenn ich meinen Namen sage.
 Aoki: Dann kann {ヨナスです|よなすです|Yonasu desu|Ich bin Jonas} genügen; in dieser Vorstellung bedeutet das ebenfalls Ich bin Jonas, obwohl ich nicht ausdrücklich genannt wird.
 Jonas: Habe ich mit der längeren Form dann etwas Falsches gelernt, weil die kürzere Form auch funktioniert?
@@ -70,8 +74,8 @@ Jonas: Der Satz muss also nicht genauso viele gesprochene Wörter haben wie sein
 Aoki: Ja, wir übersetzen die verständliche Aussage; wir versuchen nicht, für jedes deutsche Wort zwanghaft ein einzelnes japanisches Wort zu finden.
 Jonas: Für meine Vorstellung habe ich jetzt meinen Namen, meinen Status als Student und meine Nationalität als drei mögliche Informationen.
 Aoki: Und du weißt bei jeder davon, welche Information nach dem Thema kommt; dadurch kannst du die Unterschiede hören, statt drei Sätze ohne Zusammenhang auswendig zu lernen.
-Jonas: Ich möchte mich am Anfang kurz halten und zuerst nur meinen Namen nennen, bevor ich mehr über mich erzähle.
-Aoki: In dieser Situation reicht der schon erklärte Satz {ヨナスです|よなすです|Yonasu desu|Ich bin Jonas}, also Ich bin Jonas; eine kurze Vorstellung kann völlig verständlich sein.
+Jonas: Spielen wir die Begegnung kurz durch. Ich komme zu Nakamura und stelle mich vor: {ヨナスです|よなすです|Yonasu desu|Ich bin Jonas}. Ich bin Jonas.
+Aoki: Sie weiß jetzt, wie du heißt. In deiner Vorstellung reicht dieser kurze Satz, weil klar ist, dass du deinen eigenen Namen nennst. Wenn sie nach deinem Studium fragt, kannst du deine nächste Information ergänzen.
 Jonas: Wenn das Gespräch auf mein Studium kommt, erkenne ich dagegen {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです} als Ich bin Student.
 Aoki: Genau; du verknüpfst die Aussage jetzt mit einer passenden Gesprächssituation und weißt, welche Information sie tatsächlich liefert.
 Jonas: In der gemeinsamen Pause möchte ich aber nicht nur sagen, wer ich bin, sondern auch, dass ich Kaffee trinke.

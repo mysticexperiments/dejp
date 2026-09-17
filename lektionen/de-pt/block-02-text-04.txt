@@ -1,0 +1,86 @@
+Jonas: Bei den neuen Fragen verstehe ich die kurzen Antworten schon etwas besser. Aber ich möchte genau wissen, was ich weglassen kann und was erhalten bleiben muss.
+Aoki: Beginnen wir mit einer direkten Frage an dich: {学生ですか|がくせいですか|gakusei desu ka|Bist du Student?} Das bedeutet hier: Bist du Student?
+Jonas: Ich antworte zunächst ausführlich: {はい、私は学生です|はいわたしはがくせいです|hai, watashi wa gakusei desu|Ja, ich bin Student|はいわたしわがくせいです}. Ja, ich bin Student.
+Aoki: Deine Antwort nennt dich ausdrücklich als Thema. Die Frage hatte aber bereits klargemacht, dass es um deinen Status geht.
+Jonas: Dann dürfte ich dieselbe Information auch ohne die ausdrückliche Person nennen.
+Aoki: Ja. Aus deiner längeren Antwort wird {はい、学生です|はいがくせいです|hai, gakusei desu|Ja, ich bin Student}: Ja, ich bin Student. Die ganze Einheit aus ich und Themenmarker bleibt unausgesprochen.
+Jonas: {はい、学生です|はいがくせいです|hai, gakusei desu|Ja, ich bin Student}. Ja, ich bin Student. Das Wort für Student und der höfliche Abschluss sind noch da.
+Aoki: Genau. Du kürzt die bereits verständliche Personenangabe, nicht den Inhalt deiner Antwort und nicht ihren höflichen Abschluss.
+Jonas: Warum wird derselbe Studentenstatus in deiner Frage mit du und in meiner Antwort mit ich übersetzt?
+Aoki: Weil ich dich frage und du über dich antwortest. Die Person bleibt dieselbe, aber die Perspektive des Sprechers wechselt. Die deutschen Pronomen zeigen diesen Wechsel.
+Jonas: Im Japanischen habe ich dafür nicht zwei verschiedene Formen des Abschlusses gehört.
+Aoki: Richtig. {学生です|がくせいです|gakusei desu|Ich bin Student} bedeutet als deine Antwort Ich bin Student. Das ich stammt hier aus dem Gespräch, nicht aus einer Endung für die erste Person.
+Jonas: Dann sollte ich die kurze Form trotzdem nicht immer als Ich bin Student abspeichern.
+Aoki: Genau. Ihre deutsche Bedeutung braucht einen Bezug. Wenn wir ausdrücklich einen anderen Studenten besprechen, kann dieselbe Form eine Aussage über ihn sein.
+Jonas: Wie können wir nun eine Frage über deine Person beantworten?
+Aoki: Stell dir vor, Nakamura möchte etwas über mich wissen. Du gibst mir ihre Frage wieder, ohne selbst die Rolle einer anderen Person zu übernehmen.
+Jonas: Ich gebe die Frage weiter: {青木さんは先生ですか|あおきさんはせんせいですか|Aoki-san wa sensei desu ka|Ist Frau Aoki Lehrerin?|あおきさんわせんせいですか}. Ist Frau Aoki Lehrerin?
+Aoki: In dieser weitergegebenen Frage bezeichnet mein Name die besprochene Person. Der respektvolle Ausdruck für Lehrerin beschreibt mich aus der Sicht der Fragenden.
+Jonas: Wie kannst du kurz sagen, dass die Vermutung in dieser Frage stimmt, ohne alle Wörter zu wiederholen?
+Aoki: Eine passende Bestätigung lautet {そうです|そうです|sou desu|Das stimmt}. Das bedeutet hier: Das stimmt oder So ist es. Sie greift die Aussage auf, nach der gefragt wurde.
+Jonas: Wie klingt diese Bestätigung zusammen mit ja?
+Aoki: {はい、そうです|はいそうです|hai, sou desu|Ja, das stimmt} heißt: Ja, das stimmt. In unserer Szene bestätige ich damit, dass ich Lehrerin bin.
+Jonas: Bedeutet der neue Ausdruck also Lehrerin?
+Aoki: Nein. Er bestätigt hier den Inhalt der Frage. Wenn wir eine andere Aussage prüfen, kann dieselbe Bestätigung auf diesen anderen Inhalt verweisen.
+Jonas: Können wir ihn deshalb auch bei meiner Person verwenden?
+Aoki: Ich frage dich erneut {学生ですか|がくせいですか|gakusei desu ka|Bist du Student?}: Bist du Student? Diesmal kannst du die erfragte Aussage bestätigen, ohne Student zu wiederholen.
+Jonas: {はい、そうです|はいそうです|hai, sou desu|Ja, das stimmt}. Ja, das stimmt. Jetzt bestätige ich, dass ich Student bin, nicht dass du Lehrerin bist.
+Aoki: Genau. Die neue Frage liefert einen neuen Inhalt. Die Antwortform bleibt dieselbe; sie hat keine feste Bedeutung wie ich oder Lehrerin.
+Jonas: Habe ich damit eine passende Bestätigung für jede mögliche Frage gelernt, auch über Tätigkeiten wie trinken?
+Aoki: So weit gehen unsere Beispiele nicht. Wir bestätigen hier nominale Beschreibungen, etwa Student sein. Bei anderen Fragearten prüfen wir später gesondert, welche Antwort passt.
+Jonas: Könnte ich die Bestätigung auch benutzen, wenn unklar ist, auf welche Frage ich reagiere?
+Aoki: Dann könnte die Antwort ebenfalls unklar sein. Nenne lieber die passende Beschreibung oder die Person ausdrücklich, wenn der Gesprächszusammenhang nicht mehr eindeutig ist.
+Jonas: Und kann ich den Bestätigungsausdruck auf seinen höflichen Abschluss allein verkürzen?
+Aoki: Nicht als unser allgemeines Wort für ja. Benutze die ganze gelernte Bestätigung. Der höfliche Abschluss allein ersetzt nicht automatisch einen vollständigen bestätigten Inhalt.
+Jonas: Jetzt möchte ich auch eine falsche Vermutung über mich selbst knapp berichtigen.
+Aoki: Wir spielen eine neue Frage durch. Jemand vermutet, du arbeitest als Lehrer. Ich frage in dieser Rolle {教師ですか|きょうしですか|kyoushi desu ka|Bist du Lehrer?}: Bist du Lehrer?
+Jonas: Ich antworte {いいえ、教師じゃありません|いいえきょうしじゃありません|iie, kyoushi ja arimasen|Nein, ich bin kein Lehrer}: Nein, ich bin kein Lehrer.
+Aoki: Damit verneinst du die vermutete Berufsangabe. Das Wort Lehrer mit dem negativen Abschluss genügt hier, weil meine Frage ausdrücklich dich betraf.
+Jonas: Und anschließend {学生です|がくせいです|gakusei desu|Ich bin Student}: Ich bin Student. Ich nenne die richtige Angabe über mich.
+Aoki: Nun weiß dein Gegenüber mehr als nur nein. Deine erste Aussage bestreitet Lehrer sein; die zweite teilt deinen tatsächlichen Status mit.
+Jonas: Wäre dieselbe Antwort auch mit dem längeren negativen Abschluss möglich?
+Aoki: Ja. {いいえ、教師ではありません|いいえきょうしではありません|iie, kyoushi dewa arimasen|Nein, ich bin kein Lehrer|いいえきょうしでわありません} heißt ebenfalls: Nein, ich bin kein Lehrer. Die bekannte Variante verändert nicht, über wen du sprichst.
+Jonas: Beide Formen lassen meine Person unausgesprochen und behalten einen höflichen negativen Abschluss.
+Aoki: Genau. Du kannst den eindeutig bekannten Bezug weglassen und trotzdem vollständig verneinen. Personenauslassung und die Wahl der Negativvariante bleiben verschiedene Entscheidungen.
+Jonas: Könnte ich gleich die richtige Angabe nennen, statt die falsche Berufsbezeichnung noch einmal zu wiederholen?
+Aoki: Ja. {いいえ、学生です|いいえがくせいです|iie, gakusei desu|Nein, ich bin Student} bedeutet hier: Nein, ich bin Student. Das nein weist die Vermutung zurück; danach nennst du direkt deinen tatsächlichen Status.
+Jonas: Also muss ich hören, welche konkrete Angabe die Frage zur Prüfung stellt.
+Aoki: Richtig. Bei Student sein konntest du bestätigen. Bei Lehrer sein musstest du für deine Rolle verneinen, obwohl beide Fragen dieselbe Person betreffen.
+Jonas: Ich möchte dieselbe klare Trennung nun bei einem Getränk hören.
+Aoki: Du hast eine Tasse Tee direkt vor dir. Ich kenne den Inhalt. Du bist noch unsicher und fragst, ob es Kaffee ist.
+Jonas: {これはコーヒーですか|これはこーひーですか|kore wa koohii desu ka|Ist das Kaffee?|これわこーひーですか}. Ist das Kaffee?
+Aoki: {いいえ、コーヒーじゃありません|いいえこーひーじゃありません|iie, koohii ja arimasen|Nein, das ist kein Kaffee}. Nein, das ist kein Kaffee. Dazu die richtige Angabe: {お茶です|おちゃです|ocha desu|Das ist Tee}. Das ist Tee.
+Jonas: In beiden kurzen Aussagen meinst du das Getränk in meiner Tasse.
+Aoki: Genau. Weder die Verneinung noch die zweite Beschreibung führt ein anderes Getränk ein. Deine Frage hält den Bezug auf diese Tasse fest.
+Jonas: Ich könnte auf Deutsch zusammenfassen: Das ist kein Kaffee, sondern Tee.
+Aoki: Ja. Unsere zwei japanischen Aussagen leisten hier dieselbe Korrektur. Wir haben aber noch kein japanisches Verbindungswort für sondern eingeführt.
+Jonas: Muss die zweite Aussage auch negativ sein, weil die Antwort mit nein begonnen hat?
+Aoki: Nein. Die erste Vermutung war falsch, die zweite Angabe ist richtig. Deshalb verneinen wir Kaffee und bejahen Tee. Das Antwortwort macht nicht jeden folgenden Satz automatisch negativ.
+Jonas: Kann ich anschließend überprüfen, ob ich die richtige Angabe verstanden habe?
+Aoki: Ja. Die Tasse bleibt dieselbe. Nun fragst du nach Tee statt Kaffee. Ausgangspunkt war die Kaffeefrage; ausgetauscht wird nur das Nomen.
+Jonas: Dann lautet das vollständige Ergebnis {これはお茶ですか|これはおちゃですか|kore wa ocha desu ka|Ist das Tee?|これわおちゃですか}: Ist das Tee?
+Aoki: {はい、そうです|はいそうです|hai, sou desu|Ja, das stimmt}. Ja, das stimmt. Jetzt bestätigt derselbe Ausdruck eine Aussage über das Getränk, nicht über eine Person.
+Jonas: Die Antwort enthält weder Kaffee noch Tee. Trotzdem weiß ich, welche Angabe bestätigt wird.
+Aoki: Weil deine unmittelbar vorherige Frage die Zuordnung als Tee genannt hat. Würdest du die Bestätigung allein ohne Kontext hören, wäre ihr genauer Inhalt nicht erkennbar.
+Jonas: Das ist wie bei Das stimmt auf Deutsch. Ohne die frühere Aussage fehlt mir etwas.
+Aoki: Genau. Eine kurze Antwort ist nicht grundsätzlich unvollständig. Im Gespräch übernimmt die vorausgehende Frage einen Teil der Information.
+Jonas: Wenn ich deine Antwort wiederhole, darf ich dann den Frageabschluss aus meiner Frage stehen lassen?
+Aoki: Vergleiche {お茶ですか|おちゃですか|ocha desu ka|Ist das Tee?}: Ist das Tee? Die Aussage {お茶です|おちゃです|ocha desu|Das ist Tee} bedeutet dagegen Das ist Tee. In unserem Muster macht der zusätzliche Fragemarker wieder eine Frage daraus.
+Jonas: Für meine bestätigte Aussage sage ich also {お茶です|おちゃです|ocha desu|Das ist Tee}: Das ist Tee. Ich frage nicht noch einmal.
+Aoki: Richtig. Du hast die Frage beantwortet bekommen und gibst jetzt ihren Inhalt als Aussage wieder. Dafür brauchst du keinen Fragemarker.
+Jonas: Was passiert, wenn inzwischen eine zweite Tasse auf den Tisch gestellt wurde?
+Aoki: Dann kann eine knappe Aussage ohne klaren Bezug missverständlich werden. Wir müssen wissen, welche Tasse gemeint ist, statt die letzte Antwort automatisch auf beide zu beziehen.
+Jonas: Nehmen wir an, die neue Tasse steht direkt vor mir. Ich zeige darauf und frage {これはコーヒーですか|これはこーひーですか|kore wa koohii desu ka|Ist das Kaffee?|これわこーひーですか}: Ist das Kaffee?
+Aoki: Für diese neue Szene legen wir fest: Die neue Tasse enthält Kaffee. Ich antworte {はい、コーヒーです|はいこーひーです|hai, koohii desu|Ja, das ist Kaffee}: Ja, das ist Kaffee.
+Jonas: Vorhin hast du Kaffee verneint und jetzt bestätigt. Das ist kein Widerspruch, weil wir die Tasse gewechselt haben.
+Aoki: Genau. Die Grammatik allein sagt dir nicht, welcher Gegenstand vor uns steht. Die erklärte Szene und dein Hinweis auf die neue Tasse schaffen den neuen Bezug.
+Jonas: Bei einer Person könnte ein unbemerkter Wechsel genauso verwirren.
+Aoki: Ja. Wer gerade spricht, ist nicht automatisch die beschriebene Person. Wenn ihr über Aoki sprecht, kann sie auch in der Antwort weiter gemeint sein, obwohl Jonas antwortet.
+Jonas: Ich stelle mir vor, Nakamura fragt mich auf Deutsch, ob du Lehrerin bist. Ich antworte {はい、そうです|はいそうです|hai, sou desu|Ja, das stimmt}: Ja, das stimmt.
+Aoki: Damit bestätigst du eine Aussage über mich. Du hast nicht plötzlich behauptet, selbst Lehrer zu sein. Die Frage hat die Person und die zu prüfende Angabe geliefert.
+Jonas: Das unterscheidet sich von deiner direkten Frage an mich nach meinem Studentenstatus.
+Aoki: Genau. Dort bestätigtest du etwas über dich, hier etwas über mich. Derselbe Antwortausdruck kann beide Aufgaben erfüllen, weil er an die jeweilige Frage anknüpft.
+Jonas: Dann möchte ich bei einer kurzen Antwort drei Dinge verstehen: welche Person oder Sache gemeint ist, welche Angabe geprüft wird und ob sie bestätigt wird.
+Aoki: Damit erfasst du unsere heutigen Beispiele. Bei einer falschen Angabe folgt außerdem die richtige Beschreibung, wenn wir die Verwechslung vollständig auflösen wollen.
+Jonas: Bisher haben wir über unsere jetzigen Situationen gesprochen. Ich möchte auch verstehen, wie du von deiner früheren Studienzeit erzählen könntest.
+Aoki: Das ist der nächste Schritt. Wir verändern den nominalen Abschluss so, dass die Aussage auf eine frühere Situation zurückblickt, und erklären die neue Form wieder am vollständigen Satz.

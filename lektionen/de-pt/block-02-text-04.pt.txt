@@ -1,0 +1,86 @@
+Jonas: Nas novas perguntas, já entendo um pouco melhor as respostas curtas. Mas quero saber exatamente o que posso deixar implícito e o que precisa permanecer.
+Aoki: Vamos começar com uma pergunta direta a você: {学生ですか|がくせいですか|gakusei desu ka|Você é estudante?} Aqui significa: você é estudante?
+Jonas: Primeiro respondo de forma mais completa: {はい、私は学生です|はいわたしはがくせいです|hai, watashi wa gakusei desu|Sim, eu sou estudante|はいわたしわがくせいです}. Sim, eu sou estudante.
+Aoki: Sua resposta menciona você expressamente como tema. Mas a pergunta já tinha deixado claro que se tratava da sua condição.
+Jonas: Então eu poderia dar a mesma informação sem mencionar a pessoa expressamente.
+Aoki: Sim. Sua resposta mais longa vira {はい、学生です|はいがくせいです|hai, gakusei desu|Sim, eu sou estudante}: sim, eu sou estudante. A unidade inteira formada por eu e pelo marcador de tema fica implícita.
+Jonas: {はい、学生です|はいがくせいです|hai, gakusei desu|Sim, eu sou estudante}. Sim, eu sou estudante. A palavra estudante e a finalização polida continuam presentes.
+Aoki: Exatamente. Você reduz a indicação da pessoa, que já está clara, não o conteúdo da resposta nem sua finalização polida.
+Jonas: Por que a mesma condição de estudante é traduzida com du na sua pergunta em alemão e com ich na minha resposta?
+Aoki: Porque eu pergunto a você e você responde sobre si. A pessoa continua a mesma, mas a perspectiva de quem fala muda. Os pronomes alemães mostram essa mudança.
+Jonas: Em japonês, não ouvi duas formas diferentes da finalização para isso.
+Aoki: Isso mesmo. {学生です|がくせいです|gakusei desu|Eu sou estudante} significa, como sua resposta, eu sou estudante. Aqui o eu vem da conversa, não de uma terminação de primeira pessoa.
+Jonas: Então, mesmo assim, não devo memorizar a forma curta como se sempre significasse eu sou estudante.
+Aoki: Exatamente. Seu significado em alemão precisa de uma referência. Se estivermos falando expressamente de outro estudante, a mesma forma pode ser uma afirmação sobre ele.
+Jonas: Como podemos agora responder a uma pergunta sobre você?
+Aoki: Imagine que Nakamura queira saber algo sobre mim. Você me repete a pergunta dela sem assumir o papel de outra pessoa.
+Jonas: Repasso a pergunta: {青木さんは先生ですか|あおきさんはせんせいですか|Aoki-san wa sensei desu ka|A senhora Aoki é professora?|あおきさんわせんせいですか}. A senhora Aoki é professora?
+Aoki: Nessa pergunta repassada, meu nome identifica a pessoa de quem se fala. A expressão respeitosa para professora me descreve do ponto de vista de quem pergunta.
+Jonas: Como você pode dizer de forma breve que a suposição dessa pergunta está certa, sem repetir todas as palavras?
+Aoki: Uma confirmação adequada é {そうです|そうです|sou desu|Isso mesmo}. Aqui significa: isso mesmo ou é isso. Ela retoma a afirmação que a pergunta procura verificar.
+Jonas: Como soa essa confirmação junto com sim?
+Aoki: {はい、そうです|はいそうです|hai, sou desu|Sim, isso mesmo} significa: sim, isso mesmo. Na nossa cena, confirmo com isso que sou professora.
+Jonas: Então a nova expressão significa professora?
+Aoki: Não. Aqui ela confirma o conteúdo da pergunta. Se verificarmos outra afirmação, a mesma confirmação pode se referir àquele outro conteúdo.
+Jonas: Por isso também podemos usá-la quando a pergunta for sobre mim?
+Aoki: Pergunto novamente a você {学生ですか|がくせいですか|gakusei desu ka|Você é estudante?}: você é estudante? Desta vez, você pode confirmar a afirmação perguntada sem repetir estudante.
+Jonas: {はい、そうです|はいそうです|hai, sou desu|Sim, isso mesmo}. Sim, isso mesmo. Agora confirmo que sou estudante, não que você é professora.
+Aoki: Exatamente. A nova pergunta fornece um novo conteúdo. A forma da resposta continua igual; ela não tem um significado fixo como eu ou professora.
+Jonas: Com isso aprendi uma confirmação adequada para qualquer pergunta possível, inclusive sobre atividades como beber?
+Aoki: Nossos exemplos não vão tão longe. Aqui confirmamos descrições nominais, como ser estudante. Em outros tipos de pergunta, veremos separadamente qual resposta é adequada.
+Jonas: Eu também poderia usar a confirmação quando não estivesse claro a qual pergunta estou respondendo?
+Aoki: Nesse caso, a resposta também poderia ficar pouco clara. É melhor mencionar expressamente a descrição adequada ou a pessoa se o contexto da conversa já não for inequívoco.
+Jonas: E posso reduzir a expressão de confirmação apenas à sua finalização polida?
+Aoki: Não como nossa palavra geral para sim. Use a confirmação aprendida inteira. A finalização polida sozinha não substitui automaticamente um conteúdo confirmado completo.
+Jonas: Agora também quero corrigir de forma breve uma suposição errada sobre mim mesmo.
+Aoki: Vamos encenar uma nova pergunta. Alguém supõe que você trabalhe como professor. Fazendo esse papel, pergunto {教師ですか|きょうしですか|kyoushi desu ka|Você é professor?}: você é professor?
+Jonas: Respondo {いいえ、教師じゃありません|いいえきょうしじゃありません|iie, kyoushi ja arimasen|Não, eu não sou professor}: não, eu não sou professor.
+Aoki: Assim você nega a profissão suposta. A palavra professor com a finalização negativa basta aqui porque minha pergunta se referia expressamente a você.
+Jonas: E depois {学生です|がくせいです|gakusei desu|Eu sou estudante}: eu sou estudante. Dou a informação correta sobre mim.
+Aoki: Agora a outra pessoa sabe mais do que apenas não. Sua primeira afirmação nega que você seja professor; a segunda informa sua condição real.
+Jonas: A mesma resposta também seria possível com a finalização negativa mais longa?
+Aoki: Sim. {いいえ、教師ではありません|いいえきょうしではありません|iie, kyoushi dewa arimasen|Não, eu não sou professor|いいえきょうしでわありません} também significa: não, eu não sou professor. A variante conhecida não muda de quem você fala.
+Jonas: As duas formas deixam minha pessoa implícita e mantêm uma finalização negativa polida.
+Aoki: Exatamente. Você pode deixar implícita uma referência claramente conhecida e ainda assim expressar a negação completa. Omitir a pessoa e escolher a variante negativa continuam sendo decisões diferentes.
+Jonas: Eu poderia dar logo a informação correta, em vez de repetir a profissão suposta que está errada?
+Aoki: Sim. {いいえ、学生です|いいえがくせいです|iie, gakusei desu|Não, eu sou estudante} significa aqui: não, eu sou estudante. O não rejeita a suposição; depois você informa diretamente sua condição real.
+Jonas: Então preciso ouvir qual informação específica a pergunta coloca em verificação.
+Aoki: Isso mesmo. No caso de ser estudante, você podia confirmar. No caso de ser professor, precisava negar de acordo com seu papel, embora as duas perguntas se refiram à mesma pessoa.
+Jonas: Quero ouvir agora essa mesma distinção clara com uma bebida.
+Aoki: Você tem uma xícara de chá bem à sua frente. Eu conheço o conteúdo. Você ainda não tem certeza e pergunta se é café.
+Jonas: {これはコーヒーですか|これはこーひーですか|kore wa koohii desu ka|Isto é café?|これわこーひーですか}. Isto é café?
+Aoki: {いいえ、コーヒーじゃありません|いいえこーひーじゃありません|iie, koohii ja arimasen|Não, isto não é café}. Não, isto não é café. Acrescento a informação correta: {お茶です|おちゃです|ocha desu|Isto é chá}. Isto é chá.
+Jonas: Nas duas afirmações curtas, você se refere à bebida na minha xícara.
+Aoki: Exatamente. Nem a negação nem a segunda descrição introduzem outra bebida. Sua pergunta mantém a referência a essa xícara.
+Jonas: Eu poderia resumir em alemão com a frase que significa: isto não é café, e sim chá.
+Aoki: Sim. Nossas duas afirmações japonesas fazem aqui a mesma correção. Mas ainda não introduzimos uma palavra japonesa de ligação correspondente ao alemão sondern.
+Jonas: A segunda afirmação também precisa ser negativa porque a resposta começou com não?
+Aoki: Não. A primeira suposição estava errada; a segunda informação está certa. Por isso negamos café e afirmamos chá. A palavra de resposta não torna automaticamente negativa toda frase que vem depois.
+Jonas: Depois posso verificar se entendi a informação correta?
+Aoki: Sim. A xícara continua a mesma. Agora você pergunta sobre chá em vez de café. O ponto de partida era a pergunta sobre café; só o substantivo é substituído.
+Jonas: Então o resultado completo é {これはお茶ですか|これはおちゃですか|kore wa ocha desu ka|Isto é chá?|これわおちゃですか}: isto é chá?
+Aoki: {はい、そうです|はいそうです|hai, sou desu|Sim, isso mesmo}. Sim, isso mesmo. Agora a mesma expressão confirma uma afirmação sobre a bebida, não sobre uma pessoa.
+Jonas: A resposta não contém café nem chá. Mesmo assim sei qual informação é confirmada.
+Aoki: Porque sua pergunta imediatamente anterior mencionou a classificação como chá. Se você ouvisse a confirmação sozinha, sem contexto, não conseguiria identificar seu conteúdo exato.
+Jonas: É como a expressão alemã Das stimmt, que significa isso mesmo. Sem a afirmação anterior, falta uma informação.
+Aoki: Exatamente. Uma resposta curta não é necessariamente incompleta. Na conversa, a pergunta anterior fornece parte da informação.
+Jonas: Se eu repetir sua resposta, posso manter a finalização interrogativa da minha pergunta?
+Aoki: Compare {お茶ですか|おちゃですか|ocha desu ka|Isto é chá?}: isto é chá? Já a afirmação {お茶です|おちゃです|ocha desu|Isto é chá} significa isto é chá. No nosso padrão, o marcador interrogativo adicional transforma isso novamente numa pergunta.
+Jonas: Então, para minha afirmação confirmada, digo {お茶です|おちゃです|ocha desu|Isto é chá}: isto é chá. Não estou perguntando outra vez.
+Aoki: Isso mesmo. Sua pergunta foi respondida, e agora você repassa o conteúdo como afirmação. Para isso, não precisa do marcador interrogativo.
+Jonas: O que acontece se, enquanto isso, outra xícara tiver sido colocada na mesa?
+Aoki: Nesse caso, uma afirmação breve sem referência clara pode causar confusão. Precisamos saber qual xícara está em questão, em vez de aplicar automaticamente a última resposta às duas.
+Jonas: Vamos supor que a nova xícara esteja bem à minha frente. Aponto para ela e pergunto {これはコーヒーですか|これはこーひーですか|kore wa koohii desu ka|Isto é café?|これわこーひーですか}: isto é café?
+Aoki: Para essa nova cena, estabelecemos que a nova xícara contém café. Respondo {はい、コーヒーです|はいこーひーです|hai, koohii desu|Sim, isto é café}: sim, isto é café.
+Jonas: Antes você negou que fosse café e agora confirmou. Isso não é uma contradição porque mudamos de xícara.
+Aoki: Exatamente. A gramática sozinha não informa qual objeto está diante de nós. A cena explicada e sua indicação da nova xícara estabelecem a nova referência.
+Jonas: No caso de uma pessoa, uma mudança sem aviso poderia causar a mesma confusão.
+Aoki: Sim. Quem está falando não é automaticamente a pessoa descrita. Se vocês estão falando de Aoki, ela pode continuar sendo a pessoa em questão na resposta, mesmo que Jonas responda.
+Jonas: Imagino que Nakamura me pergunte em alemão se você é professora. Respondo {はい、そうです|はいそうです|hai, sou desu|Sim, isso mesmo}: sim, isso mesmo.
+Aoki: Com isso você confirma uma afirmação sobre mim. Não passou de repente a afirmar que você mesmo é professor. A pergunta forneceu a pessoa e a informação a ser verificada.
+Jonas: Isso é diferente da sua pergunta direta a mim sobre minha condição de estudante.
+Aoki: Exatamente. Naquele caso, você confirmava algo sobre si; aqui, algo sobre mim. A mesma expressão de resposta pode cumprir as duas funções porque se liga à pergunta de cada situação.
+Jonas: Então, numa resposta curta, quero entender três coisas: qual pessoa ou objeto está em questão, qual informação está sendo verificada e se ela é confirmada.
+Aoki: Assim você compreende nossos exemplos de hoje. Quando uma informação está errada, também acrescentamos a descrição correta se queremos desfazer completamente a confusão.
+Jonas: Até agora falamos das nossas situações atuais. Também quero entender como você poderia contar sobre a época em que estudava.
+Aoki: Esse é o próximo passo. Vamos mudar a finalização nominal para que a afirmação se refira a uma situação anterior e explicar novamente a nova forma usando uma frase completa.

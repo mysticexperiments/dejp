@@ -23,9 +23,9 @@ Aoki: {私はコーヒーを飲みます|わたしはこーひーをのみます
 Jonas: Am Anfang erkenne ich mich selbst als Thema, genau wie in meiner Vorstellung aus dem ersten Text.
 Aoki: Ja, {私は|わたしは|watashi wa|was mich betrifft|わたしわ} kündigt hier an, dass du etwas über dich sagst; die neue Information beschreibt nun deine Handlung.
 Jonas: Nach diesem Anfang kommt Kaffee mit dem Objektmarker, und erst danach folgt die Form für trinken.
-Aoki: Genau, der ganze Zusammenhang ist: Was mich betrifft, Kaffee trinke ich; natürlich übersetzen wir den fertigen Satz auf Deutsch als Ich trinke Kaffee.
-Jonas: Diese ungewöhnliche deutsche Reihenfolge ist also nur eine Hilfe, um den Aufbau zu verstehen, und nicht die normale Übersetzung.
-Aoki: Richtig; die sinngemäße Übersetzung bleibt ein normaler deutscher Satz, auch wenn wir die japanischen Teile zum Erklären in ihrer eigenen Reihenfolge besprechen.
+Aoki: Höre den mittleren Baustein: {コーヒーを|こーひーを|koohii o|Kaffee als Objekt|こーひーお}. Er nennt Kaffee und markiert ihn als das Getrunkene. Dieser Baustein steht vor der Handlung.
+Jonas: Und die Handlung höre ich in {飲みます|のみます|nomimasu|trinken}. Das bedeutet hier trinke und kommt nach dem Kaffee mit seinem Marker.
+Aoki: Genau. Die Reihenfolge der Aufgaben ist: Thema, Getränk als Objekt, Handlung. Das ist eine Beschreibung der japanischen Bausteine, kein deutscher Beispielsatz. Die natürliche Übersetzung lautet Ich trinke Kaffee.
 Jonas: Kannst du den Satz wiederholen, damit ich das Verb diesmal bewusst ganz am Ende höre?
 Aoki: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます} heißt Ich trinke Kaffee; der letzte Teil nennt das Trinken und schließt diese höfliche Aussage ab.
 Jonas: Muss ich nach dem Verb noch den höflichen Abschluss aus meinem Satz Ich bin Student anhängen?
@@ -42,8 +42,8 @@ Jonas: Der kurze Objektmarker bleibt also nach dem Getränk, obwohl Tee anders k
 Aoki: Ja, {を|を|o|Objektpartikel|お} hängt hier nicht von der Länge des Getränkeworts ab; die Partikel markiert die Aufgabe dieses Worts beim Trinken.
 Jonas: Ich möchte die beiden fertigen Aussagen direkt vergleichen, damit ich nicht versehentlich auch das Verb verändere.
 Aoki: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます} bedeutet Ich trinke Kaffee, und {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます} bedeutet Ich trinke Tee.
-Jonas: Ich höre denselben Anfang und dasselbe Ende; nur in der Mitte steht ein anderes Getränk vor dem Objektmarker.
-Aoki: Genau dort liegt die Bedeutungsänderung, und die übrigen Teile geben dir Halt, weil du ihre Aufgaben bereits kennst.
+Jonas: Dann sage ich für meine Teeauswahl {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます}: Ich trinke Tee. Der Marker nach Tee gehört nicht zum Wort für trinken.
+Aoki: Richtig. Höre die Einheit {お茶を|おちゃを|ocha o|Tee als Objekt|おちゃお}: Tee mit dem Objektmarker. Im ganzen Satz folgt danach das Verb. Das Getränk ändert sich, seine Aufgabe bleibt gleich.
 Jonas: Wenn ich kein warmes Getränk möchte und stattdessen Wasser nehme, kann ich dasselbe Vorgehen benutzen?
 Aoki: Ja, Wasser heißt {水|みず|mizu|Wasser}; dieses Wort setzen wir an die Stelle des Getränks, ohne die Handlung zu ändern.
 Jonas: Dann hörst du aus dem neuen Satz, dass ich Wasser trinke, aber weiterhin über mich selbst rede.
@@ -52,8 +52,8 @@ Jonas: Die kleinen Marker zeigen also verschiedene Aufgaben: einer gehört zum T
 Aoki: Genau; {は|は|wa|Themenpartikel|わ} kündigt hier das Thema an, während {を|を|o|Objektpartikel|お} das Getränk als Objekt des Trinkens markiert.
 Jonas: Könnte ich beide Marker vertauschen, solange ich noch dieselben Wörter für ich, Wasser und trinken benutze?
 Aoki: Dann wäre unser erklärtes Muster nicht mehr dasselbe; die Marker sind keine Dekoration, sondern zeigen, wie die genannten Wörter zur Aussage gehören.
-Jonas: Es reicht also nicht, nur die Wörter wiederzuerkennen; ich muss auch hören, welche Partikel jeweils danach kommt.
-Aoki: Ja, und deshalb betrachten wir Person und Getränk jeweils zusammen mit ihrem Marker, bevor wir das abschließende Verb hören.
+Jonas: Bei Wasser versuche ich es so: {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Ich trinke Wasser|わたしわみずおのみます}. Ich trinke Wasser. Welchen Baustein höre ich diesmal zwischen Thema und Verb?
+Aoki: {水を|みずを|mizu o|Wasser als Objekt|みずお}, also Wasser mit dem Objektmarker. Du hast nicht das Verb verändert, sondern genau die Einheit eingesetzt, die sagt, was du trinkst.
 Jonas: Bedeutet der Satz Ich trinke Kaffee, dass ich genau in diesem Augenblick schon einen Schluck nehme?
 Aoki: Das sagt diese Form allein nicht; in unserer Pausensituation beschreibt sie deine Wahl, und in einem anderen passenden Zusammenhang kann sie eine Gewohnheit ausdrücken.
 Jonas: Für das ausdrücklich gerade ablaufende Trinken müsste ich also später noch eine weitere Form kennenlernen.
@@ -64,8 +64,8 @@ Jonas: Ich versuche die Aussage einmal nach Aufgaben zu beschreiben: über mich 
 Aoki: Genau das hörst du in {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Ich trinke Wasser|わたしわみずおのみます}, also Ich trinke Wasser.
 Jonas: Und wenn die Situation wieder Kaffee verlangt, ändere ich nur den Getränketeil und nicht aus Gewohnheit den ganzen Satz.
 Aoki: Dann erhältst du wieder {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}, mit der vollständigen Bedeutung Ich trinke Kaffee.
-Jonas: Mir hilft, dass nach jedem Austausch das Ergebnis ausgesprochen wird; so kann ich die Erklärung mit dem tatsächlichen Klang verbinden.
-Aoki: Genau, die gleiche Struktur wird an verschiedenen Getränken hörbar, und du musst die neue Aussage nicht aus einer bloßen Anweisung erraten.
+Jonas: Stell dir vor, ich wollte Wasser, habe aber den Kaffeesatz gesagt. Dann versteht Nakamura meine Wahl falsch, obwohl mein Satz grammatisch richtig ist.
+Aoki: Genau. Du korrigierst die Getränkewahl mit {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Ich trinke Wasser|わたしわみずおのみます}: Ich trinke Wasser. Der Satzbau war richtig; das Getränk musste zu deiner Absicht passen.
 Jonas: Ich darf daraus aber nicht schließen, dass jedes deutsche Verb einfach durch genau diesen japanischen Abschluss ersetzt wird.
 Aoki: Richtig, {飲みます|のみます|nomimasu|trinken} ist die konkrete Form für trinken; für andere Handlungen brauchst du andere erklärte Verben.
 Jonas: Für unsere Pause habe ich jetzt drei verständliche Möglichkeiten: Kaffee, Tee oder Wasser trinken.
