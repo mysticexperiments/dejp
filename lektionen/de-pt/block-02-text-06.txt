@@ -1,0 +1,90 @@
+Jonas: Du hast von deiner früheren Studienzeit erzählt. Ich hatte dabei angenommen, dass du damals bereits als Lehrerin gearbeitet hast. Wie würdest du meine Vermutung berichtigen?
+Aoki: Wir bleiben genau bei dieser Studienzeit. In unserer Geschichte war ich zu dieser Zeit noch keine Lehrerin. Deine Vermutung möchte ich jetzt ausdrücklich zurückweisen, bevor ich meine damalige Rolle nenne.
+Jonas: Die Aussage soll also nicht bedeuten, dass du heute keine Lehrerin bist.
+Aoki: Richtig. {私は教師ではありませんでした|わたしはきょうしではありませんでした|watashi wa kyoushi dewa arimasen deshita|Ich war keine Lehrerin|わたしわきょうしでわありませんでした}. Ich war keine Lehrerin. Diese Verneinung betrifft die festgelegte frühere Zeit.
+Jonas: Ich höre den bekannten Beruf, aber der ganze Abschluss ist länger als bei unserer bisherigen Verneinung.
+Aoki: Die neue ganze Form ist {ではありませんでした|ではありませんでした|dewa arimasen deshita|höflicher verneinter Abschluss für die Vergangenheit|でわありませんでした}. Nach einem Nomen verneint sie in unseren Beispielen eine Beschreibung für die Vergangenheit.
+Jonas: Ich möchte bei der langen Form nicht vergessen, welche zwei Informationen sie zusammen trägt.
+Aoki: Sie verbindet hier Verneinung und vergangenen Bezug. Im Satz über meinen Beruf ergibt das war keine Lehrerin, nicht bin keine Lehrerin und auch nicht war Lehrerin.
+Jonas: Wo endet dabei das Wort für den Beruf, und wo beginnt der neue Abschluss?
+Aoki: Das bekannte Nomen {教師|きょうし|kyoushi|Lehrer oder Lehrerin von Beruf} bedeutet Lehrer oder Lehrerin von Beruf. Danach folgt die ganze gelernte negative Vergangenheitsform. Zusammen ergibt sich {教師ではありませんでした|きょうしではありませんでした|kyoushi dewa arimasen deshita|Ich war keine Lehrerin|きょうしでわありませんでした}: Ich war keine Lehrerin, in meinem Bericht.
+Jonas: Könnten wir zuerst nur die Verneinung verändern und die Vergangenheit beibehalten?
+Aoki: Ja. Stell dir als Vergleich vor, eine andere Sprecherin sei in der besprochenen früheren Zeit tatsächlich Lehrerin gewesen. Sie könnte sagen {私は教師でした|わたしはきょうしでした|watashi wa kyoushi deshita|Ich war Lehrerin|わたしわきょうしでした}: Ich war Lehrerin. Das ist ein Vergleich, nicht meine damalige Rolle.
+Jonas: Bei derselben Beschreibung in einer Situation ohne diese Lehrerrolle müsste der Abschluss negativ werden.
+Aoki: Dann ersetzen wir den bejahten vergangenen Abschluss durch den verneinten vergangenen Abschluss. Das ganze Ergebnis ist {私は教師ではありませんでした|わたしはきょうしではありませんでした|watashi wa kyoushi dewa arimasen deshita|Ich war keine Lehrerin|わたしわきょうしでわありませんでした}: Ich war keine Lehrerin.
+Jonas: Der Zeitraum bleibt vergangen. Geändert hat sich, ob die Berufsangabe für diesen Zeitraum zutrifft.
+Aoki: Genau. Zurück zu meiner Geschichte: Die verneinte Aussage passt zu meiner Studienzeit. Die positive Vergleichsaussage war keine zusätzliche Behauptung über mich.
+Jonas: Nun möchte ich nur die Zeit verändern und dabei die Verneinung beibehalten.
+Aoki: Dafür stellen wir uns mich wieder mitten in meiner damaligen Studienzeit vor. Jemand hält mich in dieser Szene für eine Lehrerin. Ich sage aus meiner damaligen Gegenwart {私は教師ではありません|わたしはきょうしではありません|watashi wa kyoushi dewa arimasen|Ich bin keine Lehrerin|わたしわきょうしでわありません}: Ich bin keine Lehrerin.
+Jonas: Und jetzt verlassen wir diese frühere Szene. Du erzählst heute rückblickend von genau dieser damaligen Situation.
+Aoki: Dafür ersetzen wir den ganzen nichtvergangenen negativen Abschluss durch die neue vergangene Form. Das Ergebnis lautet {私は教師ではありませんでした|わたしはきょうしではありませんでした|watashi wa kyoushi dewa arimasen deshita|Ich war keine Lehrerin|わたしわきょうしでわありませんでした}: Ich war keine Lehrerin.
+Jonas: In beiden Aussagen bestreitest du die Lehrerrolle für dieselbe Studienzeit. Einmal sprichst du innerhalb der Szene, einmal blickst du auf sie zurück.
+Aoki: Richtig. Das zweite Beispiel ist keine Verneinung meines heutigen Berufs. Die Perspektive auf die Zeit ändert sich, die damalige Tatsache bleibt dieselbe.
+Jonas: Noch weiß die andere Person durch die Verneinung allein aber nicht, was du damals tatsächlich warst.
+Aoki: Deshalb ergänze ich {私は学生でした|わたしはがくせいでした|watashi wa gakusei deshita|Ich war Studentin|わたしわがくせいでした}: Ich war Studentin. Die erste Aussage verneint Lehrerin, die zweite nennt meinen damaligen Studentenstatus.
+Jonas: Auf Deutsch könnte ich sagen: Du warst keine Lehrerin, sondern Studentin. Beide Angaben betreffen dieselbe Person in derselben Zeit.
+Aoki: Genau. Unsere zwei japanischen Sätze leisten hier diese Richtigstellung. Ein japanisches Bindewort für das deutsche sondern brauchen wir dafür noch nicht.
+Jonas: Bleibt die zweite Aussage bejaht, obwohl die erste Aussage eine Verneinung enthält?
+Aoki: Ja. {学生でした|がくせいでした|gakusei deshita|Ich war Studentin} bedeutet in meinem anschließenden Selbstbericht Ich war Studentin. Die Verneinung der ersten Beschreibung macht die richtige zweite Beschreibung nicht ebenfalls negativ.
+Jonas: Die lange negative Form erinnert mich an unsere beiden Varianten für Das ist kein Buch. Gibt es auch hier eine kürzere höfliche Variante?
+Aoki: Ja. Die kürzere Form lautet {じゃありませんでした|じゃありませんでした|ja arimasen deshita|kürzerer höflicher verneinter Abschluss für die Vergangenheit}. Auch sie verbindet hier Verneinung und Vergangenheit und bleibt höflich.
+Jonas: Welcher Teil wird dafür gekürzt, und welcher Teil muss erhalten bleiben?
+Aoki: Innerhalb des Abschlusses wird {では|では|dewa|Teil der längeren Negativform|でわ} zu {じゃ|じゃ|ja|verkürzter Teil der Negativform}. Der übrige Abschluss bleibt erhalten. Das ist dieselbe Art der Verkürzung wie in unserem zweiten Text dieses Blocks.
+Jonas: Dann brauche ich wieder den ganzen Ergebnissatz, nicht nur die beiden Einzelstücke.
+Aoki: Aus meiner längeren vergangenen Verneinung wird {私は教師じゃありませんでした|わたしはきょうしじゃありませんでした|watashi wa kyoushi ja arimasen deshita|Ich war keine Lehrerin|わたしわきょうしじゃありませんでした}: Ich war keine Lehrerin. Person, Beruf, Zeit und Verneinung bleiben gleich.
+Jonas: Die kürzere Fassung ist also weder weniger negativ noch plötzlich eine Aussage über heute.
+Aoki: Genau. Sie klingt gesprochener, ist hier aber weiterhin eine höfliche negative Vergangenheitsform. Auch die längere Variante ist möglich; du musst nicht mitten in einer Aussage beide verwenden.
+Jonas: Wird bei dieser Verkürzung auch der Themenmarker nach ich verändert?
+Aoki: Nein. In {私は教師じゃありませんでした|わたしはきょうしじゃありませんでした|watashi wa kyoushi ja arimasen deshita|Ich war keine Lehrerin|わたしわきょうしじゃありませんでした} bleibt die Einheit aus ich und Themenmarker unverändert. Der ganze Satz bedeutet weiterhin Ich war keine Lehrerin.
+Jonas: Wenn deine Person im Gespräch klar ist, können wir unabhängig davon auch die Personenangabe weglassen.
+Aoki: Ja. In meinem Selbstbericht lautet das vollständige kurze Ergebnis {教師じゃありませんでした|きょうしじゃありませんでした|kyoushi ja arimasen deshita|Ich war keine Lehrerin}: Ich war keine Lehrerin. Die Person bleibt verständlich, die negative Vergangenheitsform bleibt ausgesprochen.
+Jonas: Ich möchte nun selbst Nakamura über dich informieren, ohne so zu klingen, als erzählte ich meinen eigenen Lebenslauf.
+Aoki: Dann nenne meinen Namen als Thema. Wir sprechen weiterhin über meine frühere Studienzeit; weder die Person noch die Zeit soll beim Weitererzählen verloren gehen.
+Jonas: {青木さんは教師ではありませんでした|あおきさんはきょうしではありませんでした|Aoki-san wa kyoushi dewa arimasen deshita|Frau Aoki war keine Lehrerin|あおきさんわきょうしでわありませんでした}. Frau Aoki war keine Lehrerin.
+Aoki: Du sagst ausdrücklich, dass ich in dieser Zeit keine Lehrerin war. Der negative Abschluss verändert sich nicht, weil du über mich statt über dich sprichst.
+Jonas: Als vollständige Richtigstellung ergänze ich {青木さんは学生でした|あおきさんはがくせいでした|Aoki-san wa gakusei deshita|Frau Aoki war Studentin|あおきさんわがくせいでした}: Frau Aoki war Studentin.
+Aoki: Jetzt sind die falsche Vermutung und die tatsächliche damalige Rolle klar getrennt. Übrigens: Studentin sein schließt nicht bei jedem Menschen zugleich eine Berufstätigkeit aus. Dass ich damals keine Lehrerin war, haben wir für unsere Geschichte ausdrücklich festgelegt.
+Jonas: Können wir dieselbe Richtigstellung bei einem früheren Getränk ausprobieren?
+Aoki: Ja. Wir eröffnen eine andere frühere Pause als die Kaffeepause im letzten Text. In dieser neuen kleinen Szene gab es Tee. Du erinnerst dich zunächst irrtümlich an Kaffee.
+Jonas: Meine Vermutung betrifft also ein bestimmtes früheres Getränk, nicht die Tasse, die heute bei uns steht.
+Aoki: Richtig. Ich berichtige {コーヒーではありませんでした|こーひーではありませんでした|koohii dewa arimasen deshita|Es war kein Kaffee|こーひーでわありませんでした}: Es war kein Kaffee. Der Bezug ist das Getränk in dieser anderen früheren Pause.
+Jonas: Diese Verneinung allein würde noch offenlassen, ob es Tee, Wasser oder etwas anderes war.
+Aoki: Deshalb folgt {お茶でした|おちゃでした|ocha deshita|Es war Tee}: Es war Tee. Jetzt ist die falsche Zuordnung verneint und der tatsächliche Inhalt genannt.
+Jonas: Ich gebe dieselbe Korrektur mit der kürzeren Negativvariante wieder: {コーヒーじゃありませんでした|こーひーじゃありませんでした|koohii ja arimasen deshita|Es war kein Kaffee}. Es war kein Kaffee.
+Aoki: Und die anschließende Aussage bleibt {お茶でした|おちゃでした|ocha deshita|Es war Tee}: Es war Tee. Die kürzere negative Form hat weder das Getränk noch seinen Zeitpunkt verändert.
+Jonas: Wenn ich statt des vergangenen Abschlusses unsere alte negative Form benutzen würde, wäre die Zeitinformation nicht mehr dieselbe.
+Aoki: Vergleichen wir das in zwei klaren Perspektiven. Innerhalb der damaligen Teepause lautet die Korrektur {コーヒーじゃありません|こーひーじゃありません|koohii ja arimasen|Das ist kein Kaffee}: Das ist kein Kaffee. Die Beteiligten sprechen dort über ihr gerade vorhandenes Getränk.
+Jonas: Jetzt kehren wir zu unserem heutigen Rückblick auf genau diese Teepause zurück.
+Aoki: Dann lautet das ganze Ergebnis {コーヒーじゃありませんでした|こーひーじゃありませんでした|koohii ja arimasen deshita|Es war kein Kaffee}: Es war kein Kaffee. Der nichtvergangene negative Abschluss wurde durch den vergangenen ersetzt.
+Jonas: Das deutsche kein bleibt in beiden Übersetzungen. Aus ist wird war. Ich erkenne dadurch, welche Information sich ändert.
+Aoki: Genau. Auf Japanisch bleibt auch das Nomen Kaffee unverändert. Den Zeitunterschied trägt hier der Abschluss, nicht eine andere Form des Getränkenamens.
+Jonas: Und wenn jemand in dieser Teepause statt Kaffee Wasser vermutet hätte, könnte ich auch diese Zuordnung verneinen.
+Aoki: Dann lautet die rückblickende Korrektur {水ではありませんでした|みずではありませんでした|mizu dewa arimasen deshita|Es war kein Wasser|みずでわありませんでした}: Es war kein Wasser. Du hast gegenüber der Kaffeeverneinung nur das Nomen ausgetauscht.
+Jonas: Danach sage ich {お茶でした|おちゃでした|ocha deshita|Es war Tee}: Es war Tee. Damit bleibt die richtige Angabe dieselbe, obwohl die falsche Vermutung eine andere war.
+Aoki: Genau. Kein Wasser und kein Kaffee sind hier zwei zurückgewiesene Beschreibungen desselben früheren Getränks. Wir haben nicht unbemerkt zwei neue Getränke eingeführt.
+Jonas: Ich möchte die lange Form auch mit einem Gegenstand anwenden. Im letzten Text hatten wir bei einer früheren Begegnung im Büro ein Notizheft.
+Aoki: Wir greifen genau diese Begegnung auf. Angenommen, jemand erinnert sich an den damaligen Gegenstand als Buch. Du weißt, dass es das Notizheft war, und berichtigst die Erinnerung.
+Jonas: {本ではありませんでした|ほんではありませんでした|hon dewa arimasen deshita|Es war kein Buch|ほんでわありませんでした}. Es war kein Buch.
+Aoki: Die positive Richtigstellung dazu ist {ノートでした|のーとでした|nooto deshita|Es war ein Notizheft}: Es war ein Notizheft. Beide Aussagen beschreiben denselben Gegenstand bei derselben früheren Begegnung.
+Jonas: In der kürzeren Variante wird meine Verneinung zu {本じゃありませんでした|ほんじゃありませんでした|hon ja arimasen deshita|Es war kein Buch}: Es war kein Buch.
+Aoki: Genau. Du hast die bekannte Verkürzung im negativen Abschluss angewendet. Das Nomen Buch bleibt unverändert, und die vergangene Verneinung bleibt vollständig erhalten.
+Jonas: Habe ich mit Es war kein Buch auch gesagt, dass damals überhaupt kein Buch im Büro vorhanden war?
+Aoki: Nein. Du hast nur den besprochenen Gegenstand als Buch ausgeschlossen. Ein anderes Buch könnte daneben gelegen haben. Die Zuordnung eines bestimmten Gegenstands ist etwas anderes als die Aussage, ob irgendwo Bücher vorhanden waren.
+Jonas: Das längere Stück im negativen Abschluss darf ich also nicht als eigenständige Aussage über fehlende Dinge verstehen.
+Aoki: Richtig. Wir lernen hier die gesamte negative Nominalform als Abschluss nach einem Nomen. Eine andere Verwendung einzelner Bestandteile müsste später in ihrem eigenen Satzbau erklärt werden.
+Jonas: Brauche ich nach der langen negativen Vergangenheitsform noch unseren ursprünglichen höflichen Abschluss?
+Aoki: Nein. {本ではありませんでした|ほんではありませんでした|hon dewa arimasen deshita|Es war kein Buch|ほんでわありませんでした} ist hier bereits die vollständige höfliche Aussage Es war kein Buch. Hänge keinen zweiten höflichen Abschluss an.
+Jonas: Auch mein Handlungssatz Ich trinke Kaffee bekommt deshalb nicht einfach diese ganze Form als Zusatz.
+Aoki: Genau. Wir verneinen bisher nominale Beschreibungen wie Buch sein oder Lehrerin sein. Die Aussage Ich trank keinen Kaffee benötigt die negative Vergangenheitsform des Verbs. Das ist nicht unser heutiges Muster.
+Jonas: Zum Schluss möchte ich die vier Möglichkeiten an deiner Lehrerrolle unterscheiden, aber ohne deine Lebensgeschichte durcheinanderzubringen.
+Aoki: Beginnen wir mit meiner wirklichen heutigen Rolle in unserer Geschichte: {私は教師です|わたしはきょうしです|watashi wa kyoushi desu|Ich bin Lehrerin|わたしわきょうしです}. Ich bin Lehrerin. Das ist eine bejahte Aussage über heute.
+Jonas: Für bin keine Lehrerin müssen wir dagegen wieder in die vorgestellte damalige Studienzeit wechseln und von dort aus sprechen.
+Aoki: In dieser damaligen Szene sage ich {私は教師ではありません|わたしはきょうしではありません|watashi wa kyoushi dewa arimasen|Ich bin keine Lehrerin|わたしわきょうしでわありません}: Ich bin keine Lehrerin. Die Verneinung bezieht sich auf die Gegenwart jener Szene, nicht auf meinen Beruf heute.
+Jonas: Für war Lehrerin nehmen wir die andere Sprecherin aus unserem Vergleich, die den Beruf damals tatsächlich ausübte.
+Aoki: Ihr Rückblick lautet {私は教師でした|わたしはきょうしでした|watashi wa kyoushi deshita|Ich war Lehrerin|わたしわきょうしでした}: Ich war Lehrerin. Die Aussage ist vergangen, aber bejaht.
+Jonas: Und dein eigener Rückblick auf die Studienzeit verneint dieselbe Berufsangabe.
+Aoki: Ich sage {私は教師じゃありませんでした|わたしはきょうしじゃありませんでした|watashi wa kyoushi ja arimasen deshita|Ich war keine Lehrerin|わたしわきょうしじゃありませんでした}: Ich war keine Lehrerin. Hier hörst du Verneinung und Vergangenheit zusammen, in der kürzeren höflichen Variante.
+Jonas: Ich muss also zwei Dinge auseinanderhalten: ob die Beschreibung zutrifft und auf welchen Zeitraum sie sich bezieht. Kurz oder lang ist dann noch eine zusätzliche Entscheidung über die Form.
+Aoki: Genau. Die kürzere Negativvariante ersetzt weder den Zeitbezug noch den Inhalt. Und der Zusammenhang sagt dir weiterhin, welche Person oder welcher Gegenstand beschrieben wird.
+Jonas: Beim nächsten Gespräch möchte ich nicht erst eine falsche Vermutung äußern. Ich möchte auf Japanisch nach deiner damaligen Rolle fragen können.
+Aoki: Das folgt im nächsten Text. Wir verbinden den bereits bekannten vergangenen Abschluss mit der Fragefunktion und hören danach Antworten, die denselben vergangenen Bezug behalten.

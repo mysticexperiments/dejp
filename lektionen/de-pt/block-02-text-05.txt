@@ -1,0 +1,84 @@
+Jonas: Im letzten Gespräch konnte ich kurze Antworten auf die richtige Person beziehen. Nun möchte ich verstehen, wie du von deiner früheren Studienzeit erzählst.
+Aoki: Dann halten wir zuerst unsere heutige Situation fest. Du bist Student, und ich bin Lehrerin. Jetzt blicke ich auf eine Zeit zurück, in der ich selbst Studentin war.
+Jonas: Das Wort für Student kenne ich schon. Brauchst du für deine frühere Rolle ein neues Wort?
+Aoki: Nein. {学生|がくせい|gakusei|Student oder Studentin} bezeichnet hier einen Studenten oder eine Studentin. Das Wort selbst sagt weder früher noch heute und verändert sich auch nicht wegen meines Geschlechts.
+Jonas: Wie klingt deine ganze Aussage über diese frühere Zeit?
+Aoki: {私は学生でした|わたしはがくせいでした|watashi wa gakusei deshita|Ich war Studentin|わたしわがくせいでした}. Ich war Studentin. Ich beschreibe mich in der früheren Situation, nicht meinen heutigen Beruf.
+Jonas: Ich erkenne die Personenangabe und das Wort Studentin. Der Schluss klingt anders als bei einer Aussage über heute.
+Aoki: Neu ist {でした|でした|deshita|höflicher Abschluss für die Vergangenheit}. Dieser höfliche Abschluss gibt unserer nominalen Beschreibung einen vergangenen Bezug. Im ganzen Satz übersetzen wir deshalb Ich war Studentin.
+Jonas: Nominal bedeutet hier, dass mich ein Nomen wie Studentin beschreibt, nicht eine Tätigkeit wie trinken?
+Aoki: Genau. Wir sagen, was jemand war. Die Vergangenheitsformen von Handlungen lernen wir später. Heute verändern wir den Abschluss unserer bekannten Aussagen mit einem Nomen.
+Jonas: Ich möchte den Wechsel hören, ohne zugleich die Person auszutauschen.
+Aoki: Stell dir mich während meiner damaligen Studienzeit vor. Ich stelle mich einer neuen Bekannten vor und sage in dieser Szene {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Studentin|わたしわがくせいです}: Ich bin Studentin.
+Jonas: Innerhalb dieser vorgestellten Szene ist dein Studium gerade deine Gegenwart.
+Aoki: Richtig. Jetzt verlassen wir diese Szene und sind wieder bei unserem heutigen Gespräch. Rückblickend sage ich {私は学生でした|わたしはがくせいでした|watashi wa gakusei deshita|Ich war Studentin|わたしわがくせいでした}: Ich war Studentin.
+Jonas: In beiden Sätzen sprichst du über dich und beschreibst dich als Studentin. Verändert hat sich der Zeitpunkt, von dem aus du sprichst.
+Aoki: Ja. Im Ausgangssatz steht {です|です|desu|höflicher nominaler Abschluss}. Für unseren Rückblick ersetzen wir diesen Abschluss durch {でした|でした|deshita|höflicher Abschluss für die Vergangenheit}. Das Wort Studentin und die Themenangabe bleiben gleich.
+Jonas: Also hänge ich die neue Form nicht einfach hinter den bisherigen vollständigen Satz.
+Aoki: Genau. Das vollständige Ergebnis lautet {私は学生でした|わたしはがくせいでした|watashi wa gakusei deshita|Ich war Studentin|わたしわがくせいでした}: Ich war Studentin. Der bisherige Abschluss wurde ersetzt, nicht verdoppelt.
+Jonas: Auf Deutsch verändert sich bin zu war. Das Nomen Studentin bleibt auch im Deutschen gleich.
+Aoki: Dieser Vergleich hilft bei unserem Beispiel. Er ist aber kein Rezept für jedes deutsche sein. Hier geht es um die Beschreibung einer Person durch ein Nomen.
+Jonas: Weiß man allein durch den neuen Abschluss auch, in welchem Jahr du Studentin warst?
+Aoki: Nein. Er markiert hier den vergangenen Bezug, aber kein bestimmtes Jahr. Unsere Erzählung legt die Studienzeit fest. Genaue japanische Zeitangaben brauchen wir für diesen Schritt noch nicht.
+Jonas: Du könntest also über eine Zeit vor vielen Jahren sprechen, bei einem anderen Beispiel aber auch über eine frühere Pause.
+Aoki: Ja. Die Form allein misst keinen zeitlichen Abstand. Eine nahe und eine weiter entfernte Vergangenheit können denselben Abschluss haben; der Zusammenhang macht den Unterschied klar.
+Jonas: Wenn wir schon ausdrücklich über deine Studienzeit sprechen, musst du dann jedes Mal ich als Thema nennen?
+Aoki: Nein. In diesem klaren Selbstbericht kann ich sagen {学生でした|がくせいでした|gakusei deshita|Ich war Studentin}: Ich war Studentin. Die Person ist schon bekannt, der vergangene Abschluss bleibt hörbar.
+Jonas: Aus deiner langen Aussage fällt also wieder die ganze Einheit aus ich und Themenmarker weg.
+Aoki: Genau. Das Ergebnis {学生でした|がくせいでした|gakusei deshita|Ich war Studentin} bedeutet in meinem Bericht weiterhin Ich war Studentin. Die kürzere Aussage bleibt höflich und vergangen.
+Jonas: Wenn ich nun Nakamura von deiner früheren Rolle erzähle, wäre eine eigene Ich-Aussage falsch bezogen.
+Aoki: Dann nenne mich ausdrücklich. Wir wechseln jetzt vom Selbstbericht zu deinem Bericht über Aoki, behalten aber dieselbe Studienzeit bei.
+Jonas: {青木さんは学生でした|あおきさんはがくせいでした|Aoki-san wa gakusei deshita|Frau Aoki war Studentin|あおきさんわがくせいでした}. Frau Aoki war Studentin.
+Aoki: Du hast meine Personenangabe aus dem Selbstbericht durch meinen Namen mit höflichem Zusatz und Themenmarker ersetzt. Die Beschreibung Studentin und ihr vergangener Abschluss bleiben erhalten.
+Jonas: Die neue Form am Ende verändert sich also nicht, weil nun ich über eine andere Person spreche.
+Aoki: Richtig. {でした|でした|deshita|höflicher Abschluss für die Vergangenheit} bekommt hier keine eigene Form für ich oder sie. Wer gemeint ist, zeigt deine genannte Person oder der eindeutige Gesprächszusammenhang.
+Jonas: Und ich habe mit der Form Frau Aoki war Studentin nicht behauptet, dass du heute immer noch Studentin bist.
+Aoki: Genau. Du hast zuerst etwas über damals gesagt. Dass ich heute Lehrerin bin, wissen wir aus einer zusätzlichen Information über mich, nicht allein aus dem vergangenen Abschluss.
+Jonas: Bedeutet war denn umgekehrt immer, dass eine Beschreibung heute nicht mehr zutreffen kann?
+Aoki: Nein. Stell dir einen Menschen vor, der im vergangenen Jahr Student war und weiterhin studiert. Die Aussage über das vergangene Jahr bleibt richtig. Die Vergangenheitsform allein verneint seinen heutigen Studentenstatus nicht.
+Jonas: Eine frühere Beschreibung ist also noch keine vollständige Auskunft über die Gegenwart.
+Aoki: Genau. Auch dass eine Person nicht mehr lebt, folgt nicht aus diesem Abschluss. Unser eigener Satz über meine Studienzeit ist dafür schon ein Gegenbeispiel: Ich erzähle dir gerade davon.
+Jonas: Jetzt möchte ich dieselbe Zeitunterscheidung mit etwas Unpersönlichem hören, etwa mit einem Getränk.
+Aoki: Wir wechseln zu einer ausdrücklich vorgestellten früheren Kaffeepause. Damals stand eine Tasse Kaffee auf dem Tisch. Wir sprechen jetzt über den Inhalt genau dieser früheren Tasse.
+Jonas: Ich kenne das Wort für Kaffee. Muss ich daran selbst etwas verändern?
+Aoki: Nein. {コーヒー|こーひー|koohii|Kaffee} bleibt Kaffee. Die kurze ganze Aussage lautet {コーヒーでした|こーひーでした|koohii deshita|Es war Kaffee}: Es war Kaffee.
+Jonas: {コーヒーでした|こーひーでした|koohii deshita|Es war Kaffee}. Es war Kaffee. Ich beschreibe das frühere Getränk, nicht mich selbst.
+Aoki: Genau. Der frühere Gesprächsgegenstand liefert den Bezug. Derselbe vergangene Abschluss passt hier zu einer Sache, während er zuvor eine Person mit ihrer damaligen Beschreibung verband.
+Jonas: Jetzt steht aber eine andere Tasse direkt bei mir. Wir legen fest, dass sie Tee enthält.
+Aoki: Damit wechseln wir ausdrücklich zu heute und zu einem anderen Getränk. Du kannst die Tasse bei dir mit unserem bekannten Ausdruck für dies hier zum Thema machen.
+Jonas: {これはお茶です|これはおちゃです|kore wa ocha desu|Das ist Tee|これわおちゃです}. Das ist Tee. Ich spreche über die jetzige Tasse.
+Aoki: Genau. Die frühere Tasse enthielt Kaffee, die jetzige enthält Tee. Diese beiden unterschiedlichen Tatsachen widersprechen sich nicht.
+Jonas: Bei diesem Vergleich haben sich aber sowohl der Zeitpunkt als auch das Getränk geändert. Können wir nur den Zeitwechsel genauer betrachten?
+Aoki: Ja. Kehren wir zur vorgestellten früheren Kaffeepause zurück. Innerhalb dieser Szene beschreibst du den Inhalt der Tasse mit {コーヒーです|こーひーです|koohii desu|Das ist Kaffee}: Das ist Kaffee.
+Jonas: Und wenn ich heute auf genau diese Pause zurückblicke, muss ich das Wort Kaffee nicht austauschen.
+Aoki: Dann lautet das vollständige Ergebnis {コーヒーでした|こーひーでした|koohii deshita|Es war Kaffee}: Es war Kaffee. Nur der Abschluss wechselt; dasselbe frühere Getränk wird aus einer späteren Perspektive beschrieben.
+Jonas: Der Kaffee muss sich also nicht in etwas anderes verwandelt haben, damit ich war sagen darf.
+Aoki: Richtig. Du erzählst rückblickend von der Tasse in dieser früheren Situation. Eine Veränderung ihres Inhalts ist nicht die Voraussetzung für die Vergangenheitsform.
+Jonas: Können wir noch eine andere frühere Pause nehmen, diesmal mit Wasser, damit ich das Muster selbst anwende?
+Aoki: Ja. Dies ist eine neue kleine Szene, nicht die Kaffeepause. In dieser anderen Pause enthielt das besprochene Glas Wasser. Das bekannte Nomen für Wasser bekommt denselben vergangenen Abschluss.
+Jonas: {水でした|みずでした|mizu deshita|Es war Wasser}. Es war Wasser. Ich habe nur das Getränk ausgetauscht; der Rückblick bleibt.
+Aoki: Genau. Verglichen mit dem früheren Kaffeesatz ist jetzt das Nomen anders. Du berichtest aber weiterhin über eine ausdrücklich vergangene Situation.
+Jonas: Bis hierher beschreiben die kurzen Formen immer das Getränk, das wir gerade besprechen. Sie bedeuten nicht automatisch ich war.
+Aoki: Richtig. Für den Selbstbericht passte Ich war Studentin. Für den Bericht über das Glas passt Es war Wasser. Das deutsche Pronomen ergibt sich aus dem Bezug, nicht aus einer japanischen Personenendung.
+Jonas: Bei unseren Gegenständen müsste derselbe Aufbau auch möglich sein. Ich denke an das bekannte Notizheft.
+Aoki: Stellen wir uns eine frühere Begegnung im Büro vor. Damals wurde ein Gegenstand auf dem Tisch besprochen. Es war ein Notizheft. Rückblickend sage ich {ノートでした|のーとでした|nooto deshita|Es war ein Notizheft}: Es war ein Notizheft.
+Jonas: Das Wort Notizheft ist bekannt. Neu ist nur seine Verbindung mit dem vergangenen Abschluss.
+Aoki: Genau. Wenn jemand den Gegenstand in jener damaligen Szene beschrieb, konnte die Aussage {ノートです|のーとです|nooto desu|Das ist ein Notizheft} lauten: Das ist ein Notizheft. Unser heutiger Rückblick lautet dagegen Es war ein Notizheft.
+Jonas: Das vollständige Ergebnis für den Rückblick sage ich selbst: {ノートでした|のーとでした|nooto deshita|Es war ein Notizheft}. Es war ein Notizheft.
+Aoki: Du hast den Abschluss der nominalen Beschreibung ersetzt. Weder das Nomen noch ein zusätzliches Wort für sein muss daneben in eine zweite Vergangenheitsform gesetzt werden.
+Jonas: Wie grenzt sich das von meinem bekannten Satz Ich trinke Kaffee ab?
+Aoki: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます} bedeutet Ich trinke Kaffee. Dieser Satz endet mit einem Verb für die Tätigkeit, nicht mit unserem nominalen Abschluss.
+Jonas: Den neuen Abschluss darf ich deshalb nicht einfach an diesen ganzen Handlungssatz hängen.
+Aoki: Richtig. Unsere heutige Umformung gilt für die geübten nominalen Aussagen. Wie man Ich trank Kaffee ausdrückt, braucht die Vergangenheitsform des Verbs und wird gesondert erklärt.
+Jonas: Bei Kaffee sein und Kaffee trinken kann also dasselbe Getränk vorkommen, obwohl die Sätze verschieden gebaut sind.
+Aoki: Genau. {コーヒーでした|こーひーでした|koohii deshita|Es war Kaffee} bedeutet Es war Kaffee. Der Satz benennt das frühere Getränk; er sagt nicht, wer es trank oder ob es überhaupt getrunken wurde.
+Jonas: Und unser bisheriger Abschluss ist nicht grundsätzlich ein Wort, das ausschließlich heute bedeutet?
+Aoki: Richtig. {です|です|desu|höflicher nominaler Abschluss} kann mit passendem Zusammenhang auch einen zukünftigen Bezug haben. Für heute vergleichen wir ausdrücklich aktuelle Beschreibungen mit einem Rückblick; zukünftige Situationen behandeln wir später.
+Jonas: Zum Schluss kehre ich zu deiner Studienzeit zurück. Ich erzähle Nakamura {青木さんは学生でした|あおきさんはがくせいでした|Aoki-san wa gakusei deshita|Frau Aoki war Studentin|あおきさんわがくせいでした}: Frau Aoki war Studentin.
+Aoki: Die Person und ihre damalige Rolle sind deutlich. Du hast die Vergangenheit beibehalten, obwohl du nicht über dich selbst sprichst.
+Jonas: Wenn du anschließend selbst weitererzählst, kannst du die schon klare Person unausgesprochen lassen.
+Aoki: In meinem anschließenden Selbstbericht lautet die kurze Aussage {学生でした|がくせいでした|gakusei deshita|Ich war Studentin}: Ich war Studentin. Mein Beitrag bleibt auf dieselbe frühere Studienzeit bezogen.
+Jonas: Ich unterscheide jetzt Person, Beschreibung und Zeitraum. Beim Rückblick ändert sich der Abschluss; die anderen Angaben müssen sich deshalb nicht ebenfalls ändern.
+Aoki: Genau. Und die höfliche Form bleibt erhalten. Ein Rückblick ist nicht automatisch lockere Sprache, nur weil er von früher handelt.
+Jonas: Wenn jemand nun vermutet, dass du in jener Studienzeit schon Lehrerin warst, reicht eine positive Beschreibung allein vielleicht nicht, um die Verwechslung deutlich zu machen.
+Aoki: Im nächsten Text verneinen wir deshalb ausdrücklich eine Aussage über damals. Wir bleiben bei dieser Studienzeit und sagen vollständig, was ich damals nicht war und was tatsächlich zutraf.

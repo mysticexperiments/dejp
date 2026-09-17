@@ -31,12 +31,15 @@ Die neue Reihe ersetzt die fünf alten Kurzlektionen. Aktuell ausgearbeitet:
 | B02-T02 | Kürzer gesprochen, weiterhin höflich | [Deutsch](lektionen/de-pt/block-02-text-02.txt) / [Português](lektionen/de-pt/block-02-text-02.pt.txt) |
 | B02-T03 | Ist das ein Buch? | [Deutsch](lektionen/de-pt/block-02-text-03.txt) / [Português](lektionen/de-pt/block-02-text-03.pt.txt) |
 | B02-T04 | Kurz antworten, den Bezug behalten | [Deutsch](lektionen/de-pt/block-02-text-04.txt) / [Português](lektionen/de-pt/block-02-text-04.pt.txt) |
+| B02-T05 | Was damals zutraf | [Deutsch](lektionen/de-pt/block-02-text-05.txt) / [Português](lektionen/de-pt/block-02-text-05.pt.txt) |
+| B02-T06 | Was damals nicht zutraf | [Deutsch](lektionen/de-pt/block-02-text-06.txt) / [Português](lektionen/de-pt/block-02-text-06.pt.txt) |
 
 Block 1 ist vollständig ausgearbeitet: neun Texte in vier Klassen mit
 80–88 Dialogzeilen je Sprache nach der redaktionellen Überarbeitung.
-Von Block 2 sind die ersten vier der acht geplanten Texte geschrieben:
-82, 82, 80 und 86 Zeilen je Sprache, zusammen 330 je Sprache.
-Sie bauen Verneinung, Fragen und passende Antworten auf. Texte 5–8 sind
+Von Block 2 sind die ersten sechs der acht geplanten Texte geschrieben:
+82, 82, 80, 86, 84 und 90 Zeilen je Sprache, zusammen 504 je Sprache.
+Sie bauen Verneinung, Fragen, passende Antworten und die bejahte sowie
+verneinte nominale Vergangenheit auf. Texte 7–8 sind
 weiterhin geplant, nicht geschrieben oder im Manifest registriert.
 
 ## Hören und Dateiformat
@@ -70,6 +73,7 @@ Sie beweist weder sprachliche Richtigkeit noch Lernerfolg.
 [Prüfbericht zur ersten Lieferung](planung/pruefung-block-01-texte-01-03.md)
 und [Prüfbericht zur Vervollständigung](planung/pruefung-block-01-texte-04-09.md).
 Für den neuen Abschnitt: [Prüfbericht Block 2, Texte 1–4](planung/pruefung-block-02-texte-01-04.md).
+Die Fortsetzung dokumentiert der [Prüfbericht Block 2, Texte 5–6](planung/pruefung-block-02-texte-05-06.md).
 Struktur und erzeugte Sprachsegmente sind geprüft; eine reale Hörprobe auf
 dem Zielgerät und eine unabhängige sprachliche Abnahme stehen noch aus.
 

@@ -1,0 +1,90 @@
+Jonas: Você contou sobre a época em que era estudante. Eu tinha suposto que você já trabalhava como professora naquela época. Como corrigiria minha suposição?
+Aoki: Vamos continuar exatamente nessa época dos estudos. Na nossa história, eu ainda não era professora naquele período. Agora quero rejeitar expressamente sua suposição antes de dizer qual era minha condição.
+Jonas: Então a afirmação não deve significar que você não é professora hoje.
+Aoki: Isso mesmo. {私は教師ではありませんでした|わたしはきょうしではありませんでした|watashi wa kyoushi dewa arimasen deshita|Eu não era professora|わたしわきょうしでわありませんでした}. Eu não era professora. Essa negação se refere ao período anterior que estabelecemos.
+Jonas: Ouço a profissão conhecida, mas a finalização inteira é mais longa do que na negação que já usávamos.
+Aoki: A nova forma completa é {ではありませんでした|ではありませんでした|dewa arimasen deshita|Finalização polida negativa para o passado|でわありませんでした}. Depois de um substantivo, ela nega, nos nossos exemplos, uma descrição referente ao passado.
+Jonas: Não quero me esquecer das duas informações que essa forma longa transmite juntas.
+Aoki: Aqui ela combina negação e referência ao passado. Na frase sobre minha profissão, isso resulta em não era professora, e não em não sou professora nem em era professora.
+Jonas: Onde termina a palavra para a profissão e onde começa a nova finalização?
+Aoki: O substantivo conhecido {教師|きょうし|kyoushi|Professor ou professora de profissão} significa professor ou professora de profissão. Depois vem a forma negativa de passado completa que aprendemos. Juntos, resultam em {教師ではありませんでした|きょうしではありませんでした|kyoushi dewa arimasen deshita|Eu não era professora|きょうしでわありませんでした}: eu não era professora, no meu relato.
+Jonas: Poderíamos primeiro mudar apenas a negação e manter o passado?
+Aoki: Sim. Para comparar, imagine que outra mulher realmente era professora no período anterior de que se fala. Ela poderia dizer {私は教師でした|わたしはきょうしでした|watashi wa kyoushi deshita|Eu era professora|わたしわきょうしでした}: eu era professora. Isso é uma comparação, não minha condição naquela época.
+Jonas: Para a mesma descrição numa situação em que a pessoa não exercia essa profissão, a finalização precisaria ficar negativa.
+Aoki: Nesse caso, substituímos a finalização afirmativa de passado pela negativa de passado. O resultado completo é {私は教師ではありませんでした|わたしはきょうしではありませんでした|watashi wa kyoushi dewa arimasen deshita|Eu não era professora|わたしわきょうしでわありませんでした}: eu não era professora.
+Jonas: O período continua sendo passado. O que mudou foi se a informação sobre a profissão é verdadeira para aquele período.
+Aoki: Exatamente. Voltando à minha história: a afirmação negativa corresponde à época em que eu estudava. A afirmação positiva da comparação não era uma informação adicional sobre mim.
+Jonas: Agora quero mudar apenas o tempo e manter a negação.
+Aoki: Para isso, imaginamos novamente que estou naquela época dos estudos. Alguém me toma por professora nessa cena. A partir do meu presente de então, digo {私は教師ではありません|わたしはきょうしではありません|watashi wa kyoushi dewa arimasen|Eu não sou professora|わたしわきょうしでわありません}: eu não sou professora.
+Jonas: E agora saímos dessa cena anterior. Hoje você conta, olhando para trás, sobre exatamente aquela situação.
+Aoki: Para isso, substituímos a finalização negativa não passada inteira pela nova forma de passado. O resultado é {私は教師ではありませんでした|わたしはきょうしではありませんでした|watashi wa kyoushi dewa arimasen deshita|Eu não era professora|わたしわきょうしでわありませんでした}: eu não era professora.
+Jonas: Nas duas afirmações, você nega que fosse professora durante a mesma época dos estudos. Numa delas fala de dentro da cena; na outra olha para ela a partir de um momento posterior.
+Aoki: Isso mesmo. O segundo exemplo não nega minha profissão atual. A perspectiva sobre o tempo muda; o fato daquela época continua igual.
+Jonas: Mas, só com a negação, a outra pessoa ainda não sabe o que você era de fato naquela época.
+Aoki: Por isso acrescento {私は学生でした|わたしはがくせいでした|watashi wa gakusei deshita|Eu era estudante|わたしわがくせいでした}: eu era estudante. A primeira afirmação nega professora; a segunda informa minha condição de estudante naquela época.
+Jonas: Em alemão, eu poderia dizer a frase que significa: você não era professora, e sim estudante. As duas informações se referem à mesma pessoa no mesmo período.
+Aoki: Exatamente. Nossas duas frases japonesas fazem aqui essa correção. Ainda não precisamos de uma palavra japonesa de ligação correspondente ao alemão sondern.
+Jonas: A segunda afirmação continua afirmativa, embora a primeira contenha uma negação?
+Aoki: Sim. {学生でした|がくせいでした|gakusei deshita|Eu era estudante} significa eu era estudante quando continuo falando sobre mim mesma. Negar a primeira descrição não torna negativa a segunda descrição, que está correta.
+Jonas: A forma negativa longa me lembra nossas duas variantes para isto não é um livro. Aqui também existe uma variante polida mais curta?
+Aoki: Sim. A forma mais curta é {じゃありませんでした|じゃありませんでした|ja arimasen deshita|Finalização polida negativa mais curta para o passado}. Ela também combina aqui negação e passado e continua polida.
+Jonas: Qual parte é encurtada e qual precisa permanecer?
+Aoki: Dentro da finalização, {では|では|dewa|Parte da forma negativa mais longa|でわ} vira {じゃ|じゃ|ja|Parte contraída da forma negativa}. O restante da finalização permanece. É o mesmo tipo de redução do segundo texto deste bloco.
+Jonas: Então preciso novamente da frase completa resultante, não apenas das duas partes isoladas.
+Aoki: Minha negação passada mais longa vira {私は教師じゃありませんでした|わたしはきょうしじゃありませんでした|watashi wa kyoushi ja arimasen deshita|Eu não era professora|わたしわきょうしじゃありませんでした}: eu não era professora. Pessoa, profissão, tempo e negação continuam iguais.
+Jonas: Então a versão mais curta não é menos negativa nem vira de repente uma afirmação sobre hoje.
+Aoki: Exatamente. Ela soa mais conversacional, mas aqui continua sendo uma forma negativa polida de passado. A variante mais longa também é possível; você não precisa usar as duas no meio de uma mesma afirmação.
+Jonas: Nessa redução, o marcador de tema depois de eu também muda?
+Aoki: Não. Em {私は教師じゃありませんでした|わたしはきょうしじゃありませんでした|watashi wa kyoushi ja arimasen deshita|Eu não era professora|わたしわきょうしじゃありませんでした}, a unidade formada por eu e pelo marcador de tema permanece igual. A frase inteira continua significando eu não era professora.
+Jonas: Se sua pessoa estiver clara na conversa, independentemente disso também podemos deixar implícita a indicação da pessoa.
+Aoki: Sim. No meu relato sobre mim mesma, o resultado curto completo é {教師じゃありませんでした|きょうしじゃありませんでした|kyoushi ja arimasen deshita|Eu não era professora}: eu não era professora. A pessoa continua clara, e a forma negativa de passado continua sendo pronunciada.
+Jonas: Agora quero eu mesmo informar Nakamura sobre você, sem parecer que estou contando minha própria trajetória.
+Aoki: Então mencione meu nome como tema. Continuamos falando da época em que eu estudava; nem a pessoa nem o período devem se perder ao repassar a informação.
+Jonas: {青木さんは教師ではありませんでした|あおきさんはきょうしではありませんでした|Aoki-san wa kyoushi dewa arimasen deshita|A senhora Aoki não era professora|あおきさんわきょうしでわありませんでした}. A senhora Aoki não era professora.
+Aoki: Você diz expressamente que eu não era professora naquele período. A finalização negativa não muda porque você fala sobre mim, em vez de falar sobre si.
+Jonas: Para completar a correção, acrescento {青木さんは学生でした|あおきさんはがくせいでした|Aoki-san wa gakusei deshita|A senhora Aoki era estudante|あおきさんわがくせいでした}: a senhora Aoki era estudante.
+Aoki: Agora a suposição errada e minha condição real naquela época estão claramente separadas. Aliás, ser estudante não impede toda pessoa de também exercer uma profissão. Estabelecemos expressamente para nossa história que eu não era professora naquela época.
+Jonas: Podemos experimentar a mesma correção com uma bebida anterior?
+Aoki: Sim. Vamos abrir outra cena de uma pausa anterior, diferente da pausa para o café do último texto. Nessa pequena cena nova, havia chá. A princípio, você se lembra por engano de café.
+Jonas: Então minha suposição se refere a uma bebida anterior específica, não à xícara que está conosco hoje.
+Aoki: Isso mesmo. Corrijo com {コーヒーではありませんでした|こーひーではありませんでした|koohii dewa arimasen deshita|Não era café|こーひーでわありませんでした}: não era café. A referência é a bebida naquela outra pausa anterior.
+Jonas: Só essa negação ainda deixaria em aberto se era chá, água ou outra coisa.
+Aoki: Por isso, em seguida digo {お茶でした|おちゃでした|ocha deshita|Era chá}: era chá. Agora a classificação errada foi negada e o conteúdo real foi mencionado.
+Jonas: Repito a mesma correção com a variante negativa mais curta: {コーヒーじゃありませんでした|こーひーじゃありませんでした|koohii ja arimasen deshita|Não era café}. Não era café.
+Aoki: E a afirmação seguinte continua sendo {お茶でした|おちゃでした|ocha deshita|Era chá}: era chá. A forma negativa mais curta não mudou nem a bebida nem seu momento no tempo.
+Jonas: Se eu usasse nossa forma negativa anterior no lugar da finalização de passado, a informação temporal já não seria a mesma.
+Aoki: Vamos comparar isso em duas perspectivas claras. Dentro daquela pausa para o chá, a correção é {コーヒーじゃありません|こーひーじゃありません|koohii ja arimasen|Isto não é café}: isto não é café. Ali, as pessoas falam da bebida que está com elas naquele momento.
+Jonas: Agora voltamos ao nosso relato de hoje sobre exatamente aquela pausa para o chá.
+Aoki: Nesse caso, o resultado completo é {コーヒーじゃありませんでした|こーひーじゃありませんでした|koohii ja arimasen deshita|Não era café}: não era café. A finalização negativa não passada foi substituída pela de passado.
+Jonas: O alemão kein permanece nas duas traduções. Ist vira war, ou seja, é vira era. Assim reconheço qual informação muda.
+Aoki: Exatamente. Em japonês, o substantivo café também continua igual. Aqui a finalização expressa a diferença de tempo, não uma forma diferente do nome da bebida.
+Jonas: E, se alguém naquela pausa para o chá tivesse suposto que era água em vez de café, eu também poderia negar essa classificação.
+Aoki: Nesse caso, a correção ao olhar para trás é {水ではありませんでした|みずではありませんでした|mizu dewa arimasen deshita|Não era água|みずでわありませんでした}: não era água. Em relação à negação de café, você trocou apenas o substantivo.
+Jonas: Depois digo {お茶でした|おちゃでした|ocha deshita|Era chá}: era chá. Assim a informação correta continua igual, embora a suposição errada fosse outra.
+Aoki: Exatamente. Não ser água e não ser café são aqui duas descrições rejeitadas da mesma bebida anterior. Não introduzimos duas bebidas novas sem avisar.
+Jonas: Quero aplicar a forma longa também a um objeto. No último texto, tínhamos um caderno num encontro anterior no escritório.
+Aoki: Vamos retomar exatamente aquele encontro. Suponha que alguém se lembre do objeto daquela ocasião como um livro. Você sabe que era o caderno e corrige a lembrança.
+Jonas: {本ではありませんでした|ほんではありませんでした|hon dewa arimasen deshita|Não era um livro|ほんでわありませんでした}. Não era um livro.
+Aoki: A correção afirmativa correspondente é {ノートでした|のーとでした|nooto deshita|Era um caderno}: era um caderno. As duas afirmações descrevem o mesmo objeto no mesmo encontro anterior.
+Jonas: Na variante mais curta, minha negação vira {本じゃありませんでした|ほんじゃありませんでした|hon ja arimasen deshita|Não era um livro}: não era um livro.
+Aoki: Exatamente. Você aplicou a redução conhecida na finalização negativa. O substantivo livro continua igual, e a negação passada é preservada por inteiro.
+Jonas: Ao dizer não era um livro, também afirmei que não havia nenhum livro no escritório naquela ocasião?
+Aoki: Não. Você apenas negou que o objeto em questão fosse um livro. Outro livro poderia estar ao lado. Classificar um objeto específico é diferente de dizer se havia livros em algum lugar.
+Jonas: Então não devo entender o trecho mais longo dentro da finalização negativa como uma afirmação independente sobre a ausência de coisas.
+Aoki: Isso mesmo. Aqui aprendemos a forma nominal negativa inteira como finalização depois de um substantivo. Outro uso de partes individuais precisaria ser explicado mais tarde em sua própria estrutura de frase.
+Jonas: Depois da forma negativa longa de passado, ainda preciso da nossa finalização polida original?
+Aoki: Não. {本ではありませんでした|ほんではありませんでした|hon dewa arimasen deshita|Não era um livro|ほんでわありませんでした} já é aqui a afirmação polida completa não era um livro. Não acrescente uma segunda finalização polida.
+Jonas: Então minha frase de ação eu bebo café também não recebe simplesmente essa forma inteira como acréscimo.
+Aoki: Exatamente. Até agora, negamos descrições nominais como ser um livro ou ser professora. A afirmação eu não bebi café exige a forma negativa de passado do verbo. Esse não é nosso padrão de hoje.
+Jonas: Para terminar, quero distinguir as quatro possibilidades usando sua profissão de professora, mas sem confundir sua história de vida.
+Aoki: Vamos começar com minha condição real de hoje na nossa história: {私は教師です|わたしはきょうしです|watashi wa kyoushi desu|Eu sou professora|わたしわきょうしです}. Eu sou professora. Essa é uma afirmação positiva sobre hoje.
+Jonas: Já para não sou professora, precisamos voltar à época imaginada dos estudos e falar a partir dela.
+Aoki: Naquela cena anterior, digo {私は教師ではありません|わたしはきょうしではありません|watashi wa kyoushi dewa arimasen|Eu não sou professora|わたしわきょうしでわありません}: eu não sou professora. A negação se refere ao presente daquela cena, não à minha profissão atual.
+Jonas: Para era professora, usamos a outra mulher da nossa comparação, que realmente exercia a profissão naquela época.
+Aoki: O relato dela sobre o passado é {私は教師でした|わたしはきょうしでした|watashi wa kyoushi deshita|Eu era professora|わたしわきょうしでした}: eu era professora. A afirmação é passada, mas positiva.
+Jonas: E seu próprio relato sobre a época em que estudava nega essa mesma profissão.
+Aoki: Digo {私は教師じゃありませんでした|わたしはきょうしじゃありませんでした|watashi wa kyoushi ja arimasen deshita|Eu não era professora|わたしわきょうしじゃありませんでした}: eu não era professora. Aqui você ouve negação e passado juntos, na variante polida mais curta.
+Jonas: Então preciso separar duas coisas: se a descrição é verdadeira e a qual período ela se refere. Curta ou longa é ainda outra decisão sobre a forma.
+Aoki: Exatamente. A variante negativa mais curta não substitui nem a referência temporal nem o conteúdo. E o contexto continua dizendo qual pessoa ou objeto está sendo descrito.
+Jonas: Na próxima conversa, não quero começar expressando uma suposição errada. Quero poder perguntar em japonês sobre sua condição naquela época.
+Aoki: Isso vem no próximo texto. Vamos combinar a finalização de passado já conhecida com a função de pergunta e depois ouvir respostas que mantenham a mesma referência ao passado.

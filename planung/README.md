@@ -11,8 +11,9 @@ Der Kurs beginnt neu. Die bisherigen fünf Kurzlektionen und der alte
 - [Block 2 im Detail](bloecke/block-02.md): Kopula und nominale Aussagen;
   vier Klassen mit acht geplanten Hörtexten zu Verneinung, Fragen und
   Antworten, Vergangenheit und dem Erkennen lockerer Kurzantworten.
-  Der Plan ist ausgearbeitet. Texte 1–4 liegen in Deutsch und Portugiesisch
-  vor und sind im Manifest registriert; Texte 5–8 sind noch nicht geschrieben.
+  Der Plan ist ausgearbeitet. Texte 1–6 liegen in Deutsch und Portugiesisch
+  vor und sind im Manifest registriert; Texte 7–8 sind noch nicht geschrieben.
+  Die neueste Lieferung dokumentiert der [Prüfbericht zu Texten 5–6](pruefung-block-02-texte-05-06.md).
 
 Ein **Block** ist ein nummerierter Themenbereich des Hauptplans. Eine
 **Klasse** ist eine didaktische Untereinheit. Ein **Text** ist eine separat

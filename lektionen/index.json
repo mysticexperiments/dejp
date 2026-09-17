@@ -158,6 +158,26 @@
       "de": "lektionen/de-pt/block-02-text-04.txt",
       "pt": "lektionen/de-pt/block-02-text-04.pt.txt",
       "particles": []
+    },
+    {
+      "id": "block-02-text-05",
+      "number": 14,
+      "grammar": "Höfliche Vergangenheit mit でした",
+      "title": "2.5 — Was damals zutraf",
+      "titlePt": "2.5 — O que era verdade naquela época",
+      "de": "lektionen/de-pt/block-02-text-05.txt",
+      "pt": "lektionen/de-pt/block-02-text-05.pt.txt",
+      "particles": []
+    },
+    {
+      "id": "block-02-text-06",
+      "number": 15,
+      "grammar": "Höfliche verneinte Vergangenheit",
+      "title": "2.6 — Was damals nicht zutraf",
+      "titlePt": "2.6 — O que não era verdade naquela época",
+      "de": "lektionen/de-pt/block-02-text-06.txt",
+      "pt": "lektionen/de-pt/block-02-text-06.pt.txt",
+      "particles": []
     }
   ]
 }

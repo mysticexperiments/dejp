@@ -325,3 +325,74 @@ Keine japanische Vergangenheit, keine negativen Fragen oder Fragewörter,
 keine Verbverneinung, keine Adjektivkonjugation und keine systematischen
 lockeren Nominalformen. B02-T05 wird でした erst neu einführen. Die
 angekündigte frühere Studienzeit ist noch kein unterrichteter japanischer Inhalt.
+
+## B02-T05 — Eine nominale Aussage über damals
+
+Neu: でした, Lesung でした, Romaji deshita: höflicher vergangener
+Abschluss nach einem Nomen. Das bisherige です wird ersetzt, nicht um einen
+zweiten Abschluss ergänzt. Keine neuen lexikalischen Grundwörter.
+
+Vollständig erklärte Beispiele:
+
+- 私は学生です / 私は学生でした — Ich bin Studentin / Ich war Studentin.
+  Aoki spricht zuerst innerhalb ihrer ausdrücklich vorgestellten früheren
+  Studienzeit, dann blickt sie heute auf diese Zeit zurück.
+- 学生でした — Ich war Studentin, in Aokis eindeutigem Selbstbericht.
+- 青木さんは学生でした — Frau Aoki war Studentin, Jonas berichtet über sie.
+- コーヒーです / コーヒーでした — Das ist Kaffee / Es war Kaffee, innerhalb
+  einer vorgestellten früheren Kaffeepause beziehungsweise im Rückblick darauf.
+- これはお茶です — Das ist Tee, nach ausdrücklich gewechselter Tasse und Zeit.
+- 水でした — Es war Wasser, über ein Glas in einer anderen früheren Pause.
+- ノートです / ノートでした — Das ist ein Notizheft / Es war ein Notizheft,
+  innerhalb einer früheren Büroszene beziehungsweise im Rückblick darauf.
+
+Der Abschluss markiert weder ein bestimmtes Jahr noch das Geschlecht oder
+die Person. Aus einer Aussage über früher folgt nicht allein, dass die
+Beschreibung heute unmöglich zutrifft oder die Person verstorben ist.
+です ist nicht ausschließlich ein Gegenwartsmarker; Zukunft bleibt hier
+ausgeklammert. Die bekannte Handlung mit 飲みます grenzt nominale
+Vergangenheit von der noch nicht gelehrten Verbvergangenheit ab.
+
+## B02-T06 — Verneinung und Vergangenheit zusammen
+
+Neue ganze Abschlüsse:
+
+| Schreibung | Kana | Romaji | Bedeutung / Funktion |
+|---|---|---|---|
+| ではありませんでした | ではありませんでした | dewa arimasen deshita | höfliche negative nominale Vergangenheit; Aussprachefeld でわありませんでした |
+| じゃありませんでした | じゃありませんでした | ja arimasen deshita | kürzere gesprochene höfliche Variante, gleiche Verneinung und Zeit |
+
+Neue vollständige Beispiele und Kontraste:
+
+- 私は教師ではありませんでした / 私は教師じゃありませんでした — Ich war
+  keine Lehrerin, Aoki über die im Text festgelegte frühere Studienzeit.
+- 教師ではありませんでした / 教師じゃありませんでした — dieselbe Aussage
+  mit eindeutigem, unausgesprochenem Selbstbezug.
+- 私は教師でした — Ich war Lehrerin, ausschließlich bei einer ausdrücklich
+  eingeführten anderen Sprecherin, nicht Aokis damalige Rolle.
+- 私は教師ではありません — Ich bin keine Lehrerin, Aoki innerhalb der
+  vorgestellten damaligen Szene, keine Verneinung ihres heutigen Berufs.
+- 青木さんは教師ではありませんでした / 青木さんは学生でした — Frau Aoki
+  war keine Lehrerin / Frau Aoki war Studentin, Jonas berichtet über dieselbe Zeit.
+- コーヒーではありませんでした / コーヒーじゃありませんでした — Es war
+  kein Kaffee; お茶でした — Es war Tee, über eine ausdrücklich andere
+  frühere Pause als die Kaffeepause in T05.
+- 水ではありませんでした — Es war kein Wasser, alternative falsche
+  Vermutung über dasselbe frühere Teegetränk.
+- 本ではありませんでした / 本じゃありませんでした — Es war kein Buch;
+  ノートでした — Es war ein Notizheft, Rückgriff auf die Büroszene aus T05.
+
+Zeitwechsel, Verneinung, Kontraktion und Weglassen der Personenangabe werden
+getrennt verglichen. Die Kontraktion im negativen Abschluss verändert nicht
+das Themen-は. Keine zweite höfliche Endung anhängen. Das Verneinen einer
+Zuordnung sagt nicht, dass ein entsprechender Gegenstand nirgends vorhanden
+war. Student sein schließt nicht allgemein eine gleichzeitige Berufstätigkeit
+aus; Aokis damalige Nicht-Lehrerrolle ist eine ausdrücklich gesetzte Szenentatsache.
+
+## Nach B02-T06 noch nicht voraussetzen
+
+Noch keine japanischen Vergangenheitsfragen mit でしたか, keine negativen
+Fragen, japanischen Zeitwörter oder Fragewörter. Keine Verbvergangenheit
+oder Verbverneinung, keine Adjektivkonjugation und keine systematischen
+lockeren Nominalformen. T07 führt Fragen über die Vergangenheit erst ein;
+die deutschen Fragen in T05 und T06 sind keine bereits gelehrten japanischen Formen.

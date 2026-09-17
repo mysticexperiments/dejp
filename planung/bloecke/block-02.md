@@ -7,10 +7,11 @@ an die neun überarbeiteten Texte aus [Block 1](block-01.md) an.
 
 **Geplant: vier Klassen mit acht separat abspielbaren Hörtexten.**
 Das sind acht deutsche Texte mit acht zeilengleichen portugiesischen
-Parallelfassungen. Texte 1–4 sind geschrieben und im App-Manifest registriert;
-Texte 5–8 sind weiterhin geplant. Die Beispiele in diesem Plan sind
+Parallelfassungen. Texte 1–6 sind geschrieben und im App-Manifest registriert;
+Texte 7–8 sind weiterhin geplant. Die Beispiele in diesem Plan sind
 Redaktionsmaterial, keine direkt abspielbaren Lektionen. Die Abnahme der
 ersten Lieferung steht im [Prüfbericht](../pruefung-block-02-texte-01-04.md).
+Für die Fortsetzung siehe den [Prüfbericht zu Texten 5–6](../pruefung-block-02-texte-05-06.md).
 
 Jeder spätere Text hat mindestens 80 Dialogzeilen je Sprache, ohne feste
 Obergrenze. Mehr Raum dient Erklärungen, vollständigen Umformungen und
@@ -767,8 +768,8 @@ vorherigen Wissensstands verfassen. Die Vokabularübersicht wird aus den
 tatsächlich fertigen Texten fortgeschrieben, nicht vorab aus diesem Plan.
 Eine neue Kenntnis zählt erst ab dem Text, der sie tatsächlich erklärt.
 
-Aktueller Lieferstand: **Plan vollständig ausgearbeitet; Hörtexte 4 von 8.**
-T01–T04 sind als DE/PT-Paare im Manifest registriert. T05–T08 sind nicht
+Aktueller Lieferstand: **Plan vollständig ausgearbeitet; Hörtexte 6 von 8.**
+T01–T06 sind als DE/PT-Paare im Manifest registriert. T07–T08 sind nicht
 geschrieben. App-Code und Formatvertrag bleiben unverändert. Strukturprüfung
 und redaktionelle Durchsicht sind keine Zusage menschlich geprüfter Fehlerfreiheit.
 
