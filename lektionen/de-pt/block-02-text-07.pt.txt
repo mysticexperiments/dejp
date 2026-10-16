@@ -1,0 +1,84 @@
+Jonas: No fim do último texto, eu queria aprender a perguntar sobre a sua época de estudante.
+Aoki: Para isso você já conhece quase tudo. A finalização para o passado é {でした|でした|deshita|finalização educada no passado}.
+Jonas: E para uma pergunta eu acrescento {か|か|ka|partícula de pergunta}, como no presente.
+Aoki: Exato. Juntos fica {でしたか|でしたか|deshita ka|finalização no passado com pergunta}. Isso pergunta: Era assim?
+Jonas: Você monta a pergunta inteira para mim passo a passo?
+Aoki: Primeiro a afirmação: {学生でした|がくせいでした|gakusei deshita|era estudante}. Isso significa: era estudante.
+Jonas: Depois vem a pergunta: {学生でしたか|がくせいでしたか|gakusei deshita ka|Você era estudante?}. Você era estudante?
+Aoki: Certo. Agora com o tema na frente: {青木さんは学生でしたか|あおきさんはがくせいでしたか|Aoki-san wa gakusei deshita ka|Você era estudante, Aoki?|あおきさんわがくせいでしたか}. Você era estudante, Aoki?
+Jonas: Então eu me dirijo a você pelo nome, e não com uma palavra para você.
+Aoki: Sim. O nome com {さん|さん|san|sufixo respeitoso de nome} é aqui a forma educada de se dirigir.
+Jonas: E como você responde com sim?
+Aoki: Eu repito a descrição: {はい、学生でした|はいがくせいでした|hai, gakusei deshita|Sim, eu era estudante}. Sim, eu era estudante.
+Jonas: Também existe uma resposta mais curta, como no presente?
+Aoki: Sim. Você conhece {そうです|そうです|sou desu|É isso}, é isso. Para o passado você diz {そうでした|そうでした|sou deshita|Era isso}, era isso.
+Jonas: Então eu respondo: {はい、そうでした|はいそうでした|hai, sou deshita|Sim, era isso}. Sim, era isso.
+Aoki: Exato. Agora me pergunte se eu já era professora naquela época.
+Jonas: Sobre você uso a palavra respeitosa: {青木さんは先生でしたか|あおきさんはせんせいでしたか|Aoki-san wa sensei deshita ka|Você era professora naquela época?|あおきさんわせんせいでしたか}. Você era professora naquela época?
+Aoki: Bom. Sobre mim mesma uso a palavra neutra: {いいえ、教師ではありませんでした|いいえきょうしではありませんでした|iie, kyoushi dewa arimasen deshita|Não, eu não era professora|いいえきょうしでわありませんでした}.
+Jonas: Isso significa: Não, eu não era professora. Dá para dizer mais curto?
+Aoki: Sim, e igualmente educado: {いいえ、教師じゃありませんでした|いいえきょうしじゃありませんでした|iie, kyoushi ja arimasen deshita|Não, eu não era professora}. Não, eu não era professora.
+Jonas: Agora a pausa de antes. Eu pergunto pela sua bebida: {コーヒーでしたか|こーひーでしたか|koohii deshita ka|Era café?}
+Aoki: Isso significa: Era café? Minha resposta: {いいえ、コーヒーではありませんでした|いいえこーひーではありませんでした|iie, koohii dewa arimasen deshita|Não, não era café|いいえこーひーでわありませんでした}. Não, não era café.
+Jonas: Então continuo perguntando: {お茶でしたか|おちゃでしたか|ocha deshita ka|Era chá?}. Era chá?
+Aoki: {はい、お茶でした|はいおちゃでした|hai, ocha deshita|Sim, era chá}. Sim, era chá.
+Jonas: E, para ter certeza, mais uma vez com água: {水でしたか|みずでしたか|mizu deshita ka|Era água?}. Era água?
+Aoki: {いいえ、水じゃありませんでした|いいえみずじゃありませんでした|iie, mizu ja arimasen deshita|Não, não era água}. Não, não era água. Era chá.
+Jonas: Até agora, naquela época significa só a sua época de estudante ou a pausa de antes. Como digo ontem?
+Aoki: Ontem se diz {昨日|きのう|kinou|ontem}. E hoje se diz {今日|きょう|kyou|hoje}.
+Jonas: Ontem foi domingo. Como soa essa frase?
+Aoki: Domingo é {日曜日|にちようび|nichiyoubi|domingo}. A frase inteira: {昨日は日曜日でした|きのうはにちようびでした|kinou wa nichiyoubi deshita|Ontem foi domingo|きのうわにちようびでした}. Ontem foi domingo.
+Jonas: Ontem fica na frente com {は|は|wa|partícula de tema|わ}, ou seja, como tema: Quanto a ontem, foi domingo.
+Aoki: Exato. Segunda-feira se diz {月曜日|げつようび|getsuyoubi|segunda-feira}. Para hoje eu digo: {今日は月曜日です|きょうはげつようびです|kyou wa getsuyoubi desu|Hoje é segunda-feira|きょうわげつようびです}. Hoje é segunda-feira.
+Jonas: Então para hoje {です|です|desu|finalização educada}, e para ontem {でした|でした|deshita|finalização educada no passado}.
+Aoki: Certo. Agora me pergunte sobre ontem.
+Jonas: {昨日は日曜日でしたか|きのうはにちようびでしたか|kinou wa nichiyoubi deshita ka|Ontem foi domingo?|きのうわにちようびでしたか}. Ontem foi domingo?
+Aoki: {はい、そうでした|はいそうでした|hai, sou deshita|Sim, era isso}. Sim, era isso. E no domingo eu estava de folga.
+Jonas: Como digo folga, ou seja, um dia livre?
+Aoki: A palavra é {休み|やすみ|yasumi|folga, pausa}, folga ou pausa. Por exemplo: {日曜日は休みです|にちようびはやすみです|nichiyoubi wa yasumi desu|Domingo é folga|にちようびわやすみです}. Domingo é folga.
+Jonas: E para ontem: {昨日は休みでした|きのうはやすみでした|kinou wa yasumi deshita|Ontem eu estava de folga|きのうわやすみでした}. Ontem eu estava de folga.
+Aoki: Exato. Em alemão se diz tive folga. Em japonês se diz simplesmente: ontem foi dia de folga.
+Jonas: E como digo o contrário, quando preciso trabalhar?
+Aoki: Trabalho se diz {仕事|しごと|shigoto|trabalho}. Uma frase com ela: {今日は仕事です|きょうはしごとです|kyou wa shigoto desu|Hoje eu trabalho|きょうわしごとです}. Hoje eu trabalho, literalmente: Hoje é trabalho.
+Jonas: Então digo sobre a minha semana: {月曜日は仕事です|げつようびはしごとです|getsuyoubi wa shigoto desu|Às segundas eu trabalho|げつようびわしごとです}. Às segundas eu trabalho.
+Aoki: Certo. Agora uma pergunta sobre ontem: {昨日は仕事でしたか|きのうはしごとでしたか|kinou wa shigoto deshita ka|Você trabalhou ontem?|きのうわしごとでしたか}. Você trabalhou ontem?
+Jonas: {いいえ、休みでした|いいえやすみでした|iie, yasumi deshita|Não, eu estava de folga}. Não, eu estava de folga.
+Aoki: Muito claro. Agora o tempo. Chuva se diz {雨|あめ|ame|chuva}.
+Jonas: Então {昨日は雨でした|きのうはあめでした|kinou wa ame deshita|Ontem choveu|きのうわあめでした} significa: Ontem choveu.
+Aoki: Exato, literalmente: ontem foi chuva. Tempo bom se diz {晴れ|はれ|hare|tempo bom, ensolarado}.
+Jonas: E {昨日は晴れでした|きのうははれでした|kinou wa hare deshita|Ontem fez sol|きのうわはれでした} significa: Ontem fez sol.
+Aoki: Certo. Preste atenção ao som: a partícula soa como {わ|わ|wa|partícula de tema falada}, e depois {晴れ|はれ|hare|tempo bom, ensolarado} começa com um h de verdade.
+Jonas: Agora me pergunte em japonês. Eu respondo em japonês.
+Aoki: {昨日は雨でしたか|きのうはあめでしたか|kinou wa ame deshita ka|Choveu ontem?|きのうわあめでしたか}. Choveu ontem?
+Jonas: {いいえ、雨ではありませんでした|いいえあめではありませんでした|iie, ame dewa arimasen deshita|Não, não choveu|いいえあめでわありませんでした}. Não, não choveu.
+Aoki: E como estava o tempo, então?
+Jonas: {晴れでした|はれでした|hare deshita|Fez sol}. Fez sol.
+Aoki: {今日は雨です|きょうはあめです|kyou wa ame desu|Hoje está chovendo|きょうわあめです}. Hoje está chovendo. E minha pergunta: {今日は休みですか|きょうはやすみですか|kyou wa yasumi desu ka|Você está de folga hoje?|きょうわやすみですか}. Você está de folga hoje?
+Jonas: {いいえ、休みじゃありません|いいえやすみじゃありません|iie, yasumi ja arimasen|Não, não estou de folga}. Não, hoje não estou de folga.
+Aoki: Me diga o motivo em duas frases curtas em japonês.
+Jonas: Primeiro {今日は月曜日です|きょうはげつようびです|kyou wa getsuyoubi desu|Hoje é segunda-feira|きょうわげつようびです}, hoje é segunda-feira. Segundo {今日は仕事です|きょうはしごとです|kyou wa shigoto desu|Hoje eu trabalho|きょうわしごとです}, hoje eu trabalho.
+Aoki: {昨日は休みでしたか|きのうはやすみでしたか|kinou wa yasumi deshita ka|Você estava de folga ontem?|きのうわやすみでしたか}. Você estava de folga ontem?
+Jonas: {はい、休みでした|はいやすみでした|hai, yasumi deshita|Sim, eu estava de folga}. Sim, eu estava de folga. Porque {昨日は日曜日でした|きのうはにちようびでした|kinou wa nichiyoubi deshita|Ontem foi domingo|きのうわにちようびでした}, ontem foi domingo.
+Aoki: Agora sobre a Nakamura, também sobre ontem: {中村さんは休みでしたか|なかむらさんはやすみでしたか|Nakamura-san wa yasumi deshita ka|A Nakamura estava de folga?|なかむらさんわやすみでしたか}. A Nakamura estava de folga?
+Jonas: {はい、そうでした|はいそうでした|hai, sou deshita|Sim, era isso}. Sim, era isso.
+Aoki: Bom. Agora eu faço a Nakamura. É segunda de manhã no escritório, e você começa.
+Jonas: {おはようございます|おはようございます|ohayou gozaimasu|Bom dia}. Bom dia.
+Aoki: {おはようございます|おはようございます|ohayou gozaimasu|Bom dia}. Bom dia. Depois: {今日は雨です|きょうはあめです|kyou wa ame desu|Hoje está chovendo|きょうわあめです}. Hoje está chovendo.
+Jonas: {昨日は晴れでした|きのうははれでした|kinou wa hare deshita|Ontem fez sol|きのうわはれでした}. Ontem fez sol.
+Aoki: {そうでした|そうでした|sou deshita|Era isso}. Era isso. Depois pergunto: {昨日は休みでしたか|きのうはやすみでしたか|kinou wa yasumi deshita ka|Você estava de folga ontem?|きのうわやすみでしたか}. Você estava de folga ontem?
+Jonas: {はい、休みでした|はいやすみでした|hai, yasumi deshita|Sim, eu estava de folga}. Sim, eu estava de folga. E mais: {日曜日は休みです|にちようびはやすみです|nichiyoubi wa yasumi desu|Domingo é folga|にちようびわやすみです}. Domingo é folga.
+Aoki: {私は仕事でした|わたしはしごとでした|watashi wa shigoto deshita|Eu trabalhei|わたしわしごとでした}. Eu trabalhei.
+Jonas: {仕事でしたか|しごとでしたか|shigoto deshita ka|Você trabalhou?}. Você trabalhou?
+Aoki: {はい、そうでした|はいそうでした|hai, sou deshita|Sim, era isso}. Sim, era isso. E mais: {今日は仕事です|きょうはしごとです|kyou wa shigoto desu|Hoje eu trabalho|きょうわしごとです}. Hoje eu trabalho.
+Jonas: {コーヒーを飲みますか|こーひーをのみますか|koohii o nomimasu ka|Você bebe café?|こーひーおのみますか}. Você bebe café?
+Aoki: {いいえ、お茶を飲みます|いいえおちゃをのみます|iie, ocha o nomimasu|Não, eu bebo chá|いいえおちゃおのみます}. Não, eu bebo chá.
+Jonas: {昨日はコーヒーでしたか|きのうはこーひーでしたか|kinou wa koohii deshita ka|Ontem era café?|きのうわこーひーでしたか}. Ontem era café?
+Aoki: {いいえ、コーヒーではありませんでした|いいえこーひーではありませんでした|iie, koohii dewa arimasen deshita|Não, não era café|いいえこーひーでわありませんでした}. Não, não era café.
+Jonas: {お茶でしたか|おちゃでしたか|ocha deshita ka|Era chá?}. Era chá?
+Aoki: {はい、お茶でした|はいおちゃでした|hai, ocha deshita|Sim, era chá}. Sim, era chá.
+Jonas: {今日は月曜日です|きょうはげつようびです|kyou wa getsuyoubi desu|Hoje é segunda-feira|きょうわげつようびです}. Hoje é segunda-feira. E para nós dois: {今日は仕事です|きょうはしごとです|kyou wa shigoto desu|Hoje eu trabalho|きょうわしごとです}. Hoje é trabalho.
+Aoki: {そうです|そうです|sou desu|É isso}. É isso. Aqui termina a cena, agora sou a Aoki de novo.
+Jonas: Na cena eu disse ontem, hoje, domingo e segunda-feira e entendi tudo.
+Aoki: Além disso folga, trabalho, chuva e sol. A pergunta nova mais importante foi {昨日は休みでしたか|きのうはやすみでしたか|kinou wa yasumi deshita ka|Você estava de folga ontem?|きのうわやすみでしたか}. Você estava de folga ontem?
+Jonas: E a resposta curta para ela: {はい、そうでした|はいそうでした|hai, sou deshita|Sim, era isso}. Sim, era isso.
+Aoki: Exato. No próximo texto você vai ouvir por que em algumas respostas a finalização educada falta totalmente.

@@ -1,0 +1,84 @@
+Jonas: Am Ende des letzten Textes wollte ich lernen, wie ich dich nach deiner Studienzeit frage.
+Aoki: Dafür kennst du schon fast alles. Der Abschluss für damals ist {でした|でした|deshita|höflicher vergangener Abschluss}.
+Jonas: Und für eine Frage hänge ich wie bei der Gegenwart {か|か|ka|Fragepartikel} an.
+Aoki: Genau. Zusammen ergibt das {でしたか|でしたか|deshita ka|vergangener Abschluss mit Frage}. Das fragt: War es so?
+Jonas: Baust du mir die ganze Frage Schritt für Schritt auf?
+Aoki: Zuerst die Aussage: {学生でした|がくせいでした|gakusei deshita|war Studentin}. Das heißt: war Studentin.
+Jonas: Dann kommt die Frage dazu: {学生でしたか|がくせいでしたか|gakusei deshita ka|Warst du Studentin?}. Warst du Studentin?
+Aoki: Richtig. Jetzt mit dem Thema davor: {青木さんは学生でしたか|あおきさんはがくせいでしたか|Aoki-san wa gakusei deshita ka|Warst du Studentin, Aoki?|あおきさんわがくせいでしたか}. Warst du Studentin, Aoki?
+Jonas: Ich spreche dich also mit deinem Namen an und nicht mit einem Wort für du.
+Aoki: Ja. Der Name mit {さん|さん|san|höflicher Namenszusatz} ist hier die höfliche Anrede.
+Jonas: Und wie antwortest du mit Ja?
+Aoki: Ich wiederhole die Beschreibung: {はい、学生でした|はいがくせいでした|hai, gakusei deshita|Ja, ich war Studentin}. Ja, ich war Studentin.
+Jonas: Gibt es auch eine kürzere Antwort, so wie in der Gegenwart?
+Aoki: Ja. Du kennst {そうです|そうです|sou desu|So ist es}, so ist es. Für damals sagst du {そうでした|そうでした|sou deshita|So war es}, so war es.
+Jonas: Also antworte ich: {はい、そうでした|はいそうでした|hai, sou deshita|Ja, so war es}. Ja, so war es.
+Aoki: Genau. Jetzt frag mich, ob ich damals schon Lehrerin war.
+Jonas: Über dich nehme ich das respektvolle Wort: {青木さんは先生でしたか|あおきさんはせんせいでしたか|Aoki-san wa sensei deshita ka|Warst du damals Lehrerin?|あおきさんわせんせいでしたか}. Warst du damals Lehrerin?
+Aoki: Gut. Über mich selbst nehme ich das neutrale Wort: {いいえ、教師ではありませんでした|いいえきょうしではありませんでした|iie, kyoushi dewa arimasen deshita|Nein, ich war keine Lehrerin|いいえきょうしでわありませんでした}.
+Jonas: Das heißt: Nein, ich war keine Lehrerin. Geht das auch kürzer?
+Aoki: Ja, und genauso höflich: {いいえ、教師じゃありませんでした|いいえきょうしじゃありませんでした|iie, kyoushi ja arimasen deshita|Nein, ich war keine Lehrerin}. Nein, ich war keine Lehrerin.
+Jonas: Jetzt die frühere Pause. Ich frage nach deinem Getränk: {コーヒーでしたか|こーひーでしたか|koohii deshita ka|War es Kaffee?}
+Aoki: Das heißt: War es Kaffee? Meine Antwort: {いいえ、コーヒーではありませんでした|いいえこーひーではありませんでした|iie, koohii dewa arimasen deshita|Nein, es war kein Kaffee|いいえこーひーでわありませんでした}. Nein, es war kein Kaffee.
+Jonas: Dann frage ich weiter: {お茶でしたか|おちゃでしたか|ocha deshita ka|War es Tee?}. War es Tee?
+Aoki: {はい、お茶でした|はいおちゃでした|hai, ocha deshita|Ja, es war Tee}. Ja, es war Tee.
+Jonas: Und zur Sicherheit noch einmal mit Wasser: {水でしたか|みずでしたか|mizu deshita ka|War es Wasser?}. War es Wasser?
+Aoki: {いいえ、水じゃありませんでした|いいえみずじゃありませんでした|iie, mizu ja arimasen deshita|Nein, es war kein Wasser}. Nein, es war kein Wasser. Es war Tee.
+Jonas: Bisher meint damals nur deine Studienzeit oder die frühere Pause. Wie sage ich gestern?
+Aoki: Gestern heißt {昨日|きのう|kinou|gestern}. Und heute heißt {今日|きょう|kyou|heute}.
+Jonas: Gestern war Sonntag. Wie klingt dieser Satz?
+Aoki: Sonntag ist {日曜日|にちようび|nichiyoubi|Sonntag}. Der ganze Satz: {昨日は日曜日でした|きのうはにちようびでした|kinou wa nichiyoubi deshita|Gestern war Sonntag|きのうわにちようびでした}. Gestern war Sonntag.
+Jonas: Gestern steht vorne mit {は|は|wa|Themenpartikel|わ}, also als Thema: Was gestern betrifft, es war Sonntag.
+Aoki: Genau. Montag heißt {月曜日|げつようび|getsuyoubi|Montag}. Für heute sage ich: {今日は月曜日です|きょうはげつようびです|kyou wa getsuyoubi desu|Heute ist Montag|きょうわげつようびです}. Heute ist Montag.
+Jonas: Für heute also {です|です|desu|höflicher Abschluss}, für gestern dagegen {でした|でした|deshita|höflicher vergangener Abschluss}.
+Aoki: Richtig. Frag mich jetzt nach gestern.
+Jonas: {昨日は日曜日でしたか|きのうはにちようびでしたか|kinou wa nichiyoubi deshita ka|War gestern Sonntag?|きのうわにちようびでしたか}. War gestern Sonntag?
+Aoki: {はい、そうでした|はいそうでした|hai, sou deshita|Ja, so war es}. Ja, so war es. Und am Sonntag hatte ich frei.
+Jonas: Wie sage ich frei, also einen freien Tag?
+Aoki: Das Wort ist {休み|やすみ|yasumi|freier Tag, Pause}, freier Tag oder Pause. Zum Beispiel: {日曜日は休みです|にちようびはやすみです|nichiyoubi wa yasumi desu|Sonntag ist frei|にちようびわやすみです}. Sonntag ist frei.
+Jonas: Und für gestern: {昨日は休みでした|きのうはやすみでした|kinou wa yasumi deshita|Gestern hatte ich frei|きのうわやすみでした}. Gestern hatte ich frei.
+Aoki: Genau. Deutsch sagt hatte frei. Japanisch sagt einfach: gestern war freier Tag.
+Jonas: Und wie sage ich das Gegenteil, wenn ich arbeiten muss?
+Aoki: Arbeit heißt {仕事|しごと|shigoto|Arbeit}. Ein Satz damit: {今日は仕事です|きょうはしごとです|kyou wa shigoto desu|Heute arbeite ich|きょうわしごとです}. Heute arbeite ich, wörtlich: Heute ist Arbeit.
+Jonas: Dann sage ich über meine Woche: {月曜日は仕事です|げつようびはしごとです|getsuyoubi wa shigoto desu|Montags arbeite ich|げつようびわしごとです}. Montags arbeite ich.
+Aoki: Richtig. Jetzt eine Frage über gestern: {昨日は仕事でしたか|きのうはしごとでしたか|kinou wa shigoto deshita ka|Hast du gestern gearbeitet?|きのうわしごとでしたか}. Hast du gestern gearbeitet?
+Jonas: {いいえ、休みでした|いいえやすみでした|iie, yasumi deshita|Nein, ich hatte frei}. Nein, ich hatte frei.
+Aoki: Sehr klar. Jetzt das Wetter. Regen heißt {雨|あめ|ame|Regen}.
+Jonas: Dann bedeutet {昨日は雨でした|きのうはあめでした|kinou wa ame deshita|Gestern hat es geregnet|きのうわあめでした} also: Gestern hat es geregnet.
+Aoki: Genau, wörtlich: gestern war Regen. Schönes Wetter heißt {晴れ|はれ|hare|schönes Wetter, sonnig}.
+Jonas: Und {昨日は晴れでした|きのうははれでした|kinou wa hare deshita|Gestern war es sonnig|きのうわはれでした} heißt: Gestern war es sonnig.
+Aoki: Richtig. Hör auf den Klang: Die Partikel klingt wie {わ|わ|wa|gesprochene Themenpartikel}, danach beginnt {晴れ|はれ|hare|schönes Wetter, sonnig} mit einem echten h.
+Jonas: Frag mich jetzt auf Japanisch. Ich antworte auf Japanisch.
+Aoki: {昨日は雨でしたか|きのうはあめでしたか|kinou wa ame deshita ka|Hat es gestern geregnet?|きのうわあめでしたか}. Hat es gestern geregnet?
+Jonas: {いいえ、雨ではありませんでした|いいえあめではありませんでした|iie, ame dewa arimasen deshita|Nein, es hat nicht geregnet|いいえあめでわありませんでした}. Nein, es hat nicht geregnet.
+Aoki: Und wie war das Wetter stattdessen?
+Jonas: {晴れでした|はれでした|hare deshita|Es war sonnig}. Es war sonnig.
+Aoki: {今日は雨です|きょうはあめです|kyou wa ame desu|Heute regnet es|きょうわあめです}. Heute regnet es. Und meine Frage: {今日は休みですか|きょうはやすみですか|kyou wa yasumi desu ka|Hast du heute frei?|きょうわやすみですか}. Hast du heute frei?
+Jonas: {いいえ、休みじゃありません|いいえやすみじゃありません|iie, yasumi ja arimasen|Nein, ich habe nicht frei}. Nein, ich habe heute nicht frei.
+Aoki: Sag mir den Grund in zwei kurzen japanischen Sätzen.
+Jonas: Erstens {今日は月曜日です|きょうはげつようびです|kyou wa getsuyoubi desu|Heute ist Montag|きょうわげつようびです}, heute ist Montag. Zweitens {今日は仕事です|きょうはしごとです|kyou wa shigoto desu|Heute arbeite ich|きょうわしごとです}, heute arbeite ich.
+Aoki: {昨日は休みでしたか|きのうはやすみでしたか|kinou wa yasumi deshita ka|Hattest du gestern frei?|きのうわやすみでしたか}. Hattest du gestern frei?
+Jonas: {はい、休みでした|はいやすみでした|hai, yasumi deshita|Ja, ich hatte frei}. Ja, ich hatte frei. Denn {昨日は日曜日でした|きのうはにちようびでした|kinou wa nichiyoubi deshita|Gestern war Sonntag|きのうわにちようびでした}, gestern war Sonntag.
+Aoki: Jetzt über Nakamura, auch über gestern: {中村さんは休みでしたか|なかむらさんはやすみでしたか|Nakamura-san wa yasumi deshita ka|Hatte Frau Nakamura frei?|なかむらさんわやすみでしたか}. Hatte Frau Nakamura frei?
+Jonas: {はい、そうでした|はいそうでした|hai, sou deshita|Ja, so war es}. Ja, so war es.
+Aoki: Gut. Jetzt spiele ich Nakamura. Es ist Montagmorgen im Büro, und du beginnst.
+Jonas: {おはようございます|おはようございます|ohayou gozaimasu|Guten Morgen}. Guten Morgen.
+Aoki: {おはようございます|おはようございます|ohayou gozaimasu|Guten Morgen}. Guten Morgen. Dann: {今日は雨です|きょうはあめです|kyou wa ame desu|Heute regnet es|きょうわあめです}. Heute regnet es.
+Jonas: {昨日は晴れでした|きのうははれでした|kinou wa hare deshita|Gestern war es sonnig|きのうわはれでした}. Gestern war es sonnig.
+Aoki: {そうでした|そうでした|sou deshita|So war es}. So war es. Dann frage ich: {昨日は休みでしたか|きのうはやすみでしたか|kinou wa yasumi deshita ka|Hattest du gestern frei?|きのうわやすみでしたか}. Hattest du gestern frei?
+Jonas: {はい、休みでした|はいやすみでした|hai, yasumi deshita|Ja, ich hatte frei}. Ja, ich hatte frei. Und weiter: {日曜日は休みです|にちようびはやすみです|nichiyoubi wa yasumi desu|Sonntag ist frei|にちようびわやすみです}. Sonntag ist frei.
+Aoki: {私は仕事でした|わたしはしごとでした|watashi wa shigoto deshita|Ich habe gearbeitet|わたしわしごとでした}. Ich habe gearbeitet.
+Jonas: {仕事でしたか|しごとでしたか|shigoto deshita ka|Du hast gearbeitet?}. Du hast gearbeitet?
+Aoki: {はい、そうでした|はいそうでした|hai, sou deshita|Ja, so war es}. Ja, so war es. Und weiter: {今日は仕事です|きょうはしごとです|kyou wa shigoto desu|Heute arbeite ich|きょうわしごとです}. Heute arbeite ich.
+Jonas: {コーヒーを飲みますか|こーひーをのみますか|koohii o nomimasu ka|Trinkst du Kaffee?|こーひーおのみますか}. Trinkst du Kaffee?
+Aoki: {いいえ、お茶を飲みます|いいえおちゃをのみます|iie, ocha o nomimasu|Nein, ich trinke Tee|いいえおちゃおのみます}. Nein, ich trinke Tee.
+Jonas: {昨日はコーヒーでしたか|きのうはこーひーでしたか|kinou wa koohii deshita ka|War es gestern Kaffee?|きのうわこーひーでしたか}. War es gestern Kaffee?
+Aoki: {いいえ、コーヒーではありませんでした|いいえこーひーではありませんでした|iie, koohii dewa arimasen deshita|Nein, es war kein Kaffee|いいえこーひーでわありませんでした}. Nein, es war kein Kaffee.
+Jonas: {お茶でしたか|おちゃでしたか|ocha deshita ka|War es Tee?}. War es Tee?
+Aoki: {はい、お茶でした|はいおちゃでした|hai, ocha deshita|Ja, es war Tee}. Ja, es war Tee.
+Jonas: {今日は月曜日です|きょうはげつようびです|kyou wa getsuyoubi desu|Heute ist Montag|きょうわげつようびです}. Heute ist Montag. Und für uns beide: {今日は仕事です|きょうはしごとです|kyou wa shigoto desu|Heute arbeite ich|きょうわしごとです}. Heute ist Arbeit.
+Aoki: {そうです|そうです|sou desu|So ist es}. So ist es. Hier endet die Szene, jetzt bin ich wieder Aoki.
+Jonas: In der Szene habe ich gestern, heute, Sonntag und Montag gesagt und alles verstanden.
+Aoki: Dazu frei, Arbeit, Regen und sonnig. Die wichtigste neue Frage war {昨日は休みでしたか|きのうはやすみでしたか|kinou wa yasumi deshita ka|Hattest du gestern frei?|きのうわやすみでしたか}. Hattest du gestern frei?
+Jonas: Und die kurze Antwort darauf: {はい、そうでした|はいそうでした|hai, sou deshita|Ja, so war es}. Ja, so war es.
+Aoki: Genau. Im nächsten Text hörst du, warum in manchen Antworten der höfliche Abschluss ganz fehlt.

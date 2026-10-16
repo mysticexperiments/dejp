@@ -178,6 +178,16 @@
       "de": "lektionen/de-pt/block-02-text-06.txt",
       "pt": "lektionen/de-pt/block-02-text-06.pt.txt",
       "particles": []
+    },
+    {
+      "id": "block-02-text-07",
+      "number": 16,
+      "grammar": "Fragen über damals: でしたか",
+      "title": "2.7 — Hattest du gestern frei?",
+      "titlePt": "2.7 — Você estava de folga ontem?",
+      "de": "lektionen/de-pt/block-02-text-07.txt",
+      "pt": "lektionen/de-pt/block-02-text-07.pt.txt",
+      "particles": []
     }
   ]
 }
