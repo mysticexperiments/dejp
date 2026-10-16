@@ -34,13 +34,15 @@
     {
       "id": "block-01-text-03",
       "number": 3,
-      "grammar": "Die Person ändern, den Satz verstehen",
-      "title": "1.3 — Eine andere Person, derselbe Satzbau",
-      "titlePt": "1.3 — Outra pessoa, a mesma estrutura",
+      "grammar": "Andere Personen mit さん, „auch“ mit も",
+      "title": "1.3 — Frau Nakamura trinkt Tee",
+      "titlePt": "1.3 — A senhora Nakamura bebe chá",
       "de": "lektionen/de-pt/block-01-text-03.txt",
       "pt": "lektionen/de-pt/block-01-text-03.pt.txt",
       "particles": [
-        "は"
+        "は",
+        "を",
+        "も"
       ]
     },
     {

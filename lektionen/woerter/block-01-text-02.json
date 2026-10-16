@@ -12,17 +12,6 @@
     "de": "Dinge, die du oft und immer gleich machst."
    }
   ],
-  "4": [
-   {
-    "word": "Partikel",
-    "lemma": "die Partikel",
-    "pt": [
-     "partícula",
-     "palavrinha"
-    ],
-    "de": "Ein kleines Wort, das im Satz eine Aufgabe hat."
-   }
-  ],
   "6": [
    {
     "word": "Lehnwort",
@@ -52,27 +41,7 @@
     "de": "Es kommt von dort."
    }
   ],
-  "7": [
-   {
-    "word": "vertraut",
-    "lemma": "vertraut",
-    "pt": [
-     "familiar",
-     "conhecido"
-    ],
-    "de": "Du kennst es schon, es klingt bekannt."
-   }
-  ],
   "8": [
-   {
-    "word": "Partikel",
-    "lemma": "die Partikel",
-    "pt": [
-     "partícula",
-     "palavrinha"
-    ],
-    "de": "Hier: ein zweites kleines Wort, nach dem Getränk."
-   },
    {
     "word": "kennzeichnet",
     "lemma": "kennzeichnen",
@@ -84,15 +53,6 @@
    }
   ],
   "9": [
-   {
-    "word": "Partikel",
-    "lemma": "die Partikel",
-    "pt": [
-     "partícula",
-     "palavrinha"
-    ],
-    "de": "Hier: das kleine Wort nach dem Getränk."
-   },
    {
     "word": "davor",
     "lemma": "davor",
@@ -134,17 +94,6 @@
     "de": "Hier: das Tun im Satz, also das Trinken."
    }
   ],
-  "12": [
-   {
-    "word": "höflicher",
-    "lemma": "höflich",
-    "pt": [
-     "educado",
-     "cortês"
-    ],
-    "de": "Freundlich und korrekt zu anderen Menschen."
-   }
-  ],
   "13": [
    {
     "word": "Unterscheidet",
@@ -177,15 +126,6 @@
    }
   ],
   "15": [
-   {
-    "word": "lautet",
-    "lemma": "lauten",
-    "pt": [
-     "diz-se",
-     "fica"
-    ],
-    "de": "So heißt es, so sagt man es."
-   },
    {
     "word": "vollständige",
     "lemma": "vollständig",
@@ -236,27 +176,9 @@
      "a isso"
     ],
     "de": "Darauf kommt es an heißt: Das ist wichtig."
-   },
-   {
-    "word": "Partikel",
-    "lemma": "die Partikel",
-    "pt": [
-     "partícula",
-     "palavrinha"
-    ],
-    "de": "Hier: das kleine Wort nach dem Getränk."
    }
   ],
   "19": [
-   {
-    "word": "höflichen",
-    "lemma": "höflich",
-    "pt": [
-     "educado",
-     "cortês"
-    ],
-    "de": "Freundlich und korrekt zu anderen Menschen."
-   },
    {
     "word": "Abschluss",
     "lemma": "der Abschluss",
@@ -277,15 +199,6 @@
    }
   ],
   "20": [
-   {
-    "word": "zusätzliches",
-    "lemma": "zusätzlich",
-    "pt": [
-     "adicional",
-     "extra"
-    ],
-    "de": "Noch eins mehr, extra dazu."
-   },
    {
     "word": "entfällt",
     "lemma": "entfallen",
@@ -357,15 +270,6 @@
    }
   ],
   "24": [
-   {
-    "word": "tauschen",
-    "lemma": "austauschen",
-    "pt": [
-     "trocamos",
-     "substituímos"
-    ],
-    "de": "Wir nehmen ein anderes Getränk statt dem alten."
-   },
    {
     "word": "Gemeint",
     "lemma": "meinen",
@@ -677,15 +581,6 @@
   ],
   "52": [
    {
-    "word": "Zuletzt",
-    "lemma": "zuletzt",
-    "pt": [
-     "por último",
-     "finalmente"
-    ],
-    "de": "Als Letztes, am Ende."
-   },
-   {
     "word": "dazu",
     "lemma": "dazu",
     "pt": [
@@ -788,15 +683,6 @@
      "completado"
     ],
     "de": "Du hast etwas dazugetan."
-   },
-   {
-    "word": "Satzbau",
-    "lemma": "der Satzbau",
-    "pt": [
-     "estrutura da frase",
-     "construção da frase"
-    ],
-    "de": "Die Ordnung der Wörter im Satz."
    }
   ],
   "78": [

@@ -69,29 +69,42 @@ Kenntnisgrenze: Getränk als direktes Objekt, Verb am Ende, kein zusätzliches
 です nach 飲みます, Häufigkeit nur mit 毎日 und 時々. Keine Frage, keine
 Verneinung, kein Wegfall von を, keine Regel für gerade ablaufende Handlungen.
 
-## B01-T03 — Andere Personen
+## B01-T03 — Andere Personen, auch mit も
+
+Neu geschrieben am 2026-10-16 im Japanisch-Schwerpunkt-Stil, Deutsch auf B2.
 
 Zusätzlich zu T01–T02:
 
 | Schreibung | Kana | Romaji | Bedeutung / Funktion |
 |---|---|---|---|
-| 中村 | なかむら | Nakamura | Name der Kollegin |
-| 青木 | あおき | Aoki | Name der Lehrerin |
-| さん | さん | san | höflicher Zusatz nach dem Namen einer anderen Person |
+| さん | さん | san | höflicher Zusatz nach dem Namen einer anderen Person; nie für sich selbst, nicht hinter 友達 |
+| も | も | mo | auch; ersetzt は hinter der Person (私も); nur diese Stelle eingeführt |
+| 友達 | ともだち | tomodachi | Freund/Freundin; im Text Jonas' Freund, ohne の |
+| 医者 | いしゃ | isha | Arzt/Ärztin |
+| 牛乳 | ぎゅうにゅう | gyuunyuu | Milch |
+| 紅茶 | こうちゃ | koucha | schwarzer Tee, im Gegensatz zu お茶 (meist grüner Tee) |
+| 朝 | あさ | asa | Morgen, morgens; gleiche Stelle wie 毎日 |
+| いつも | いつも | itsumo | immer; gleiche Stelle wie 毎日 |
 
-中村さん und 青木さん werden im Dialog als Frau Nakamura und Frau Aoki
-wiedergegeben; das ist keine Behauptung, さん markiere weibliches Geschlecht.
+Mit さん gebildet: 中村さん, 青木さん, ヨナスさん. Im Deutschen als Frau
+Nakamura, Frau Aoki, Jonas wiedergegeben; さん markiert kein Geschlecht.
 
 Vollständig erklärte Sätze:
 - 中村さんはお茶を飲みます — Frau Nakamura trinkt Tee.
-- 中村さんはコーヒーを飲みます — Frau Nakamura trinkt Kaffee.
-- 青木さんはコーヒーを飲みます — Frau Aoki trinkt Kaffee.
-- 青木さんは先生です — Frau Aoki ist Lehrerin.
-- 中村さんは水を飲みます — Frau Nakamura trinkt Wasser.
+- ヨナスさんは学生です — Jonas ist Student.
+- 青木さんは先生です — Frau Aoki ist Lehrerin; von sich selbst sagt sie 私は教師です.
+- 中村さんは会社員です — Frau Nakamura ist Büroangestellte.
+- 友達は医者です — Mein Freund ist Arzt.
+- 友達は牛乳を飲みます — Mein Freund trinkt Milch.
+- 青木さんは紅茶を飲みます — Frau Aoki trinkt schwarzen Tee.
+- 私もお茶を飲みます / 私も牛乳を飲みます / 私もコーヒーを飲みます / 私も水を飲みます — Ich trinke auch …
+- 中村さんも牛乳を飲みます — Frau Nakamura trinkt auch Milch.
+- 中村さんは朝お茶を飲みます / 私は朝コーヒーを飲みます / 友達は朝牛乳を飲みます — morgens.
+- 青木さんはいつも紅茶を飲みます / 私はいつも水を飲みます — immer.
 
-Kenntnisgrenze: Person wechseln, vollständiges Ergebnis verstehen, dieselbe
-Verbform bei unterschiedlichen Personen. Keine Behauptung, Verben würden
-sich bei Zeit/Verneinung ebenfalls nicht verändern.
+Kenntnisgrenze: Person wechseln, dieselbe Verbform für jede Person, も nur
+hinter der Person statt は. Keine Frage, keine Verneinung, kein の, kein
+も hinter dem Objekt.
 
 ## B01-T04 — Thema und Subjekt unterscheiden
 
