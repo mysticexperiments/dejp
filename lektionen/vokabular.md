@@ -42,30 +42,32 @@ Kenntnisgrenze: einfacher Nominalsatz, Begrüßung und Vorstellung, begrenzte
 Vorschau auf Auslassung des Themas. Kein は/が-Vergleich, keine Verneinung,
 keine Frage, noch kein さん.
 
-## B01-T02 — Getränke und Handlung
+## B01-T02 — Getränke, Handlung und Häufigkeit
+
+Neu geschrieben am 2026-10-16 im Japanisch-Schwerpunkt-Stil, Deutsch auf B2.
 
 Zusätzlich zu T01:
 
 | Schreibung | Kana | Romaji | Bedeutung / Funktion |
 |---|---|---|---|
 | 飲みます | のみます | nomimasu | trinken, als ganze höfliche Form gelernt |
-| コーヒー | こーひー | koohii | Kaffee |
 | を | を | o | direktes Objekt beim Trinken; Aussprachefeld お |
-| お茶 | おちゃ | ocha | Tee |
+| コーヒー | こーひー | koohii | Kaffee (Lehnwort) |
+| お茶 | おちゃ | ocha | Tee, meist grüner Tee |
 | 水 | みず | mizu | Wasser |
-
-Die Kombination 私は wird als was mich betrifft erklärt, nicht als neues Wort.
-コーヒーを, お茶を und 水を werden als hörbare Einheiten aus Getränk und
-Objektmarker zerlegt und wieder in vollständigen Sätzen verwendet.
+| ジュース | じゅーす | juusu | Saft (Lehnwort) |
+| 毎日 | まいにち | mainichi | jeden Tag; steht nach dem Thema, vor dem Getränk |
+| 時々 | ときどき | tokidoki | manchmal; gleiche Stelle wie 毎日 |
 
 Vollständig erklärte Sätze:
 - 私はコーヒーを飲みます — Ich trinke Kaffee.
-- 私はお茶を飲みます — Ich trinke Tee.
-- 私は水を飲みます — Ich trinke Wasser.
+- 私はお茶を飲みます / 私は水を飲みます / 私はジュースを飲みます — Tee / Wasser / Saft.
+- 私は毎日コーヒーを飲みます — Ich trinke jeden Tag Kaffee. Kurz: 毎日コーヒーを飲みます.
+- 私は時々ジュースを飲みます — Ich trinke manchmal Saft.
 
-Kenntnisgrenze: Getränk als direktes Objekt, Verb am Ende des einfachen
-Handlungssatzes, kein zusätzliches です nach 飲みます. Getränkewahl oder
-Gewohnheit im passenden Kontext; keine Regel für gerade ablaufende Handlungen.
+Kenntnisgrenze: Getränk als direktes Objekt, Verb am Ende, kein zusätzliches
+です nach 飲みます, Häufigkeit nur mit 毎日 und 時々. Keine Frage, keine
+Verneinung, kein Wegfall von を, keine Regel für gerade ablaufende Handlungen.
 
 ## B01-T03 — Andere Personen
 

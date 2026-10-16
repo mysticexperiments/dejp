@@ -21,9 +21,9 @@
     {
       "id": "block-01-text-02",
       "number": 2,
-      "grammar": "Thema, Objekt und Verb",
-      "title": "1.2 — Was ich trinke: das Verb am Ende",
-      "titlePt": "1.2 — O que eu bebo: o verbo no final",
+      "grammar": "Thema, Objekt mit を, Verb am Ende",
+      "title": "1.2 — Ich trinke jeden Tag Kaffee",
+      "titlePt": "1.2 — Eu bebo café todo dia",
       "de": "lektionen/de-pt/block-01-text-02.txt",
       "pt": "lektionen/de-pt/block-01-text-02.pt.txt",
       "particles": [
