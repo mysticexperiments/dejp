@@ -1,0 +1,540 @@
+{
+ "lesson": "block-02-text-07",
+ "cards": {
+  "1": [
+   {
+    "word": "Studienzeit",
+    "lemma": "die Studienzeit",
+    "pt": [
+     "época de estudante",
+     "tempo de faculdade"
+    ],
+    "de": "Die Jahre, in denen du an der Uni warst."
+   }
+  ],
+  "2": [
+   {
+    "word": "Abschluss",
+    "lemma": "der Abschluss",
+    "pt": [
+     "final",
+     "conclusão"
+    ],
+    "de": "Hier: das letzte Stück am Ende vom Satz."
+   },
+   {
+    "word": "damals",
+    "lemma": "damals",
+    "pt": [
+     "naquela época",
+     "antigamente"
+    ],
+    "de": "Früher, in der Vergangenheit. Nicht jetzt."
+   }
+  ],
+  "3": [
+   {
+    "word": "hänge",
+    "lemma": "anhängen",
+    "pt": [
+     "acrescento",
+     "coloco no fim"
+    ],
+    "de": "Ich setze etwas hinten an den Satz."
+   },
+   {
+    "word": "Gegenwart",
+    "lemma": "die Gegenwart",
+    "pt": [
+     "presente",
+     "tempo presente"
+    ],
+    "de": "Die Zeit jetzt, heute. Nicht früher."
+   }
+  ],
+  "4": [
+   {
+    "word": "ergibt",
+    "lemma": "ergeben",
+    "pt": [
+     "resulta em",
+     "dá"
+    ],
+    "de": "Zusammen wird daraus ein neues Stück."
+   }
+  ],
+  "5": [
+   {
+    "word": "Baust",
+    "lemma": "aufbauen",
+    "pt": [
+     "monta",
+     "constrói"
+    ],
+    "de": "Du machst die Frage Stück für Stück."
+   }
+  ],
+  "6": [
+   {
+    "word": "Aussage",
+    "lemma": "die Aussage",
+    "pt": [
+     "afirmação",
+     "declaração"
+    ],
+    "de": "Ein Satz, der etwas sagt. Keine Frage."
+   }
+  ],
+  "7": [
+   {
+    "word": "dazu",
+    "lemma": "dazu",
+    "pt": [
+     "além disso",
+     "junto"
+    ],
+    "de": "Die Frage kommt noch hinten an den Satz."
+   }
+  ],
+  "8": [
+   {
+    "word": "davor",
+    "lemma": "davor",
+    "pt": [
+     "antes disso",
+     "na frente"
+    ],
+    "de": "Vor dem Satz. Hier: der Name kommt zuerst."
+   }
+  ],
+  "10": [
+   {
+    "word": "höfliche",
+    "lemma": "höflich",
+    "pt": [
+     "educado",
+     "cortês"
+    ],
+    "de": "Freundlich und korrekt zu anderen Menschen."
+   },
+   {
+    "word": "Anrede",
+    "lemma": "die Anrede",
+    "pt": [
+     "forma de tratamento",
+     "tratamento"
+    ],
+    "de": "So nennst du eine Person, wenn du mit ihr sprichst."
+   }
+  ],
+  "13": [
+   {
+    "word": "Gegenwart",
+    "lemma": "die Gegenwart",
+    "pt": [
+     "presente",
+     "tempo presente"
+    ],
+    "de": "Hier: Sätze über jetzt, mit dem Abschluss für heute."
+   }
+  ],
+  "14": [
+   {
+    "word": "damals",
+    "lemma": "damals",
+    "pt": [
+     "naquela época",
+     "antigamente"
+    ],
+    "de": "Hier: über die Zeit früher."
+   }
+  ],
+  "16": [
+   {
+    "word": "damals",
+    "lemma": "damals",
+    "pt": [
+     "naquela época",
+     "antigamente"
+    ],
+    "de": "Hier: in der Zeit, als ich Studentin war."
+   }
+  ],
+  "17": [
+   {
+    "word": "respektvolle",
+    "lemma": "respektvoll",
+    "pt": [
+     "respeitoso",
+     "respeitosa"
+    ],
+    "de": "Höflich, mit Achtung. Man sagt es nur für andere."
+   },
+   {
+    "word": "damals",
+    "lemma": "damals",
+    "pt": [
+     "naquela época",
+     "antigamente"
+    ],
+    "de": "Früher, nicht jetzt."
+   }
+  ],
+  "18": [
+   {
+    "word": "neutrale",
+    "lemma": "neutral",
+    "pt": [
+     "neutro",
+     "neutra"
+    ],
+    "de": "Normal, ohne extra Respekt. Für dich selbst."
+   }
+  ],
+  "20": [
+   {
+    "word": "genauso",
+    "lemma": "genauso",
+    "pt": [
+     "igualmente",
+     "do mesmo jeito"
+    ],
+    "de": "Gleich, ohne Unterschied."
+   }
+  ],
+  "27": [
+   {
+    "word": "meint",
+    "lemma": "meinen",
+    "pt": [
+     "quer dizer",
+     "significa"
+    ],
+    "de": "Das Wort sagt das. Es bedeutet das."
+   },
+   {
+    "word": "damals",
+    "lemma": "damals",
+    "pt": [
+     "naquela época",
+     "antigamente"
+    ],
+    "de": "Hier: eine Zeit früher, nicht gestern."
+   },
+   {
+    "word": "Studienzeit",
+    "lemma": "die Studienzeit",
+    "pt": [
+     "época de estudante",
+     "tempo de faculdade"
+    ],
+    "de": "Hier: die Zeit, als Aoki studiert hat."
+   }
+  ],
+  "29": [
+   {
+    "word": "Sonntag",
+    "lemma": "der Sonntag",
+    "pt": [
+     "domingo",
+     "dia de domingo"
+    ],
+    "de": "Der letzte Tag der Woche. Viele Leute arbeiten nicht."
+   }
+  ],
+  "30": [
+   {
+    "word": "Sonntag",
+    "lemma": "der Sonntag",
+    "pt": [
+     "domingo",
+     "dia de domingo"
+    ],
+    "de": "Hier: der Tag vor Montag."
+   }
+  ],
+  "31": [
+   {
+    "word": "betrifft",
+    "lemma": "betreffen",
+    "pt": [
+     "diz respeito a",
+     "se refere a"
+    ],
+    "de": "Was gestern betrifft heißt: Über gestern sage ich das."
+   },
+   {
+    "word": "Sonntag",
+    "lemma": "der Sonntag",
+    "pt": [
+     "domingo",
+     "dia de domingo"
+    ],
+    "de": "Hier: gestern war dieser Tag."
+   }
+  ],
+  "33": [
+   {
+    "word": "dagegen",
+    "lemma": "dagegen",
+    "pt": [
+     "por outro lado",
+     "em contrapartida"
+    ],
+    "de": "Aber anders. Hier: für gestern ein anderes Wort."
+   }
+  ],
+  "35": [
+   {
+    "word": "Sonntag",
+    "lemma": "der Sonntag",
+    "pt": [
+     "domingo",
+     "dia de domingo"
+    ],
+    "de": "Hier: die Frage, ob gestern dieser Tag war."
+   }
+  ],
+  "36": [
+   {
+    "word": "Sonntag",
+    "lemma": "der Sonntag",
+    "pt": [
+     "domingo",
+     "dia de domingo"
+    ],
+    "de": "Hier: an diesem Tag hatte Aoki keine Arbeit."
+   }
+  ],
+  "37": [
+   {
+    "word": "freien",
+    "lemma": "frei",
+    "pt": [
+     "livre",
+     "de folga"
+    ],
+    "de": "Ein freier Tag ist ein Tag ohne Arbeit."
+   }
+  ],
+  "38": [
+   {
+    "word": "freier",
+    "lemma": "frei",
+    "pt": [
+     "livre",
+     "de folga"
+    ],
+    "de": "Hier: ein Tag ohne Arbeit."
+   },
+   {
+    "word": "Sonntag",
+    "lemma": "der Sonntag",
+    "pt": [
+     "domingo",
+     "dia de domingo"
+    ],
+    "de": "Hier: an diesem Tag arbeitet man nicht."
+   }
+  ],
+  "40": [
+   {
+    "word": "freier",
+    "lemma": "frei",
+    "pt": [
+     "livre",
+     "de folga"
+    ],
+    "de": "Hier: Japanisch sagt nur: gestern war Tag ohne Arbeit."
+   }
+  ],
+  "41": [
+   {
+    "word": "Gegenteil",
+    "lemma": "das Gegenteil",
+    "pt": [
+     "o contrário",
+     "o oposto"
+    ],
+    "de": "Ganz anders. Zum Beispiel: groß und klein."
+   }
+  ],
+  "47": [
+   {
+    "word": "geregnet",
+    "lemma": "regnen",
+    "pt": [
+     "choveu",
+     "tem chovido"
+    ],
+    "de": "Wasser ist vom Himmel gefallen."
+   }
+  ],
+  "50": [
+   {
+    "word": "Partikel",
+    "lemma": "die Partikel",
+    "pt": [
+     "partícula",
+     "palavrinha"
+    ],
+    "de": "Ein kleines Wort, das im Satz hilft."
+   },
+   {
+    "word": "echten",
+    "lemma": "echt",
+    "pt": [
+     "verdadeiro",
+     "real"
+    ],
+    "de": "Wirklich so. Hier: man hört das h ganz normal."
+   }
+  ],
+  "52": [
+   {
+    "word": "geregnet",
+    "lemma": "regnen",
+    "pt": [
+     "choveu",
+     "tem chovido"
+    ],
+    "de": "Hier: die Frage, ob gestern Wasser vom Himmel kam."
+   }
+  ],
+  "53": [
+   {
+    "word": "geregnet",
+    "lemma": "regnen",
+    "pt": [
+     "choveu",
+     "tem chovido"
+    ],
+    "de": "Hier: gestern kam kein Wasser vom Himmel."
+   }
+  ],
+  "54": [
+   {
+    "word": "stattdessen",
+    "lemma": "stattdessen",
+    "pt": [
+     "em vez disso",
+     "ao invés disso"
+    ],
+    "de": "Nicht das, sondern etwas anderes."
+   }
+  ],
+  "59": [
+   {
+    "word": "Erstens",
+    "lemma": "erstens",
+    "pt": [
+     "primeiro",
+     "em primeiro lugar"
+    ],
+    "de": "Das ist Punkt eins."
+   },
+   {
+    "word": "Zweitens",
+    "lemma": "zweitens",
+    "pt": [
+     "segundo",
+     "em segundo lugar"
+    ],
+    "de": "Das ist Punkt zwei."
+   }
+  ],
+  "61": [
+   {
+    "word": "Sonntag",
+    "lemma": "der Sonntag",
+    "pt": [
+     "domingo",
+     "dia de domingo"
+    ],
+    "de": "Hier: gestern war dieser Tag ohne Arbeit."
+   }
+  ],
+  "69": [
+   {
+    "word": "Sonntag",
+    "lemma": "der Sonntag",
+    "pt": [
+     "domingo",
+     "dia de domingo"
+    ],
+    "de": "Hier: an diesem Tag hat man frei."
+   }
+  ],
+  "81": [
+   {
+    "word": "Sonntag",
+    "lemma": "der Sonntag",
+    "pt": [
+     "domingo",
+     "dia de domingo"
+    ],
+    "de": "Hier: eines der Wörter aus der Szene."
+   }
+  ],
+  "82": [
+   {
+    "word": "Dazu",
+    "lemma": "dazu",
+    "pt": [
+     "além disso",
+     "também"
+    ],
+    "de": "Noch mehr Wörter kommen dazu."
+   }
+  ],
+  "83": [
+   {
+    "word": "darauf",
+    "lemma": "darauf",
+    "pt": [
+     "a isso",
+     "para isso"
+    ],
+    "de": "Auf diese Frage."
+   }
+  ],
+  "84": [
+   {
+    "word": "hörst",
+    "lemma": "hören",
+    "pt": [
+     "ouve",
+     "escuta"
+    ],
+    "de": "Du nimmst es mit den Ohren auf."
+   },
+   {
+    "word": "höfliche",
+    "lemma": "höflich",
+    "pt": [
+     "educado",
+     "cortês"
+    ],
+    "de": "Freundlich und korrekt zu anderen Menschen."
+   },
+   {
+    "word": "Abschluss",
+    "lemma": "der Abschluss",
+    "pt": [
+     "final",
+     "conclusão"
+    ],
+    "de": "Hier: das letzte höfliche Stück am Satzende."
+   },
+   {
+    "word": "fehlt",
+    "lemma": "fehlen",
+    "pt": [
+     "falta",
+     "está ausente"
+    ],
+    "de": "Es ist nicht da."
+   }
+  ]
+ }
+}
