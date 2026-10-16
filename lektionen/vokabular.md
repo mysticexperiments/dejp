@@ -5,28 +5,42 @@ bei null. Jeder Text darf Bekanntes verwenden, muss neue Wörter und Funktionen
 aber hörbar erklären. Die eigentlichen Tagbedeutungen stehen in den Texten;
 diese Liste ist eine Redaktionshilfe, keine zusätzliche App-Datenbank.
 
-## B01-T01 — Personen beschreiben
+## B01-T01 — Begrüßen und sich vorstellen
+
+Neu geschrieben am 2026-10-16 im Japanisch-Schwerpunkt-Stil
+(siehe `planung/a1-plan.md`, Abschnitt 3.2).
 
 | Schreibung | Kana | Romaji | Bedeutung / ausdrücklich erklärte Funktion |
 |---|---|---|---|
+| こんにちは | こんにちは | konnichiwa | Hallo, guten Tag; Aussprachefeld こんにちわ |
+| 先生 | せんせい | sensei | respektvolle Bezeichnung und Anrede für eine Lehrperson; nur für andere |
+| はじめまして | はじめまして | hajimemashite | Freut mich, nur beim ersten Treffen |
 | 私 | わたし | watashi | ich; Bezug wechselt mit der sprechenden Person |
 | は | は | wa | Themenmarker; Aussprachefeld わ |
 | 学生 | がくせい | gakusei | bei Jonas Student |
-| です | です | desu | höflicher Abschluss der hier erklärten Nominalaussage |
+| です | です | desu | höflicher Abschluss der Nominalaussage |
 | ヨナス | よなす | Yonasu | Jonas, japanische Lautform des fiktiven Namens |
 | ドイツ人 | どいつじん | doitsujin | deutscher Mensch; bei Jonas Deutscher |
+| 日本人 | にほんじん | nihonjin | japanischer Mensch; bei Aoki und Nakamura Japanerin |
 | 教師 | きょうし | kyoushi | Lehrerin/Lehrer von Beruf; neutrale eigene Berufsangabe |
-| 先生 | せんせい | sensei | respektvolle Bezeichnung, hier für eine Lehrperson; zunächst für andere Personen |
+| よろしくお願いします | よろしくおねがいします | yoroshiku onegaishimasu | feste Bitte um gutes Miteinander am Ende der Vorstellung |
+| 会社員 | かいしゃいん | kaishain | Büroangestellte/r; bei Nakamura |
+| 青木, 中村 | あおき, なかむら | Aoki, Nakamura | Familiennamen; noch ohne さん |
 
 Vollständig erklärte Sätze:
 - 私は学生です — Ich bin Student.
-- 私はヨナスです — Ich bin Jonas.
+- 私はヨナスです — Ich bin Jonas. Kurz: ヨナスです.
 - 私はドイツ人です — Ich bin Deutscher.
+- 私は日本人です — Ich bin Japanerin.
 - 私は教師です — Ich bin Lehrerin, von Aoki als eigene Berufsangabe gesprochen.
-- ヨナスです — Ich bin Jonas, bei Jonas' Selbstvorstellung ohne genanntes Thema.
+- 私は会社員です — Ich bin Büroangestellte, von Nakamura gesprochen.
+- 青木先生は日本人です — Lehrerin Aoki ist Japanerin.
+- はじめまして、ヨナスです — Freut mich, ich bin Jonas.
+- 先生、こんにちは / 青木先生、こんにちは — Hallo, Frau Lehrerin / Lehrerin Aoki.
 
-Kenntnisgrenze: einfacher Nominalsatz und begrenzte Vorschau auf Auslassung.
-Kein umfassender は/が-Vergleich, keine Verneinung oder Frage.
+Kenntnisgrenze: einfacher Nominalsatz, Begrüßung und Vorstellung, begrenzte
+Vorschau auf Auslassung des Themas. Kein は/が-Vergleich, keine Verneinung,
+keine Frage, noch kein さん.
 
 ## B01-T02 — Getränke und Handlung
 

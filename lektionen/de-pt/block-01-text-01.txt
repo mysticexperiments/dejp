@@ -1,84 +1,84 @@
-Jonas: Morgen lerne ich im Büro meine neue Kollegin Nakamura kennen, und ich möchte ihr auf Japanisch sagen, wer ich bin.
-Aoki: Dann bauen wir deine Vorstellung so auf, dass du jeden Teil verstehst und am Ende einen vollständigen Satz hörst.
-Jonas: Ich kann die japanischen Zeichen noch nicht lesen; kann ich trotzdem verstehen, wie dieser Satz funktioniert?
-Aoki: Ja, wir erklären alles durch das Hören, und die Schrift kannst du später zusätzlich kennenlernen.
-Jonas: Auf Deutsch würde ich zunächst sagen: Ich bin Student, denn ich studiere und arbeite nebenbei in diesem Büro.
-Aoki: Dafür kannst du sagen: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}. Das bedeutet: Ich bin Student.
-Jonas: Ich höre mehrere Teile, aber noch weiß ich nicht, welcher davon zu meinem deutschen ich gehört.
-Aoki: Der erste Teil ist {私|わたし|watashi|ich}, und das bedeutet ich; damit bezeichnet die sprechende Person sich selbst.
-Jonas: Danach höre ich einen kurzen Laut, bevor das Wort für Student kommt; welche Aufgabe hat dieser Laut?
-Aoki: Das ist {は|は|wa|Themenpartikel|わ}; diese Partikel steht nach dem Thema und kündigt an, worüber du etwas sagen möchtest.
-Jonas: Was genau meinst du mit Thema, wenn wir doch einfach nur einen Satz über mich bilden?
-Aoki: Das Thema ist hier die Person, über die wir sprechen, also du selbst; danach folgt die Information, dass du Student bist.
-Jonas: Heißt diese Partikel dann auf Deutsch bin, weil sie zwischen ich und Student steht?
-Aoki: Nein, {は|は|wa|Themenpartikel|わ} bedeutet nicht bin; sie markiert hier nur, dass der folgende Teil eine Aussage über dich macht.
-Jonas: Wie heißt das Wort, das meine Tätigkeit als Student beschreibt?
-Aoki: {学生|がくせい|gakusei|Student} bezeichnet einen Studierenden; bei dir übersetzen wir es als Student, weil du an der Universität studierst.
-Jonas: Dann kenne ich das Thema und die Information, aber am Ende des Satzes höre ich noch etwas.
-Aoki: Dort steht {です|です|desu|höflicher Abschluss einer Nominalaussage}; damit schließen wir diese Aussage mit einem Nomen höflich ab.
-Jonas: Ein Nomen ist hier also ein Wort wie Student oder ein Name, und noch keine Handlung wie trinken?
-Aoki: Genau; in unserem Satz entspricht die ganze Verbindung mit {です|です|desu|höflicher Abschluss einer Nominalaussage} dem deutschen bin Student.
-Jonas: Könnte ich diese Endung deshalb einfach in jedem japanischen Satz als das deutsche Verb sein behandeln?
-Aoki: Das wäre zu weit gefasst; zunächst lernst du dieses Muster für eine Aussage darüber, wer jemand ist, und Handlungssätze betrachten wir danach gesondert.
-Jonas: Kannst du mir den ganzen Satz noch einmal sagen, jetzt wo ich die Teile zuordnen kann?
-Aoki: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです} heißt Ich bin Student: zuerst ich als Thema, danach die Aussage Student sein.
-Jonas: Im Deutschen sage ich ich, dann bin und dann Student; die Reihenfolge klingt auf Japanisch also anders.
-Aoki: Ja, nach dem markierten Thema steht zuerst Student, und der höfliche Abschluss folgt dahinter; wir verschieben nicht einfach jedes deutsche Wort einzeln.
-Jonas: Warum gibt es dann im Deutschen kein eigenes Wort für die kleine Partikel nach ich?
-Aoki: Die beiden Sprachen bauen den Satz unterschiedlich; eine grammatische Aufgabe kann in einer Sprache ein eigenes Wort haben und in der anderen anders erkennbar sein.
-Jonas: Nakamura soll natürlich auch meinen Namen erfahren; wie würde mein Name in einem japanischen Satz klingen?
-Aoki: Deinen Namen geben wir hier als {ヨナス|よなす|Yonasu|Jonas} wieder; das ist Jonas in einer japanischen Lautform.
-Jonas: Wenn ich sagen möchte, dass ich Jonas bin, muss ich jetzt einen völlig anderen Satz lernen?
-Aoki: Nein, wir ersetzen nur die Information Student durch deinen Namen: {私はヨナスです|わたしはよなすです|watashi wa Yonasu desu|Ich bin Jonas|わたしわよなすです}. Das heißt: Ich bin Jonas.
-Jonas: Am Anfang rede ich weiterhin über mich, und erst die Information nach dem Themenmarker verändert sich.
-Aoki: Richtig; die Aussage nennt nun deinen Namen, nicht deinen Status als Student, und der höfliche Abschluss bleibt an derselben Stelle.
-Jonas: Kann ich also beide Wörter direkt hintereinander einsetzen, damit der Satz zugleich meinen Namen und meinen Status nennt?
-Aoki: Nicht durch bloßes Aneinanderhängen in diesem Muster; wir machen daraus zunächst zwei eigene verständliche Aussagen, statt eine neue Verbindung vorauszusetzen.
-Jonas: Für meinen Status bleibe ich dann bei {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}, also Ich bin Student.
-Aoki: Genau, und für deinen Namen bleibt der andere vollständige Satz zuständig; so hat jede Aussage eine klar erklärte Information.
-Jonas: Ich möchte außerdem sagen, dass ich Deutscher bin, ohne schon eine weitere Satzart zu brauchen.
-Aoki: Dafür nehmen wir {ドイツ人|どいつじん|doitsujin|Deutscher oder Deutsche}; das bezeichnet eine deutsche Person, bei dir einen Deutschen.
-Jonas: Dann müsste wieder nur die Information nach dem Thema wechseln, während ich selbst das Thema bleibe.
-Aoki: So entsteht {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Ich bin Deutscher|わたしわどいつじんです}. Der ganze Satz bedeutet: Ich bin Deutscher.
-Jonas: Das Wort Deutscher ersetzt also Student, aber meine Aussage behauptet nicht, dass ich deshalb kein Student mehr bin.
-Aoki: Genau; ein Satz nennt deine Nationalität, der andere deinen Status, und beide Aussagen können zugleich auf dieselbe Person zutreffen.
-Jonas: Wenn Nakamura nach meiner Herkunft fragt, sage ich also {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Ich bin Deutscher|わたしわどいつじんです}: Ich bin Deutscher. Über mein Studium habe ich damit noch nichts gesagt.
-Aoki: Vergleiche die beiden Aussagen: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです} heißt Ich bin Student, während {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Ich bin Deutscher|わたしわどいつじんです} Ich bin Deutscher bedeutet.
-Jonas: Bei beiden Sätzen höre ich denselben Abschluss, obwohl einmal mein Studium und einmal meine Nationalität gemeint ist.
-Aoki: Ja, beide gehören hier zum gleichen Grundmuster: über ein Thema sagen, wer oder was es ist, und die Aussage höflich abschließen.
-Jonas: Wenn du nun über deinen Beruf sprichst, brauchst du dafür vermutlich eine andere Information als Student.
-Aoki: Für meinen eigenen Beruf verwende ich hier {教師|きょうし|kyoushi|Lehrerin oder Lehrer von Beruf}. Das bedeutet Lehrerin oder Lehrer von Beruf; bei mir also Lehrerin.
-Jonas: Wie klingt der vollständige Satz, wenn du selbst sagst, dass du Lehrerin bist?
-Aoki: Ich sage {私は教師です|わたしはきょうしです|watashi wa kyoushi desu|Ich bin Lehrerin|わたしわきょうしです}, und damit meine ich: Ich bin Lehrerin. Die Berufsbezeichnung ersetzt Student; das Satzmuster bleibt gleich.
-Jonas: Ich habe aber schon ein anderes japanisches Wort für Lehrer gehört. Gibt es dafür mehrere Wörter?
-Aoki: Ja. {先生|せんせい|sensei|respektvolle Bezeichnung für eine Lehrperson} ist eine respektvolle Bezeichnung, zum Beispiel für eine Lehrerin. Du kannst damit über deine Lehrerin sprechen oder sie ansprechen.
-Jonas: Welches der beiden Wörter nehme ich dann als Vorbild, wenn ich meinen eigenen Beruf beschreibe?
-Aoki: Für eine neutrale Vorstellung des eigenen Lehrerberufs ist die eben gelernte Berufsbezeichnung die sichere Wahl. Die respektvolle Bezeichnung lernst du zunächst für andere Personen; sie ist nicht einfach in jeder Situation austauschbar.
-Jonas: In deinem vollständigen Satz über deinen Beruf klingt der Anfang wie bei mir. Aber diesmal verweist das Wort für ich auf dich und nicht auf mich.
-Aoki: Genau, {私|わたし|watashi|ich} meint die Person, die gerade spricht; das ist wie das deutsche ich, dessen Bezug mit dem Sprecher wechselt.
-Jonas: Dann trägt die Partikel nach diesem Wort nicht selbst die Bedeutung ich, sondern markiert nur das bereits genannte Thema.
-Aoki: Richtig; das Wort benennt die Person, und die Partikel zeigt, wie diese Person in die folgende Aussage eingebunden wird.
-Jonas: Wenn ich deinen Satz einfach über mich selbst sage, behaupte ich also fälschlich, dass ich Lehrer bin.
-Aoki: Ja, deshalb müssen Satzbau und gemeinte Situation zusammenpassen; zum Nachsprechen gehört auch zu wissen, über wen man gerade was behauptet.
-Jonas: Dann antworte ich mit meinem eigenen Beruf beziehungsweise Status: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}. Ich bin Student, nicht die Lehrerin in unserem Gespräch.
-Aoki: Jetzt passt die Aussage zu dir. Beide Sätze beginnen mit ich, aber bei meinem Satz bin ich gemeint und bei deinem Satz du. Wer spricht, ist also ein Teil der Bedeutung.
-Jonas: Bei einer echten Vorstellung weiß Nakamura aber doch schon, dass ich über mich spreche, wenn ich meinen Namen sage.
-Aoki: Dann kann {ヨナスです|よなすです|Yonasu desu|Ich bin Jonas} genügen; in dieser Vorstellung bedeutet das ebenfalls Ich bin Jonas, obwohl ich nicht ausdrücklich genannt wird.
-Jonas: Habe ich mit der längeren Form dann etwas Falsches gelernt, weil die kürzere Form auch funktioniert?
-Aoki: Nein, die längere Form macht den Aufbau deutlich; im Gespräch lässt man aus dem Zusammenhang erkennbare Information häufig weg, und das erklären wir später ausführlich.
-Jonas: Ich soll also nicht daraus schließen, dass jedes japanische Gespräch mit einem ausgesprochenen ich beginnen muss.
-Aoki: Genau, wir benutzen die vollständige Form jetzt zum Verstehen, nicht als Vorschrift, die du in jedem Satz mechanisch wiederholen musst.
-Jonas: Wenn ich beide Fassungen höre, ist der gemeinte Name derselbe; nur die ausdrücklich genannte Information am Anfang ist unterschiedlich.
-Aoki: Richtig: {私はヨナスです|わたしはよなすです|watashi wa Yonasu desu|Ich bin Jonas|わたしわよなすです} und, in deiner Vorstellung, {ヨナスです|よなすです|Yonasu desu|Ich bin Jonas} bedeuten beide Ich bin Jonas.
-Jonas: Der Satz muss also nicht genauso viele gesprochene Wörter haben wie seine deutsche Übersetzung.
-Aoki: Ja, wir übersetzen die verständliche Aussage; wir versuchen nicht, für jedes deutsche Wort zwanghaft ein einzelnes japanisches Wort zu finden.
-Jonas: Für meine Vorstellung habe ich jetzt meinen Namen, meinen Status als Student und meine Nationalität als drei mögliche Informationen.
-Aoki: Und du weißt bei jeder davon, welche Information nach dem Thema kommt; dadurch kannst du die Unterschiede hören, statt drei Sätze ohne Zusammenhang auswendig zu lernen.
-Jonas: Spielen wir die Begegnung kurz durch. Ich komme zu Nakamura und stelle mich vor: {ヨナスです|よなすです|Yonasu desu|Ich bin Jonas}. Ich bin Jonas.
-Aoki: Sie weiß jetzt, wie du heißt. In deiner Vorstellung reicht dieser kurze Satz, weil klar ist, dass du deinen eigenen Namen nennst. Wenn sie nach deinem Studium fragt, kannst du deine nächste Information ergänzen.
-Jonas: Wenn das Gespräch auf mein Studium kommt, erkenne ich dagegen {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです} als Ich bin Student.
-Aoki: Genau; du verknüpfst die Aussage jetzt mit einer passenden Gesprächssituation und weißt, welche Information sie tatsächlich liefert.
-Jonas: In der gemeinsamen Pause möchte ich aber nicht nur sagen, wer ich bin, sondern auch, dass ich Kaffee trinke.
-Aoki: Dann brauchen wir einen Handlungssatz: Kaffee ist das Getränk und trinken die Handlung; dafür lernen wir einen anderen Abschluss als bei deiner Vorstellung.
-Jonas: Ich nehme also das bekannte Thema mit und lerne als Nächstes, wie ein Getränk und eine Handlung dazukommen.
-Aoki: Genau dort setzen wir im nächsten Text an: Wir bauen Ich trinke Kaffee vollständig auf und erklären, warum das Verb dabei am Ende steht.
+Jonas: Morgen treffe ich meine neue Kollegin Nakamura zum ersten Mal.
+Aoki: Dann beginnen wir mit dem Gruß: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Das heißt: Hallo, guten Tag.
+Jonas: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Hallo. Das passt den ganzen Tag?
+Aoki: Vor allem tagsüber. Zu mir sagst du: {先生、こんにちは|せんせいこんにちは|sensei, konnichiwa|Hallo, Frau Lehrerin|せんせいこんにちわ}. Hallo, Frau Lehrerin.
+Jonas: Vor den Gruß hast du ein Wort gesetzt. Welches?
+Aoki: {先生|せんせい|sensei|Lehrerin oder Lehrer, respektvoll für andere}. Eine respektvolle Anrede für Lehrer. So sprichst du mich an.
+Jonas: Also sage ich zu dir: {先生、こんにちは|せんせいこんにちは|sensei, konnichiwa|Hallo, Frau Lehrerin|せんせいこんにちわ}. Hallo, Frau Lehrerin.
+Aoki: Richtig. Mit meinem Namen davor: {青木先生|あおきせんせい|Aoki-sensei|Lehrerin Aoki}. Lehrerin Aoki.
+Jonas: Und mit dem Gruß: {青木先生、こんにちは|あおきせんせいこんにちは|Aoki-sensei, konnichiwa|Hallo, Lehrerin Aoki|あおきせんせいこんにちわ}. Hallo, Lehrerin Aoki.
+Aoki: Sehr gut. Jetzt das Wichtigste für das erste Treffen: {はじめまして|はじめまして|hajimemashite|Freut mich, beim ersten Treffen}. Freut mich, wir treffen uns zum ersten Mal.
+Jonas: {はじめまして|はじめまして|hajimemashite|Freut mich, beim ersten Treffen}. Freut mich. Das sage ich nur beim ersten Treffen?
+Aoki: Genau, nur einmal pro Person. Nach {はじめまして|はじめまして|hajimemashite|Freut mich, beim ersten Treffen} sagst du, wer du bist.
+Jonas: Wie sage ich, wer ich bin?
+Aoki: Zuerst das Wort für ich: {私|わたし|watashi|ich}. Ich.
+Jonas: {私|わたし|watashi|ich}. Ich. Und danach?
+Aoki: Danach ein kleiner Laut: {は|は|wa|Themenpartikel|わ}. Er macht das Wort davor zum Thema.
+Jonas: Thema heißt: Darüber spreche ich jetzt?
+Aoki: Genau. Beides zusammen: {私は|わたしは|watashi wa|ich, als Thema|わたしわ}. Ich, als Thema.
+Jonas: {私は|わたしは|watashi wa|ich, als Thema|わたしわ}. Ich, als Thema. Was kommt danach?
+Aoki: Die Information. Zum Beispiel das Wort für Student: {学生|がくせい|gakusei|Student}. Student.
+Jonas: {学生|がくせい|gakusei|Student}. Student. Das bin ich ja.
+Aoki: Am Ende kommt der höfliche Abschluss: {です|です|desu|höflicher Abschluss}. Er macht aus dem Wort eine Aussage.
+Jonas: Also: {学生です|がくせいです|gakusei desu|bin Student}. Bin Student.
+Aoki: Jetzt mit dem Thema davor: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}. Ich bin Student.
+Jonas: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}. Ich bin Student. Der Abschluss steht ganz am Ende?
+Aoki: Ja. Thema, Information, Abschluss. Noch einmal: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}. Ich bin Student.
+Jonas: Jetzt mit meinem Namen. Wie klingt Jonas auf Japanisch?
+Aoki: {ヨナス|よなす|Yonasu|Jonas}. So klingt Jonas auf Japanisch. Als Satz: {私はヨナスです|わたしはよなすです|watashi wa Yonasu desu|Ich bin Jonas|わたしわよなすです}. Ich bin Jonas.
+Jonas: {私はヨナスです|わたしはよなすです|watashi wa Yonasu desu|Ich bin Jonas|わたしわよなすです}. Ich bin Jonas. Nur die Information hat sich geändert.
+Aoki: Richtig. Jetzt die Herkunft: {ドイツ人|どいつじん|doitsujin|Deutscher oder Deutsche}. Deutscher.
+Jonas: Dann sage ich: {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Ich bin Deutscher|わたしわどいつじんです}. Ich bin Deutscher.
+Aoki: Perfekt. Ich bin Japanerin. Das Wort dafür: {日本人|にほんじん|nihonjin|Japaner oder Japanerin}. Japaner oder Japanerin.
+Jonas: Dann sagst du: {私は日本人です|わたしはにほんじんです|watashi wa nihonjin desu|Ich bin Japanerin|わたしわにほんじんです}. Ich bin Japanerin.
+Aoki: Genau. Mein Beruf: {教師|きょうし|kyoushi|Lehrerin oder Lehrer von Beruf}. Lehrerin von Beruf. Als Satz: {私は教師です|わたしはきょうしです|watashi wa kyoushi desu|Ich bin Lehrerin|わたしわきょうしです}. Ich bin Lehrerin.
+Jonas: Moment. Vorhin hieß Lehrerin doch {先生|せんせい|sensei|Lehrerin oder Lehrer, respektvoll für andere}. Warum jetzt ein anderes Wort?
+Aoki: {先生|せんせい|sensei|Lehrerin oder Lehrer, respektvoll für andere} ist respektvoll, nur für andere. Über mich selbst sage ich {教師|きょうし|kyoushi|Lehrerin oder Lehrer von Beruf}. Lehrerin von Beruf.
+Jonas: Also über dich sage ich: {青木先生は日本人です|あおきせんせいはにほんじんです|Aoki-sensei wa nihonjin desu|Lehrerin Aoki ist Japanerin|あおきせんせいわにほんじんです}. Lehrerin Aoki ist Japanerin.
+Aoki: Richtig, dort bin ich das Thema. Ich selbst sage: {私は教師です|わたしはきょうしです|watashi wa kyoushi desu|Ich bin Lehrerin|わたしわきょうしです}. Ich bin Lehrerin.
+Jonas: Was sage ich am Ende der Vorstellung?
+Aoki: {よろしくお願いします|よろしくおねがいします|yoroshiku onegaishimasu|Auf gute Zusammenarbeit}. Ungefähr: Ich freue mich auf gute Zusammenarbeit.
+Jonas: {よろしくお願いします|よろしくおねがいします|yoroshiku onegaishimasu|Auf gute Zusammenarbeit}. Auf gute Zusammenarbeit. Gibt es das genau so auf Deutsch?
+Aoki: Nicht genau. Es ist eine feste Bitte um ein gutes Miteinander.
+Jonas: Dann baue ich meine ganze Vorstellung. Zuerst: {はじめまして|はじめまして|hajimemashite|Freut mich, beim ersten Treffen}. Freut mich.
+Aoki: Dann der Name: {私はヨナスです|わたしはよなすです|watashi wa Yonasu desu|Ich bin Jonas|わたしわよなすです}. Ich bin Jonas.
+Jonas: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}. Ich bin Student. Und dazu: {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Ich bin Deutscher|わたしわどいつじんです}. Ich bin Deutscher.
+Aoki: Und zum Schluss: {よろしくお願いします|よろしくおねがいします|yoroshiku onegaishimasu|Auf gute Zusammenarbeit}. Auf gute Zusammenarbeit.
+Jonas: Das waren vier Sätze. Geht das auch kürzer?
+Aoki: Ja. Wenn klar ist, wer spricht, fällt das Thema oft weg: {ヨナスです|よなすです|Yonasu desu|Ich bin Jonas}. Ich bin Jonas.
+Jonas: Mit dem Gruß davor: {はじめまして、ヨナスです|はじめましてよなすです|hajimemashite, Yonasu desu|Freut mich, ich bin Jonas}. Freut mich, ich bin Jonas.
+Aoki: Sehr natürlich. So stellen sich viele Leute in Japan vor.
+Jonas: Können wir das jetzt üben?
+Aoki: Ja. Ich sage meinen Satz, du sagst deinen. {私は日本人です|わたしはにほんじんです|watashi wa nihonjin desu|Ich bin Japanerin|わたしわにほんじんです}. Ich bin Japanerin.
+Jonas: {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Ich bin Deutscher|わたしわどいつじんです}. Ich bin Deutscher.
+Aoki: {私は教師です|わたしはきょうしです|watashi wa kyoushi desu|Ich bin Lehrerin|わたしわきょうしです}. Ich bin Lehrerin.
+Jonas: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}. Ich bin Student.
+Aoki: {私は青木です|わたしはあおきです|watashi wa Aoki desu|Ich bin Aoki|わたしわあおきです}. Ich bin Aoki.
+Jonas: {私はヨナスです|わたしはよなすです|watashi wa Yonasu desu|Ich bin Jonas|わたしわよなすです}. Ich bin Jonas.
+Aoki: Jetzt kurz, ohne Thema: {青木です|あおきです|Aoki desu|Ich bin Aoki}. Ich bin Aoki.
+Jonas: {ヨナスです|よなすです|Yonasu desu|Ich bin Jonas}. Ich bin Jonas.
+Aoki: Gut. Nakamura arbeitet in einer Firma: {会社員|かいしゃいん|kaishain|Büroangestellte oder Büroangestellter}. Büroangestellte.
+Jonas: {会社員|かいしゃいん|kaishain|Büroangestellte oder Büroangestellter}. Büroangestellte. Sie sagt also: {私は会社員です|わたしはかいしゃいんです|watashi wa kaishain desu|Ich bin Büroangestellte|わたしわかいしゃいんです}. Ich bin Büroangestellte.
+Aoki: Genau. Ihr Name: {中村|なかむら|Nakamura|Nakamura, Familienname}. Nakamura. Und sie ist Japanerin: {私は日本人です|わたしはにほんじんです|watashi wa nihonjin desu|Ich bin Japanerin|わたしわにほんじんです}. Ich bin Japanerin.
+Jonas: Also sagt sie: {私は中村です|わたしはなかむらです|watashi wa Nakamura desu|Ich bin Nakamura|わたしわなかむらです}. Ich bin Nakamura. Und dann: {私は会社員です|わたしはかいしゃいんです|watashi wa kaishain desu|Ich bin Büroangestellte|わたしわかいしゃいんです}. Ich bin Büroangestellte.
+Aoki: Gut. Jetzt spiele ich Nakamura. Mittag im Büro, du beginnst.
+Jonas: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Hallo.
+Aoki: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Hallo.
+Jonas: {はじめまして、ヨナスです|はじめましてよなすです|hajimemashite, Yonasu desu|Freut mich, ich bin Jonas}. Freut mich, ich bin Jonas.
+Aoki: {はじめまして、中村です|はじめましてなかむらです|hajimemashite, Nakamura desu|Freut mich, ich bin Nakamura}. Freut mich, ich bin Nakamura.
+Jonas: {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Ich bin Deutscher|わたしわどいつじんです}. Ich bin Deutscher.
+Aoki: {私は日本人です|わたしはにほんじんです|watashi wa nihonjin desu|Ich bin Japanerin|わたしわにほんじんです}. Ich bin Japanerin.
+Jonas: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}. Ich bin Student.
+Aoki: {私は会社員です|わたしはかいしゃいんです|watashi wa kaishain desu|Ich bin Büroangestellte|わたしわかいしゃいんです}. Ich bin Büroangestellte.
+Jonas: {よろしくお願いします|よろしくおねがいします|yoroshiku onegaishimasu|Auf gute Zusammenarbeit}. Auf gute Zusammenarbeit.
+Aoki: {よろしくお願いします|よろしくおねがいします|yoroshiku onegaishimasu|Auf gute Zusammenarbeit}. Auf gute Zusammenarbeit. Jetzt spielen wir unser erstes Treffen im Kurs.
+Jonas: {青木先生、こんにちは|あおきせんせいこんにちは|Aoki-sensei, konnichiwa|Hallo, Lehrerin Aoki|あおきせんせいこんにちわ}. Hallo, Lehrerin Aoki.
+Aoki: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Hallo. Dann: {はじめまして、青木です|はじめましてあおきです|hajimemashite, Aoki desu|Freut mich, ich bin Aoki}. Freut mich, ich bin Aoki.
+Jonas: {はじめまして、ヨナスです|はじめましてよなすです|hajimemashite, Yonasu desu|Freut mich, ich bin Jonas}. Freut mich, ich bin Jonas.
+Aoki: {私は教師です|わたしはきょうしです|watashi wa kyoushi desu|Ich bin Lehrerin|わたしわきょうしです}. Ich bin Lehrerin. Und weiter: {私は日本人です|わたしはにほんじんです|watashi wa nihonjin desu|Ich bin Japanerin|わたしわにほんじんです}. Ich bin Japanerin.
+Jonas: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}. Ich bin Student. Und weiter: {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Ich bin Deutscher|わたしわどいつじんです}. Ich bin Deutscher.
+Aoki: {よろしくお願いします|よろしくおねがいします|yoroshiku onegaishimasu|Auf gute Zusammenarbeit}. Auf gute Zusammenarbeit.
+Jonas: {先生、よろしくお願いします|せんせいよろしくおねがいします|sensei, yoroshiku onegaishimasu|Frau Lehrerin, auf gute Zusammenarbeit}. Frau Lehrerin, auf gute Zusammenarbeit.
+Aoki: Ende der Szene. Du hast dich ganz auf Japanisch vorgestellt.
+Jonas: Für morgen merke ich mir: {はじめまして、ヨナスです|はじめましてよなすです|hajimemashite, Yonasu desu|Freut mich, ich bin Jonas}. Freut mich, ich bin Jonas. Am Ende: {よろしくお願いします|よろしくおねがいします|yoroshiku onegaishimasu|Auf gute Zusammenarbeit}. Auf gute Zusammenarbeit.
+Aoki: Genau. Im nächsten Text sagst du, was du trinkst: Kaffee, Tee oder Wasser.

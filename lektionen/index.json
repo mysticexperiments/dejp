@@ -9,9 +9,9 @@
     {
       "id": "block-01-text-01",
       "number": 1,
-      "grammar": "Thema und Nominalaussage",
-      "title": "1.1 — Erst das Thema, dann die Aussage",
-      "titlePt": "1.1 — Primeiro o tema, depois a informação",
+      "grammar": "Begrüßen und sich vorstellen: は und です",
+      "title": "1.1 — Hallo, ich bin Jonas",
+      "titlePt": "1.1 — Olá, eu sou o Jonas",
       "de": "lektionen/de-pt/block-01-text-01.txt",
       "pt": "lektionen/de-pt/block-01-text-01.pt.txt",
       "particles": [
