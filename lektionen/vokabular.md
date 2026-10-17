@@ -73,7 +73,8 @@ Verneinung, kein Wegfall von を, keine Regel für gerade ablaufende Handlungen.
 
 ## B01-T03 — Andere Personen, auch mit も
 
-Neu geschrieben am 2026-10-16 im Japanisch-Schwerpunkt-Stil, Deutsch auf B2.
+Neu geschrieben am 2026-10-16 im Japanisch-Schwerpunkt-Stil. Deutsch auf B2, aber
+als natürliches Alltagsgespräch (überarbeitet am 2026-10-17).
 
 Zusätzlich zu T01–T02:
 

@@ -1,119 +1,37 @@
 {
  "lesson": "block-01-text-03",
  "cards": {
-  "2": [
-   {
-    "word": "vertrauten",
-    "lemma": "vertraut",
-    "pt": [
-     "familiar",
-     "conhecido"
-    ],
-    "de": "Etwas Vertrautes kennst du schon gut."
-   }
-  ],
   "5": [
    {
-    "word": "offenbar",
-    "lemma": "offenbar",
+    "word": "geblieben",
+    "lemma": "bleiben",
     "pt": [
-     "pelo jeito",
-     "aparentemente"
+     "ficou",
+     "permaneceu"
     ],
-    "de": "So sieht es aus, so scheint es."
-   },
-   {
-    "word": "unverändert",
-    "lemma": "unverändert",
-    "pt": [
-     "inalterado",
-     "igual"
-    ],
-    "de": "Es bleibt genau so wie vorher."
-   }
-  ],
-  "7": [
-   {
-    "word": "Silbe",
-    "lemma": "die Silbe",
-    "pt": [
-     "sílaba",
-     "pedaço da palavra"
-    ],
-    "de": "Ein kleiner Teil von einem Wort, zum Beispiel „san“."
+    "de": "Es ist nicht anders geworden."
    }
   ],
   "8": [
    {
-    "word": "Zusatz",
-    "lemma": "der Zusatz",
+    "word": "Höflichkeit",
+    "lemma": "die Höflichkeit",
     "pt": [
-     "acréscimo",
-     "complemento"
+     "educação",
+     "cortesia"
     ],
-    "de": "Etwas, das man noch dazu sagt."
-   }
-  ],
-  "9": [
-   {
-    "word": "Gilt",
-    "lemma": "gelten",
-    "pt": [
-     "vale",
-     "ser válido"
-    ],
-    "de": "Hier: Passt die Regel für Frauen?"
-   },
-   {
-    "word": "Zusatz",
-    "lemma": "der Zusatz",
-    "pt": [
-     "acréscimo",
-     "complemento"
-    ],
-    "de": "Etwas, das man noch hinter den Namen sagt."
-   }
-  ],
-  "10": [
-   {
-    "word": "geschlechtsneutral",
-    "lemma": "geschlechtsneutral",
-    "pt": [
-     "neutro quanto ao gênero",
-     "para homem e mulher"
-    ],
-    "de": "Es passt für Männer und für Frauen."
-   }
-  ],
-  "13": [
-   {
-    "word": "Zusatz",
-    "lemma": "der Zusatz",
-    "pt": [
-     "acréscimo",
-     "complemento"
-    ],
-    "de": "Hier: das „san“ hinter dem Namen."
+    "de": "Man ist nett und respektvoll zu anderen."
    }
   ],
   "14": [
    {
-    "word": "wirkt",
-    "lemma": "wirken",
+    "word": "eingebildet",
+    "lemma": "eingebildet",
     "pt": [
-     "parece",
-     "dar a impressão"
+     "convencido",
+     "metido"
     ],
-    "de": "So sehen es die anderen Leute."
-   },
-   {
-    "word": "anmaßend",
-    "lemma": "anmaßend",
-    "pt": [
-     "presunçoso",
-     "arrogante"
-    ],
-    "de": "Du machst dich selbst zu wichtig."
+    "de": "Man hält sich selbst für besser als andere."
    }
   ],
   "15": [
@@ -125,46 +43,6 @@
      "não habitual"
     ],
     "de": "Du kennst es noch nicht gut, es ist neu für dich."
-   },
-   {
-    "word": "durchaus",
-    "lemma": "durchaus",
-    "pt": [
-     "bem",
-     "totalmente"
-    ],
-    "de": "Hier: ganz klar, wirklich."
-   },
-   {
-    "word": "respektvoll",
-    "lemma": "respektvoll",
-    "pt": [
-     "respeitoso",
-     "educado"
-    ],
-    "de": "Mit Respekt, freundlich und höflich."
-   }
-  ],
-  "18": [
-   {
-    "word": "dagegen",
-    "lemma": "dagegen",
-    "pt": [
-     "ao contrário",
-     "por outro lado"
-    ],
-    "de": "Hier: anders als im Satz davor."
-   }
-  ],
-  "19": [
-   {
-    "word": "subtiler",
-    "lemma": "subtil",
-    "pt": [
-     "sutil",
-     "fino"
-    ],
-    "de": "Ein kleiner Unterschied, den man leicht übersieht."
    }
   ],
   "20": [
@@ -187,15 +65,6 @@
      "funcionária de empresa"
     ],
     "de": "Eine Frau, die in einem Büro arbeitet."
-   },
-   {
-    "word": "erwähnen",
-    "lemma": "erwähnen",
-    "pt": [
-     "mencionar",
-     "citar"
-    ],
-    "de": "Kurz über jemanden sprechen."
    }
   ],
   "23": [
@@ -207,300 +76,50 @@
      "a propósito"
     ],
     "de": "Das sage ich noch nebenbei dazu."
-   },
-   {
-    "word": "drücke",
-    "lemma": "ausdrücken",
-    "pt": [
-     "expresso",
-     "digo"
-    ],
-    "de": "Hier: Wie sage ich das?"
    }
   ],
   "25": [
    {
-    "word": "Zusatz",
-    "lemma": "der Zusatz",
+    "word": "dran",
+    "lemma": "daran",
     "pt": [
-     "acréscimo",
-     "complemento"
+     "atrás",
+     "junto"
     ],
-    "de": "Hier: ein „san“ hinter dem Wort."
-   }
-  ],
-  "26": [
-   {
-    "word": "schlicht",
-    "lemma": "schlicht",
-    "pt": [
-     "simplesmente",
-     "simples"
-    ],
-    "de": "Ganz einfach, ohne etwas dazu."
+    "de": "„Hinten dran“: am Ende vom Wort."
    }
   ],
   "27": [
    {
-    "word": "verzichtet",
-    "lemma": "verzichten",
+    "word": "übrigens",
+    "lemma": "übrigens",
     "pt": [
-     "dispensa",
-     "abre mão"
+     "aliás",
+     "a propósito"
     ],
-    "de": "Er nimmt keinen Kaffee, er will ihn nicht."
-   }
-  ],
-  "28": [
-   {
-    "word": "Vokale",
-    "lemma": "der Vokal",
-    "pt": [
-     "vogais",
-     "sons a, e, i, o, u"
-    ],
-    "de": "Laute wie a, e, i, o und u."
-   }
-  ],
-  "30": [
-   {
-    "word": "Tadellos",
-    "lemma": "tadellos",
-    "pt": [
-     "impecável",
-     "perfeito"
-    ],
-    "de": "Ohne Fehler, sehr gut."
-   },
-   {
-    "word": "bevorzuge",
-    "lemma": "bevorzugen",
-    "pt": [
-     "prefiro",
-     "escolho antes"
-    ],
-    "de": "Ich mag es lieber als etwas anderes."
-   },
-   {
-    "word": "Schwarzer",
-    "lemma": "schwarz",
-    "pt": [
-     "preto",
-     "escuro"
-    ],
-    "de": "Hier: schwarzer Tee, nicht grüner Tee."
-   }
-  ],
-  "31": [
-   {
-    "word": "Worin",
-    "lemma": "worin",
-    "pt": [
-     "em que",
-     "no quê"
-    ],
-    "de": "Hier: Was ist anders?"
-   },
-   {
-    "word": "unterscheidet",
-    "lemma": "sich unterscheiden",
-    "pt": [
-     "se diferencia",
-     "é diferente"
-    ],
-    "de": "Es ist anders als das andere."
-   }
-  ],
-  "32": [
-   {
-    "word": "meint",
-    "lemma": "meinen",
-    "pt": [
-     "quer dizer",
-     "significa"
-    ],
-    "de": "Das Wort bedeutet das."
-   },
-   {
-    "word": "Daher",
-    "lemma": "daher",
-    "pt": [
-     "por isso",
-     "portanto"
-    ],
-    "de": "Aus diesem Grund."
-   }
-  ],
-  "33": [
-   {
-    "word": "merke",
-    "lemma": "sich merken",
-    "pt": [
-     "guardo",
-     "memorizo"
-    ],
-    "de": "Ich behalte es im Kopf."
+    "de": "Das sage ich noch nebenbei dazu."
    }
   ],
   "34": [
    {
-    "word": "wechselnden",
-    "lemma": "wechselnd",
+    "word": "Runde",
+    "lemma": "die Runde",
     "pt": [
-     "diferentes",
-     "que mudam"
+     "rodada",
+     "volta"
     ],
-    "de": "Hier: Jedes Mal kommt eine andere Person."
-   }
-  ],
-  "35": [
-   {
-    "word": "weiterhin",
-    "lemma": "weiterhin",
-    "pt": [
-     "continua",
-     "ainda"
-    ],
-    "de": "Es bleibt auch jetzt so."
-   }
-  ],
-  "38": [
-   {
-    "word": "Ausgezeichnet",
-    "lemma": "ausgezeichnet",
-    "pt": [
-     "excelente",
-     "ótimo"
-    ],
-    "de": "Sehr, sehr gut."
-   },
-   {
-    "word": "Gerüst",
-    "lemma": "das Gerüst",
-    "pt": [
-     "estrutura",
-     "esqueleto"
-    ],
-    "de": "Hier: die feste Form vom Satz."
-   }
-  ],
-  "39": [
-   {
-    "word": "dasselbe",
-    "lemma": "dasselbe",
-    "pt": [
-     "a mesma coisa",
-     "o mesmo"
-    ],
-    "de": "Genau das gleiche Getränk."
-   },
-   {
-    "word": "knapp",
-    "lemma": "knapp",
-    "pt": [
-     "curto",
-     "breve"
-    ],
-    "de": "Mit wenigen Worten."
-   }
-  ],
-  "44": [
-   {
-    "word": "ergänzt",
-    "lemma": "ergänzen",
-    "pt": [
-     "completa",
-     "acrescenta"
-    ],
-    "de": "Du sagst noch etwas dazu."
-   }
-  ],
-  "45": [
-   {
-    "word": "Zustimmung",
-    "lemma": "die Zustimmung",
-    "pt": [
-     "concordância",
-     "aprovação"
-    ],
-    "de": "Du sagst: Ja, bei mir ist es auch so."
-   }
-  ],
-  "46": [
-   {
-    "word": "Darauf",
-    "lemma": "darauf",
-    "pt": [
-     "aí",
-     "em seguida"
-    ],
-    "de": "Hier: danach, als Antwort."
-   }
-  ],
-  "48": [
-   {
-    "word": "Selbstverständlich",
-    "lemma": "selbstverständlich",
-    "pt": [
-     "claro",
-     "naturalmente"
-    ],
-    "de": "Natürlich, ganz klar ja."
-   }
-  ],
-  "49": [
-   {
-    "word": "einleuchtend",
-    "lemma": "einleuchtend",
-    "pt": [
-     "evidente",
-     "claro"
-    ],
-    "de": "Das versteht man sofort."
-   }
-  ],
-  "50": [
-   {
-    "word": "Zeitangaben",
-    "lemma": "die Zeitangabe",
-    "pt": [
-     "indicações de tempo",
-     "expressões de tempo"
-    ],
-    "de": "Wörter, die sagen, wann: morgens, immer."
-   }
-  ],
-  "54": [
-   {
-    "word": "Hervorragend",
-    "lemma": "hervorragend",
-    "pt": [
-     "excelente",
-     "ótimo"
-    ],
-    "de": "Sehr, sehr gut."
-   }
-  ],
-  "56": [
-   {
-    "word": "ausnahmslos",
-    "lemma": "ausnahmslos",
-    "pt": [
-     "sem exceção",
-     "sempre"
-    ],
-    "de": "Jedes Mal, nie anders."
+    "de": "Hier: ein Durchgang, eine kleine Übung."
    }
   ],
   "59": [
    {
-    "word": "Einverstanden",
-    "lemma": "einverstanden",
+    "word": "fang",
+    "lemma": "anfangen",
     "pt": [
-     "combinado",
-     "de acordo"
+     "começo",
+     "inicio"
     ],
-    "de": "Ja, das ist okay für mich."
+    "de": "„Ich fang an“: Ich mache den Anfang."
    },
    {
     "word": "Gruß",
@@ -525,13 +144,13 @@
   ],
   "78": [
    {
-    "word": "Präge",
-    "lemma": "sich einprägen",
+    "word": "Merk",
+    "lemma": "sich merken",
     "pt": [
-     "grave",
+     "guarde",
      "memorize"
     ],
-    "de": "Behalte es gut im Kopf."
+    "de": "Behalte es im Kopf."
    },
    {
     "word": "Zusatz",
@@ -545,13 +164,22 @@
   ],
   "80": [
    {
-    "word": "handelnden",
-    "lemma": "handelnd",
+    "word": "darum",
+    "lemma": "darum",
     "pt": [
-     "que age",
-     "que faz"
+     "disso",
+     "sobre isso"
     ],
-    "de": "Die Person, die etwas tut."
+    "de": "„Es geht darum“: das ist das Thema."
+   },
+   {
+    "word": "worüber",
+    "lemma": "worüber",
+    "pt": [
+     "sobre o quê",
+     "do que"
+    ],
+    "de": "Über welche Sache man spricht."
    }
   ]
  }
