@@ -1,26 +1,26 @@
 {
  "lesson": "block-01-text-02",
  "cards": {
-  "1": [
+  "4": [
    {
-    "word": "Gewohnheiten",
-    "lemma": "die Gewohnheit",
+    "word": "worum",
+    "lemma": "worum",
     "pt": [
-     "hábitos",
-     "costumes"
+     "do que",
+     "sobre o quê"
     ],
-    "de": "Dinge, die du oft und immer gleich machst."
+    "de": "„Worum es geht“: das Thema."
    }
   ],
   "6": [
    {
-    "word": "Lehnwort",
-    "lemma": "das Lehnwort",
+    "word": "übrigens",
+    "lemma": "übrigens",
     "pt": [
-     "palavra emprestada",
-     "estrangeirismo"
+     "aliás",
+     "a propósito"
     ],
-    "de": "Ein Wort, das eine Sprache von einer anderen Sprache nimmt."
+    "de": "Das sage ich noch nebenbei dazu."
    },
    {
     "word": "Niederländischen",
@@ -29,27 +29,7 @@
      "holandês",
      "língua holandesa"
     ],
-    "de": "Die Sprache in den Niederlanden, also in Holland."
-   },
-   {
-    "word": "stammt",
-    "lemma": "stammen",
-    "pt": [
-     "vem de",
-     "tem origem"
-    ],
-    "de": "Es kommt von dort."
-   }
-  ],
-  "8": [
-   {
-    "word": "kennzeichnet",
-    "lemma": "kennzeichnen",
-    "pt": [
-     "marca",
-     "indica"
-    ],
-    "de": "Es zeigt, welches Wort gemeint ist."
+    "de": "Die Sprache aus den Niederlanden."
    }
   ],
   "9": [
@@ -60,235 +40,69 @@
      "antes",
      "na frente"
     ],
-    "de": "Vor dem Getränk."
+    "de": "Hier: vor dem Kaffee."
    }
   ],
   "10": [
    {
-    "word": "nachgestellt",
-    "lemma": "nachstellen",
+    "word": "dahinter",
+    "lemma": "dahinter",
     "pt": [
-     "posposto",
-     "colocado depois"
+     "depois",
+     "atrás"
     ],
-    "de": "Es steht hinter dem Wort, nicht davor."
-   },
-   {
-    "word": "Handlung",
-    "lemma": "die Handlung",
-    "pt": [
-     "ação",
-     "ato"
-    ],
-    "de": "Etwas, das man tut. Hier: trinken."
-   }
-  ],
-  "11": [
-   {
-    "word": "Handlung",
-    "lemma": "die Handlung",
-    "pt": [
-     "ação",
-     "ato"
-    ],
-    "de": "Hier: das Tun im Satz, also das Trinken."
-   }
-  ],
-  "13": [
-   {
-    "word": "Unterscheidet",
-    "lemma": "unterscheiden",
-    "pt": [
-     "diferencia",
-     "distingue"
-    ],
-    "de": "Es zeigt einen Unterschied zwischen zwei Dingen."
-   }
-  ],
-  "14": [
-   {
-    "word": "handelt",
-    "lemma": "handeln",
-    "pt": [
-     "age",
-     "faz algo"
-    ],
-    "de": "Wer etwas tut. Hier: wer trinkt."
-   },
-   {
-    "word": "ergibt",
-    "lemma": "sich ergeben",
-    "pt": [
-     "resulta",
-     "fica claro"
-    ],
-    "de": "Man versteht es aus etwas anderem."
-   }
-  ],
-  "15": [
-   {
-    "word": "vollständige",
-    "lemma": "vollständig",
-    "pt": [
-     "completo",
-     "inteiro"
-    ],
-    "de": "Mit allen Teilen. Es fehlt nichts."
-   }
-  ],
-  "16": [
-   {
-    "word": "vorweg",
-    "lemma": "vorweg",
-    "pt": [
-     "na frente",
-     "antes"
-    ],
-    "de": "Ganz am Anfang, vor allem anderen."
-   }
-  ],
-  "17": [
-   {
-    "word": "zweiter",
-    "lemma": "zweiter",
-    "pt": [
-     "segundo",
-     "segunda"
-    ],
-    "de": "Platz Nummer zwei."
-   },
-   {
-    "word": "dagegen",
-    "lemma": "dagegen",
-    "pt": [
-     "ao contrário",
-     "por outro lado"
-    ],
-    "de": "Aber hier ist es anders."
+    "de": "Hier: nach dem Wort, hinten."
    }
   ],
   "18": [
    {
-    "word": "darauf",
-    "lemma": "darauf",
+    "word": "Daran",
+    "lemma": "daran",
     "pt": [
-     "nisso",
-     "a isso"
+     "a isso",
+     "com isso"
     ],
-    "de": "Darauf kommt es an heißt: Das ist wichtig."
-   }
-  ],
-  "19": [
-   {
-    "word": "Abschluss",
-    "lemma": "der Abschluss",
-    "pt": [
-     "final",
-     "conclusão"
-    ],
-    "de": "Das letzte Stück am Ende vom Satz."
+    "de": "„Daran gewöhnen“: an diese Sache."
    },
    {
-    "word": "Vorstellung",
-    "lemma": "die Vorstellung",
+    "word": "gewöhnst",
+    "lemma": "sich gewöhnen",
     "pt": [
-     "apresentação",
-     "introdução"
+     "se acostuma",
+     "se habitua"
     ],
-    "de": "Hier: die Lektion, in der du dich vorgestellt hast."
+    "de": "Nach einer Zeit ist es für dich normal."
    }
   ],
   "20": [
    {
-    "word": "entfällt",
-    "lemma": "entfallen",
+    "word": "dazu",
+    "lemma": "dazu",
     "pt": [
-     "é omitido",
-     "não entra"
+     "junto",
+     "além disso"
     ],
-    "de": "Es kommt nicht. Man sagt es nicht."
+    "de": "Noch zusätzlich."
+   },
+   {
+    "word": "doppelt",
+    "lemma": "doppelt",
+    "pt": [
+     "dobrado",
+     "duas vezes"
+    ],
+    "de": "Zweimal das Gleiche, also zu viel."
    }
   ],
   "21": [
    {
-    "word": "Satzarten",
-    "lemma": "die Satzart",
+    "word": "nebeneinander",
+    "lemma": "nebeneinander",
     "pt": [
-     "tipos de frase",
-     "formas de frase"
+     "lado a lado",
+     "um ao lado do outro"
     ],
-    "de": "Verschiedene Typen von Sätzen."
-   },
-   {
-    "word": "unmittelbar",
-    "lemma": "unmittelbar",
-    "pt": [
-     "diretamente",
-     "imediatamente"
-    ],
-    "de": "Direkt, ohne etwas dazwischen."
-   },
-   {
-    "word": "gegenüberstellen",
-    "lemma": "gegenüberstellen",
-    "pt": [
-     "comparar",
-     "confrontar"
-    ],
-    "de": "Zwei Dinge nebeneinander legen und vergleichen."
-   }
-  ],
-  "22": [
-   {
-    "word": "Aussage",
-    "lemma": "die Aussage",
-    "pt": [
-     "afirmação",
-     "declaração"
-    ],
-    "de": "Ein Satz, der sagt, wer oder was jemand ist."
-   },
-   {
-    "word": "Handlung",
-    "lemma": "die Handlung",
-    "pt": [
-     "ação",
-     "ato"
-    ],
-    "de": "Ein Satz, in dem jemand etwas tut."
-   }
-  ],
-  "23": [
-   {
-    "word": "Abschluss",
-    "lemma": "der Abschluss",
-    "pt": [
-     "final",
-     "conclusão"
-    ],
-    "de": "Hier: das höfliche Ende vom Satz über dich."
-   }
-  ],
-  "24": [
-   {
-    "word": "Gemeint",
-    "lemma": "meinen",
-    "pt": [
-     "quer-se dizer",
-     "se refere a"
-    ],
-    "de": "Das ist damit gesagt."
-   }
-  ],
-  "26": [
-   {
-    "word": "Einwandfrei",
-    "lemma": "einwandfrei",
-    "pt": [
-     "perfeito",
-     "impecável"
-    ],
-    "de": "Ohne Fehler, ganz richtig."
+    "de": "Eins neben dem anderen, zum Vergleichen."
    }
   ],
   "28": [
@@ -300,24 +114,6 @@
      "sumo"
     ],
     "de": "Ein Getränk aus Obst, zum Beispiel aus Orangen."
-   },
-   {
-    "word": "wiederum",
-    "lemma": "wiederum",
-    "pt": [
-     "de novo",
-     "por sua vez"
-    ],
-    "de": "Wieder, noch einmal so."
-   },
-   {
-    "word": "Lehnwort",
-    "lemma": "das Lehnwort",
-    "pt": [
-     "palavra emprestada",
-     "estrangeirismo"
-    ],
-    "de": "Hier: ein Wort, das Japanisch aus dem Englischen hat."
    }
   ],
   "29": [
@@ -328,18 +124,18 @@
      "suco",
      "sumo"
     ],
-    "de": "Hier: das Getränk aus Obst."
+    "de": "Ein Getränk aus Obst, zum Beispiel aus Orangen."
    }
   ],
   "30": [
    {
-    "word": "Hervorragend",
-    "lemma": "hervorragend",
+    "word": "hintereinander",
+    "lemma": "hintereinander",
     "pt": [
-     "excelente",
-     "ótimo"
+     "em sequência",
+     "um atrás do outro"
     ],
-    "de": "Sehr, sehr gut."
+    "de": "Eins nach dem anderen, ohne Pause."
    }
   ],
   "32": [
@@ -350,90 +146,30 @@
      "suco",
      "sumo"
     ],
-    "de": "Hier: Aoki trinkt dieses Getränk aus Obst."
+    "de": "Ein Getränk aus Obst, zum Beispiel aus Orangen."
    }
   ],
   "34": [
    {
-    "word": "Gerüst",
-    "lemma": "das Gerüst",
+    "word": "Merkst",
+    "lemma": "merken",
     "pt": [
-     "estrutura",
-     "esqueleto"
+     "percebe",
+     "nota"
     ],
-    "de": "Hier: der feste Bau vom Satz."
+    "de": "„Merkst du was?“: Siehst du es?"
    },
    {
-    "word": "stets",
-    "lemma": "stets",
+    "word": "wechselt",
+    "lemma": "wechseln",
     "pt": [
-     "sempre",
-     "constantemente"
+     "muda",
+     "troca"
     ],
-    "de": "Immer."
-   },
-   {
-    "word": "ausgetauscht",
-    "lemma": "austauschen",
-    "pt": [
-     "trocado",
-     "substituído"
-    ],
-    "de": "Man nimmt ein anderes Wort statt dem alten."
-   }
-  ],
-  "36": [
-   {
-    "word": "Zeitangaben",
-    "lemma": "die Zeitangabe",
-    "pt": [
-     "indicação de tempo",
-     "expressão de tempo"
-    ],
-    "de": "Wörter, die sagen, wann oder wie oft."
-   }
-  ],
-  "37": [
-   {
-    "word": "Angabe",
-    "lemma": "die Angabe",
-    "pt": [
-     "indicação",
-     "informação"
-    ],
-    "de": "Hier: das Wort für jeden Tag."
-   }
-  ],
-  "39": [
-   {
-    "word": "entspricht",
-    "lemma": "entsprechen",
-    "pt": [
-     "corresponde",
-     "combina com"
-    ],
-    "de": "Es passt genau dazu."
-   },
-   {
-    "word": "durchaus",
-    "lemma": "durchaus",
-    "pt": [
-     "bem",
-     "totalmente"
-    ],
-    "de": "Wirklich, ganz sicher."
+    "de": "Es wird ein anderes."
    }
   ],
   "40": [
-   {
-    "word": "Seltener",
-    "lemma": "selten",
-    "pt": [
-     "menos frequente",
-     "mais raro"
-    ],
-    "de": "Nicht so oft."
-   },
    {
     "word": "Saft",
     "lemma": "der Saft",
@@ -441,7 +177,7 @@
      "suco",
      "sumo"
     ],
-    "de": "Hier: manchmal trinkt man dieses Getränk aus Obst."
+    "de": "Ein Getränk aus Obst, zum Beispiel aus Orangen."
    }
   ],
   "41": [
@@ -452,36 +188,16 @@
      "suco",
      "sumo"
     ],
-    "de": "Hier: das Getränk aus Obst im Beispiel."
+    "de": "Ein Getränk aus Obst, zum Beispiel aus Orangen."
    },
    {
-    "word": "Zeitangabe",
-    "lemma": "die Zeitangabe",
+    "word": "vorhin",
+    "lemma": "vorhin",
     "pt": [
-     "indicação de tempo",
-     "expressão de tempo"
+     "há pouco",
+     "antes"
     ],
-    "de": "Hier: das Wort für manchmal."
-   },
-   {
-    "word": "derselben",
-    "lemma": "derselbe",
-    "pt": [
-     "a mesma",
-     "o mesmo"
-    ],
-    "de": "Genau die gleiche, keine andere."
-   }
-  ],
-  "42": [
-   {
-    "word": "dagegen",
-    "lemma": "dagegen",
-    "pt": [
-     "ao contrário",
-     "por outro lado"
-    ],
-    "de": "Hier: anders als jeden Tag."
+    "de": "Vor ein paar Minuten."
    }
   ],
   "43": [
@@ -492,127 +208,30 @@
      "omitir",
      "deixar de fora"
     ],
-    "de": "Etwas nicht sagen, nicht benutzen."
-   }
-  ],
-  "44": [
-   {
-    "word": "sofern",
-    "lemma": "sofern",
-    "pt": [
-     "desde que",
-     "contanto que"
-    ],
-    "de": "Wenn das so ist."
-   }
-  ],
-  "45": [
-   {
-    "word": "eindeutig",
-    "lemma": "eindeutig",
-    "pt": [
-     "claro",
-     "inequívoco"
-    ],
-    "de": "Ganz klar, man versteht es sicher."
-   }
-  ],
-  "46": [
-   {
-    "word": "Häufigkeit",
-    "lemma": "die Häufigkeit",
-    "pt": [
-     "frequência",
-     "regularidade"
-    ],
-    "de": "Wie oft etwas passiert."
-   },
-   {
-    "word": "bildest",
-    "lemma": "bilden",
-    "pt": [
-     "formas",
-     "constróis"
-    ],
-    "de": "Du machst den Satz aus den Teilen."
+    "de": "Etwas nicht sagen."
    }
   ],
   "47": [
    {
-    "word": "Einverstanden",
-    "lemma": "einverstanden",
+    "word": "leg",
+    "lemma": "loslegen",
     "pt": [
-     "combinado",
-     "de acordo"
+     "começa",
+     "manda ver"
     ],
-    "de": "Ja, das ist für mich in Ordnung."
-   }
-  ],
-  "48": [
-   {
-    "word": "dazu",
-    "lemma": "dazu",
-    "pt": [
-     "junto",
-     "além disso"
-    ],
-    "de": "Und noch ein Wort mehr: das Getränk."
-   }
-  ],
-  "50": [
-   {
-    "word": "Tadellos",
-    "lemma": "tadellos",
-    "pt": [
-     "impecável",
-     "perfeito"
-    ],
-    "de": "Ohne Fehler."
-   },
-   {
-    "word": "dazu",
-    "lemma": "dazu",
-    "pt": [
-     "junto",
-     "além disso"
-    ],
-    "de": "Und noch ein Wort mehr: Kaffee."
-   }
-  ],
-  "52": [
-   {
-    "word": "dazu",
-    "lemma": "dazu",
-    "pt": [
-     "junto",
-     "além disso"
-    ],
-    "de": "Und noch das Getränk."
-   }
-  ],
-  "56": [
-   {
-    "word": "aussieht",
-    "lemma": "aussehen",
-    "pt": [
-     "como é",
-     "parece"
-    ],
-    "de": "Wie es bei ihr ist."
-   }
-  ],
-  "57": [
-   {
-    "word": "Gewohnheit",
-    "lemma": "die Gewohnheit",
-    "pt": [
-     "hábito",
-     "costume"
-    ],
-    "de": "Etwas, das sie oft und immer gleich macht."
+    "de": "„Leg los“: Fang an!"
    }
   ],
   "58": [
+   {
+    "word": "fängst",
+    "lemma": "anfangen",
+    "pt": [
+     "começa",
+     "inicia"
+    ],
+    "de": "„Du fängst an“: du bist zuerst dran."
+   },
    {
     "word": "Gruß",
     "lemma": "der Gruß",
@@ -620,7 +239,7 @@
      "cumprimento",
      "saudação"
     ],
-    "de": "Ein Wort wie Hallo, wenn du jemanden triffst."
+    "de": "Damit sagst du Hallo zu jemandem."
    }
   ],
   "65": [
@@ -631,7 +250,7 @@
      "suco",
      "sumo"
     ],
-    "de": "Hier: Jonas trinkt manchmal dieses Getränk aus Obst."
+    "de": "Ein Getränk aus Obst, zum Beispiel aus Orangen."
    }
   ],
   "68": [
@@ -640,7 +259,7 @@
     "lemma": "die Büroangestellte",
     "pt": [
      "funcionária de escritório",
-     "empregada de escritório"
+     "funcionária de empresa"
     ],
     "de": "Eine Frau, die in einem Büro arbeitet."
    }
@@ -653,67 +272,18 @@
      "suco",
      "sumo"
     ],
-    "de": "Hier: Nakamura trinkt dieses Getränk aus Obst."
-   }
-  ],
-  "77": [
-   {
-    "word": "ausgetauscht",
-    "lemma": "austauschen",
-    "pt": [
-     "trocado",
-     "substituído"
-    ],
-    "de": "Du hast andere Getränke genommen."
-   },
-   {
-    "word": "Häufigkeiten",
-    "lemma": "die Häufigkeit",
-    "pt": [
-     "frequências",
-     "regularidades"
-    ],
-    "de": "Wörter für wie oft: jeden Tag, manchmal."
-   },
-   {
-    "word": "ergänzt",
-    "lemma": "ergänzen",
-    "pt": [
-     "acrescentado",
-     "completado"
-    ],
-    "de": "Du hast etwas dazugetan."
+    "de": "Ein Getränk aus Obst, zum Beispiel aus Orangen."
    }
   ],
   "78": [
    {
-    "word": "Präge",
-    "lemma": "sich einprägen",
+    "word": "Merk",
+    "lemma": "sich merken",
     "pt": [
-     "grave",
+     "guarde",
      "memorize"
     ],
-    "de": "Behalte es fest im Kopf."
-   },
-   {
-    "word": "Gerüst",
-    "lemma": "das Gerüst",
-    "pt": [
-     "estrutura",
-     "esqueleto"
-    ],
-    "de": "Hier: der feste Bau vom Satz."
-   }
-  ],
-  "79": [
-   {
-    "word": "Zeitangabe",
-    "lemma": "die Zeitangabe",
-    "pt": [
-     "indicação de tempo",
-     "expressão de tempo"
-    ],
-    "de": "Hier: das Wort für jeden Tag."
+    "de": "Behalte es im Kopf."
    }
   ]
  }

@@ -45,7 +45,8 @@ keine Frage, noch kein さん.
 
 ## B01-T02 — Getränke, Handlung und Häufigkeit
 
-Neu geschrieben am 2026-10-16 im Japanisch-Schwerpunkt-Stil, Deutsch auf B2.
+Neu geschrieben am 2026-10-16 im Japanisch-Schwerpunkt-Stil. Deutsch auf B2, aber
+als natürliches Alltagsgespräch (überarbeitet am 2026-10-17).
 
 Zusätzlich zu T01:
 
