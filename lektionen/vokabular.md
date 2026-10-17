@@ -8,7 +8,8 @@ diese Liste ist eine Redaktionshilfe, keine zusätzliche App-Datenbank.
 ## B01-T01 — Begrüßen und sich vorstellen
 
 Neu geschrieben am 2026-10-16 im Japanisch-Schwerpunkt-Stil
-(siehe `planung/a1-plan.md`, Abschnitt 3.2), Deutsch auf B2.
+(siehe `planung/a1-plan.md`, Abschnitt 3.2). Deutsch auf B2, aber als
+natürliches Alltagsgespräch (überarbeitet am 2026-10-17).
 
 | Schreibung | Kana | Romaji | Bedeutung / ausdrücklich erklärte Funktion |
 |---|---|---|---|

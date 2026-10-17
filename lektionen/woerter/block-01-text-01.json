@@ -3,64 +3,44 @@
  "cards": {
   "1": [
    {
-    "word": "Eindruck",
-    "lemma": "der Eindruck",
+    "word": "ehrlich",
+    "lemma": "ehrlich",
     "pt": [
-     "impressão",
-     "efeito"
+     "sinceramente",
+     "honestamente"
     ],
-    "de": "Was eine Person beim ersten Treffen über dich denkt."
+    "de": "„Ehrlich gesagt“: Ich sage dir, wie es wirklich ist."
+   },
+   {
+    "word": "Lampenfieber",
+    "lemma": "das Lampenfieber",
+    "pt": [
+     "nervosismo",
+     "frio na barriga"
+    ],
+    "de": "Du bist nervös, bevor du vor anderen etwas machst."
    }
   ],
   "2": [
    {
-    "word": "gängigsten",
-    "lemma": "gängig",
-    "pt": [
-     "mais comum",
-     "mais usado"
-    ],
-    "de": "Das, was die meisten Leute benutzen."
-   },
-   {
-    "word": "Begrüßung",
-    "lemma": "die Begrüßung",
+    "word": "Gruß",
+    "lemma": "der Gruß",
     "pt": [
      "cumprimento",
      "saudação"
     ],
-    "de": "Was man sagt, wenn man jemanden trifft."
-   },
-   {
-    "word": "Sinngemäß",
-    "lemma": "sinngemäß",
-    "pt": [
-     "no sentido de",
-     "em resumo"
-    ],
-    "de": "Nicht Wort für Wort, aber mit dieser Bedeutung."
-   }
-  ],
-  "3": [
-   {
-    "word": "angebracht",
-    "lemma": "angebracht",
-    "pt": [
-     "adequado",
-     "apropriado"
-    ],
-    "de": "Passend für die Situation."
+    "de": "Damit sagst du Hallo zu jemandem."
    }
   ],
   "4": [
    {
-    "word": "Überwiegend",
-    "lemma": "überwiegend",
+    "word": "Eher",
+    "lemma": "eher",
     "pt": [
-     "principalmente",
-     "na maior parte"
+     "mais",
+     "de preferência"
     ],
-    "de": "Meistens, fast immer."
+    "de": "Hier: meistens, mehr als zu anderen Zeiten."
    },
    {
     "word": "tagsüber",
@@ -69,19 +49,30 @@
      "durante o dia",
      "de dia"
     ],
-    "de": "Am Tag, wenn es hell ist. Nicht am Abend."
+    "de": "Am Tag, wenn es hell ist."
    },
    {
-    "word": "folgendermaßen",
-    "lemma": "folgendermaßen",
+    "word": "begrüßt",
+    "lemma": "begrüßen",
     "pt": [
-     "da seguinte maneira",
-     "assim"
+     "cumprimenta",
+     "saúda"
     ],
-    "de": "So, wie ich es jetzt sage."
+    "de": "Du sagst Hallo zu jemandem."
    }
   ],
-  "5": [
+  "8": [
+   {
+    "word": "davor",
+    "lemma": "davor",
+    "pt": [
+     "antes",
+     "na frente"
+    ],
+    "de": "Hier: vor dem Wort, zuerst."
+   }
+  ],
+  "9": [
    {
     "word": "Gruß",
     "lemma": "der Gruß",
@@ -89,744 +80,162 @@
      "cumprimento",
      "saudação"
     ],
-    "de": "Hier: das Wort Hallo, auf Japanisch."
-   },
-   {
-    "word": "vorangestellt",
-    "lemma": "voranstellen",
-    "pt": [
-     "colocado antes",
-     "posto na frente"
-    ],
-    "de": "Du hast ein Wort vor das Hallo gesetzt."
+    "de": "Damit sagst du Hallo zu jemandem."
    }
   ],
-  "6": [
+  "16": [
    {
-    "word": "respektvolle",
-    "lemma": "respektvoll",
+    "word": "zeigst",
+    "lemma": "zeigen",
     "pt": [
-     "respeitoso",
-     "respeitosa"
+     "mostra",
+     "indica"
     ],
-    "de": "Höflich und mit Achtung vor der Person."
+    "de": "Du machst etwas klar, damit der andere es sieht."
    },
    {
-    "word": "Anrede",
-    "lemma": "die Anrede",
+    "word": "worum",
+    "lemma": "worum",
     "pt": [
-     "forma de tratamento",
-     "tratamento"
+     "do que",
+     "sobre o quê"
     ],
-    "de": "So nennst du eine Person, wenn du mit ihr sprichst."
-   },
-   {
-    "word": "Lehrkräfte",
-    "lemma": "die Lehrkraft",
-    "pt": [
-     "professores",
-     "docentes"
-    ],
-    "de": "Lehrer und Lehrerinnen."
-   },
-   {
-    "word": "wendest",
-    "lemma": "sich an jemanden wenden",
-    "pt": [
-     "diriges-te",
-     "falas com"
-    ],
-    "de": "Du sprichst mit dieser Person."
+    "de": "„Worum es geht“: das Thema."
    }
   ],
-  "7": [
+  "24": [
    {
-    "word": "Folglich",
-    "lemma": "folglich",
+    "word": "dran",
+    "lemma": "daran",
     "pt": [
-     "portanto",
-     "por consequência"
+     "junto",
+     "na frente"
     ],
-    "de": "Deshalb, also."
+    "de": "„Vorne dran“: ganz vorne, am Anfang."
    }
   ],
-  "8": [
+  "26": [
    {
-    "word": "Zutreffend",
-    "lemma": "zutreffend",
+    "word": "Reihenfolge",
+    "lemma": "die Reihenfolge",
     "pt": [
-     "correto",
-     "certo"
+     "ordem",
+     "sequência"
     ],
-    "de": "Das stimmt, das ist richtig."
+    "de": "Was zuerst kommt und was danach."
+   }
+  ],
+  "29": [
+   {
+    "word": "ausgetauscht",
+    "lemma": "austauschen",
+    "pt": [
+     "troquei",
+     "substituí"
+    ],
+    "de": "Ein Wort raus, ein anderes rein."
+   }
+  ],
+  "34": [
+   {
+    "word": "beruflich",
+    "lemma": "beruflich",
+    "pt": [
+     "de profissão",
+     "profissionalmente"
+    ],
+    "de": "Bei der Arbeit, im Job."
+   }
+  ],
+  "35": [
+   {
+    "word": "vorhin",
+    "lemma": "vorhin",
+    "pt": [
+     "há pouco",
+     "antes"
+    ],
+    "de": "Vor ein paar Minuten."
+   }
+  ],
+  "36": [
+   {
+    "word": "eingebildet",
+    "lemma": "eingebildet",
+    "pt": [
+     "convencido",
+     "metido"
+    ],
+    "de": "Man hält sich selbst für besser als andere."
+   }
+  ],
+  "42": [
+   {
+    "word": "bittet",
+    "lemma": "bitten",
+    "pt": [
+     "pede",
+     "solicita"
+    ],
+    "de": "Man möchte, dass der andere etwas tut."
    },
    {
-    "word": "Nachnamen",
-    "lemma": "der Nachname",
+    "word": "darum",
+    "lemma": "darum",
     "pt": [
-     "sobrenome",
-     "nome de família"
+     "por isso",
+     "por aquilo"
     ],
-    "de": "Der Name der Familie, zum Beispiel Aoki."
+    "de": "„Darum bitten“: um diese Sache bitten."
+   },
+   {
+    "word": "auskommt",
+    "lemma": "auskommen",
+    "pt": [
+     "se dá bem",
+     "convive bem"
+    ],
+    "de": "„Gut miteinander auskommen“: keinen Streit haben."
+   }
+  ],
+  "48": [
+   {
+    "word": "lässt",
+    "lemma": "lassen",
+    "pt": [
+     "deixa",
+     "omite"
+    ],
+    "de": "„Weglassen“: man sagt es nicht."
+   }
+  ],
+  "49": [
+   {
+    "word": "Gruß",
+    "lemma": "der Gruß",
+    "pt": [
+     "cumprimento",
+     "saudação"
+    ],
+    "de": "Damit sagst du Hallo zu jemandem."
    },
    {
     "word": "davor",
     "lemma": "davor",
     "pt": [
-     "antes disso",
+     "antes",
      "na frente"
     ],
-    "de": "Vor dem Wort. Hier: der Name kommt zuerst."
-   }
-  ],
-  "9": [
-   {
-    "word": "Begrüßung",
-    "lemma": "die Begrüßung",
-    "pt": [
-     "cumprimento",
-     "saudação"
-    ],
-    "de": "Hier: das Hallo nach dem Namen."
-   }
-  ],
-  "10": [
-   {
-    "word": "Wesentliche",
-    "lemma": "das Wesentliche",
-    "pt": [
-     "o essencial",
-     "o principal"
-    ],
-    "de": "Das Wichtigste."
-   },
-   {
-    "word": "Begegnung",
-    "lemma": "die Begegnung",
-    "pt": [
-     "encontro",
-     "contato"
-    ],
-    "de": "Wenn zwei Menschen sich treffen."
-   },
-   {
-    "word": "begegnen",
-    "lemma": "begegnen",
-    "pt": [
-     "encontramos",
-     "nos deparamos"
-    ],
-    "de": "Wir treffen uns."
-   }
-  ],
-  "11": [
-   {
-    "word": "ausschließlich",
-    "lemma": "ausschließlich",
-    "pt": [
-     "exclusivamente",
-     "somente"
-    ],
-    "de": "Nur das, sonst nichts."
-   }
-  ],
-  "12": [
-   {
-    "word": "Anschluss",
-    "lemma": "im Anschluss an",
-    "pt": [
-     "depois de",
-     "em seguida a"
-    ],
-    "de": "Im Anschluss an heißt: direkt danach."
-   },
-   {
-    "word": "verrätst",
-    "lemma": "verraten",
-    "pt": [
-     "revelas",
-     "contas"
-    ],
-    "de": "Du sagst es der anderen Person."
-   }
-  ],
-  "15": [
-   {
-    "word": "schließt",
-    "lemma": "sich anschließen",
-    "pt": [
-     "vem em seguida",
-     "segue"
-    ],
-    "de": "Was kommt direkt danach?"
-   }
-  ],
-  "16": [
-   {
-    "word": "Darauf",
-    "lemma": "darauf",
-    "pt": [
-     "em seguida",
-     "depois disso"
-    ],
-    "de": "Danach."
-   },
-   {
-    "word": "unscheinbarer",
-    "lemma": "unscheinbar",
-    "pt": [
-     "discreto",
-     "pouco chamativo"
-    ],
-    "de": "Klein, man bemerkt es kaum."
-   },
-   {
-    "word": "Laut",
-    "lemma": "der Laut",
-    "pt": [
-     "som",
-     "ruído"
-    ],
-    "de": "Ein kurzer Ton, den man spricht."
-   },
-   {
-    "word": "erhebt",
-    "lemma": "erheben",
-    "pt": [
-     "eleva",
-     "transforma em"
-    ],
-    "de": "Es macht das Wort zu etwas Wichtigerem."
-   },
-   {
-    "word": "vorangehende",
-    "lemma": "vorangehend",
-    "pt": [
-     "anterior",
-     "precedente"
-    ],
-    "de": "Das Wort, das davor kommt."
-   }
-  ],
-  "17": [
-   {
-    "word": "demnach",
-    "lemma": "demnach",
-    "pt": [
-     "então",
-     "portanto"
-    ],
-    "de": "Also, so verstehe ich das."
-   },
-   {
-    "word": "Darum",
-    "lemma": "darum",
-    "pt": [
-     "em torno disso",
-     "disso"
-    ],
-    "de": "Darum dreht sich heißt: darüber geht es."
-   },
-   {
-    "word": "dreht",
-    "lemma": "sich drehen um",
-    "pt": [
-     "trata de",
-     "gira em torno de"
-    ],
-    "de": "Es geht um dieses Thema."
-   },
-   {
-    "word": "Äußerung",
-    "lemma": "die Äußerung",
-    "pt": [
-     "fala",
-     "declaração"
-    ],
-    "de": "Das, was jemand sagt."
-   }
-  ],
-  "20": [
-   {
-    "word": "eigentliche",
-    "lemma": "eigentlich",
-    "pt": [
-     "propriamente dito",
-     "verdadeiro"
-    ],
-    "de": "Die wirkliche, die wichtige."
-   }
-  ],
-  "21": [
-   {
-    "word": "trifft",
-    "lemma": "zutreffen auf",
-    "pt": [
-     "se aplica a",
-     "vale para"
-    ],
-    "de": "Das ist bei mir so, das stimmt für mich."
-   }
-  ],
-  "22": [
-   {
-    "word": "Abschluss",
-    "lemma": "der Abschluss",
-    "pt": [
-     "final",
-     "conclusão"
-    ],
-    "de": "Das letzte Stück am Ende vom Satz."
-   },
-   {
-    "word": "verwandelt",
-    "lemma": "verwandeln",
-    "pt": [
-     "transforma",
-     "converte"
-    ],
-    "de": "Es macht etwas anderes daraus."
-   },
-   {
-    "word": "Aussage",
-    "lemma": "die Aussage",
-    "pt": [
-     "afirmação",
-     "declaração"
-    ],
-    "de": "Ein Satz, der etwas sagt. Zum Beispiel: Ich bin Student."
-   }
-  ],
-  "24": [
-   {
-    "word": "vorangestelltem",
-    "lemma": "voranstellen",
-    "pt": [
-     "colocado antes",
-     "posto na frente"
-    ],
-    "de": "Das Thema kommt zuerst, vor dem Rest."
-   }
-  ],
-  "25": [
-   {
-    "word": "Abschluss",
-    "lemma": "der Abschluss",
-    "pt": [
-     "final",
-     "conclusão"
-    ],
-    "de": "Hier: das letzte Wort im japanischen Satz."
-   },
-   {
-    "word": "rückt",
-    "lemma": "rücken",
-    "pt": [
-     "vai",
-     "se desloca"
-    ],
-    "de": "Es geht an einen anderen Platz."
-   },
-   {
-    "word": "Satzende",
-    "lemma": "das Satzende",
-    "pt": [
-     "fim da frase",
-     "final da oração"
-    ],
-    "de": "Der letzte Platz im Satz."
-   }
-  ],
-  "26": [
-   {
-    "word": "Abschluss",
-    "lemma": "der Abschluss",
-    "pt": [
-     "final",
-     "conclusão"
-    ],
-    "de": "Hier: der Teil ganz am Ende."
-   }
-  ],
-  "28": [
-   {
-    "word": "Lautung",
-    "lemma": "die Lautung",
-    "pt": [
-     "pronúncia",
-     "sonoridade"
-    ],
-    "de": "Wie Wörter in einer Sprache klingen."
-   },
-   {
-    "word": "angepasst",
-    "lemma": "anpassen",
-    "pt": [
-     "adaptado",
-     "ajustado"
-    ],
-    "de": "So geändert, dass es passt."
-   }
-  ],
-  "29": [
-   {
-    "word": "Lediglich",
-    "lemma": "lediglich",
-    "pt": [
-     "apenas",
-     "somente"
-    ],
-    "de": "Nur."
-   }
-  ],
-  "30": [
-   {
-    "word": "Herkunft",
-    "lemma": "die Herkunft",
-    "pt": [
-     "origem",
-     "procedência"
-    ],
-    "de": "Woher du kommst. Zum Beispiel: aus Deutschland."
-   }
-  ],
-  "31": [
-   {
-    "word": "Demnach",
-    "lemma": "demnach",
-    "pt": [
-     "então",
-     "portanto"
-    ],
-    "de": "Also, wenn das so ist."
-   }
-  ],
-  "32": [
-   {
-    "word": "Tadellos",
-    "lemma": "tadellos",
-    "pt": [
-     "impecável",
-     "perfeito"
-    ],
-    "de": "Ohne Fehler."
-   },
-   {
-    "word": "Begriff",
-    "lemma": "der Begriff",
-    "pt": [
-     "termo",
-     "palavra"
-    ],
-    "de": "Ein Wort für eine Sache."
-   }
-  ],
-  "33": [
-   {
-    "word": "hingegen",
-    "lemma": "hingegen",
-    "pt": [
-     "por sua vez",
-     "em contrapartida"
-    ],
-    "de": "Aber bei dir ist es anders."
-   }
-  ],
-  "35": [
-   {
-    "word": "Vorhin",
-    "lemma": "vorhin",
-    "pt": [
-     "há pouco",
-     "agora há pouco"
-    ],
-    "de": "Vor kurzer Zeit. Ein paar Minuten früher."
-   },
-   {
-    "word": "Weshalb",
-    "lemma": "weshalb",
-    "pt": [
-     "por que",
-     "por qual motivo"
-    ],
-    "de": "Warum."
-   }
-  ],
-  "36": [
-   {
-    "word": "ehrerbietig",
-    "lemma": "ehrerbietig",
-    "pt": [
-     "reverente",
-     "respeitoso"
-    ],
-    "de": "Mit sehr viel Respekt."
-   },
-   {
-    "word": "vorbehalten",
-    "lemma": "vorbehalten sein",
-    "pt": [
-     "reservado",
-     "destinado"
-    ],
-    "de": "Nur für andere, nicht für dich selbst."
-   }
-  ],
-  "37": [
-   {
-    "word": "demzufolge",
-    "lemma": "demzufolge",
-    "pt": [
-     "portanto",
-     "consequentemente"
-    ],
-    "de": "Also, deshalb."
-   }
-  ],
-  "39": [
-   {
-    "word": "Womit",
-    "lemma": "womit",
-    "pt": [
-     "com o quê",
-     "com que"
-    ],
-    "de": "Mit welchem Satz?"
-   },
-   {
-    "word": "Vorstellung",
-    "lemma": "die Vorstellung",
-    "pt": [
-     "apresentação",
-     "introdução"
-    ],
-    "de": "Du sagst einer neuen Person, wer du bist."
-   }
-  ],
-  "40": [
-   {
-    "word": "Sinngemäß",
-    "lemma": "sinngemäß",
-    "pt": [
-     "no sentido de",
-     "em resumo"
-    ],
-    "de": "Nicht genau übersetzt, aber das ist die Bedeutung."
-   }
-  ],
-  "41": [
-   {
-    "word": "wörtliche",
-    "lemma": "wörtlich",
-    "pt": [
-     "literal",
-     "palavra por palavra"
-    ],
-    "de": "Genau Wort für Wort."
-   },
-   {
-    "word": "Entsprechung",
-    "lemma": "die Entsprechung",
-    "pt": [
-     "equivalente",
-     "correspondência"
-    ],
-    "de": "Etwas Gleiches in einer anderen Sprache."
-   }
-  ],
-  "42": [
-   {
-    "word": "feststehende",
-    "lemma": "feststehend",
-    "pt": [
-     "fixo",
-     "consagrado"
-    ],
-    "de": "Immer gleich, man ändert es nicht."
-   },
-   {
-    "word": "wohlwollendes",
-    "lemma": "wohlwollend",
-    "pt": [
-     "benevolente",
-     "amigável"
-    ],
-    "de": "Freundlich, man will Gutes für den anderen."
-   }
-  ],
-  "43": [
-   {
-    "word": "Vorstellung",
-    "lemma": "die Vorstellung",
-    "pt": [
-     "apresentação",
-     "introdução"
-    ],
-    "de": "Hier: alles, was du beim ersten Treffen über dich sagst."
-   }
-  ],
-  "44": [
-   {
-    "word": "Anschließend",
-    "lemma": "anschließend",
-    "pt": [
-     "em seguida",
-     "depois"
-    ],
-    "de": "Danach."
-   }
-  ],
-  "45": [
-   {
-    "word": "Ergänzend",
-    "lemma": "ergänzend",
-    "pt": [
-     "complementando",
-     "adicionalmente"
-    ],
-    "de": "Noch dazu, als Extra."
-   }
-  ],
-  "46": [
-   {
-    "word": "abschließend",
-    "lemma": "abschließend",
-    "pt": [
-     "para concluir",
-     "por fim"
-    ],
-    "de": "Ganz am Ende."
-   }
-  ],
-  "47": [
-   {
-    "word": "Lässt",
-    "lemma": "sich lassen",
-    "pt": [
-     "dá para",
-     "é possível"
-    ],
-    "de": "Lässt sich das heißt: Kann man das?"
-   },
-   {
-    "word": "knapper",
-    "lemma": "knapp",
-    "pt": [
-     "mais conciso",
-     "mais curto"
-    ],
-    "de": "Kürzer, mit weniger Wörtern."
-   }
-  ],
-  "48": [
-   {
-    "word": "Sofern",
-    "lemma": "sofern",
-    "pt": [
-     "desde que",
-     "contanto que"
-    ],
-    "de": "Wenn das so ist."
-   },
-   {
-    "word": "entfällt",
-    "lemma": "entfallen",
-    "pt": [
-     "cai",
-     "é omitido"
-    ],
-    "de": "Man sagt es nicht."
-   }
-  ],
-  "49": [
-   {
-    "word": "vorangestelltem",
-    "lemma": "voranstellen",
-    "pt": [
-     "colocado antes",
-     "posto na frente"
-    ],
-    "de": "Der Gruß kommt zuerst, vor dem Namen."
-   },
-   {
-    "word": "Gruß",
-    "lemma": "der Gruß",
-    "pt": [
-     "cumprimento",
-     "saudação"
-    ],
-    "de": "Hier: das erste Wort, wenn ihr euch trefft."
-   }
-  ],
-  "50": [
-   {
-    "word": "Ausgesprochen",
-    "lemma": "ausgesprochen",
-    "pt": [
-     "extremamente",
-     "muito"
-    ],
-    "de": "Sehr, wirklich."
-   }
-  ],
-  "51": [
-   {
-    "word": "einüben",
-    "lemma": "einüben",
-    "pt": [
-     "praticar",
-     "treinar"
-    ],
-    "de": "Etwas oft machen, bis man es kann."
-   }
-  ],
-  "52": [
-   {
-    "word": "äußere",
-    "lemma": "äußern",
-    "pt": [
-     "digo",
-     "expresso"
-    ],
-    "de": "Ich sage es."
-   },
-   {
-    "word": "erwiderst",
-    "lemma": "erwidern",
-    "pt": [
-     "respondes",
-     "retribuis"
-    ],
-    "de": "Du antwortest darauf."
-   }
-  ],
-  "58": [
-   {
-    "word": "verkürzt",
-    "lemma": "verkürzen",
-    "pt": [
-     "abreviado",
-     "encurtado"
-    ],
-    "de": "Kürzer gemacht."
+    "de": "Hier: vor dem Namen, zuerst."
    }
   ],
   "60": [
-   {
-    "word": "tätig",
-    "lemma": "tätig sein",
-    "pt": [
-     "trabalha",
-     "atua"
-    ],
-    "de": "Sie arbeitet dort."
-   },
    {
     "word": "Büroangestellte",
     "lemma": "die Büroangestellte",
     "pt": [
      "funcionária de escritório",
-     "empregada de escritório"
+     "funcionária de empresa"
     ],
     "de": "Eine Frau, die in einem Büro arbeitet."
    }
@@ -837,9 +246,31 @@
     "lemma": "die Büroangestellte",
     "pt": [
      "funcionária de escritório",
-     "empregada de escritório"
+     "funcionária de empresa"
     ],
-    "de": "Hier: Nakamura arbeitet im Büro einer Firma."
+    "de": "Eine Frau, die in einem Büro arbeitet."
+   }
+  ],
+  "63": [
+   {
+    "word": "Büroangestellte",
+    "lemma": "die Büroangestellte",
+    "pt": [
+     "funcionária de escritório",
+     "funcionária de empresa"
+    ],
+    "de": "Eine Frau, die in einem Büro arbeitet."
+   }
+  ],
+  "72": [
+   {
+    "word": "Büroangestellte",
+    "lemma": "die Büroangestellte",
+    "pt": [
+     "funcionária de escritório",
+     "funcionária de empresa"
+    ],
+    "de": "Eine Frau, die in einem Büro arbeitet."
    }
   ],
   "62": [
@@ -850,96 +281,18 @@
      "sobrenome",
      "nome de família"
     ],
-    "de": "Der Name der Familie."
-   },
-   {
-    "word": "Zudem",
-    "lemma": "zudem",
-    "pt": [
-     "além disso",
-     "também"
-    ],
-    "de": "Außerdem, noch dazu."
-   }
-  ],
-  "63": [
-   {
-    "word": "Demnach",
-    "lemma": "demnach",
-    "pt": [
-     "então",
-     "portanto"
-    ],
-    "de": "Also, so wie gerade gesagt."
-   },
-   {
-    "word": "anschließend",
-    "lemma": "anschließend",
-    "pt": [
-     "em seguida",
-     "depois"
-    ],
-    "de": "Danach, als nächsten Satz."
-   },
-   {
-    "word": "Büroangestellte",
-    "lemma": "die Büroangestellte",
-    "pt": [
-     "funcionária de escritório",
-     "empregada de escritório"
-    ],
-    "de": "Hier: das ist die Arbeit von Nakamura."
+    "de": "Der Name der Familie, zum Beispiel Nakamura."
    }
   ],
   "64": [
    {
-    "word": "verkörpere",
-    "lemma": "verkörpern",
+    "word": "fängst",
+    "lemma": "anfangen",
     "pt": [
-     "interpreto",
-     "encarno"
+     "começa",
+     "inicia"
     ],
-    "de": "Ich spiele diese Person."
-   },
-   {
-    "word": "Mittagszeit",
-    "lemma": "die Mittagszeit",
-    "pt": [
-     "hora do almoço",
-     "meio-dia"
-    ],
-    "de": "Die Zeit um zwölf Uhr, wenn man isst."
-   },
-   {
-    "word": "eröffnest",
-    "lemma": "eröffnen",
-    "pt": [
-     "abres",
-     "inicias"
-    ],
-    "de": "Du beginnst."
-   }
-  ],
-  "72": [
-   {
-    "word": "Büroangestellte",
-    "lemma": "die Büroangestellte",
-    "pt": [
-     "funcionária de escritório",
-     "empregada de escritório"
-    ],
-    "de": "Hier: Nakamura sagt, sie arbeitet im Büro."
-   }
-  ],
-  "74": [
-   {
-    "word": "allererstes",
-    "lemma": "allererster",
-    "pt": [
-     "primeiríssimo",
-     "o primeiro de todos"
-    ],
-    "de": "Das erste von allen, ganz am Anfang."
+    "de": "„Du fängst an“: du bist zuerst dran."
    }
   ],
   "82": [
@@ -947,50 +300,32 @@
     "word": "vorgestellt",
     "lemma": "sich vorstellen",
     "pt": [
-     "apresentado",
+     "apresentou",
      "se apresentou"
     ],
-    "de": "Du hast gesagt, wer du bist."
+    "de": "Du sagst, wer du bist."
    }
   ],
   "83": [
    {
-    "word": "präge",
-    "lemma": "sich einprägen",
+    "word": "merk",
+    "lemma": "sich merken",
     "pt": [
-     "gravo",
+     "guardo",
      "memorizo"
     ],
-    "de": "Ich behalte es fest im Kopf."
-   },
-   {
-    "word": "Abschluss",
-    "lemma": "der Abschluss",
-    "pt": [
-     "final",
-     "conclusão"
-    ],
-    "de": "Hier: ganz am Ende vom Gespräch."
+    "de": "Ich behalte es im Kopf."
    }
   ],
   "84": [
    {
-    "word": "verrätst",
-    "lemma": "verraten",
+    "word": "erzählst",
+    "lemma": "erzählen",
     "pt": [
-     "revelas",
-     "contas"
+     "conta",
+     "fala"
     ],
-    "de": "Du erzählst es."
-   },
-   {
-    "word": "gewöhnlich",
-    "lemma": "gewöhnlich",
-    "pt": [
-     "costumas",
-     "normalmente"
-    ],
-    "de": "Meistens, normalerweise."
+    "de": "Du sagst etwas über dich oder eine Sache."
    }
   ]
  }
