@@ -19,6 +19,15 @@
      "frio na barriga"
     ],
     "de": "Du bist nervös, bevor du vor anderen etwas machst."
+   },
+   {
+    "word": "angespannt",
+    "lemma": "angespannt",
+    "pt": [
+     "tenso",
+     "nervoso"
+    ],
+    "de": "Nervös und unruhig, nicht locker."
    }
   ],
   "2": [
@@ -30,6 +39,15 @@
      "saudação"
     ],
     "de": "Damit sagst du Hallo zu jemandem."
+   },
+   {
+    "word": "Ruhe",
+    "lemma": "die Ruhe",
+    "pt": [
+     "calma",
+     "tranquilidade"
+    ],
+    "de": "„In Ruhe“: ohne Stress, langsam."
    }
   ],
   "4": [
@@ -52,13 +70,13 @@
     "de": "Am Tag, wenn es hell ist."
    },
    {
-    "word": "begrüßt",
-    "lemma": "begrüßen",
+    "word": "anzusprechen",
+    "lemma": "ansprechen",
     "pt": [
-     "cumprimenta",
-     "saúda"
+     "falar com",
+     "dirigir-se a"
     ],
-    "de": "Du sagst Hallo zu jemandem."
+    "de": "Jemandem etwas sagen, das Gespräch beginnen."
    }
   ],
   "8": [
@@ -83,6 +101,17 @@
     "de": "Damit sagst du Hallo zu jemandem."
    }
   ],
+  "10": [
+   {
+    "word": "Begegnung",
+    "lemma": "die Begegnung",
+    "pt": [
+     "encontro",
+     "primeiro contato"
+    ],
+    "de": "Wenn man jemanden trifft."
+   }
+  ],
   "16": [
    {
     "word": "zeigst",
@@ -101,6 +130,39 @@
      "sobre o quê"
     ],
     "de": "„Worum es geht“: das Thema."
+   }
+  ],
+  "18": [
+   {
+    "word": "gemeint",
+    "lemma": "meinen",
+    "pt": [
+     "quis dizer",
+     "é o sentido"
+    ],
+    "de": "„So ist das gemeint“: Das ist der Sinn."
+   }
+  ],
+  "21": [
+   {
+    "word": "immerhin",
+    "lemma": "immerhin",
+    "pt": [
+     "pelo menos",
+     "afinal"
+    ],
+    "de": "Wenigstens; das ist schon etwas."
+   }
+  ],
+  "22": [
+   {
+    "word": "schriftlichen",
+    "lemma": "schriftlich",
+    "pt": [
+     "escrita",
+     "por escrito"
+    ],
+    "de": "Geschrieben, nicht gesprochen."
    }
   ],
   "24": [
@@ -167,6 +229,53 @@
      "metido"
     ],
     "de": "Man hält sich selbst für besser als andere."
+   },
+   {
+    "word": "Betrachte",
+    "lemma": "betrachten",
+    "pt": [
+     "considere",
+     "encare"
+    ],
+    "de": "Etwas auf eine bestimmte Art sehen."
+   },
+   {
+    "word": "Gesellschaft",
+    "lemma": "die Gesellschaft",
+    "pt": [
+     "sociedade",
+     "comunidade"
+    ],
+    "de": "Alle Menschen eines Landes und ihre Regeln."
+   },
+   {
+    "word": "wirken",
+    "lemma": "wirken",
+    "pt": [
+     "parecer",
+     "dar a impressão"
+    ],
+    "de": "Einen bestimmten Eindruck machen."
+   }
+  ],
+  "39": [
+   {
+    "word": "womit",
+    "lemma": "womit",
+    "pt": [
+     "com o quê",
+     "com que"
+    ],
+    "de": "Mit welcher Sache."
+   },
+   {
+    "word": "schließe",
+    "lemma": "schließen",
+    "pt": [
+     "fecho",
+     "termino"
+    ],
+    "de": "Hier: zum Ende kommen, aufhören."
    }
   ],
   "42": [
@@ -189,13 +298,53 @@
     "de": "„Darum bitten“: um diese Sache bitten."
    },
    {
-    "word": "auskommt",
-    "lemma": "auskommen",
+    "word": "oberflächlich",
+    "lemma": "oberflächlich",
     "pt": [
-     "se dá bem",
-     "convive bem"
+     "superficial",
+     "raso"
     ],
-    "de": "„Gut miteinander auskommen“: keinen Streit haben."
+    "de": "Nicht tief, nur das Äußere."
+   }
+  ],
+  "46": [
+   {
+    "word": "hinterlässt",
+    "lemma": "hinterlassen",
+    "pt": [
+     "deixa",
+     "causa"
+    ],
+    "de": "„Einen Eindruck hinterlassen“: so wirkt man auf andere."
+   },
+   {
+    "word": "Eindruck",
+    "lemma": "der Eindruck",
+    "pt": [
+     "impressão",
+     "imagem"
+    ],
+    "de": "Was andere über einen denken."
+   }
+  ],
+  "47": [
+   {
+    "word": "Fassung",
+    "lemma": "die Fassung",
+    "pt": [
+     "versão",
+     "forma"
+    ],
+    "de": "Eine Version von einem Text."
+   },
+   {
+    "word": "draus",
+    "lemma": "daraus",
+    "pt": [
+     "disso",
+     "a partir disso"
+    ],
+    "de": "Umgangssprachlich für daraus."
    }
   ],
   "48": [
@@ -207,6 +356,15 @@
      "omite"
     ],
     "de": "„Weglassen“: man sagt es nicht."
+   },
+   {
+    "word": "Irrglaube",
+    "lemma": "der Irrglaube",
+    "pt": [
+     "engano",
+     "crença errada"
+    ],
+    "de": "Etwas, das man fälschlich glaubt."
    }
   ],
   "49": [
@@ -227,6 +385,17 @@
      "na frente"
     ],
     "de": "Hier: vor dem Namen, zuerst."
+   }
+  ],
+  "58": [
+   {
+    "word": "Fassung",
+    "lemma": "die Fassung",
+    "pt": [
+     "versão",
+     "forma"
+    ],
+    "de": "Eine Version von einem Text."
    }
   ],
   "60": [
@@ -297,13 +466,22 @@
   ],
   "74": [
    {
-    "word": "umgekehrt",
-    "lemma": "umgekehrt",
+    "word": "überflüssig",
+    "lemma": "überflüssig",
     "pt": [
-     "ao contrário",
-     "inversamente"
+     "desnecessário",
+     "supérfluo"
     ],
-    "de": "Andersherum als vorher: erst Deutsch, dann Japanisch."
+    "de": "Nicht nötig, zu viel."
+   },
+   {
+    "word": "kehren",
+    "lemma": "umkehren",
+    "pt": [
+     "inverter",
+     "virar ao contrário"
+    ],
+    "de": "„Wir kehren es um“: andersherum machen."
    }
   ],
   "82": [
@@ -315,17 +493,44 @@
      "se apresentou"
     ],
     "de": "Du sagst, wer du bist."
+   },
+   {
+    "word": "Erledigt",
+    "lemma": "erledigen",
+    "pt": [
+     "pronto",
+     "feito"
+    ],
+    "de": "Fertig, nichts mehr zu tun."
+   },
+   {
+    "word": "Ergebnis",
+    "lemma": "das Ergebnis",
+    "pt": [
+     "resultado",
+     "conclusão"
+    ],
+    "de": "Was am Ende herauskommt."
+   },
+   {
+    "word": "gelungen",
+    "lemma": "gelingen",
+    "pt": [
+     "deu certo",
+     "saiu bem"
+    ],
+    "de": "Es hat gut geklappt."
    }
   ],
   "83": [
    {
-    "word": "merk",
-    "lemma": "sich merken",
+    "word": "einsatzbereit",
+    "lemma": "einsatzbereit",
     "pt": [
-     "guardo",
-     "memorizo"
+     "pronto",
+     "preparado"
     ],
-    "de": "Ich behalte es im Kopf."
+    "de": "Bereit, sofort loszulegen."
    }
   ],
   "84": [
@@ -337,6 +542,24 @@
      "fala"
     ],
     "de": "Du sagst etwas über dich oder eine Sache."
+   },
+   {
+    "word": "Lampenfieber",
+    "lemma": "das Lampenfieber",
+    "pt": [
+     "nervosismo",
+     "frio na barriga"
+    ],
+    "de": "Du bist nervös, bevor du vor anderen etwas machst."
+   },
+   {
+    "word": "umsonst",
+    "lemma": "umsonst",
+    "pt": [
+     "à toa",
+     "em vão"
+    ],
+    "de": "Ohne Grund, es war nicht nötig."
    }
   ]
  }
