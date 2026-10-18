@@ -114,15 +114,6 @@
   ],
   "16": [
    {
-    "word": "zeigst",
-    "lemma": "zeigen",
-    "pt": [
-     "mostra",
-     "indica"
-    ],
-    "de": "Du machst etwas klar, damit der andere es sieht."
-   },
-   {
     "word": "worum",
     "lemma": "worum",
     "pt": [
@@ -387,6 +378,17 @@
     "de": "Hier: vor dem Namen, zuerst."
    }
   ],
+  "52": [
+   {
+    "word": "fange",
+    "lemma": "anfangen",
+    "pt": [
+     "começo",
+     "inicio"
+    ],
+    "de": "„Ich fange an“: Ich mache den Anfang."
+   }
+  ],
   "58": [
    {
     "word": "Fassung",
@@ -422,7 +424,7 @@
   ],
   "62": [
    {
-    "word": "Nachname",
+    "word": "Nachnamen",
     "lemma": "der Nachname",
     "pt": [
      "sobrenome",
