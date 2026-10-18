@@ -1,80 +1,80 @@
 Jonas: Morgen ist meine erste Kaffeepause mit Nakamura. Ich will sie auch mal was fragen.
-Aoki: Gute Idee, sonst redest nur du. Für eine Frage brauchst du nur ein Wort am Ende: {か|か|ka|Fragepartikel}.
-Jonas: {か|か|ka|Fragepartikel}. Nur das? Keine Umstellung wie im Deutschen?
-Aoki: Nein, der Satz bleibt, wie er ist. Nimm ein Verb, das du kennst: {飲みます|のみます|nomimasu|trinke, trinkt (höflich)}. Trinke.
-Jonas: {飲みます|のみます|nomimasu|trinke, trinkt (höflich)}. Trinke. Und jetzt mit dem kleinen Wort?
-Aoki: {飲みますか|のみますか|nomimasu ka|Trinkst du?}. Trinkst du? Die Stimme geht am Ende etwas hoch.
-Jonas: {飲みますか|のみますか|nomimasu ka|Trinkst du?}. Trinkst du? Also fast wie bei uns.
-Aoki: Ja. Jetzt mit Kaffee davor: {コーヒーを飲みますか|こーひーをのみますか|koohii o nomimasu ka|Trinkst du Kaffee?|こーひーおのみますか}. Trinkst du Kaffee?
-Jonas: {コーヒーを飲みますか|こーひーをのみますか|koohii o nomimasu ka|Trinkst du Kaffee?|こーひーおのみますか}. Trinkst du Kaffee? Und wo ist das „du“?
-Aoki: Das lässt man weg, man sieht ja, wen man fragt. Mit Tee: {お茶を飲みますか|おちゃをのみますか|ocha o nomimasu ka|Trinkst du Tee?|おちゃおのみますか}. Trinkst du Tee?
-Jonas: {お茶を飲みますか|おちゃをのみますか|ocha o nomimasu ka|Trinkst du Tee?|おちゃおのみますか}. Trinkst du Tee? Und wie antworte ich mit Ja?
-Aoki: Ja heißt {はい|はい|hai|ja}. Danach sagst du einfach das Verb noch mal: {はい、飲みます|はいのみます|hai, nomimasu|Ja, trinke ich}. Ja, trinke ich.
-Jonas: {はい、飲みます|はいのみます|hai, nomimasu|Ja, trinke ich}. Ja, trinke ich. Ist das Verb nicht doppelt gemoppelt?
+Aoki: Gute Idee, sonst redest nur du. Für eine Frage brauchst du nur ein Wort am Ende, nämlich {か|か|ka|Fragepartikel}. Es hat keine Übersetzung, es macht den Satz einfach zur Frage.
+Jonas: {か|か|ka|Fragepartikel} macht also die Frage. Nur das? Keine Umstellung wie im Deutschen?
+Aoki: Nein, der Satz bleibt, wie er ist. Nimm ein Verb, das du kennst: {飲みます|のみます|nomimasu|trinke, trinkt (höflich)}, also trinke.
+Jonas: {飲みます|のみます|nomimasu|trinke, trinkt (höflich)} heißt trinke. Und jetzt mit dem kleinen Wort?
+Aoki: Dann sagst du {飲みますか|のみますか|nomimasu ka|Trinkst du?}. Das heißt: Trinkst du? Die Stimme geht am Ende etwas hoch.
+Jonas: {飲みますか|のみますか|nomimasu ka|Trinkst du?} heißt also: Trinkst du? Fast wie bei uns.
+Aoki: Ja. Jetzt mit Kaffee davor: {コーヒーを飲みますか|こーひーをのみますか|koohii o nomimasu ka|Trinkst du Kaffee?|こーひーおのみますか}. Das heißt: Trinkst du Kaffee?
+Jonas: {コーヒーを飲みますか|こーひーをのみますか|koohii o nomimasu ka|Trinkst du Kaffee?|こーひーおのみますか}, also: Trinkst du Kaffee? Und wo ist das „du“?
+Aoki: Das lässt man weg, man sieht ja, wen man fragt. Mit Tee heißt es {お茶を飲みますか|おちゃをのみますか|ocha o nomimasu ka|Trinkst du Tee?|おちゃおのみますか}, also: Trinkst du Tee?
+Jonas: {お茶を飲みますか|おちゃをのみますか|ocha o nomimasu ka|Trinkst du Tee?|おちゃおのみますか}, trinkst du Tee. Und wie antworte ich mit Ja?
+Aoki: Ja heißt {はい|はい|hai|ja}. Danach sagst du einfach das Verb noch mal: {はい、飲みます|はいのみます|hai, nomimasu|Ja, trinke ich}. Das heißt: Ja, trinke ich.
+Jonas: {はい、飲みます|はいのみます|hai, nomimasu|Ja, trinke ich} heißt also: Ja, trinke ich. Ist das Verb nicht doppelt gemoppelt?
 Aoki: Nein, so antwortet man ganz normal. Nur „ja“ klingt ziemlich knapp.
 Jonas: Und wie sage ich nein?
-Aoki: Nein heißt {いいえ|いいえ|iie|nein}. Nein.
-Jonas: {いいえ|いいえ|iie|nein}. Nein. Und dann so was wie „trinke nicht“?
-Aoki: Genau. Aus {飲みます|のみます|nomimasu|trinke, trinkt (höflich)} wird {飲みません|のみません|nomimasen|trinke nicht (höflich)}. Trinke nicht.
-Jonas: {飲みません|のみません|nomimasen|trinke nicht (höflich)}. Trinke nicht. Da ändert sich ja nur das Ende.
-Aoki: Richtig, nur die letzte Silbe. Zusammen: {いいえ、飲みません|いいえのみません|iie, nomimasen|Nein, trinke ich nicht}. Nein, trinke ich nicht.
-Jonas: {いいえ、飲みません|いいえのみません|iie, nomimasen|Nein, trinke ich nicht}. Nein, trinke ich nicht. Geht das auch für „kein“, also kein Bier?
-Aoki: Ja, da macht Japanisch keinen Unterschied. Bier heißt übrigens {ビール|びーる|biiru|Bier}. Bier.
-Jonas: {ビール|びーる|biiru|Bier}. Bier. Klingt fast deutsch.
-Aoki: Kommt aber aus dem Niederländischen, wie der Kaffee. Also: {私はビールを飲みません|わたしはびーるをのみません|watashi wa biiru o nomimasen|Ich trinke kein Bier|わたしわびーるおのみません}. Ich trinke kein Bier.
-Jonas: {私はビールを飲みません|わたしはびーるをのみません|watashi wa biiru o nomimasen|Ich trinke kein Bier|わたしわびーるおのみません}. Ich trinke kein Bier. Mittags im Büro sowieso nicht.
-Aoki: Und Wein heißt {ワイン|わいん|wain|Wein}. Wein.
-Jonas: {ワイン|わいん|wain|Wein}. Wein. Dann frag ich dich: {ワインを飲みますか|わいんをのみますか|wain o nomimasu ka|Trinkst du Wein?|わいんおのみますか}. Trinkst du Wein?
-Aoki: {はい、飲みます|はいのみます|hai, nomimasu|Ja, trinke ich}. Ja, trinke ich. Aber nur abends, keine Sorge.
+Aoki: Nein heißt auf Japanisch {いいえ|いいえ|iie|nein}.
+Jonas: {いいえ|いいえ|iie|nein} heißt also nein. Und dann so was wie „trinke nicht“?
+Aoki: Genau. Aus {飲みます|のみます|nomimasu|trinke, trinkt (höflich)}, trinke, wird {飲みません|のみません|nomimasen|trinke nicht (höflich)}. Das heißt: trinke nicht.
+Jonas: {飲みません|のみません|nomimasen|trinke nicht (höflich)} heißt also trinke nicht. Da ändert sich ja nur das Ende.
+Aoki: Richtig, nur die letzte Silbe. Zusammen: {いいえ、飲みません|いいえのみません|iie, nomimasen|Nein, trinke ich nicht}. Das heißt: Nein, trinke ich nicht.
+Jonas: {いいえ、飲みません|いいえのみません|iie, nomimasen|Nein, trinke ich nicht}, also: Nein, trinke ich nicht. Geht das auch für „kein“, also kein Bier?
+Aoki: Ja, da macht Japanisch keinen Unterschied. Bier heißt übrigens {ビール|びーる|biiru|Bier}.
+Jonas: {ビール|びーる|biiru|Bier} heißt also Bier. Klingt fast deutsch.
+Aoki: Kommt aber aus dem Niederländischen, wie der Kaffee. Ich trinke kein Bier heißt also {私はビールを飲みません|わたしはびーるをのみません|watashi wa biiru o nomimasen|Ich trinke kein Bier|わたしわびーるおのみません}.
+Jonas: {私はビールを飲みません|わたしはびーるをのみません|watashi wa biiru o nomimasen|Ich trinke kein Bier|わたしわびーるおのみません}, also: Ich trinke kein Bier. Mittags im Büro sowieso nicht.
+Aoki: Und Wein heißt {ワイン|わいん|wain|Wein}.
+Jonas: {ワイン|わいん|wain|Wein} heißt also Wein. Dann frag ich dich: {ワインを飲みますか|わいんをのみますか|wain o nomimasu ka|Trinkst du Wein?|わいんおのみますか}, also: Trinkst du Wein?
+Aoki: {はい、飲みます|はいのみます|hai, nomimasu|Ja, trinke ich}, also: Ja, trinke ich. Aber nur abends, keine Sorge.
 Jonas: Jetzt fehlt mir noch eine Frage, auf die man nicht nur mit Ja oder Nein antwortet.
-Aoki: Dafür gibt's {何|なに|nani|was}. Was.
-Jonas: {何|なに|nani|was}. Was. Und wo kommt das hin?
-Aoki: Genau da, wo sonst das Getränk steht: {何を|なにを|nani o|was, als Objekt|なにお}. Was, als das, was man trinkt.
-Jonas: {何を|なにを|nani o|was, als Objekt|なにお}. Dann mit Verb und Frage: {何を飲みますか|なにをのみますか|nani o nomimasu ka|Was trinkst du?|なにおのみますか}. Was trinkst du?
-Aoki: Perfekt: {何を飲みますか|なにをのみますか|nani o nomimasu ka|Was trinkst du?|なにおのみますか}. Und du antwortest einfach mit dem Getränk: {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ich trinke Tee|おちゃおのみます}. Ich trinke Tee.
-Jonas: {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ich trinke Tee|おちゃおのみます}. Ich trinke Tee. Ohne {はい|はい|hai|ja} oder {いいえ|いいえ|iie|nein} davor?
-Aoki: Klar, die passen nur zu Ja-Nein-Fragen. Und noch was Nettes zum Zuhören: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}. Ach so.
-Jonas: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}. Ach so. Ist das auch eine Frage?
+Aoki: Dafür gibt's {何|なに|nani|was}. Das heißt: was.
+Jonas: {何|なに|nani|was} heißt also was. Und wo kommt das hin?
+Aoki: Genau da, wo sonst das Getränk steht: {何を|なにを|nani o|was, als Objekt|なにお}. Das bedeutet: was, als das, was man trinkt.
+Jonas: Also {何を|なにを|nani o|was, als Objekt|なにお}. Dann mit Verb und Frage: {何を飲みますか|なにをのみますか|nani o nomimasu ka|Was trinkst du?|なにおのみますか}. Das heißt: Was trinkst du?
+Aoki: Perfekt: {何を飲みますか|なにをのみますか|nani o nomimasu ka|Was trinkst du?|なにおのみますか}, was trinkst du? Und du antwortest einfach mit dem Getränk, zum Beispiel {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ich trinke Tee|おちゃおのみます}. Das heißt: Ich trinke Tee.
+Jonas: {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ich trinke Tee|おちゃおのみます}, also: Ich trinke Tee. Ohne {はい|はい|hai|ja}, ja, oder {いいえ|いいえ|iie|nein}, nein, davor?
+Aoki: Klar, die passen nur zu Ja-Nein-Fragen. Und noch was Nettes zum Zuhören: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}. Das heißt ungefähr: Ach so, wirklich?
+Jonas: {そうですか|そうですか|sou desu ka|Ach so, wirklich?} heißt also: Ach so. Ist das auch eine Frage?
 Aoki: Nicht wirklich. Damit zeigst du nur, dass du zuhörst. So wie: Ach, wirklich?
 Jonas: Und wie frage ich jemanden, ob er Student ist?
-Aoki: Genauso: {か|か|ka|Fragepartikel} kommt einfach hinter {です|です|desu|höflicher Abschluss}. Also: {学生ですか|がくせいですか|gakusei desu ka|Bist du Student?}. Bist du Student?
-Jonas: {学生ですか|がくせいですか|gakusei desu ka|Bist du Student?}. Bist du Student? Und ich sag: {はい、学生です|はいがくせいです|hai, gakusei desu|Ja, ich bin Student}. Ja, ich bin Student.
-Aoki: Genau. Und über Nakamura: {中村さんは学生ですか|なかむらさんはがくせいですか|Nakamura san wa gakusei desu ka|Ist Frau Nakamura Studentin?|なかむらさんわがくせいですか}. Ist Frau Nakamura Studentin?
-Jonas: {中村さんは学生ですか|なかむらさんはがくせいですか|Nakamura san wa gakusei desu ka|Ist Frau Nakamura Studentin?|なかむらさんわがくせいですか}. Ist Frau Nakamura Studentin? Eher nicht, oder?
-Aoki: Nein: {いいえ、会社員です|いいえかいしゃいんです|iie, kaishain desu|Nein, Büroangestellte}. Nein, Büroangestellte. Statt „ist sie nicht“ sagst du einfach, was stimmt.
-Jonas: {いいえ、会社員です|いいえかいしゃいんです|iie, kaishain desu|Nein, Büroangestellte}. Nein, Büroangestellte. Und wenn ich sie direkt anspreche?
-Aoki: Dann nimmst du ihren Namen statt „du“: {中村さんは何を飲みますか|なかむらさんはなにをのみますか|Nakamura san wa nani o nomimasu ka|Frau Nakamura, was trinken Sie?|なかむらさんわなにおのみますか}. Frau Nakamura, was trinken Sie?
-Jonas: {中村さんは何を飲みますか|なかむらさんはなにをのみますか|Nakamura san wa nani o nomimasu ka|Frau Nakamura, was trinken Sie?|なかむらさんわなにおのみますか}. Frau Nakamura, was trinken Sie? Das klingt richtig höflich.
-Aoki: Ist es auch. Jetzt mit einer Zeit: {朝何を飲みますか|あさなにをのみますか|asa nani o nomimasu ka|Was trinkst du morgens?|あさなにおのみますか}. Was trinkst du morgens?
-Jonas: {朝何を飲みますか|あさなにをのみますか|asa nani o nomimasu ka|Was trinkst du morgens?|あさなにおのみますか}. Was trinkst du morgens? Meine Antwort: {朝コーヒーを飲みます|あさこーひーをのみます|asa koohii o nomimasu|Ich trinke morgens Kaffee|あさこーひーおのみます}. Ich trinke morgens Kaffee.
-Aoki: Super. Jetzt hin und her: Ich frage, du antwortest. {コーヒーを飲みますか|こーひーをのみますか|koohii o nomimasu ka|Trinkst du Kaffee?|こーひーおのみますか}. Trinkst du Kaffee?
-Jonas: {はい、飲みます|はいのみます|hai, nomimasu|Ja, trinke ich}. Ja, trinke ich.
-Aoki: {ビールを飲みますか|びーるをのみますか|biiru o nomimasu ka|Trinkst du Bier?|びーるおのみますか}. Trinkst du Bier?
-Jonas: {いいえ、飲みません|いいえのみません|iie, nomimasen|Nein, trinke ich nicht}. Nein, trinke ich nicht.
-Aoki: {何を飲みますか|なにをのみますか|nani o nomimasu ka|Was trinkst du?|なにおのみますか}. Was trinkst du?
-Jonas: {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ich trinke Tee|おちゃおのみます}. Ich trinke Tee.
-Aoki: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}. Ach so. {学生ですか|がくせいですか|gakusei desu ka|Bist du Student?}. Bist du Student?
-Jonas: {はい、学生です|はいがくせいです|hai, gakusei desu|Ja, ich bin Student}. Ja, ich bin Student.
-Aoki: {ワインを飲みますか|わいんをのみますか|wain o nomimasu ka|Trinkst du Wein?|わいんおのみますか}. Trinkst du Wein?
-Jonas: {いいえ、飲みません|いいえのみません|iie, nomimasen|Nein, trinke ich nicht}. Nein, trinke ich nicht. Okay, jetzt kommt Nakamura dran?
-Aoki: Ja, ich spiele sie. Kaffeepause im Büro, du fängst an.
-Jonas: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Hallo.
-Aoki: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Hallo.
-Jonas: {中村さんは何を飲みますか|なかむらさんはなにをのみますか|Nakamura san wa nani o nomimasu ka|Frau Nakamura, was trinken Sie?|なかむらさんわなにおのみますか}. Frau Nakamura, was trinken Sie?
-Aoki: {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ich trinke Tee|おちゃおのみます}. Ich trinke Tee. Und du: {コーヒーを飲みますか|こーひーをのみますか|koohii o nomimasu ka|Trinkst du Kaffee?|こーひーおのみますか}. Trinkst du Kaffee?
-Jonas: {はい、飲みます|はいのみます|hai, nomimasu|Ja, trinke ich}. Ja, trinke ich. Und zwar: {毎日飲みます|まいにちのみます|mainichi nomimasu|Ich trinke jeden Tag}. Jeden Tag.
-Aoki: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}. Ach so. Und dann: {学生ですか|がくせいですか|gakusei desu ka|Bist du Student?}. Bist du Student?
-Jonas: {はい、学生です|はいがくせいです|hai, gakusei desu|Ja, ich bin Student}. Ja, ich bin Student. Und Sie: {中村さんは学生ですか|なかむらさんはがくせいですか|Nakamura san wa gakusei desu ka|Ist Frau Nakamura Studentin?|なかむらさんわがくせいですか}. Sind Sie auch Studentin?
-Aoki: {いいえ、会社員です|いいえかいしゃいんです|iie, kaishain desu|Nein, Büroangestellte}. Nein, Büroangestellte.
-Jonas: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}. Ach so. Und: {ビールを飲みますか|びーるをのみますか|biiru o nomimasu ka|Trinkst du Bier?|びーるおのみますか}. Trinken Sie Bier?
-Aoki: {いいえ、飲みません|いいえのみません|iie, nomimasen|Nein, trinke ich nicht}. Nein. Aber: {ワインを飲みます|わいんをのみます|wain o nomimasu|Ich trinke Wein|わいんおのみます}. Ich trinke Wein.
-Jonas: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}. Ach so. Und ich: {私もワインを飲みます|わたしもわいんをのみます|watashi mo wain o nomimasu|Ich trinke auch Wein|わたしもわいんおのみます}. Ich trinke auch Wein.
+Aoki: Genauso: {か|か|ka|Fragepartikel} kommt einfach hinter {です|です|desu|höflicher Abschluss}. Bist du Student heißt also {学生ですか|がくせいですか|gakusei desu ka|Bist du Student?}.
+Jonas: {学生ですか|がくせいですか|gakusei desu ka|Bist du Student?}, bist du Student? Und ich sag: {はい、学生です|はいがくせいです|hai, gakusei desu|Ja, ich bin Student}. Das heißt: Ja, ich bin Student.
+Aoki: Genau. Und über Nakamura fragst du {中村さんは学生ですか|なかむらさんはがくせいですか|Nakamura san wa gakusei desu ka|Ist Frau Nakamura Studentin?|なかむらさんわがくせいですか}. Das heißt: Ist Frau Nakamura Studentin?
+Jonas: {中村さんは学生ですか|なかむらさんはがくせいですか|Nakamura san wa gakusei desu ka|Ist Frau Nakamura Studentin?|なかむらさんわがくせいですか}, also: Ist Frau Nakamura Studentin? Eher nicht, oder?
+Aoki: Nein. Die Antwort ist {いいえ、会社員です|いいえかいしゃいんです|iie, kaishain desu|Nein, Büroangestellte}, also: Nein, Büroangestellte. Statt „ist sie nicht“ sagst du einfach, was stimmt.
+Jonas: {いいえ、会社員です|いいえかいしゃいんです|iie, kaishain desu|Nein, Büroangestellte} heißt also: Nein, Büroangestellte. Und wenn ich sie direkt anspreche?
+Aoki: Dann nimmst du ihren Namen statt „du“: {中村さんは何を飲みますか|なかむらさんはなにをのみますか|Nakamura san wa nani o nomimasu ka|Frau Nakamura, was trinken Sie?|なかむらさんわなにおのみますか}. Das heißt: Frau Nakamura, was trinken Sie?
+Jonas: {中村さんは何を飲みますか|なかむらさんはなにをのみますか|Nakamura san wa nani o nomimasu ka|Frau Nakamura, was trinken Sie?|なかむらさんわなにおのみますか}, also: Frau Nakamura, was trinken Sie? Das klingt richtig höflich.
+Aoki: Ist es auch. Jetzt mit einer Zeit: {朝何を飲みますか|あさなにをのみますか|asa nani o nomimasu ka|Was trinkst du morgens?|あさなにおのみますか}. Das heißt: Was trinkst du morgens?
+Jonas: Was trinkst du morgens, also {朝何を飲みますか|あさなにをのみますか|asa nani o nomimasu ka|Was trinkst du morgens?|あさなにおのみますか}. Meine Antwort: {朝コーヒーを飲みます|あさこーひーをのみます|asa koohii o nomimasu|Ich trinke morgens Kaffee|あさこーひーおのみます}. Das heißt: Ich trinke morgens Kaffee.
+Aoki: Super. Jetzt hin und her: Ich frage, du antwortest, immer erst Japanisch, dann Deutsch. {コーヒーを飲みますか|こーひーをのみますか|koohii o nomimasu ka|Trinkst du Kaffee?|こーひーおのみますか}, also: Trinkst du Kaffee?
+Jonas: {はい、飲みます|はいのみます|hai, nomimasu|Ja, trinke ich}. Also: Ja, trinke ich.
+Aoki: {ビールを飲みますか|びーるをのみますか|biiru o nomimasu ka|Trinkst du Bier?|びーるおのみますか}. Heißt: Trinkst du Bier?
+Jonas: {いいえ、飲みません|いいえのみません|iie, nomimasen|Nein, trinke ich nicht}. Also: Nein, trinke ich nicht.
+Aoki: {何を飲みますか|なにをのみますか|nani o nomimasu ka|Was trinkst du?|なにおのみますか}. Heißt: Was trinkst du?
+Jonas: {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ich trinke Tee|おちゃおのみます}. Also: Ich trinke Tee.
+Aoki: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}, ach so. Und {学生ですか|がくせいですか|gakusei desu ka|Bist du Student?}, also: Bist du Student?
+Jonas: {はい、学生です|はいがくせいです|hai, gakusei desu|Ja, ich bin Student}. Also: Ja, ich bin Student.
+Aoki: {ワインを飲みますか|わいんをのみますか|wain o nomimasu ka|Trinkst du Wein?|わいんおのみますか}. Heißt: Trinkst du Wein?
+Jonas: {いいえ、飲みません|いいえのみません|iie, nomimasen|Nein, trinke ich nicht}, also: Nein, trinke ich nicht. Okay, jetzt kommt Nakamura dran?
+Aoki: Ja, ich spiele sie. Kaffeepause im Büro. Wir reden Japanisch, und nach jedem Satz sagen wir kurz, was er heißt. Du fängst an.
+Jonas: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Also: Hallo.
+Aoki: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Auch Hallo.
+Jonas: {中村さんは何を飲みますか|なかむらさんはなにをのみますか|Nakamura san wa nani o nomimasu ka|Frau Nakamura, was trinken Sie?|なかむらさんわなにおのみますか}. Heißt: Frau Nakamura, was trinken Sie?
+Aoki: {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Ich trinke Tee|おちゃおのみます}, also: Ich trinke Tee. Und du: {コーヒーを飲みますか|こーひーをのみますか|koohii o nomimasu ka|Trinkst du Kaffee?|こーひーおのみますか}, trinkst du Kaffee?
+Jonas: {はい、飲みます|はいのみます|hai, nomimasu|Ja, trinke ich}, also: Ja, trinke ich. Und zwar {毎日飲みます|まいにちのみます|mainichi nomimasu|Ich trinke jeden Tag}, jeden Tag.
+Aoki: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}, ach so. Und dann: {学生ですか|がくせいですか|gakusei desu ka|Bist du Student?}, bist du Student?
+Jonas: {はい、学生です|はいがくせいです|hai, gakusei desu|Ja, ich bin Student}, also: Ja, ich bin Student. Und Sie: {中村さんは学生ですか|なかむらさんはがくせいですか|Nakamura san wa gakusei desu ka|Ist Frau Nakamura Studentin?|なかむらさんわがくせいですか}, sind Sie auch Studentin?
+Aoki: {いいえ、会社員です|いいえかいしゃいんです|iie, kaishain desu|Nein, Büroangestellte}. Heißt: Nein, Büroangestellte.
+Jonas: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}, ach so. Und: {ビールを飲みますか|びーるをのみますか|biiru o nomimasu ka|Trinkst du Bier?|びーるおのみますか}, trinken Sie Bier?
+Aoki: {いいえ、飲みません|いいえのみません|iie, nomimasen|Nein, trinke ich nicht}, nein. Aber {ワインを飲みます|わいんをのみます|wain o nomimasu|Ich trinke Wein|わいんおのみます}, also: Ich trinke Wein.
+Jonas: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}, ach so. Und ich: {私もワインを飲みます|わたしもわいんをのみます|watashi mo wain o nomimasu|Ich trinke auch Wein|わたしもわいんおのみます}, also: Ich trinke auch Wein.
 Aoki: Ende der Szene. Das war ein echtes Gespräch, mit Fragen und Antworten.
 Jonas: Und jetzt fragst du mich wieder ab?
-Aoki: Genau: Deutsch, Pause, Japanisch. Trinkst du Kaffee: {コーヒーを飲みますか|こーひーをのみますか|koohii o nomimasu ka|Trinkst du Kaffee?|こーひーおのみますか}.
-Jonas: Nein, trinke ich nicht: {いいえ、飲みません|いいえのみません|iie, nomimasen|Nein, trinke ich nicht}.
-Aoki: Was trinkst du: {何を飲みますか|なにをのみますか|nani o nomimasu ka|Was trinkst du?|なにおのみますか}.
-Jonas: Ist Frau Nakamura Studentin: {中村さんは学生ですか|なかむらさんはがくせいですか|Nakamura san wa gakusei desu ka|Ist Frau Nakamura Studentin?|なかむらさんわがくせいですか}.
-Aoki: Ich trinke kein Bier: {私はビールを飲みません|わたしはびーるをのみません|watashi wa biiru o nomimasen|Ich trinke kein Bier|わたしわびーるおのみません}.
-Jonas: Ach so: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}. Das klingt schon wie ein richtiges Gespräch.
+Aoki: Genau: Deutsch, Pause, Japanisch. Trinkst du Kaffee? Auf Japanisch: {コーヒーを飲みますか|こーひーをのみますか|koohii o nomimasu ka|Trinkst du Kaffee?|こーひーおのみますか}.
+Jonas: Nein, trinke ich nicht. Auf Japanisch: {いいえ、飲みません|いいえのみません|iie, nomimasen|Nein, trinke ich nicht}.
+Aoki: Was trinkst du? Auf Japanisch: {何を飲みますか|なにをのみますか|nani o nomimasu ka|Was trinkst du?|なにおのみますか}.
+Jonas: Ist Frau Nakamura Studentin? Auf Japanisch: {中村さんは学生ですか|なかむらさんはがくせいですか|Nakamura san wa gakusei desu ka|Ist Frau Nakamura Studentin?|なかむらさんわがくせいですか}.
+Aoki: Ich trinke kein Bier. Auf Japanisch: {私はビールを飲みません|わたしはびーるをのみません|watashi wa biiru o nomimasen|Ich trinke kein Bier|わたしわびーるおのみません}.
+Jonas: Ach so. Auf Japanisch: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}. Das klingt schon wie ein richtiges Gespräch.
 Aoki: Finde ich auch. Im nächsten Text geht's darum, wer etwas tut und worüber man redet.

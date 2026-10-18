@@ -21,15 +21,6 @@
      "a propósito"
     ],
     "de": "Das sage ich noch nebenbei dazu."
-   },
-   {
-    "word": "Niederländischen",
-    "lemma": "das Niederländische",
-    "pt": [
-     "holandês",
-     "língua holandesa"
-    ],
-    "de": "Die Sprache aus den Niederlanden."
    }
   ],
   "9": [
@@ -83,15 +74,6 @@
      "além disso"
     ],
     "de": "Noch zusätzlich."
-   },
-   {
-    "word": "doppelt",
-    "lemma": "doppelt",
-    "pt": [
-     "dobrado",
-     "duas vezes"
-    ],
-    "de": "Zweimal das Gleiche, also zu viel."
    }
   ],
   "21": [
@@ -103,6 +85,17 @@
      "um ao lado do outro"
     ],
     "de": "Eins neben dem anderen, zum Vergleichen."
+   }
+  ],
+  "24": [
+   {
+    "word": "gemeint",
+    "lemma": "meinen",
+    "pt": [
+     "quer dizer",
+     "se refere a"
+    ],
+    "de": "„Gemeint ist …“: Das meint man damit."
    }
   ],
   "28": [

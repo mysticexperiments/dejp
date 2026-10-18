@@ -1,80 +1,80 @@
 Jonas: Heute will ich mal nicht über mich reden, sondern über die anderen.
-Aoki: Dann fangen wir mit einem Satz an, den du schon kennst: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Ich trinke Kaffee.
-Jonas: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Ich trinke Kaffee. Hier geht's um mich.
-Aoki: Jetzt nehmen wir jemand anderen: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます}. Frau Nakamura trinkt Tee.
-Jonas: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます}. Frau Nakamura trinkt Tee. Das Verb ist ja genau gleich geblieben.
-Aoki: Richtig, {飲みます|のみます|nomimasu|trinke, trinkt (höflich)} passt für alle. Neu ist nur der Anfang: {中村さんは|なかむらさんは|Nakamura san wa|Frau Nakamura, als Thema|なかむらさんわ}.
+Aoki: Dann fangen wir mit einem Satz an, den du schon kennst: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Das heißt: Ich trinke Kaffee.
+Jonas: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}, also: Ich trinke Kaffee. Hier geht's um mich.
+Aoki: Jetzt nehmen wir jemand anderen. Frau Nakamura trinkt Tee heißt {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます}.
+Jonas: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます} heißt also: Frau Nakamura trinkt Tee. Das Verb ist ja genau gleich geblieben.
+Aoki: Richtig, {飲みます|のみます|nomimasu|trinke, trinkt (höflich)}, also trinken, passt für alle. Neu ist nur der Anfang: {中村さんは|なかむらさんは|Nakamura san wa|Frau Nakamura, als Thema|なかむらさんわ}, also Frau Nakamura als Thema.
 Jonas: Nach dem Namen hör ich noch so eine kleine Silbe. Was ist das?
-Aoki: Das ist {さん|さん|san|höflicher Namenszusatz}. Das hängt man aus Höflichkeit an den Namen von anderen.
-Jonas: {さん|さん|san|höflicher Namenszusatz}. Ist das nur für Frauen?
+Aoki: Das ist {さん|さん|san|höflicher Namenszusatz}. Es hat keine genaue Übersetzung. Man hängt es aus Höflichkeit an den Namen von anderen.
+Jonas: {さん|さん|san|höflicher Namenszusatz} ist also so was wie Frau. Ist das nur für Frauen?
 Aoki: Nein, {さん|さん|san|höflicher Namenszusatz} passt für Männer und Frauen. Auf Deutsch sagen wir einfach Frau oder Herr.
-Jonas: Aus Nakamura wird also {中村さん|なかむらさん|Nakamura san|Frau Nakamura}. Frau Nakamura.
-Aoki: Genau. Und aus mir wird {青木さん|あおきさん|Aoki san|Frau Aoki}. Frau Aoki.
-Jonas: {青木さん|あおきさん|Aoki san|Frau Aoki}. Frau Aoki. Kann ich das auch für mich selbst benutzen?
-Aoki: Bloß nicht, das klingt total eingebildet. Aber über dich sage ich: {ヨナスさん|よなすさん|Yonasu san|Jonas, höflich genannt}.
-Jonas: {ヨナスさん|よなすさん|Yonasu san|Jonas, höflich genannt}. Klingt ungewohnt, aber irgendwie respektvoll.
-Aoki: Ein ganzer Satz über dich: {ヨナスさんは学生です|よなすさんはがくせいです|Yonasu san wa gakusei desu|Jonas ist Student|よなすさんわがくせいです}. Jonas ist Student.
-Jonas: {ヨナスさんは学生です|よなすさんはがくせいです|Yonasu san wa gakusei desu|Jonas ist Student|よなすさんわがくせいです}. Jonas ist Student. Und wie klingt ein Satz über dich?
-Aoki: {青木さんは先生です|あおきさんはせんせいです|Aoki san wa sensei desu|Frau Aoki ist Lehrerin|あおきさんわせんせいです}. Frau Aoki ist Lehrerin. So reden andere über mich, du als mein Schüler sagst {青木先生|あおきせんせい|Aoki-sensei|Lehrerin Aoki}. Über mich selbst sage ich {私は教師です|わたしはきょうしです|watashi wa kyoushi desu|Ich bin Lehrerin|わたしわきょうしです}.
-Jonas: Ah, wie gestern: {先生|せんせい|sensei|Lehrerin, respektvoll} für andere, {教師|きょうし|kyoushi|Lehrerin, neutral} für sich selbst.
-Aoki: Genau. Und jetzt Nakamura: {中村さんは会社員です|なかむらさんはかいしゃいんです|Nakamura san wa kaishain desu|Frau Nakamura ist Büroangestellte|なかむらさんわかいしゃいんです}. Frau Nakamura ist Büroangestellte.
-Jonas: {中村さんは会社員です|なかむらさんはかいしゃいんです|Nakamura san wa kaishain desu|Frau Nakamura ist Büroangestellte|なかむらさんわかいしゃいんです}. Frau Nakamura ist Büroangestellte. Ich will noch von einem Kumpel erzählen.
+Jonas: Aus Nakamura wird also {中村さん|なかむらさん|Nakamura san|Frau Nakamura}, und das heißt: Frau Nakamura.
+Aoki: Genau. Und aus mir wird {青木さん|あおきさん|Aoki san|Frau Aoki}, also Frau Aoki.
+Jonas: {青木さん|あおきさん|Aoki san|Frau Aoki} heißt also Frau Aoki. Kann ich das auch für mich selbst benutzen?
+Aoki: Bloß nicht, das klingt total eingebildet. Aber wenn ich über dich rede, sage ich {ヨナスさん|よなすさん|Yonasu san|Jonas, höflich genannt}, also Jonas mit Respekt.
+Jonas: {ヨナスさん|よなすさん|Yonasu san|Jonas, höflich genannt}, also ich mit {さん|さん|san|höflicher Namenszusatz}. Klingt ungewohnt, aber irgendwie respektvoll.
+Aoki: Ein ganzer Satz über dich: {ヨナスさんは学生です|よなすさんはがくせいです|Yonasu san wa gakusei desu|Jonas ist Student|よなすさんわがくせいです}. Das heißt: Jonas ist Student.
+Jonas: {ヨナスさんは学生です|よなすさんはがくせいです|Yonasu san wa gakusei desu|Jonas ist Student|よなすさんわがくせいです}, also: Jonas ist Student. Und wie klingt ein Satz über dich?
+Aoki: Andere sagen über mich {青木さんは先生です|あおきさんはせんせいです|Aoki san wa sensei desu|Frau Aoki ist Lehrerin|あおきさんわせんせいです}. Das heißt: Frau Aoki ist Lehrerin. Du als mein Schüler sagst {青木先生|あおきせんせい|Aoki-sensei|Lehrerin Aoki}, also Lehrerin Aoki. Über mich selbst sage ich {私は教師です|わたしはきょうしです|watashi wa kyoushi desu|Ich bin Lehrerin|わたしわきょうしです}, ich bin Lehrerin.
+Jonas: Ah, wie gestern: {先生|せんせい|sensei|Lehrerin, respektvoll} für andere, {教師|きょうし|kyoushi|Lehrerin, neutral} für sich selbst. Beides heißt Lehrerin.
+Aoki: Genau. Und jetzt Nakamura: {中村さんは会社員です|なかむらさんはかいしゃいんです|Nakamura san wa kaishain desu|Frau Nakamura ist Büroangestellte|なかむらさんわかいしゃいんです}. Das heißt: Frau Nakamura ist Büroangestellte.
+Jonas: {中村さんは会社員です|なかむらさんはかいしゃいんです|Nakamura san wa kaishain desu|Frau Nakamura ist Büroangestellte|なかむらさんわかいしゃいんです}, also: Frau Nakamura ist Büroangestellte. Ich will noch von einem Kumpel erzählen.
 Aoki: Dafür gibt's {友達|ともだち|tomodachi|Freund, Freundin}. Das heißt Freund oder Freundin.
-Jonas: {友達|ともだち|tomodachi|Freund, Freundin}. Mein Freund ist übrigens Arzt. Wie sag ich das?
-Aoki: Arzt heißt {医者|いしゃ|isha|Arzt, Ärztin}. Der ganze Satz: {友達は医者です|ともだちはいしゃです|tomodachi wa isha desu|Mein Freund ist Arzt|ともだちわいしゃです}. Mein Freund ist Arzt.
-Jonas: {友達は医者です|ともだちはいしゃです|tomodachi wa isha desu|Mein Freund ist Arzt|ともだちわいしゃです}. Mein Freund ist Arzt. Ohne was hinten dran?
-Aoki: Genau, {さん|さん|san|höflicher Namenszusatz} kommt nur hinter Namen. Also einfach: {友達は医者です|ともだちはいしゃです|tomodachi wa isha desu|Mein Freund ist Arzt|ともだちわいしゃです}.
+Jonas: {友達|ともだち|tomodachi|Freund, Freundin} heißt also Freund. Mein Freund ist übrigens Arzt. Wie sag ich das?
+Aoki: Arzt heißt {医者|いしゃ|isha|Arzt, Ärztin}. Der ganze Satz: {友達は医者です|ともだちはいしゃです|tomodachi wa isha desu|Mein Freund ist Arzt|ともだちわいしゃです}. Das heißt: Mein Freund ist Arzt.
+Jonas: {友達は医者です|ともだちはいしゃです|tomodachi wa isha desu|Mein Freund ist Arzt|ともだちわいしゃです}, also: Mein Freund ist Arzt. Ohne was hinten dran?
+Aoki: Genau, {さん|さん|san|höflicher Namenszusatz} kommt nur hinter Namen. Also einfach: Mein Freund ist Arzt, {友達は医者です|ともだちはいしゃです|tomodachi wa isha desu|Mein Freund ist Arzt|ともだちわいしゃです}.
 Jonas: Er trinkt übrigens keinen Kaffee, sondern lieber Milch. Wie heißt Milch?
 Aoki: Milch heißt {牛乳|ぎゅうにゅう|gyuunyuu|Milch}. Pass auf die zwei langen u auf.
-Jonas: {牛乳|ぎゅうにゅう|gyuunyuu|Milch}. Also: {友達は牛乳を飲みます|ともだちはぎゅうにゅうをのみます|tomodachi wa gyuunyuu o nomimasu|Mein Freund trinkt Milch|ともだちわぎゅうにゅうおのみます}. Mein Freund trinkt Milch.
-Aoki: Super. Ich selbst trinke lieber schwarzen Tee, also {紅茶|こうちゃ|koucha|schwarzer Tee}. Schwarzer Tee.
-Jonas: {紅茶|こうちゃ|koucha|schwarzer Tee}. Und was ist der Unterschied zu {お茶|おちゃ|ocha|Tee, meist grüner Tee}?
-Aoki: {お茶|おちゃ|ocha|Tee, meist grüner Tee} ist meistens grüner Tee, {紅茶|こうちゃ|koucha|schwarzer Tee} der schwarze. Also: {青木さんは紅茶を飲みます|あおきさんはこうちゃをのみます|Aoki san wa koucha o nomimasu|Frau Aoki trinkt schwarzen Tee|あおきさんわこうちゃおのみます}. Frau Aoki trinkt schwarzen Tee.
-Jonas: {青木さんは紅茶を飲みます|あおきさんはこうちゃをのみます|Aoki san wa koucha o nomimasu|Frau Aoki trinkt schwarzen Tee|あおきさんわこうちゃおのみます}. Frau Aoki trinkt schwarzen Tee. Gut zu wissen.
-Aoki: Jetzt eine Runde mit verschiedenen Leuten. Hör auf den Anfang: {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Ich trinke Wasser|わたしわみずおのみます}. Ich trinke Wasser.
-Jonas: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます}. Frau Nakamura trinkt Tee. Und hinter dem Getränk steht immer noch {を|を|o|Objektpartikel|お}.
-Aoki: {青木さんは紅茶を飲みます|あおきさんはこうちゃをのみます|Aoki san wa koucha o nomimasu|Frau Aoki trinkt schwarzen Tee|あおきさんわこうちゃおのみます}. Frau Aoki trinkt schwarzen Tee.
-Jonas: {友達は牛乳を飲みます|ともだちはぎゅうにゅうをのみます|tomodachi wa gyuunyuu o nomimasu|Mein Freund trinkt Milch|ともだちわぎゅうにゅうおのみます}. Mein Freund trinkt Milch.
+Jonas: {牛乳|ぎゅうにゅう|gyuunyuu|Milch} heißt also Milch. Dann sage ich {友達は牛乳を飲みます|ともだちはぎゅうにゅうをのみます|tomodachi wa gyuunyuu o nomimasu|Mein Freund trinkt Milch|ともだちわぎゅうにゅうおのみます}. Das heißt: Mein Freund trinkt Milch.
+Aoki: Super. Ich selbst trinke lieber schwarzen Tee. Schwarzer Tee heißt {紅茶|こうちゃ|koucha|schwarzer Tee}.
+Jonas: {紅茶|こうちゃ|koucha|schwarzer Tee} heißt also schwarzer Tee. Und was ist der Unterschied zu {お茶|おちゃ|ocha|Tee, meist grüner Tee}?
+Aoki: {お茶|おちゃ|ocha|Tee, meist grüner Tee} ist meistens grüner Tee, {紅茶|こうちゃ|koucha|schwarzer Tee} der schwarze. Also sage ich {青木さんは紅茶を飲みます|あおきさんはこうちゃをのみます|Aoki san wa koucha o nomimasu|Frau Aoki trinkt schwarzen Tee|あおきさんわこうちゃおのみます}. Das heißt: Frau Aoki trinkt schwarzen Tee.
+Jonas: {青木さんは紅茶を飲みます|あおきさんはこうちゃをのみます|Aoki san wa koucha o nomimasu|Frau Aoki trinkt schwarzen Tee|あおきさんわこうちゃおのみます}, also: Frau Aoki trinkt schwarzen Tee. Gut zu wissen.
+Aoki: Jetzt eine Runde mit verschiedenen Leuten, erst Japanisch, dann Deutsch. Hör auf den Anfang: {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Ich trinke Wasser|わたしわみずおのみます}, also: Ich trinke Wasser.
+Jonas: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます}, also: Frau Nakamura trinkt Tee. Und hinter dem Getränk steht immer noch {を|を|o|Objektpartikel|お}.
+Aoki: {青木さんは紅茶を飲みます|あおきさんはこうちゃをのみます|Aoki san wa koucha o nomimasu|Frau Aoki trinkt schwarzen Tee|あおきさんわこうちゃおのみます}, also: Frau Aoki trinkt schwarzen Tee.
+Jonas: {友達は牛乳を飲みます|ともだちはぎゅうにゅうをのみます|tomodachi wa gyuunyuu o nomimasu|Mein Freund trinkt Milch|ともだちわぎゅうにゅうおのみます}, also: Mein Freund trinkt Milch.
 Aoki: Klasse. Der Satz bleibt gleich, nur Person und Getränk ändern sich.
 Jonas: Und wenn Nakamura und ich das Gleiche trinken? Geht das kurz?
 Aoki: Klar, mit {も|も|mo|auch}. Das heißt auch.
-Jonas: {も|も|mo|auch}. Auch. Und wo kommt das hin?
-Aoki: Sie ersetzt {は|は|wa|Themenpartikel|わ} hinter der Person. Aus {私は|わたしは|watashi wa|ich, als Thema|わたしわ} wird {私も|わたしも|watashi mo|ich auch}. Ich auch.
-Jonas: {私も|わたしも|watashi mo|ich auch}. Ich auch. Dann sage ich: {私もお茶を飲みます|わたしもおちゃをのみます|watashi mo ocha o nomimasu|Ich trinke auch Tee|わたしもおちゃおのみます}. Ich trinke auch Tee.
-Aoki: Genau. Nakamura sagt {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます}, und du sagst {私もお茶を飲みます|わたしもおちゃをのみます|watashi mo ocha o nomimasu|Ich trinke auch Tee|わたしもおちゃおのみます}.
-Jonas: {私もお茶を飲みます|わたしもおちゃをのみます|watashi mo ocha o nomimasu|Ich trinke auch Tee|わたしもおちゃおのみます}. Ich trinke auch Tee. Damit sag ich quasi: Ich auch!
-Aoki: Mit Milch: {友達は牛乳を飲みます|ともだちはぎゅうにゅうをのみます|tomodachi wa gyuunyuu o nomimasu|Mein Freund trinkt Milch|ともだちわぎゅうにゅうおのみます}. Und du: {私も牛乳を飲みます|わたしもぎゅうにゅうをのみます|watashi mo gyuunyuu o nomimasu|Ich trinke auch Milch|わたしもぎゅうにゅうおのみます}. Ich trinke auch Milch.
-Jonas: {私も牛乳を飲みます|わたしもぎゅうにゅうをのみます|watashi mo gyuunyuu o nomimasu|Ich trinke auch Milch|わたしもぎゅうにゅうおのみます}. Ich trinke auch Milch. Geht das auch mit jemand anderem vorne?
-Aoki: Na klar: {中村さんも牛乳を飲みます|なかむらさんもぎゅうにゅうをのみます|Nakamura san mo gyuunyuu o nomimasu|Frau Nakamura trinkt auch Milch|なかむらさんもぎゅうにゅうおのみます}. Frau Nakamura trinkt auch Milch.
-Jonas: {中村さんも牛乳を飲みます|なかむらさんもぎゅうにゅうをのみます|Nakamura san mo gyuunyuu o nomimasu|Frau Nakamura trinkt auch Milch|なかむらさんもぎゅうにゅうおのみます}. Frau Nakamura trinkt auch Milch. Logisch.
-Aoki: Jetzt noch zwei Wörter für die Zeit. Morgens heißt {朝|あさ|asa|der Morgen, morgens}. Der Morgen oder morgens.
-Jonas: {朝|あさ|asa|der Morgen, morgens}. Morgens. Kommt das an die gleiche Stelle wie {毎日|まいにち|mainichi|jeden Tag}?
-Aoki: Genau: {中村さんは朝お茶を飲みます|なかむらさんはあさおちゃをのみます|Nakamura san wa asa ocha o nomimasu|Frau Nakamura trinkt morgens Tee|なかむらさんわあさおちゃおのみます}. Frau Nakamura trinkt morgens Tee.
-Jonas: {中村さんは朝お茶を飲みます|なかむらさんはあさおちゃをのみます|Nakamura san wa asa ocha o nomimasu|Frau Nakamura trinkt morgens Tee|なかむらさんわあさおちゃおのみます}. Und ich: {私は朝コーヒーを飲みます|わたしはあさこーひーをのみます|watashi wa asa koohii o nomimasu|Ich trinke morgens Kaffee|わたしわあさこーひーおのみます}. Ich trinke morgens Kaffee.
-Aoki: Prima. Immer heißt {いつも|いつも|itsumo|immer}. Das ist noch öfter als {毎日|まいにち|mainichi|jeden Tag}.
-Jonas: {いつも|いつも|itsumo|immer}. Immer. Also: {青木さんはいつも紅茶を飲みます|あおきさんはいつもこうちゃをのみます|Aoki san wa itsumo koucha o nomimasu|Frau Aoki trinkt immer schwarzen Tee|あおきさんわいつもこうちゃおのみます}. Frau Aoki trinkt immer schwarzen Tee.
-Aoki: Stimmt, ohne Ausnahme. Und dein Freund: {友達は朝牛乳を飲みます|ともだちはあさぎゅうにゅうをのみます|tomodachi wa asa gyuunyuu o nomimasu|Mein Freund trinkt morgens Milch|ともだちわあさぎゅうにゅうおのみます}. Er trinkt morgens Milch.
-Jonas: {友達は朝牛乳を飲みます|ともだちはあさぎゅうにゅうをのみます|tomodachi wa asa gyuunyuu o nomimasu|Mein Freund trinkt morgens Milch|ともだちわあさぎゅうにゅうおのみます}. Mein Freund trinkt morgens Milch. Und ich: {私はいつも水を飲みます|わたしはいつもみずをのみます|watashi wa itsumo mizu o nomimasu|Ich trinke immer Wasser|わたしわいつもみずおのみます}.
-Aoki: {私はいつも水を飲みます|わたしはいつもみずをのみます|watashi wa itsumo mizu o nomimasu|Ich trinke immer Wasser|わたしわいつもみずおのみます}. Ich trinke immer Wasser. Jetzt spielen wir das mit Nakamura durch.
+Jonas: {も|も|mo|auch} heißt also auch. Und wo kommt das hin?
+Aoki: Es ersetzt {は|は|wa|Themenpartikel|わ} hinter der Person. Aus {私は|わたしは|watashi wa|ich, als Thema|わたしわ}, also ich als Thema, wird {私も|わたしも|watashi mo|ich auch}. Das heißt: ich auch.
+Jonas: {私も|わたしも|watashi mo|ich auch} heißt also ich auch. Dann sage ich {私もお茶を飲みます|わたしもおちゃをのみます|watashi mo ocha o nomimasu|Ich trinke auch Tee|わたしもおちゃおのみます}. Das heißt: Ich trinke auch Tee.
+Aoki: Genau. Jemand sagt {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura san wa ocha o nomimasu|Frau Nakamura trinkt Tee|なかむらさんわおちゃおのみます}, also Frau Nakamura trinkt Tee, und du sagst {私もお茶を飲みます|わたしもおちゃをのみます|watashi mo ocha o nomimasu|Ich trinke auch Tee|わたしもおちゃおのみます}, ich trinke auch Tee.
+Jonas: {私もお茶を飲みます|わたしもおちゃをのみます|watashi mo ocha o nomimasu|Ich trinke auch Tee|わたしもおちゃおのみます}, also: Ich trinke auch Tee. Damit sag ich quasi: Ich auch!
+Aoki: Mit Milch: Du erzählst {友達は牛乳を飲みます|ともだちはぎゅうにゅうをのみます|tomodachi wa gyuunyuu o nomimasu|Mein Freund trinkt Milch|ともだちわぎゅうにゅうおのみます}, mein Freund trinkt Milch. Und dann über dich: {私も牛乳を飲みます|わたしもぎゅうにゅうをのみます|watashi mo gyuunyuu o nomimasu|Ich trinke auch Milch|わたしもぎゅうにゅうおのみます}. Das heißt: Ich trinke auch Milch.
+Jonas: {私も牛乳を飲みます|わたしもぎゅうにゅうをのみます|watashi mo gyuunyuu o nomimasu|Ich trinke auch Milch|わたしもぎゅうにゅうおのみます}, also: Ich trinke auch Milch. Geht das auch mit jemand anderem vorne?
+Aoki: Na klar. Frau Nakamura trinkt auch Milch heißt {中村さんも牛乳を飲みます|なかむらさんもぎゅうにゅうをのみます|Nakamura san mo gyuunyuu o nomimasu|Frau Nakamura trinkt auch Milch|なかむらさんもぎゅうにゅうおのみます}.
+Jonas: {中村さんも牛乳を飲みます|なかむらさんもぎゅうにゅうをのみます|Nakamura san mo gyuunyuu o nomimasu|Frau Nakamura trinkt auch Milch|なかむらさんもぎゅうにゅうおのみます}, also: Frau Nakamura trinkt auch Milch. Logisch.
+Aoki: Jetzt noch zwei Wörter für die Zeit. Morgens heißt {朝|あさ|asa|der Morgen, morgens}. Das bedeutet der Morgen oder morgens.
+Jonas: {朝|あさ|asa|der Morgen, morgens} heißt also morgens. Kommt das an die gleiche Stelle wie {毎日|まいにち|mainichi|jeden Tag}, also jeden Tag?
+Aoki: Genau: {中村さんは朝お茶を飲みます|なかむらさんはあさおちゃをのみます|Nakamura san wa asa ocha o nomimasu|Frau Nakamura trinkt morgens Tee|なかむらさんわあさおちゃおのみます}. Das heißt: Frau Nakamura trinkt morgens Tee.
+Jonas: Sie trinkt also morgens Tee: {中村さんは朝お茶を飲みます|なかむらさんはあさおちゃをのみます|Nakamura san wa asa ocha o nomimasu|Frau Nakamura trinkt morgens Tee|なかむらさんわあさおちゃおのみます}. Und ich sage {私は朝コーヒーを飲みます|わたしはあさこーひーをのみます|watashi wa asa koohii o nomimasu|Ich trinke morgens Kaffee|わたしわあさこーひーおのみます}, ich trinke morgens Kaffee.
+Aoki: Prima. Immer heißt {いつも|いつも|itsumo|immer}. Das ist noch öfter als {毎日|まいにち|mainichi|jeden Tag}, jeden Tag.
+Jonas: {いつも|いつも|itsumo|immer} heißt also immer. Dann: {青木さんはいつも紅茶を飲みます|あおきさんはいつもこうちゃをのみます|Aoki san wa itsumo koucha o nomimasu|Frau Aoki trinkt immer schwarzen Tee|あおきさんわいつもこうちゃおのみます}. Das heißt: Frau Aoki trinkt immer schwarzen Tee.
+Aoki: Stimmt, ohne Ausnahme. Und dein Freund: {友達は朝牛乳を飲みます|ともだちはあさぎゅうにゅうをのみます|tomodachi wa asa gyuunyuu o nomimasu|Mein Freund trinkt morgens Milch|ともだちわあさぎゅうにゅうおのみます}. Das heißt: Er trinkt morgens Milch.
+Jonas: {友達は朝牛乳を飲みます|ともだちはあさぎゅうにゅうをのみます|tomodachi wa asa gyuunyuu o nomimasu|Mein Freund trinkt morgens Milch|ともだちわあさぎゅうにゅうおのみます}, also: Mein Freund trinkt morgens Milch. Und ich trinke immer Wasser: {私はいつも水を飲みます|わたしはいつもみずをのみます|watashi wa itsumo mizu o nomimasu|Ich trinke immer Wasser|わたしわいつもみずおのみます}.
+Aoki: Genau, {私はいつも水を飲みます|わたしはいつもみずをのみます|watashi wa itsumo mizu o nomimasu|Ich trinke immer Wasser|わたしわいつもみずおのみます}. Jetzt spielen wir das mit Nakamura durch, ich spiele sie. Wir reden Japanisch, und nach jedem Satz sagen wir kurz, was er heißt.
 Jonas: Okay, ich fang mit dem Gruß an.
-Aoki: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Hallo.
-Jonas: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Hallo.
-Aoki: {私は会社員です|わたしはかいしゃいんです|watashi wa kaishain desu|Ich bin Büroangestellte|わたしわかいしゃいんです}. Ich bin Büroangestellte.
-Jonas: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}. Ich bin Student.
-Aoki: {朝お茶を飲みます|あさおちゃをのみます|asa ocha o nomimasu|Ich trinke morgens Tee|あさおちゃおのみます}. Ich trinke morgens Tee.
-Jonas: {朝コーヒーを飲みます|あさこーひーをのみます|asa koohii o nomimasu|Ich trinke morgens Kaffee|あさこーひーおのみます}. Ich trinke morgens Kaffee.
-Aoki: {私もコーヒーを飲みます|わたしもこーひーをのみます|watashi mo koohii o nomimasu|Ich trinke auch Kaffee|わたしもこーひーおのみます}. Ich trinke auch Kaffee.
-Jonas: {友達は医者です|ともだちはいしゃです|tomodachi wa isha desu|Mein Freund ist Arzt|ともだちわいしゃです}. Mein Freund ist Arzt.
-Aoki: {青木さんは先生です|あおきさんはせんせいです|Aoki san wa sensei desu|Frau Aoki ist Lehrerin|あおきさんわせんせいです}. Frau Aoki ist Lehrerin.
-Jonas: {友達は牛乳を飲みます|ともだちはぎゅうにゅうをのみます|tomodachi wa gyuunyuu o nomimasu|Mein Freund trinkt Milch|ともだちわぎゅうにゅうおのみます}. Mein Freund trinkt Milch.
-Aoki: {私も牛乳を飲みます|わたしもぎゅうにゅうをのみます|watashi mo gyuunyuu o nomimasu|Ich trinke auch Milch|わたしもぎゅうにゅうおのみます}. Ich trinke auch Milch.
-Jonas: {友達は朝牛乳を飲みます|ともだちはあさぎゅうにゅうをのみます|tomodachi wa asa gyuunyuu o nomimasu|Mein Freund trinkt morgens Milch|ともだちわあさぎゅうにゅうおのみます}. Mein Freund trinkt morgens Milch.
-Aoki: {青木さんはいつも紅茶を飲みます|あおきさんはいつもこうちゃをのみます|Aoki san wa itsumo koucha o nomimasu|Frau Aoki trinkt immer schwarzen Tee|あおきさんわいつもこうちゃおのみます}. Frau Aoki trinkt immer schwarzen Tee.
+Aoki: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Also: Hallo.
+Jonas: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Auch Hallo.
+Aoki: {私は会社員です|わたしはかいしゃいんです|watashi wa kaishain desu|Ich bin Büroangestellte|わたしわかいしゃいんです}. Heißt: Ich bin Büroangestellte.
+Jonas: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}. Heißt: Ich bin Student.
+Aoki: {朝お茶を飲みます|あさおちゃをのみます|asa ocha o nomimasu|Ich trinke morgens Tee|あさおちゃおのみます}. Also: Ich trinke morgens Tee.
+Jonas: {朝コーヒーを飲みます|あさこーひーをのみます|asa koohii o nomimasu|Ich trinke morgens Kaffee|あさこーひーおのみます}. Also: Ich trinke morgens Kaffee.
+Aoki: {私もコーヒーを飲みます|わたしもこーひーをのみます|watashi mo koohii o nomimasu|Ich trinke auch Kaffee|わたしもこーひーおのみます}. Heißt: Ich trinke auch Kaffee.
+Jonas: {友達は医者です|ともだちはいしゃです|tomodachi wa isha desu|Mein Freund ist Arzt|ともだちわいしゃです}. Heißt: Mein Freund ist Arzt.
+Aoki: {青木さんは先生です|あおきさんはせんせいです|Aoki san wa sensei desu|Frau Aoki ist Lehrerin|あおきさんわせんせいです}. Also: Frau Aoki ist Lehrerin.
+Jonas: {友達は牛乳を飲みます|ともだちはぎゅうにゅうをのみます|tomodachi wa gyuunyuu o nomimasu|Mein Freund trinkt Milch|ともだちわぎゅうにゅうおのみます}. Also: Mein Freund trinkt Milch.
+Aoki: {私も牛乳を飲みます|わたしもぎゅうにゅうをのみます|watashi mo gyuunyuu o nomimasu|Ich trinke auch Milch|わたしもぎゅうにゅうおのみます}. Heißt: Ich trinke auch Milch.
+Jonas: {友達は朝牛乳を飲みます|ともだちはあさぎゅうにゅうをのみます|tomodachi wa asa gyuunyuu o nomimasu|Mein Freund trinkt morgens Milch|ともだちわあさぎゅうにゅうおのみます}. Heißt: Mein Freund trinkt morgens Milch.
+Aoki: {青木さんはいつも紅茶を飲みます|あおきさんはいつもこうちゃをのみます|Aoki san wa itsumo koucha o nomimasu|Frau Aoki trinkt immer schwarzen Tee|あおきさんわいつもこうちゃおのみます}. Also: Frau Aoki trinkt immer schwarzen Tee.
 Jonas: Ende der Szene. Und jetzt fragst du mich wieder ab?
-Aoki: Ja. Deutsch, Pause, Japanisch. Ich trinke auch Tee: {私もお茶を飲みます|わたしもおちゃをのみます|watashi mo ocha o nomimasu|Ich trinke auch Tee|わたしもおちゃおのみます}.
-Jonas: Frau Nakamura trinkt morgens Tee: {中村さんは朝お茶を飲みます|なかむらさんはあさおちゃをのみます|Nakamura san wa asa ocha o nomimasu|Frau Nakamura trinkt morgens Tee|なかむらさんわあさおちゃおのみます}.
-Aoki: Mein Freund ist Arzt: {友達は医者です|ともだちはいしゃです|tomodachi wa isha desu|Mein Freund ist Arzt|ともだちわいしゃです}.
-Jonas: Frau Nakamura trinkt auch Milch: {中村さんも牛乳を飲みます|なかむらさんもぎゅうにゅうをのみます|Nakamura san mo gyuunyuu o nomimasu|Frau Nakamura trinkt auch Milch|なかむらさんもぎゅうにゅうおのみます}.
-Aoki: Frau Aoki trinkt immer schwarzen Tee: {青木さんはいつも紅茶を飲みます|あおきさんはいつもこうちゃをのみます|Aoki san wa itsumo koucha o nomimasu|Frau Aoki trinkt immer schwarzen Tee|あおきさんわいつもこうちゃおのみます}.
-Jonas: Jonas ist Student: {ヨナスさんは学生です|よなすさんはがくせいです|Yonasu san wa gakusei desu|Jonas ist Student|よなすさんわがくせいです}. Das sagen aber nur die anderen über mich.
+Aoki: Ja. Deutsch, Pause, Japanisch. Ich trinke auch Tee. Auf Japanisch: {私もお茶を飲みます|わたしもおちゃをのみます|watashi mo ocha o nomimasu|Ich trinke auch Tee|わたしもおちゃおのみます}.
+Jonas: Frau Nakamura trinkt morgens Tee. Auf Japanisch: {中村さんは朝お茶を飲みます|なかむらさんはあさおちゃをのみます|Nakamura san wa asa ocha o nomimasu|Frau Nakamura trinkt morgens Tee|なかむらさんわあさおちゃおのみます}.
+Aoki: Mein Freund ist Arzt. Auf Japanisch: {友達は医者です|ともだちはいしゃです|tomodachi wa isha desu|Mein Freund ist Arzt|ともだちわいしゃです}.
+Jonas: Frau Nakamura trinkt auch Milch. Auf Japanisch: {中村さんも牛乳を飲みます|なかむらさんもぎゅうにゅうをのみます|Nakamura san mo gyuunyuu o nomimasu|Frau Nakamura trinkt auch Milch|なかむらさんもぎゅうにゅうおのみます}.
+Aoki: Frau Aoki trinkt immer schwarzen Tee. Auf Japanisch: {青木さんはいつも紅茶を飲みます|あおきさんはいつもこうちゃをのみます|Aoki san wa itsumo koucha o nomimasu|Frau Aoki trinkt immer schwarzen Tee|あおきさんわいつもこうちゃおのみます}.
+Jonas: Jonas ist Student. Auf Japanisch: {ヨナスさんは学生です|よなすさんはがくせいです|Yonasu san wa gakusei desu|Jonas ist Student|よなすさんわがくせいです}. Das sagen aber nur die anderen über mich.
 Aoki: Genau. Im nächsten Text stellst du Fragen: Trinkst du Kaffee? Ja oder nein.

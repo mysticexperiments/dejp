@@ -1,86 +1,86 @@
 Jonas: Heute Morgen hat Nakamura für unsere gemeinsame Pause Getränke geholt. Drei Tassen, und keiner wusste, welche für wen ist.
-Aoki: Klassiker. Genau dafür gibt's heute einen Satz: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Wer trinkt den Kaffee?|こーひーわだれがのみますか}. Wer trinkt den Kaffee?
-Jonas: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Wer trinkt den Kaffee?|こーひーわだれがのみますか}. Wer trinkt den Kaffee? Da steckt aber einiges drin.
-Aoki: Stimmt, deshalb vorab etwas Leichteres. Nakamura hatte doch auch ein Buch dabei. Buch heißt {本|ほん|hon|Buch}.
-Jonas: {本|ほん|hon|Buch}. Buch. Ein ziemlich dünnes. Sie hat es zufällig auf meinem Tisch liegen lassen, so beschäftigt war sie.
-Aoki: Dann nimm es in die Hand. Für ein Ding direkt bei dir sagst du {これ|これ|kore|dies hier, bei mir}. Dies hier.
-Jonas: {これ|これ|kore|dies hier, bei mir}. Dies hier. Mit dem Themenmarker {は|は|wa|Themenmarker|わ} dahinter wird daraus {これは|これは|kore wa|dies hier als Thema|これわ}?
-Aoki: Genau. Und mit {です|です|desu|höflicher Abschluss} am Ende: {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです}. Das ist ein Buch.
-Jonas: {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです}. Das ist ein Buch. Bei dem dünnen Ding war ich mir aber gar nicht so sicher.
-Aoki: Dann mach eine Frage draus, mit {か|か|ka|Fragepartikel} wie letztes Mal: {これは本ですか|これはほんですか|kore wa hon desu ka|Ist das ein Buch?|これわほんですか}. Ist das ein Buch?
-Jonas: {これは本ですか|これはほんですか|kore wa hon desu ka|Ist das ein Buch?|これわほんですか}. Ist das ein Buch? Und Nakamura sagt dann: {はい、本です|はいほんです|hai, hon desu|Ja, ein Buch}. Ja, ein Buch.
+Aoki: Klassiker. Genau dafür gibt's heute einen Satz: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Wer trinkt den Kaffee?|こーひーわだれがのみますか}. Das heißt: Wer trinkt den Kaffee?
+Jonas: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Wer trinkt den Kaffee?|こーひーわだれがのみますか} heißt also: Wer trinkt den Kaffee? Da steckt aber einiges drin.
+Aoki: Stimmt, deshalb vorab etwas Leichteres. Nakamura hatte doch auch ein Buch dabei. Buch heißt auf Japanisch {本|ほん|hon|Buch}.
+Jonas: {本|ほん|hon|Buch} heißt also Buch. Ein ziemlich dünnes. Sie hat es zufällig auf meinem Tisch liegen lassen, so beschäftigt war sie.
+Aoki: Dann nimm es in die Hand. Für ein Ding direkt bei dir sagst du {これ|これ|kore|dies hier, bei mir}. Das heißt: dies hier.
+Jonas: {これ|これ|kore|dies hier, bei mir} heißt also dies hier. Mit dem Themenmarker {は|は|wa|Themenmarker|わ} dahinter wird daraus {これは|これは|kore wa|dies hier als Thema|これわ}?
+Aoki: Genau. Und mit {です|です|desu|höflicher Abschluss} am Ende sagst du {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです}. Das heißt: Das ist ein Buch.
+Jonas: {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです}, also: Das ist ein Buch. Bei dem dünnen Ding war ich mir aber gar nicht so sicher.
+Aoki: Dann mach eine Frage draus, mit {か|か|ka|Fragepartikel} wie letztes Mal: {これは本ですか|これはほんですか|kore wa hon desu ka|Ist das ein Buch?|これわほんですか}. Das heißt: Ist das ein Buch?
+Jonas: {これは本ですか|これはほんですか|kore wa hon desu ka|Ist das ein Buch?|これわほんですか}, also: Ist das ein Buch? Und Nakamura sagt dann {はい、本です|はいほんです|hai, hon desu|Ja, ein Buch}. Das heißt: Ja, ein Buch.
 Aoki: Richtig, und zwar ohne {これ|これ|kore|dies hier, bei mir} in der Antwort. Für Dinge bei der anderen Person, beziehungsweise in ihrer Hand, gibt es ein eigenes Wort. Das kommt später.
 Jonas: Mir fällt gerade ein: Bei den Tassen sieht man ja gar nicht, was drin ist.
-Aoki: Dann fragst du mit {何|なに|nani|was}. Vor {です|です|desu|höflicher Abschluss} wird das aber kürzer, zu {何|なん|nan|was, vor です}. Spricht sich einfach leichter.
-Jonas: {何|なん|nan|was, vor です}. Also: {これは何ですか|これはなんですか|kore wa nan desu ka|Was ist das?|これわなんですか}. Was ist das?
-Aoki: Genau: {これは何ですか|これはなんですか|kore wa nan desu ka|Was ist das?|これわなんですか}. Was ist das? Die Antwort ist kurz: {お茶です|おちゃです|ocha desu|Das ist Tee}. Das ist Tee.
-Jonas: {お茶です|おちゃです|ocha desu|Das ist Tee}. Das ist Tee. Und wenn ich vermute, dass Kaffee drin ist: {これはコーヒーですか|これはこーひーですか|kore wa koohii desu ka|Ist das Kaffee?|これわこーひーですか}. Ist das Kaffee?
-Aoki: Gut gebaut. Falls deine Annahme stimmt: {はい、コーヒーです|はいこーひーです|hai, koohii desu|Ja, das ist Kaffee}. Ja, das ist Kaffee.
-Jonas: {はい、コーヒーです|はいこーひーです|hai, koohii desu|Ja, das ist Kaffee}. Ja, das ist Kaffee. Und falls nicht: {いいえ、お茶です|いいえおちゃです|iie, ocha desu|Nein, das ist Tee}. Nein, das ist Tee.
-Aoki: Perfekt. Jetzt weißt du, was in den Tassen ist. Fehlt nur noch, für wen. Wer heißt {だれ|だれ|dare|wer}.
-Jonas: {だれ|だれ|dare|wer}. Wer. Und dann wie bei {何|なに|nani|was} einfach an die Stelle der Person?
-Aoki: Fast. Hinter {だれ|だれ|dare|wer} steht nicht {は|は|wa|Themenmarker|わ}, sondern ein neues, winziges Wort: {が|が|ga|Subjektmarker: wer etwas tut}.
-Jonas: {が|が|ga|Subjektmarker: wer etwas tut}. Und was ist der Zweck davon?
-Aoki: {が|が|ga|Subjektmarker: wer etwas tut} hebt hervor, wer etwas tut. Also: {だれが|だれが|dare ga|wer, als handelnde Person}. Wer, als die Person, die handelt.
-Jonas: {だれが|だれが|dare ga|wer, als handelnde Person}. Mit Verb und Frage: {だれが飲みますか|だれがのみますか|dare ga nomimasu ka|Wer trinkt das?}. Wer trinkt das?
-Aoki: Genau: {だれが飲みますか|だれがのみますか|dare ga nomimasu ka|Wer trinkt das?}. Und wer antwortet, behält das {が|が|ga|Subjektmarker: wer etwas tut}, also: {私が飲みます|わたしがのみます|watashi ga nomimasu|Ich trinke das}. Ich trinke das.
-Jonas: {私が飲みます|わたしがのみます|watashi ga nomimasu|Ich trinke das}. Ich trinke das. Warum nicht {は|は|wa|Themenmarker|わ} wie sonst bei mir?
+Aoki: Dann fragst du mit {何|なに|nani|was}, also was. Vor {です|です|desu|höflicher Abschluss} wird das aber kürzer, zu {何|なん|nan|was, vor です}. Spricht sich einfach leichter.
+Jonas: Also {何|なん|nan|was, vor です}, was. Dann frage ich {これは何ですか|これはなんですか|kore wa nan desu ka|Was ist das?|これわなんですか}. Das heißt: Was ist das?
+Aoki: Genau: {これは何ですか|これはなんですか|kore wa nan desu ka|Was ist das?|これわなんですか}, was ist das? Die Antwort ist kurz: {お茶です|おちゃです|ocha desu|Das ist Tee}. Das heißt: Das ist Tee.
+Jonas: {お茶です|おちゃです|ocha desu|Das ist Tee}, also: Das ist Tee. Und wenn ich vermute, dass Kaffee drin ist, frage ich {これはコーヒーですか|これはこーひーですか|kore wa koohii desu ka|Ist das Kaffee?|これわこーひーですか}. Das heißt: Ist das Kaffee?
+Aoki: Gut gebaut. Falls deine Annahme stimmt, sagt sie {はい、コーヒーです|はいこーひーです|hai, koohii desu|Ja, das ist Kaffee}. Das heißt: Ja, das ist Kaffee.
+Jonas: {はい、コーヒーです|はいこーひーです|hai, koohii desu|Ja, das ist Kaffee}, also: Ja, das ist Kaffee. Und falls nicht: {いいえ、お茶です|いいえおちゃです|iie, ocha desu|Nein, das ist Tee}, also: Nein, das ist Tee.
+Aoki: Perfekt. Jetzt weißt du, was in den Tassen ist. Fehlt nur noch, für wen. Wer heißt auf Japanisch {だれ|だれ|dare|wer}.
+Jonas: {だれ|だれ|dare|wer} heißt also wer. Und dann wie bei {何|なに|nani|was}, also was, einfach an die Stelle der Person?
+Aoki: Fast. Hinter {だれ|だれ|dare|wer} steht nicht {は|は|wa|Themenmarker|わ}, sondern ein neues, winziges Wort, nämlich {が|が|ga|Subjektmarker: wer etwas tut}.
+Jonas: {が|が|ga|Subjektmarker: wer etwas tut} hat also keine eigene Übersetzung? Und was ist der Zweck davon?
+Aoki: Genau, {が|が|ga|Subjektmarker: wer etwas tut} hebt nur hervor, wer etwas tut. Also sagst du {だれが|だれが|dare ga|wer, als handelnde Person}. Das bedeutet: wer, als die Person, die handelt.
+Jonas: Also {だれが|だれが|dare ga|wer, als handelnde Person}. Mit Verb und Frage: {だれが飲みますか|だれがのみますか|dare ga nomimasu ka|Wer trinkt das?}. Das heißt: Wer trinkt das?
+Aoki: Genau: {だれが飲みますか|だれがのみますか|dare ga nomimasu ka|Wer trinkt das?}, wer trinkt das? Und wer antwortet, behält das {が|が|ga|Subjektmarker: wer etwas tut}, also: {私が飲みます|わたしがのみます|watashi ga nomimasu|Ich trinke das}. Das heißt: Ich trinke das.
+Jonas: {私が飲みます|わたしがのみます|watashi ga nomimasu|Ich trinke das}, also: Ich trinke das. Warum nicht {は|は|wa|Themenmarker|わ} wie sonst bei mir?
 Aoki: Weil nach der Person gefragt wurde. Die Antwort auf {だれが|だれが|dare ga|wer, als handelnde Person} bekommt ebenso {が|が|ga|Subjektmarker: wer etwas tut}. Das ist schon das ganze Geheimnis.
-Jonas: Okay. Aber in deinem Satz vom Anfang stand noch {コーヒーは|こーひーは|koohii wa|Kaffee als Thema|こーひーわ} davor.
-Aoki: Richtig. Damit sagst du zuerst, worüber ihr redet: über den Kaffee. Dann kommt {だれが飲みますか|だれがのみますか|dare ga nomimasu ka|Wer trinkt das?}. Wer trinkt das?
-Jonas: Als Ergebnis also: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Wer trinkt den Kaffee?|こーひーわだれがのみますか}. Wer trinkt den Kaffee? Der Satz besteht aus drei Teilen.
-Aoki: Genau: Thema, Person, Verb. Und die Antwort ist genauso gebaut: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}. Den Kaffee trinke ich.
-Jonas: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}. Den Kaffee trinke ich. Da kommen {は|は|wa|Themenmarker|わ} und {私|わたし|watashi|ich} direkt hintereinander, klingt lustig.
+Jonas: Okay. Aber in deinem Satz vom Anfang stand noch {コーヒーは|こーひーは|koohii wa|Kaffee als Thema|こーひーわ} davor, also Kaffee als Thema.
+Aoki: Richtig. Damit sagst du zuerst, worüber ihr redet: über den Kaffee. Dann kommt {だれが飲みますか|だれがのみますか|dare ga nomimasu ka|Wer trinkt das?}, wer trinkt das?
+Jonas: Als Ergebnis also: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Wer trinkt den Kaffee?|こーひーわだれがのみますか}. Das heißt: Wer trinkt den Kaffee? Der Satz besteht aus drei Teilen.
+Aoki: Genau: Thema, Person, Verb. Und die Antwort ist genauso gebaut: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}. Das heißt: Den Kaffee trinke ich.
+Jonas: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}, also: Den Kaffee trinke ich. Da kommen {は|は|wa|Themenmarker|わ} und {私|わたし|watashi|ich}, also ich, direkt hintereinander, klingt lustig.
 Aoki: Klingt doppelt, ist aber völlig normal. Und wo ist eigentlich {を|を|o|Objektmarker|お} geblieben?
-Jonas: Stimmt, sonst heißt es doch {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Ich trinke Kaffee.
+Jonas: Stimmt, sonst heißt es doch {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}, ich trinke Kaffee.
 Aoki: Wenn der Kaffee zum Thema wird, ersetzt {は|は|wa|Themenmarker|わ} das {を|を|o|Objektmarker|お}. Beide hintereinander gehen nicht.
-Jonas: Und wann sage ich welchen Satz? {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます} oder {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}?
-Aoki: Kommt drauf an, worüber ihr redet. Erzählst du von dir, bist du das Thema der Aussage: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Ich trinke Kaffee.
-Jonas: Und wenn alle vor den Tassen stehen und keiner weiß, für wen der Kaffee ist: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}. Den Kaffee trinke ich.
+Jonas: Und wann sage ich welchen Satz? {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}, ich trinke Kaffee, oder {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}, den Kaffee trinke ich?
+Aoki: Kommt drauf an, worüber ihr redet. Erzählst du von dir, bist du das Thema der Aussage. Dann sagst du {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}, also: Ich trinke Kaffee.
+Jonas: Und wenn alle vor den Tassen stehen und keiner weiß, für wen der Kaffee ist, sage ich {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}, den Kaffee trinke ich.
 Aoki: Genau. Das Thema ist das, worüber man redet. Es geht nicht immer darum, wer etwas tut. Dafür gibt's ja {が|が|ga|Subjektmarker: wer etwas tut}.
-Jonas: Kann ich das auf Tee übertragen? {お茶はだれが飲みますか|おちゃはだれがのみますか|ocha wa dare ga nomimasu ka|Wer trinkt den Tee?|おちゃわだれがのみますか}. Wer trinkt den Tee?
-Aoki: Klar, das klappt sowohl mit Kaffee als auch mit Tee. Die Antwort: {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|Den Tee trinkt Frau Nakamura|おちゃわなかむらさんがのみます}. Den Tee trinkt Frau Nakamura.
-Jonas: {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|Den Tee trinkt Frau Nakamura|おちゃわなかむらさんがのみます}. Den Tee trinkt Frau Nakamura. Also {中村さんが|なかむらさんが|Nakamura san ga|Frau Nakamura, als handelnde Person} statt {私が|わたしが|watashi ga|ich, als handelnde Person}.
-Aoki: Richtig, nur die Person ändert sich. Und wäre ich dabei gewesen, hätte Nakamura noch Saft geholt: {ジュースはだれが飲みますか|じゅーすはだれがのみますか|juusu wa dare ga nomimasu ka|Wer trinkt den Saft?|じゅーすわだれがのみますか}. Wer trinkt den Saft?
-Jonas: {ジュースはだれが飲みますか|じゅーすはだれがのみますか|juusu wa dare ga nomimasu ka|Wer trinkt den Saft?|じゅーすわだれがのみますか}. Wer trinkt den Saft? Ganz klar du: {ジュースは青木さんが飲みます|じゅーすはあおきさんがのみます|juusu wa Aoki san ga nomimasu|Den Saft trinkt Frau Aoki|じゅーすわあおきさんがのみます}. Den Saft trinkt Frau Aoki.
-Aoki: Schön. Jetzt du mit Tee: {お茶は私が飲みます|おちゃはわたしがのみます|ocha wa watashi ga nomimasu|Den Tee trinke ich|おちゃわわたしがのみます}. Den Tee trinke ich. Was ist da das Thema?
-Jonas: Der Tee. Und {私が|わたしが|watashi ga|ich, als handelnde Person} sagt, wer ihn trinkt. Also {お茶は私が飲みます|おちゃはわたしがのみます|ocha wa watashi ga nomimasu|Den Tee trinke ich|おちゃわわたしがのみます}. Den Tee trinke ich.
+Jonas: Kann ich das auf Tee übertragen? Wer trinkt den Tee hieße dann {お茶はだれが飲みますか|おちゃはだれがのみますか|ocha wa dare ga nomimasu ka|Wer trinkt den Tee?|おちゃわだれがのみますか}.
+Aoki: Klar, das klappt sowohl mit Kaffee als auch mit Tee. Die Antwort: {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|Den Tee trinkt Frau Nakamura|おちゃわなかむらさんがのみます}. Das heißt: Den Tee trinkt Frau Nakamura.
+Jonas: {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|Den Tee trinkt Frau Nakamura|おちゃわなかむらさんがのみます}, also: Den Tee trinkt Frau Nakamura. Ich sage {中村さんが|なかむらさんが|Nakamura san ga|Frau Nakamura, als handelnde Person}, Frau Nakamura, statt {私が|わたしが|watashi ga|ich, als handelnde Person}, ich.
+Aoki: Richtig, nur die Person ändert sich. Und wäre ich dabei gewesen, hätte Nakamura noch Saft geholt: {ジュースはだれが飲みますか|じゅーすはだれがのみますか|juusu wa dare ga nomimasu ka|Wer trinkt den Saft?|じゅーすわだれがのみますか}. Das heißt: Wer trinkt den Saft?
+Jonas: {ジュースはだれが飲みますか|じゅーすはだれがのみますか|juusu wa dare ga nomimasu ka|Wer trinkt den Saft?|じゅーすわだれがのみますか}, wer trinkt den Saft? Ganz klar du: {ジュースは青木さんが飲みます|じゅーすはあおきさんがのみます|juusu wa Aoki san ga nomimasu|Den Saft trinkt Frau Aoki|じゅーすわあおきさんがのみます}. Das heißt: Den Saft trinkt Frau Aoki.
+Aoki: Schön. Jetzt du mit Tee: {お茶は私が飲みます|おちゃはわたしがのみます|ocha wa watashi ga nomimasu|Den Tee trinke ich|おちゃわわたしがのみます}. Das heißt: Den Tee trinke ich. Was ist da das Thema?
+Jonas: Der Tee. Und {私が|わたしが|watashi ga|ich, als handelnde Person}, also ich, sagt, wer ihn trinkt. Also {お茶は私が飲みます|おちゃはわたしがのみます|ocha wa watashi ga nomimasu|Den Tee trinke ich|おちゃわわたしがのみます}, den Tee trinke ich.
 Aoki: Sehr gut, damit ist das Wichtigste erledigt. Kurz gesagt: Nach {だれ|だれ|dare|wer} kommt {が|が|ga|Subjektmarker: wer etwas tut}, und in der Antwort auch.
-Jonas: Gut, dann frag mich ab. Aber übertreib nicht, das ist alles noch neu.
-Aoki: Keine Sorge. {これは本ですか|これはほんですか|kore wa hon desu ka|Ist das ein Buch?|これわほんですか}. Ist das ein Buch?
-Jonas: {はい、本です|はいほんです|hai, hon desu|Ja, ein Buch}. Ja, ein Buch.
-Aoki: Und die Tasse hier: {これは何ですか|これはなんですか|kore wa nan desu ka|Was ist das?|これわなんですか}. Was ist das?
-Jonas: {お茶です|おちゃです|ocha desu|Das ist Tee}. Das ist Tee.
-Aoki: {これはコーヒーですか|これはこーひーですか|kore wa koohii desu ka|Ist das Kaffee?|これわこーひーですか}. Ist das Kaffee?
-Jonas: {いいえ、お茶です|いいえおちゃです|iie, ocha desu|Nein, das ist Tee}. Nein, das ist Tee.
-Aoki: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Wer trinkt den Kaffee?|こーひーわだれがのみますか}. Wer trinkt den Kaffee?
-Jonas: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}. Den Kaffee trinke ich.
-Aoki: {お茶はだれが飲みますか|おちゃはだれがのみますか|ocha wa dare ga nomimasu ka|Wer trinkt den Tee?|おちゃわだれがのみますか}. Wer trinkt den Tee?
-Jonas: {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|Den Tee trinkt Frau Nakamura|おちゃわなかむらさんがのみます}. Den Tee trinkt Frau Nakamura.
-Aoki: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}. Ach so. Bei der Gelegenheit noch zwei Wörter, mit denen du bei jeder Tasse höflich bleibst. Beim Anbieten sagt man {どうぞ|どうぞ|douzo|bitte schön, beim Anbieten}.
-Jonas: {どうぞ|どうぞ|douzo|bitte schön, beim Anbieten}. Bitte schön. Also wenn man jemandem die Tasse hinstellt?
-Aoki: Genau. Und du bedankst dich höflich mit {ありがとうございます|ありがとうございます|arigatou gozaimasu|vielen Dank (höflich)}. Vielen Dank.
-Jonas: {ありがとうございます|ありがとうございます|arigatou gozaimasu|vielen Dank (höflich)}. Vielen Dank. Ganz schön lang für ein Danke.
-Aoki: Lohnt sich aber, das brauchst du täglich, genau wie {どうぞ|どうぞ|douzo|bitte schön, beim Anbieten}. So, Szene: Ich bin Nakamura und komme mit den Tassen rein.
-Jonas: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Hallo.
-Aoki: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Hallo. {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Wer trinkt den Kaffee?|こーひーわだれがのみますか}. Wer trinkt den Kaffee?
-Jonas: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}. Den Kaffee trinke ich.
-Aoki: {どうぞ|どうぞ|douzo|bitte schön, beim Anbieten}. Bitte schön.
-Jonas: {ありがとうございます|ありがとうございます|arigatou gozaimasu|vielen Dank (höflich)}. Vielen Dank. Und die zweite Tasse: {これはコーヒーですか|これはこーひーですか|kore wa koohii desu ka|Ist das Kaffee?|これわこーひーですか}. Ist das auch Kaffee?
-Aoki: {いいえ、お茶です|いいえおちゃです|iie, ocha desu|Nein, das ist Tee}. Nein, das ist Tee.
-Jonas: {お茶はだれが飲みますか|おちゃはだれがのみますか|ocha wa dare ga nomimasu ka|Wer trinkt den Tee?|おちゃわだれがのみますか}. Wer trinkt den Tee?
-Aoki: {お茶は私が飲みます|おちゃはわたしがのみます|ocha wa watashi ga nomimasu|Den Tee trinke ich|おちゃわわたしがのみます}. Den Tee trinke ich.
-Jonas: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}. Ach so. Und das hier auf meinem Tisch: {これは本ですか|これはほんですか|kore wa hon desu ka|Ist das ein Buch?|これわほんですか}. Ist das ein Buch?
-Aoki: {はい、本です|はいほんです|hai, hon desu|Ja, ein Buch}. Ja, ein Buch. {どうぞ|どうぞ|douzo|bitte schön, beim Anbieten}. Bitte schön.
-Jonas: {ありがとうございます|ありがとうございます|arigatou gozaimasu|vielen Dank (höflich)}. Vielen Dank.
+Jonas: Gut, dann frag mich ab, erst Japanisch, dann Deutsch. Aber übertreib nicht, das ist alles noch neu.
+Aoki: Keine Sorge. {これは本ですか|これはほんですか|kore wa hon desu ka|Ist das ein Buch?|これわほんですか}. Heißt: Ist das ein Buch?
+Jonas: {はい、本です|はいほんです|hai, hon desu|Ja, ein Buch}. Also: Ja, ein Buch.
+Aoki: Und die Tasse hier: {これは何ですか|これはなんですか|kore wa nan desu ka|Was ist das?|これわなんですか}. Heißt: Was ist das?
+Jonas: {お茶です|おちゃです|ocha desu|Das ist Tee}. Also: Das ist Tee.
+Aoki: {これはコーヒーですか|これはこーひーですか|kore wa koohii desu ka|Ist das Kaffee?|これわこーひーですか}. Heißt: Ist das Kaffee?
+Jonas: {いいえ、お茶です|いいえおちゃです|iie, ocha desu|Nein, das ist Tee}. Also: Nein, das ist Tee.
+Aoki: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Wer trinkt den Kaffee?|こーひーわだれがのみますか}. Heißt: Wer trinkt den Kaffee?
+Jonas: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}. Also: Den Kaffee trinke ich.
+Aoki: {お茶はだれが飲みますか|おちゃはだれがのみますか|ocha wa dare ga nomimasu ka|Wer trinkt den Tee?|おちゃわだれがのみますか}. Heißt: Wer trinkt den Tee?
+Jonas: {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|Den Tee trinkt Frau Nakamura|おちゃわなかむらさんがのみます}. Also: Den Tee trinkt Frau Nakamura.
+Aoki: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}, ach so. Bei der Gelegenheit noch zwei Wörter, mit denen du bei jeder Tasse höflich bleibst. Beim Anbieten sagt man {どうぞ|どうぞ|douzo|bitte schön, beim Anbieten}. Das heißt: bitte schön.
+Jonas: {どうぞ|どうぞ|douzo|bitte schön, beim Anbieten} heißt also bitte schön. Also wenn man jemandem die Tasse hinstellt?
+Aoki: Genau. Und du bedankst dich höflich mit {ありがとうございます|ありがとうございます|arigatou gozaimasu|vielen Dank (höflich)}. Das heißt: vielen Dank.
+Jonas: {ありがとうございます|ありがとうございます|arigatou gozaimasu|vielen Dank (höflich)} heißt also vielen Dank. Ganz schön lang für ein Danke.
+Aoki: Lohnt sich aber, das brauchst du täglich, genau wie {どうぞ|どうぞ|douzo|bitte schön, beim Anbieten}. So, Szene: Ich bin Nakamura und komme mit den Tassen rein. Wir reden Japanisch, und nach jedem Satz sagen wir kurz, was er heißt.
+Jonas: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Also: Hallo.
+Aoki: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}, auch Hallo. {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Wer trinkt den Kaffee?|こーひーわだれがのみますか}. Heißt: Wer trinkt den Kaffee?
+Jonas: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}. Also: Den Kaffee trinke ich.
+Aoki: {どうぞ|どうぞ|douzo|bitte schön, beim Anbieten}. Heißt: Bitte schön.
+Jonas: {ありがとうございます|ありがとうございます|arigatou gozaimasu|vielen Dank (höflich)}, vielen Dank. Und die zweite Tasse: {これはコーヒーですか|これはこーひーですか|kore wa koohii desu ka|Ist das Kaffee?|これわこーひーですか}, ist das auch Kaffee?
+Aoki: {いいえ、お茶です|いいえおちゃです|iie, ocha desu|Nein, das ist Tee}. Heißt: Nein, das ist Tee.
+Jonas: {お茶はだれが飲みますか|おちゃはだれがのみますか|ocha wa dare ga nomimasu ka|Wer trinkt den Tee?|おちゃわだれがのみますか}. Also: Wer trinkt den Tee?
+Aoki: {お茶は私が飲みます|おちゃはわたしがのみます|ocha wa watashi ga nomimasu|Den Tee trinke ich|おちゃわわたしがのみます}. Heißt: Den Tee trinke ich.
+Jonas: {そうですか|そうですか|sou desu ka|Ach so, wirklich?}, ach so. Und das hier auf meinem Tisch: {これは本ですか|これはほんですか|kore wa hon desu ka|Ist das ein Buch?|これわほんですか}, ist das ein Buch?
+Aoki: {はい、本です|はいほんです|hai, hon desu|Ja, ein Buch}, ja, ein Buch. {どうぞ|どうぞ|douzo|bitte schön, beim Anbieten}, bitte schön.
+Jonas: {ありがとうございます|ありがとうございます|arigatou gozaimasu|vielen Dank (höflich)}. Also: Vielen Dank.
 Aoki: Ende der Szene. So ungefähr lief es heute Morgen, oder?
 Jonas: Fast. Nur war mein Kaffee schon kalt, als ich ihn bekommen habe. Da war ich ein bisschen enttäuscht.
-Aoki: Kaffee ist eben deine Leidenschaft. Jetzt die Abfrage: Deutsch, Pause, Japanisch. Wer trinkt den Kaffee: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Wer trinkt den Kaffee?|こーひーわだれがのみますか}.
-Jonas: Den Kaffee trinke ich: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}.
-Aoki: Den Tee trinkt Frau Nakamura: {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|Den Tee trinkt Frau Nakamura|おちゃわなかむらさんがのみます}.
-Jonas: Was ist das: {これは何ですか|これはなんですか|kore wa nan desu ka|Was ist das?|これわなんですか}.
-Aoki: Das ist ein Buch: {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです}.
-Jonas: Wer trinkt das: {だれが飲みますか|だれがのみますか|dare ga nomimasu ka|Wer trinkt das?}.
-Aoki: Vielen Dank: {ありがとうございます|ありがとうございます|arigatou gozaimasu|vielen Dank (höflich)}.
-Jonas: Bitte schön: {どうぞ|どうぞ|douzo|bitte schön, beim Anbieten}. Schadet nicht, das alles noch mal zu hören.
+Aoki: Kaffee ist eben deine Leidenschaft. Jetzt die Abfrage: Deutsch, Pause, Japanisch. Wer trinkt den Kaffee? Auf Japanisch: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Wer trinkt den Kaffee?|こーひーわだれがのみますか}.
+Jonas: Den Kaffee trinke ich. Auf Japanisch: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|Den Kaffee trinke ich|こーひーわわたしがのみます}.
+Aoki: Den Tee trinkt Frau Nakamura. Auf Japanisch: {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|Den Tee trinkt Frau Nakamura|おちゃわなかむらさんがのみます}.
+Jonas: Was ist das? Auf Japanisch: {これは何ですか|これはなんですか|kore wa nan desu ka|Was ist das?|これわなんですか}.
+Aoki: Das ist ein Buch. Auf Japanisch: {これは本です|これはほんです|kore wa hon desu|Das ist ein Buch|これわほんです}.
+Jonas: Wer trinkt das? Auf Japanisch: {だれが飲みますか|だれがのみますか|dare ga nomimasu ka|Wer trinkt das?}.
+Aoki: Vielen Dank. Auf Japanisch: {ありがとうございます|ありがとうございます|arigatou gozaimasu|vielen Dank (höflich)}.
+Jonas: Bitte schön. Auf Japanisch: {どうぞ|どうぞ|douzo|bitte schön, beim Anbieten}. Schadet nicht, das alles noch mal zu hören.
 Aoki: Im Gegenteil. Im nächsten Text lassen wir weg, was im Gespräch sowieso klar ist.

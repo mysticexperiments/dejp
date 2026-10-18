@@ -1,80 +1,80 @@
 Jonas: Morgen hab ich die erste Kaffeepause mit Nakamura. Ich will erzählen, was ich so trinke.
-Aoki: Dafür brauchst du zum ersten Mal ein Verb. Hör mal: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Ich trinke Kaffee.
-Jonas: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Ich trinke Kaffee. Der Anfang kommt mir bekannt vor.
-Aoki: Klar, {私は|わたしは|watashi wa|ich, als Thema|わたしわ} kennst du schon: ich, als Thema. {は|は|wa|Themenpartikel|わ} zeigt, worum es geht. Der Rest ist neu.
+Aoki: Dafür brauchst du zum ersten Mal ein Verb. Hör mal: Ich trinke Kaffee heißt auf Japanisch {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}.
+Jonas: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます} heißt also: Ich trinke Kaffee. Der Anfang kommt mir bekannt vor.
+Aoki: Klar, {私は|わたしは|watashi wa|ich, als Thema|わたしわ} kennst du schon, das heißt: ich, als Thema. Das kleine {は|は|wa|Themenpartikel|わ} zeigt, worum es geht. Der Rest ist neu.
 Jonas: Fangen wir mit dem Kaffee an?
-Aoki: Gern. Kaffee heißt {コーヒー|こーひー|koohii|Kaffee}. Das Wort kommt übrigens aus dem Niederländischen.
-Jonas: {コーヒー|こーひー|koohii|Kaffee}. Kaffee. Klingt fast wie bei uns.
-Aoki: Danach kommt ein ganz kleines Wort: {を|を|o|Objektpartikel|お}. Es zeigt, was man trinkt.
+Aoki: Gern. Kaffee heißt auf Japanisch {コーヒー|こーひー|koohii|Kaffee}. Das Wort kommt übrigens aus dem Niederländischen.
+Jonas: {コーヒー|こーひー|koohii|Kaffee} heißt also Kaffee. Klingt fast wie bei uns.
+Aoki: Danach kommt ein ganz kleines Wort, nämlich {を|を|o|Objektpartikel|お}. Es hat keine eigene Übersetzung, es zeigt nur, was man trinkt.
 Jonas: Also nach dem Kaffee, nicht davor?
-Aoki: Genau, immer dahinter. Zusammen: {コーヒーを|こーひーを|koohii o|Kaffee, als Objekt|こーひーお}. Kaffee, als das, was man trinkt.
+Aoki: Genau, immer dahinter. Zusammen sagst du {コーヒーを|こーひーを|koohii o|Kaffee, als Objekt|こーひーお}. Das bedeutet: Kaffee, als das, was man trinkt.
 Jonas: Und wo ist das Wort für trinken?
-Aoki: {飲みます|のみます|nomimasu|trinke, trinkt (höflich)}. Das heißt trinke oder trinkt, höflich gesagt. Wie bei {です|です|desu|höflicher Abschluss} hört man das u am Ende kaum.
-Jonas: {飲みます|のみます|nomimasu|trinke, trinkt (höflich)}. Trinke. Ist das egal, ob ich oder er trinkt?
-Aoki: Ja, das Verb bleibt gleich. Wer trinkt, sagt das Thema. Mit Kaffee: {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|trinke Kaffee|こーひーおのみます}. Trinke Kaffee.
-Jonas: {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|trinke Kaffee|こーひーおのみます}. Trinke Kaffee. Und der ganze Satz?
-Aoki: Mit dem Thema vorne: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Ich trinke Kaffee.
+Aoki: Trinken heißt {飲みます|のみます|nomimasu|trinke, trinkt (höflich)}. Genauer: trinke oder trinkt, höflich gesagt. Wie bei {です|です|desu|höflicher Abschluss} hört man das u am Ende kaum.
+Jonas: {飲みます|のみます|nomimasu|trinke, trinkt (höflich)} heißt also trinke. Ist das egal, ob ich oder er trinkt?
+Aoki: Ja, das Verb bleibt gleich. Wer trinkt, sagt das Thema. Mit Kaffee sagst du {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|trinke Kaffee|こーひーおのみます}. Das heißt: trinke Kaffee.
+Jonas: {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|trinke Kaffee|こーひーおのみます}, also: trinke Kaffee. Und der ganze Satz?
+Aoki: Mit dem Thema vorne: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Das heißt: Ich trinke Kaffee.
 Jonas: Komisch, im Deutschen steht das Verb vorne, hier ganz am Ende.
-Aoki: Daran gewöhnst du dich schnell: Thema, Getränk, Verb. {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Ich trinke Kaffee.
+Aoki: Daran gewöhnst du dich schnell: Thema, Getränk, Verb. Ich trinke Kaffee, also {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}.
 Jonas: Brauche ich am Ende noch das höfliche Wort von gestern?
 Aoki: Nein. {飲みます|のみます|nomimasu|trinke, trinkt (höflich)} ist schon höflich. Ein {です|です|desu|höflicher Abschluss} dazu wäre doppelt.
 Jonas: Kannst du mir beide Sätze mal direkt nebeneinander sagen?
-Aoki: Klar. Über dich: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}. Ich bin Student. Was du tust: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Ich trinke Kaffee.
+Aoki: Klar. Über dich sagst du {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Ich bin Student|わたしわがくせいです}, also: Ich bin Student. Und was du tust: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}, also: Ich trinke Kaffee.
 Jonas: Okay, der eine Satz endet mit dem höflichen Wort, der andere mit dem Verb.
-Aoki: Genau. Jetzt tauschen wir das Getränk. Tee heißt {お茶|おちゃ|ocha|Tee, meist grüner Tee}. Meistens grüner Tee.
-Jonas: {お茶|おちゃ|ocha|Tee, meist grüner Tee}. Tee. Also: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます}. Ich trinke Tee.
-Aoki: Super, nur das Getränk ist anders. Wasser heißt {水|みず|mizu|Wasser}. Wasser.
-Jonas: {水|みず|mizu|Wasser}. Wasser. Also: {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Ich trinke Wasser|わたしわみずおのみます}. Ich trinke Wasser.
-Aoki: Saft kommt wieder aus einer anderen Sprache: {ジュース|じゅーす|juusu|Saft}. Saft. Das u ist lang.
-Jonas: {ジュース|じゅーす|juusu|Saft}. Saft. Also: {私はジュースを飲みます|わたしはじゅーすをのみます|watashi wa juusu o nomimasu|Ich trinke Saft|わたしわじゅーすおのみます}. Ich trinke Saft.
-Aoki: Prima. Jetzt alle hintereinander. {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます}. Ich trinke Tee.
-Jonas: {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Ich trinke Wasser|わたしわみずおのみます}. Ich trinke Wasser.
-Aoki: {私はジュースを飲みます|わたしはじゅーすをのみます|watashi wa juusu o nomimasu|Ich trinke Saft|わたしわじゅーすおのみます}. Ich trinke Saft.
-Jonas: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Ich trinke Kaffee.
+Aoki: Genau. Jetzt tauschen wir das Getränk. Tee heißt {お茶|おちゃ|ocha|Tee, meist grüner Tee}, meistens ist grüner Tee gemeint.
+Jonas: {お茶|おちゃ|ocha|Tee, meist grüner Tee} heißt also Tee. Dann sage ich {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます}. Das heißt: Ich trinke Tee.
+Aoki: Super, nur das Getränk ist anders. Wasser heißt auf Japanisch {水|みず|mizu|Wasser}.
+Jonas: {水|みず|mizu|Wasser} heißt also Wasser. Dann: {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Ich trinke Wasser|わたしわみずおのみます}, ich trinke Wasser.
+Aoki: Saft kommt wieder aus einer anderen Sprache. Saft heißt {ジュース|じゅーす|juusu|Saft}. Das u ist lang.
+Jonas: {ジュース|じゅーす|juusu|Saft} heißt also Saft. Dann: {私はジュースを飲みます|わたしはじゅーすをのみます|watashi wa juusu o nomimasu|Ich trinke Saft|わたしわじゅーすおのみます}, ich trinke Saft.
+Aoki: Prima. Jetzt alle hintereinander, erst Japanisch, dann Deutsch. {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます}, also: Ich trinke Tee.
+Jonas: {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Ich trinke Wasser|わたしわみずおのみます}, also: Ich trinke Wasser.
+Aoki: {私はジュースを飲みます|わたしはじゅーすをのみます|watashi wa juusu o nomimasu|Ich trinke Saft|わたしわじゅーすおのみます}, also: Ich trinke Saft.
+Jonas: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}, also: Ich trinke Kaffee.
 Aoki: Merkst du was? Der Satz bleibt gleich, nur das Getränk wechselt.
 Jonas: Für Nakamura will ich auch sagen, wie oft ich was trinke.
-Aoki: Dafür gibt's Wörter für die Zeit. Jeden Tag heißt {毎日|まいにち|mainichi|jeden Tag}. Jeden Tag.
-Jonas: {毎日|まいにち|mainichi|jeden Tag}. Jeden Tag. Und wo kommt das hin?
-Aoki: Nach dem Thema, vor dem Getränk: {私は毎日コーヒーを飲みます|わたしはまいにちこーひーをのみます|watashi wa mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|わたしわまいにちこーひーおのみます}. Ich trinke jeden Tag Kaffee.
-Jonas: {私は毎日コーヒーを飲みます|わたしはまいにちこーひーをのみます|watashi wa mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|わたしわまいにちこーひーおのみます}. Ich trinke jeden Tag Kaffee. Das stimmt sogar.
-Aoki: Und wenn's nicht so oft ist: {時々|ときどき|tokidoki|manchmal}. Manchmal. Zum Beispiel: {私は時々ジュースを飲みます|わたしはときどきじゅーすをのみます|watashi wa tokidoki juusu o nomimasu|Ich trinke manchmal Saft|わたしわときどきじゅーすおのみます}. Ich trinke manchmal Saft.
-Jonas: {私は時々ジュースを飲みます|わたしはときどきじゅーすをのみます|watashi wa tokidoki juusu o nomimasu|Ich trinke manchmal Saft|わたしわときどきじゅーすおのみます}. Ich trinke manchmal Saft. Gleiche Stelle wie vorhin.
+Aoki: Dafür gibt's Wörter für die Zeit. Jeden Tag heißt {毎日|まいにち|mainichi|jeden Tag}.
+Jonas: {毎日|まいにち|mainichi|jeden Tag} heißt also jeden Tag. Und wo kommt das hin?
+Aoki: Nach dem Thema, vor dem Getränk: {私は毎日コーヒーを飲みます|わたしはまいにちこーひーをのみます|watashi wa mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|わたしわまいにちこーひーおのみます}. Das heißt: Ich trinke jeden Tag Kaffee.
+Jonas: {私は毎日コーヒーを飲みます|わたしはまいにちこーひーをのみます|watashi wa mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|わたしわまいにちこーひーおのみます}, also: Ich trinke jeden Tag Kaffee. Das stimmt sogar.
+Aoki: Und wenn's nicht so oft ist: Manchmal heißt {時々|ときどき|tokidoki|manchmal}. Zum Beispiel {私は時々ジュースを飲みます|わたしはときどきじゅーすをのみます|watashi wa tokidoki juusu o nomimasu|Ich trinke manchmal Saft|わたしわときどきじゅーすおのみます}. Das heißt: Ich trinke manchmal Saft.
+Jonas: {私は時々ジュースを飲みます|わたしはときどきじゅーすをのみます|watashi wa tokidoki juusu o nomimasu|Ich trinke manchmal Saft|わたしわときどきじゅーすおのみます}, also: Ich trinke manchmal Saft. Gleiche Stelle wie vorhin.
 Aoki: Richtig. Also: {毎日|まいにち|mainichi|jeden Tag} heißt jeden Tag, {時々|ときどき|tokidoki|manchmal} heißt manchmal.
 Jonas: Kann ich das Thema auch weglassen, so wie gestern beim Namen?
-Aoki: Ja, wenn klar ist, wer redet: {毎日コーヒーを飲みます|まいにちこーひーをのみます|mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|まいにちこーひーおのみます}. Ich trinke jeden Tag Kaffee.
-Jonas: {毎日コーヒーを飲みます|まいにちこーひーをのみます|mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|まいにちこーひーおのみます}. Jeden Tag Kaffee. Kürzer, und man versteht es trotzdem.
-Aoki: Jetzt üben wir: Ich sage wie oft und was, du machst den ganzen Satz.
+Aoki: Ja, wenn klar ist, wer redet. Dann sagst du nur {毎日コーヒーを飲みます|まいにちこーひーをのみます|mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|まいにちこーひーおのみます}. Das heißt immer noch: Ich trinke jeden Tag Kaffee.
+Jonas: {毎日コーヒーを飲みます|まいにちこーひーをのみます|mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|まいにちこーひーおのみます}, also: jeden Tag Kaffee. Kürzer, und man versteht es trotzdem.
+Aoki: Jetzt üben wir: Ich sage wie oft und was, du machst den ganzen Satz auf Japanisch und sagst danach, was er heißt.
 Jonas: Okay, leg los.
 Aoki: {毎日|まいにち|mainichi|jeden Tag}, also jeden Tag, und {水|みず|mizu|Wasser}, also Wasser.
-Jonas: {私は毎日水を飲みます|わたしはまいにちみずをのみます|watashi wa mainichi mizu o nomimasu|Ich trinke jeden Tag Wasser|わたしわまいにちみずおのみます}. Ich trinke jeden Tag Wasser.
+Jonas: {私は毎日水を飲みます|わたしはまいにちみずをのみます|watashi wa mainichi mizu o nomimasu|Ich trinke jeden Tag Wasser|わたしわまいにちみずおのみます}. Das heißt: Ich trinke jeden Tag Wasser.
 Aoki: Genau. Jetzt {時々|ときどき|tokidoki|manchmal}, manchmal, und {コーヒー|こーひー|koohii|Kaffee}, Kaffee.
-Jonas: {私は時々コーヒーを飲みます|わたしはときどきこーひーをのみます|watashi wa tokidoki koohii o nomimasu|Ich trinke manchmal Kaffee|わたしわときどきこーひーおのみます}. Ich trinke manchmal Kaffee.
+Jonas: {私は時々コーヒーを飲みます|わたしはときどきこーひーをのみます|watashi wa tokidoki koohii o nomimasu|Ich trinke manchmal Kaffee|わたしわときどきこーひーおのみます}. Das heißt: Ich trinke manchmal Kaffee.
 Aoki: Und zum Schluss {毎日|まいにち|mainichi|jeden Tag}, jeden Tag, und {お茶|おちゃ|ocha|Tee, meist grüner Tee}, Tee.
-Jonas: {私は毎日お茶を飲みます|わたしはまいにちおちゃをのみます|watashi wa mainichi ocha o nomimasu|Ich trinke jeden Tag Tee|わたしわまいにちおちゃおのみます}. Ich trinke jeden Tag Tee.
-Aoki: Fehlerfrei! Und über mich sage ich: {私は時々水を飲みます|わたしはときどきみずをのみます|watashi wa tokidoki mizu o nomimasu|Ich trinke manchmal Wasser|わたしわときどきみずおのみます}. Ich trinke manchmal Wasser.
-Jonas: {私は時々水を飲みます|わたしはときどきみずをのみます|watashi wa tokidoki mizu o nomimasu|Ich trinke manchmal Wasser|わたしわときどきみずおのみます}. Du trinkst manchmal Wasser. Hier bist du das Thema.
+Jonas: {私は毎日お茶を飲みます|わたしはまいにちおちゃをのみます|watashi wa mainichi ocha o nomimasu|Ich trinke jeden Tag Tee|わたしわまいにちおちゃおのみます}. Das heißt: Ich trinke jeden Tag Tee.
+Aoki: Fehlerfrei! Und über mich sage ich {私は時々水を飲みます|わたしはときどきみずをのみます|watashi wa tokidoki mizu o nomimasu|Ich trinke manchmal Wasser|わたしわときどきみずおのみます}. Das heißt: Ich trinke manchmal Wasser.
+Jonas: Wenn du {私は時々水を飲みます|わたしはときどきみずをのみます|watashi wa tokidoki mizu o nomimasu|Ich trinke manchmal Wasser|わたしわときどきみずおのみます} sagst, heißt das: Du trinkst manchmal Wasser. Hier bist du das Thema.
 Aoki: Genau, weil ich über mich rede. Und wie ist das bei Nakamura? Das spielen wir gleich.
 Jonas: Was trinkt sie denn so?
-Aoki: Sie trinkt jeden Tag Tee. Ich spiele jetzt Nakamura, du fängst mit dem Gruß an.
-Jonas: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Hallo.
-Aoki: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Hallo.
-Jonas: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Ich trinke Kaffee.
-Aoki: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます}. Ich trinke Tee.
-Jonas: {毎日コーヒーを飲みます|まいにちこーひーをのみます|mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|まいにちこーひーおのみます}. Ich trinke jeden Tag Kaffee.
-Aoki: {毎日お茶を飲みます|まいにちおちゃをのみます|mainichi ocha o nomimasu|Ich trinke jeden Tag Tee|まいにちおちゃおのみます}. Ich trinke jeden Tag Tee.
-Jonas: {時々ジュースを飲みます|ときどきじゅーすをのみます|tokidoki juusu o nomimasu|Ich trinke manchmal Saft|ときどきじゅーすおのみます}. Ich trinke manchmal Saft.
-Aoki: {時々水を飲みます|ときどきみずをのみます|tokidoki mizu o nomimasu|Ich trinke manchmal Wasser|ときどきみずおのみます}. Ich trinke manchmal Wasser. Und Ende der Szene.
-Jonas: Ab dem zweiten Satz haben wir {私は|わたしは|watashi wa|ich, als Thema|わたしわ} einfach weggelassen.
+Aoki: Sie trinkt jeden Tag Tee. Ich spiele jetzt Nakamura. Wir reden Japanisch, und nach jedem Satz sagen wir kurz, was er heißt. Du fängst mit dem Gruß an.
+Jonas: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Also: Hallo.
+Aoki: {こんにちは|こんにちは|konnichiwa|Hallo, guten Tag|こんにちわ}. Auch Hallo.
+Jonas: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Heißt: Ich trinke Kaffee.
+Aoki: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます}. Heißt: Ich trinke Tee.
+Jonas: {毎日コーヒーを飲みます|まいにちこーひーをのみます|mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|まいにちこーひーおのみます}. Also: Ich trinke jeden Tag Kaffee.
+Aoki: {毎日お茶を飲みます|まいにちおちゃをのみます|mainichi ocha o nomimasu|Ich trinke jeden Tag Tee|まいにちおちゃおのみます}. Also: Ich trinke jeden Tag Tee.
+Jonas: {時々ジュースを飲みます|ときどきじゅーすをのみます|tokidoki juusu o nomimasu|Ich trinke manchmal Saft|ときどきじゅーすおのみます}. Heißt: Ich trinke manchmal Saft.
+Aoki: {時々水を飲みます|ときどきみずをのみます|tokidoki mizu o nomimasu|Ich trinke manchmal Wasser|ときどきみずおのみます}. Heißt: Ich trinke manchmal Wasser. Und Ende der Szene.
+Jonas: Ab dem zweiten Satz haben wir {私は|わたしは|watashi wa|ich, als Thema|わたしわ} einfach weggelassen, also das ich.
 Aoki: Genau, so redet man wirklich. Jetzt wieder: Ich sag's auf Deutsch, in der Pause sagst du es auf Japanisch.
-Jonas: Okay. Ich trinke Wasser: {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Ich trinke Wasser|わたしわみずおのみます}.
-Aoki: Ich trinke jeden Tag Tee: {私は毎日お茶を飲みます|わたしはまいにちおちゃをのみます|watashi wa mainichi ocha o nomimasu|Ich trinke jeden Tag Tee|わたしわまいにちおちゃおのみます}.
-Jonas: Ich trinke manchmal Saft: {私は時々ジュースを飲みます|わたしはときどきじゅーすをのみます|watashi wa tokidoki juusu o nomimasu|Ich trinke manchmal Saft|わたしわときどきじゅーすおのみます}.
-Aoki: Ich trinke jeden Tag Kaffee: {私は毎日コーヒーを飲みます|わたしはまいにちこーひーをのみます|watashi wa mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|わたしわまいにちこーひーおのみます}.
-Jonas: Ich trinke manchmal Wasser: {私は時々水を飲みます|わたしはときどきみずをのみます|watashi wa tokidoki mizu o nomimasu|Ich trinke manchmal Wasser|わたしわときどきみずおのみます}.
-Aoki: Und kurz, ohne Thema: jeden Tag Kaffee: {毎日コーヒーを飲みます|まいにちこーひーをのみます|mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|まいにちこーひーおのみます}.
-Jonas: Ich trinke Saft: {私はジュースを飲みます|わたしはじゅーすをのみます|watashi wa juusu o nomimasu|Ich trinke Saft|わたしわじゅーすおのみます}.
-Aoki: Alles richtig. Die letzte: Ich trinke Tee: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます}.
+Jonas: Okay. Ich trinke Wasser. Auf Japanisch: {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Ich trinke Wasser|わたしわみずおのみます}.
+Aoki: Ich trinke jeden Tag Tee. Auf Japanisch: {私は毎日お茶を飲みます|わたしはまいにちおちゃをのみます|watashi wa mainichi ocha o nomimasu|Ich trinke jeden Tag Tee|わたしわまいにちおちゃおのみます}.
+Jonas: Ich trinke manchmal Saft. Auf Japanisch: {私は時々ジュースを飲みます|わたしはときどきじゅーすをのみます|watashi wa tokidoki juusu o nomimasu|Ich trinke manchmal Saft|わたしわときどきじゅーすおのみます}.
+Aoki: Ich trinke jeden Tag Kaffee. Auf Japanisch: {私は毎日コーヒーを飲みます|わたしはまいにちこーひーをのみます|watashi wa mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|わたしわまいにちこーひーおのみます}.
+Jonas: Ich trinke manchmal Wasser. Auf Japanisch: {私は時々水を飲みます|わたしはときどきみずをのみます|watashi wa tokidoki mizu o nomimasu|Ich trinke manchmal Wasser|わたしわときどきみずおのみます}.
+Aoki: Und kurz, ohne Thema: jeden Tag Kaffee. Auf Japanisch: {毎日コーヒーを飲みます|まいにちこーひーをのみます|mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|まいにちこーひーおのみます}.
+Jonas: Ich trinke Saft. Auf Japanisch: {私はジュースを飲みます|わたしはじゅーすをのみます|watashi wa juusu o nomimasu|Ich trinke Saft|わたしわじゅーすおのみます}.
+Aoki: Alles richtig. Die letzte: Ich trinke Tee. Auf Japanisch: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Ich trinke Tee|わたしわおちゃおのみます}.
 Jonas: Ich hab nur die Getränke getauscht und gesagt, wie oft. Der Satz blieb gleich.
-Aoki: Genau. Merk dir das Muster: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}. Ich trinke Kaffee.
-Jonas: Und mit wie oft: {私は毎日コーヒーを飲みます|わたしはまいにちこーひーをのみます|watashi wa mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|わたしわまいにちこーひーおのみます}. Ich trinke jeden Tag Kaffee.
+Aoki: Genau. Merk dir das Muster: Ich trinke Kaffee heißt {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Ich trinke Kaffee|わたしわこーひーおのみます}.
+Jonas: Und mit wie oft: Ich trinke jeden Tag Kaffee heißt {私は毎日コーヒーを飲みます|わたしはまいにちこーひーをのみます|watashi wa mainichi koohii o nomimasu|Ich trinke jeden Tag Kaffee|わたしわまいにちこーひーおのみます}.
 Aoki: Genau. Im nächsten Text redest du nicht über dich, sondern über Nakamura.
