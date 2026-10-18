@@ -251,28 +251,6 @@
     "de": "Eine Frau, die in einem Büro arbeitet."
    }
   ],
-  "63": [
-   {
-    "word": "Büroangestellte",
-    "lemma": "die Büroangestellte",
-    "pt": [
-     "funcionária de escritório",
-     "funcionária de empresa"
-    ],
-    "de": "Eine Frau, die in einem Büro arbeitet."
-   }
-  ],
-  "72": [
-   {
-    "word": "Büroangestellte",
-    "lemma": "die Büroangestellte",
-    "pt": [
-     "funcionária de escritório",
-     "funcionária de empresa"
-    ],
-    "de": "Eine Frau, die in einem Büro arbeitet."
-   }
-  ],
   "62": [
    {
     "word": "Nachname",
@@ -284,6 +262,17 @@
     "de": "Der Name der Familie, zum Beispiel Nakamura."
    }
   ],
+  "63": [
+   {
+    "word": "Büroangestellte",
+    "lemma": "die Büroangestellte",
+    "pt": [
+     "funcionária de escritório",
+     "funcionária de empresa"
+    ],
+    "de": "Eine Frau, die in einem Büro arbeitet."
+   }
+  ],
   "64": [
    {
     "word": "fängst",
@@ -293,6 +282,28 @@
      "inicia"
     ],
     "de": "„Du fängst an“: du bist zuerst dran."
+   }
+  ],
+  "70": [
+   {
+    "word": "Büroangestellte",
+    "lemma": "die Büroangestellte",
+    "pt": [
+     "funcionária de escritório",
+     "funcionária de empresa"
+    ],
+    "de": "Eine Frau, die in einem Büro arbeitet."
+   }
+  ],
+  "74": [
+   {
+    "word": "umgekehrt",
+    "lemma": "umgekehrt",
+    "pt": [
+     "ao contrário",
+     "inversamente"
+    ],
+    "de": "Andersherum als vorher: erst Deutsch, dann Japanisch."
    }
   ],
   "82": [

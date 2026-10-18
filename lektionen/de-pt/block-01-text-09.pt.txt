@@ -1,82 +1,82 @@
-Jonas: Vimos que os substantivos não precisam de artigos e terminações como em alemão. Então como reconheço o estilo polido das nossas frases?
-Aoki: Nos padrões conhecidos, principalmente pelo final da frase. Hoje comparamos afirmações polidas com algumas formas simples que você pode ouvir entre pessoas próximas.
-Jonas: Depois disso devo começar imediatamente a falar de maneira informal?
-Aoki: Não. Seu estilo inicial continua sendo polido. As novas formas servem primeiro para reconhecimento, para que conteúdos conhecidos não soem totalmente estranhos em outra maneira de falar.
-Jonas: Vamos começar com minha apresentação como estudante.
-Aoki: Quando está claro que você está se apresentando, {学生です|がくせいです|gakusei desu|Eu sou estudante} significa: eu sou estudante. O substantivo informa sua condição; a finalização torna essa afirmação polida.
-Jonas: Qual parte eu conheço como finalização polida?
-Aoki: {です|です|desu|finalização polida} é a finalização dessa frase nominal. Esse elemento faz parte da afirmação sobre o que você é, não de um verbo de ação como beber.
-Jonas: Vamos supor que um conhecido conte a um amigo próximo que é estudante. Que outra forma eu poderia ouvir nessa situação?
-Aoki: Você poderia ouvir {学生だ|がくせいだ|gakusei da|Eu sou estudante, forma simples}: eu sou estudante. A novidade é {だ|だ|da|finalização simples de uma afirmação nominal}, a finalização simples dessa frase nominal. Aqui a pessoa fala de si mesma.
-Jonas: O que significa simples aqui? É uma forma pior ou incompleta?
-Aoki: Não. Simples designa aqui uma forma de estilo gramatical sem a finalização polida do primeiro exemplo. Ela pode caber em conversas entre pessoas próximas, mas não é a escolha adequada para toda situação.
-Jonas: Então, ao ouvir essa forma, reconheço a condição de estudante. A outra finalização não transforma isso em outra profissão.
-Aoki: Exatamente. {学生です|がくせいです|gakusei desu|Eu sou estudante} significa eu sou estudante na forma polida. {学生だ|がくせいだ|gakusei da|Eu sou estudante, forma simples} também significa eu sou estudante, agora na forma simples. A informação básica continua igual.
-Jonas: Posso ouvir a mesma distinção com um objeto?
-Aoki: Sim. Aponto para o livro perto de mim: {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです} significa isto é um livro. É nossa afirmação nominal polida conhecida.
-Jonas: E como essa mesma afirmação fica na forma simples?
-Aoki: {これは本だ|これはほんだ|kore wa hon da|Isto é um livro, forma simples|これわほんだ} também significa isto é um livro. Isto aqui, o marcador de tema e livro permanecem; apenas a finalização dessa afirmação nominal muda.
-Jonas: Para minha própria fala, continuo com {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}: isto é um livro. Por enquanto, quero apenas entender a outra forma.
-Aoki: Isso corresponde ao nosso objetivo. Você pode reconhecer o mesmo objeto nas duas versões e ainda usar a forma polida conhecida ao falar.
-Jonas: Toda frase informal precisa terminar com essa nova finalização curta?
-Aoki: Não. Aqui usamos esse elemento em afirmações nominais. Para uma frase de ação, precisamos da forma verbal adequada, não automaticamente da mesma finalização.
-Jonas: Então vamos voltar ao meu café na pausa.
-Aoki: Se já estivermos falando da sua escolha, você diz de forma polida {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Eu bebo café|こーひーおのみます}: eu bebo café. Nessa situação clara, a pessoa não precisa ser mencionada explicitamente.
-Jonas: Onde está a polidez nessa frase de ação?
-Aoki: Na forma verbal {飲みます|のみます|nomimasu|beber, forma polida}, ou seja, beber na forma polida conhecida. A terminação {ます|ます|masu|terminação verbal polida} marca aqui a forma verbal polida; ela não significa sou por si só.
-Jonas: Qual forma eu poderia ouvir no lugar dela entre pessoas próximas?
-Aoki: A forma simples desse verbo é {飲む|のむ|nomu|beber, forma simples}, ou seja, beber. Aprenda-a agora como uma forma completa ouvida ao lado da forma polida conhecida.
-Jonas: Ouço dois amigos escolhendo suas bebidas. Um pergunta ao outro o que gostaria de beber. Como poderia ser a resposta com café?
-Aoki: Ele poderia dizer {コーヒーを飲む|こーひーをのむ|koohii o nomu|Eu bebo café, forma simples|こーひーおのむ}: eu bebo café. Café e seu marcador de objeto permanecem; agora o verbo está na forma simples. A pessoa em questão é o amigo que responde.
-Jonas: Pode comparar novamente as duas versões inteiras?
-Aoki: {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Eu bebo café|こーひーおのみます} significa eu bebo café de forma polida. {コーヒーを飲む|こーひーをのむ|koohii o nomu|Eu bebo café, forma simples|こーひーおのむ} significa eu bebo café com a mesma informação básica, na forma simples. Nessa situação muda o estilo, não a bebida.
-Jonas: A forma simples surge apenas cortando a terminação polida?
-Aoki: Não. Ouça as formas inteiras: {飲みます|のみます|nomimasu|beber, forma polida} é a forma polida de beber; {飲む|のむ|nomu|beber, forma simples} é a forma simples aprendida aqui. Apenas cortar não produz essa forma completa.
-Jonas: Então não devo criar uma regra geral de transformação a partir de um único verbo.
-Aoki: Exatamente. Aprenderemos os grupos verbais e suas transformações de forma sistemática mais adiante. Hoje você reconhece esse par completo de formas e seu uso em frases inteiras.
-Jonas: O que acontece se eu colocar depois da forma simples de beber a finalização da frase sobre ser estudante?
-Aoki: Isso não seria nosso padrão correto. A forma verbal simples basta em {コーヒーを飲む|こーひーをのむ|koohii o nomu|Eu bebo café, forma simples|こーひーおのむ}, eu bebo café. Aqui não acrescentamos {だ|だ|da|finalização simples de uma afirmação nominal}.
-Jonas: E, na forma polida de beber, continuo sem acrescentar outra finalização polida.
-Aoki: Isso mesmo. {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Eu bebo café|こーひーおのみます} já é a frase polida completa eu bebo café. Finalização nominal e forma verbal são elementos diferentes, não palavras de polidez que se podem empilhar à vontade.
-Jonas: Podemos comparar o verbo simples também com água?
-Aoki: Sim. A afirmação polida sobre sua escolha é {水を飲みます|みずをのみます|mizu o nomimasu|Eu bebo água|みずおのみます}: eu bebo água. Na forma simples, é {水を飲む|みずをのむ|mizu o nomu|Eu bebo água, forma simples|みずおのむ}: também eu bebo água.
-Jonas: Se a nova colega perguntar minha escolha, continuo respondendo {水を飲みます|みずをのみます|mizu o nomimasu|Eu bebo água|みずおのみます}: eu bebo água. Para isso não preciso de outro marcador de objeto.
-Aoki: Exatamente. Com café e água, a diferença de estilo continua a mesma. O marcador de objeto ainda pertence à bebida; ele não é retirado apenas porque o verbo está na forma simples.
-Jonas: E se eu falar da senhora Nakamura em vez de mim?
-Aoki: A frase polida conhecida é {中村さんはコーヒーを飲みます|なかむらさんはこーひーをのみます|Nakamura-san wa koohii o nomimasu|A senhora Nakamura bebe café|なかむらさんわこーひーおのみます}: a senhora Nakamura bebe café. Agora vamos ouvir a mesma informação numa afirmação simples.
-Jonas: Qual é o resultado completo?
-Aoki: {中村さんはコーヒーを飲む|なかむらさんはこーひーをのむ|Nakamura-san wa koohii o nomu|A senhora Nakamura bebe café, forma simples|なかむらさんわこーひーおのむ} também significa a senhora Nakamura bebe café. O nome dela, o marcador de tema e a bebida permanecem; apenas a forma verbal agora é simples.
-Jonas: O tratamento respeitoso depois do nome pode continuar numa frase assim?
-Aoki: Sim. O tratamento depois do nome trata a pessoa mencionada com respeito. Aqui o estilo polido ou simples da frase diz respeito à maneira de falar com seu interlocutor. São decisões relacionadas, mas não idênticas.
-Jonas: Então eu poderia ouvir um amigo próximo falando de Nakamura, sem que ela estivesse presente. O tratamento após o nome se refere a ela; aqui o estilo da frase diz respeito à conversa com o amigo.
-Aoki: Exatamente. Por isso, um nome mencionado respeitosamente e uma forma verbal simples podem aparecer juntos. Como você fala de uma pessoa e com quem você fala não são a mesma questão.
-Jonas: Uma forma simples é sempre mal-educada ou agressiva?
-Aoki: Não. Entre interlocutores próximos, numa situação adequada, ela pode ser perfeitamente normal. Uma forma se torna inadequada pela situação e pela relação, não apenas por se chamar simples.
-Jonas: E a forma polida não garante que toda afirmação pareça gentil?
-Aoki: Isso mesmo. O conteúdo, o tom e a situação da conversa também contam. Uma terminação verbal polida não substitui um pedido adequado, consideração ou uma escolha de palavras apropriada.
-Jonas: Então posso primeiro entender as formas simples sem já saber usá-las com segurança?
-Aoki: Esse é exatamente nosso objetivo. Por exemplo, você ouve {コーヒーを飲む|こーひーをのむ|koohii o nomu|Eu bebo café, forma simples|こーひーおのむ} e reconhece eu bebo café no contexto adequado, em vez de imaginar uma ação completamente nova.
-Jonas: A forma simples significa passado ou futuro?
-Aoki: Não por si só. Aqui comparamos as mesmas ações habituais ou escolhidas dos exemplos polidos. Tempo e negação serão explicados depois como diferenças próprias.
-Jonas: Qual é agora o limite mais importante para minha própria fala?
-Aoki: Você continua usando as frases polidas conhecidas. As poucas formas simples servem à compreensão; elas não são um guia completo para transformar qualquer palavra em linguagem informal.
-Jonas: Então deixar a pessoa implícita é uma decisão diferente de falar de forma polida ou simples.
-Aoki: Isso mesmo. {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Eu bebo café|こーひーおのみます} significa, na situação da sua bebida, eu bebo café de forma polida, embora eu não seja mencionado explicitamente. Uma afirmação curta pode continuar sendo inteiramente polida.
-Jonas: E a forma simples também não revela pela terminação qual pessoa está sendo mencionada.
-Aoki: Exatamente. Quando o nome fica implícito, o contexto continua importante. O par de formas de hoje não transforma o verbo japonês num verbo alemão com terminações diferentes para eu e ela.
-Jonas: Então vamos ensaiar outra vez minha primeira pausa no escritório. Ainda não conheço bem Nakamura e não quero soar muito íntimo sem motivo.
-Aoki: Comece mantendo o padrão polido. Se ela perguntar em alemão o que você gostaria de beber, você pode dar a resposta completa que já conhece.
-Jonas: {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Eu bebo café|こーひーおのみます}. Eu bebo café. A resposta é curta, mas a forma verbal polida permanece.
-Aoki: Isso mesmo. Você não precisa nem de uma palavra adicional para eu nem de uma segunda finalização polida. A pergunta fornece a pessoa; aqui a forma verbal fornece o estilo polido.
-Jonas: O padrão polido deste bloco já é toda a linguagem de respeito do japonês?
-Aoki: Não. Existem outras formas respeitosas e humildes de expressão. Hoje tratamos da diferença básica entre nossas afirmações polidas e algumas correspondentes simples.
-Jonas: Posso concluir pela frase sobre ser estudante que todo final polido é substituído pela mesma finalização simples?
-Aoki: Não. Nosso exemplo tem um substantivo como núcleo da afirmação. Outros tipos de frase, como afirmações com palavras de qualidade, terão explicações próprias depois e não devem ser transformados automaticamente por esse padrão.
-Jonas: Se mais adiante eu procurar beber num dicionário, posso encontrar a forma simples?
-Aoki: Sim. {飲む|のむ|nomu|beber, forma simples} também é a forma de dicionário desse verbo. Você não precisa saber ler um dicionário agora; o nome só explica por que essa forma vai reaparecer depois.
-Jonas: Então, na minha própria frase de exemplo, continuo escolhendo a versão polida.
-Aoki: Sim. Para sua apresentação, {学生です|がくせいです|gakusei desu|Eu sou estudante}: eu sou estudante. Para sua escolha de bebida, {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Eu bebo café|こーひーおのみます}: eu bebo café. As duas são nossas formas iniciais polidas conhecidas.
-Jonas: E, quando ouvir as outras formas, não preciso inventar imediatamente outro significado.
-Aoki: Exatamente. {学生だ|がくせいだ|gakusei da|Eu sou estudante, forma simples} pode significar eu sou estudante na forma simples na sua apresentação, e {コーヒーを飲む|こーひーをのむ|koohii o nomu|Eu bebo café, forma simples|こーひーおのむ}, eu bebo café na forma simples na sua escolha. Você reconhece a informação básica conhecida em outra forma.
-Jonas: Com isso entendo melhor a estrutura básica das frases. Como o curso continua depois?
-Aoki: O bloco dois amplia gradualmente as afirmações com a finalização nominal polida. Lá explicaremos negação, passado e perguntas separadamente, novamente com exemplos completos e seus significados.
+Jonas: No último texto falamos de um livro na sala. De onde veio o ein alemão, se não ouvi uma palavra japonesa própria para ele?
+Aoki: Da tradução natural em alemão e da nossa situação. Hoje vamos separar três questões: artigos, gênero gramatical e singular ou plural.
+Jonas: Vamos começar com o artigo e um objeto que você segura na mão.
+Aoki: Eu levanto um único livro e digo {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}. Significa: isto é um livro. A situação deixa claro para qual objeto estou apontando.
+Jonas: Qual parte significa um livro?
+Aoki: {本|ほん|hon|livro} significa livro. A palavra não contém também um artigo indefinido. O alemão precisa de ein Buch nessa frase; o japonês constrói essa afirmação nominal sem esse tipo de artigo.
+Jonas: E isto aqui não é o artigo que falta?
+Aoki: Não. {これ|これ|kore|isto aqui} indica o objeto perto da pessoa que fala. Aqui corresponde a isto aqui e, junto com o marcador de tema, forma o tema da afirmação.
+Jonas: Então, se eu procurar cada palavra alemã separadamente, vou procurar da maneira errada.
+Aoki: Exatamente. {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです} significa, como frase inteira, isto é um livro. As duas línguas não distribuem essa informação pelo mesmo número de palavras com funções idênticas.
+Jonas: Então, em japonês, não há a mesma obrigação de escolher entre ein e der ou das?
+Aoki: Isso mesmo. Não há um sistema de artigos correspondente ao alemão. Mesmo assim, o contexto pode indicar que se trata de um objeto específico.
+Jonas: Como posso ouvir essa diferença com nosso exemplo da sala?
+Aoki: Imagine que você abre uma sala que ainda não conhece e descobre um livro ali. {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Há um livro na sala} significa nessa cena: há um livro na sala.
+Jonas: O livro é mencionado aqui pela primeira vez.
+Aoki: Sim. A tradução alemã com ein Buch cabe nessa apresentação. Isso não faz o substantivo japonês receber um artigo indefinido adicional.
+Jonas: Se o livro já for conhecido, preciso de outra palavra japonesa para livro?
+Aoki: Não. A palavra {本|ほん|hon|livro} continua sendo livro. O contexto ou a organização da frase pode esclarecer a referência conhecida sem que o substantivo receba um artigo definido alemão.
+Jonas: Pode mostrar também uma frase inteira em que falamos de um livro específico e conhecido?
+Aoki: Sim. Você procura o livro que acabamos de usar. Eu digo {本は部屋にあります|ほんはへやにあります|hon wa heya ni arimasu|O livro está na sala|ほんわへやにあります}: o livro está na sala. Agora esse livro é explicitamente nosso tema.
+Jonas: Qual é a diferença em relação à primeira frase sobre um livro na sala?
+Aoki: {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Há um livro na sala} significava, na situação da descoberta, há um livro na sala. Agora a afirmação é {本は部屋にあります|ほんはへやにあります|hon wa heya ni arimasu|O livro está na sala|ほんわへやにあります}: o livro está na sala, como resposta à procura do livro conhecido.
+Jonas: O que mudou além da tradução alemã?
+Aoki: Livro agora vem no início com o marcador de tema. A sala continua ligada ao marcador de lugar de existência, e o verbo continua dizendo que algo está presente.
+Jonas: Então o marcador de sujeito depois de livro foi substituído pelo marcador de tema.
+Aoki: Exatamente, nesse padrão. Retomamos o livro conhecido como tema e dizemos onde ele está. É uma função diferente na conversa em relação a informar o que existe na sala.
+Jonas: Por isso posso traduzir o marcador de tema como o artigo definido?
+Aoki: Não. Ele marca o tema, não a palavra alemã das. Nossas frases sobre mim já usam esse marcador, embora não haja um artigo definido alemão antes.
+Jonas: Se Nakamura procurar esse livro conhecido, posso dizer a ela {本は部屋にあります|ほんはへやにあります|hon wa heya ni arimasu|O livro está na sala|ほんわへやにあります}: o livro está na sala. Não preciso explicar novamente de qual livro se trata.
+Aoki: Exatamente. Vocês já estão falando do mesmo livro. Por isso, na tradução alemã, cabe o artigo definido com livro. Na frase japonesa, a partícula marca o tema; ela não é um artigo.
+Jonas: Então esclarecemos o artigo. Mas em alemão dizemos das Buch e der Kaffee. Também preciso transferir essa diferença para o japonês?
+Aoki: Assim chegamos à segunda questão, o gênero gramatical. Em alemão, das Buch, der Kaffee e die Person pertencem a classes diferentes: neutro, masculino e feminino. O termo técnico alemão para gênero gramatical é Genus.
+Jonas: No caso do café, isso não significa que a bebida seja um homem.
+Aoki: Exatamente. Gênero gramatical não é a mesma coisa que o gênero de uma pessoa. Os substantivos japoneses não têm um sistema obrigatório correspondente a essas três classes alemãs.
+Jonas: Então, com livro, não preciso aprender uma forma japonesa adicional para neutro?
+Aoki: Isso mesmo. {本|ほん|hon|livro} continua sendo livro. Aqui nem o substantivo nem um artigo associado precisam ser adaptados à classe alemã neutro.
+Jonas: E como funciona com uma profissão como professora ou professor?
+Aoki: A palavra conhecida {先生|せんせい|sensei|professora ou professor} pode indicar uma professora ou um professor. Sabemos de qual pessoa se trata pelo nome ou pelo contexto.
+Jonas: No seu caso, a pessoa já está clara na conversa.
+Aoki: Sim. {青木さんは先生です|あおきさんはせんせいです|Aoki-san wa sensei desu|A senhora Aoki é professora|あおきさんわせんせいです} significa: a senhora Aoki é professora. A profissão no feminino em alemão corresponde a mim; ela não vem de uma terminação feminina da palavra japonesa para a profissão.
+Jonas: E como mostramos que a mesma palavra para a profissão também serve para um homem?
+Aoki: Imagine outra pessoa, um homem de quem já estamos falando. Sobre ele digo {先生です|せんせいです|sensei desu|Ele é professor}: ele é professor. A pessoa em questão vem dessa nova situação.
+Jonas: Com isso você não está passando a dizer que é um professor?
+Aoki: Não. Nessa situação, descrevo o homem já mencionado. Como no texto sobre omissão, quem fala não é automaticamente a pessoa descrita.
+Jonas: Agora conto a Nakamura sobre você e digo {先生です|せんせいです|sensei desu|Ela é professora}: ela é professora. Uso a mesma forma, mas falo de uma mulher.
+Aoki: Exatamente. Você me apresentou como a pessoa de quem está falando. Por isso, em alemão cabe a palavra feminina para professora. A palavra japonesa não recebe uma terminação feminina; a conversa deixa clara a pessoa.
+Jonas: Isso significa que o japonês não consegue expressar o gênero de uma pessoa?
+Aoki: Não. Existem palavras e descrições para isso. O que não existe aqui é o sistema alemão de gênero gramatical; isso não significa que diferenças entre pessoas sejam impossíveis de expressar.
+Jonas: E o tratamento depois do nome da senhora Nakamura também não indica gênero feminino?
+Aoki: Isso mesmo. {さん|さん|san|tratamento respeitoso após o nome} é um tratamento respeitoso depois do nome, não um artigo feminino. A palavra alemã que corresponde a senhora é adequada na nossa tradução sobre a colega conhecida, mas não serve como tradução geral para qualquer pessoa.
+Jonas: Então chegamos à terceira questão: um livro ou vários livros.
+Aoki: Exatamente. Em geral, os substantivos japoneses não precisam distinguir singular e plural obrigatoriamente como os alemães. Por isso a palavra conhecida para livro não muda automaticamente.
+Jonas: Podemos ouvir duas situações explicitamente diferentes para isso?
+Aoki: Na primeira situação, há exatamente um livro sobre a mesa. Você informa {本があります|ほんがあります|hon ga arimasu|Há um livro}: há um livro. Sabemos que é singular pela situação descrita.
+Jonas: Informo a primeira observação: {本があります|ほんがあります|hon ga arimasu|Há um livro}. Há um livro. O que acontece se, numa segunda situação, houver vários livros ali?
+Aoki: Nesse caso, a mesma forma {本があります|ほんがあります|hon ga arimasu|Há livros} pode significar: há livros. A situação fornece o plural; a palavra japonesa não recebeu uma terminação adicional de plural como em alemão.
+Jonas: Nessa segunda situação, digo {本があります|ほんがあります|hon ga arimasu|Há livros}: há livros. A afirmação japonesa realmente soa igual, embora agora eu me refira a vários livros.
+Aoki: Sim. Mudamos a situação e por isso adaptamos a tradução natural. Não aprendemos uma nova forma japonesa de plural na segunda frase.
+Jonas: Se Nakamura não conseguir ver os livros e ouvir só minha frase, mesmo assim saberá que são vários?
+Aoki: Não apenas por essa frase. A descrição da situação em alemão revelou o plural para você. Nakamura também precisaria de um contexto adequado ou de uma indicação adicional de quantidade.
+Jonas: Se eu ouvir só a gravação e não souber nada sobre a situação, não saberei a quantidade?
+Aoki: Exatamente. Essa forma curta, sozinha, não indica se se trata de um livro ou de vários. Muito menos permite deduzir um número exato.
+Jonas: Posso traduzir sempre como muitos, por segurança?
+Aoki: Não. A ausência de singular explícito não significa automaticamente muitos. Sem informação adicional, a quantidade permanece em aberto.
+Jonas: E, no sentido contrário, uma palavra sem mudança não significa automaticamente exatamente um.
+Aoki: Isso mesmo. A tradução alemã precisa considerar a situação conhecida. Se não houver situação conhecida, devemos explicar a indefinição em vez de inventar uma quantidade.
+Jonas: Isso também vale para palavras que designam pessoas, como estudante?
+Aoki: Sim. Na sua própria apresentação você diz {学生です|がくせいです|gakusei desu|Eu sou estudante}: eu sou estudante. A situação trata de você como uma única pessoa.
+Jonas: Como seria com um grupo que já foi mencionado na conversa?
+Aoki: Estamos falando explicitamente de um grupo de estudantes. Então {学生です|がくせいです|gakusei desu|Eles são estudantes} pode significar: eles são estudantes. O substantivo e a finalização polida permanecem iguais aos da afirmação curta sobre uma pessoa.
+Jonas: Não muda como em alemão, de bin para sind?
+Aoki: Nesse padrão japonês, não. A tradução alemã precisa de outra forma de pessoa e número; a afirmação japonesa não recebe por isso uma terminação correspondente.
+Jonas: Mesmo assim, o japonês consegue expressar uma quantidade exata de forma clara?
+Aoki: Sim. Mais adiante aprenderemos números com os contadores adequados. Também existem certas expressões de grupo e plural; geralmente não marcado não significa impossível de expressar.
+Jonas: Então não devo transformar este texto numa proibição de todas as formas de plural.
+Aoki: Exatamente. Você apenas não deve procurar automaticamente, em cada substantivo japonês, um artigo alemão, uma classe de gênero e uma terminação de plural.
+Jonas: Então o que nossa palavra para livro informa por si só?
+Aoki: Ela informa o tipo de objeto de que se trata: livro ou livros. Qual livro e quantos são informações dadas pelo contexto ou por indicações adicionais. Já as partículas mostram relações dentro da frase.
+Jonas: No caso do café, também não posso deduzir pela palavra da bebida um número específico de xícaras.
+Aoki: Exatamente. {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます} significa eu bebo café. A frase não menciona nem uma xícara nem várias; uma quantidade exata seria informação adicional.
+Jonas: E os substantivos sem mudança ainda não dizem quão polidamente estou falando.
+Aoki: Exatamente. Por isso, no último texto deste bloco vamos ouvir como as afirmações conhecidas soam no estilo polido e como reconhecer algumas formas informais.

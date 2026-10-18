@@ -1,4 +1,4 @@
-Jonas: Sinceramente, estou meio nervoso. Amanhã vou conhecer minha nova colega Nakamura.
+Jonas: Sinceramente, estou meio nervoso. Amanhã começa meu estágio, e vou conhecer minha colega Nakamura.
 Aoki: Não se preocupe, a gente consegue. Vamos começar pelo cumprimento: {こんにちは|こんにちは|konnichiwa|Olá, boa tarde|こんにちわ}. Olá, boa tarde.
 Jonas: {こんにちは|こんにちは|konnichiwa|Olá, boa tarde|こんにちわ}. Olá. Posso dizer isso o dia todo?
 Aoki: Mais durante o dia. E a mim é melhor você cumprimentar assim: {先生、こんにちは|せんせいこんにちは|sensei, konnichiwa|Olá, professora|せんせいこんにちわ}. Olá, professora.
@@ -19,7 +19,7 @@ Aoki: Exatamente. Junto: {私は|わたしは|watashi wa|eu, como tema|わたし
 Jonas: {私は|わたしは|watashi wa|eu, como tema|わたしわ}. Eu, como tema. E o que vem depois?
 Aoki: O que você quer dizer sobre você. Por exemplo, estudante: {学生|がくせい|gakusei|estudante}. Estudante.
 Jonas: {学生|がくせい|gakusei|estudante}. Estudante. Bem, isso eu sou.
-Aoki: Bem no final vem ainda {です|です|desu|finalização educada}. Isso deixa a frase educada e completa.
+Aoki: Bem no final vem ainda {です|です|desu|finalização educada}. Isso deixa a frase educada e completa. O u quase não se ouve, soa quase como des.
 Jonas: Então: {学生です|がくせいです|gakusei desu|sou estudante}. Sou estudante.
 Aoki: E agora com você na frente: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Eu sou estudante|わたしわがくせいです}. Eu sou estudante.
 Jonas: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Eu sou estudante|わたしわがくせいです}. Eu sou estudante. A palavra educada fica sempre no final, então?
@@ -66,19 +66,19 @@ Jonas: {こんにちは|こんにちは|konnichiwa|Olá, boa tarde|こんにち�
 Aoki: {こんにちは|こんにちは|konnichiwa|Olá, boa tarde|こんにちわ}. Olá.
 Jonas: {はじめまして、ヨナスです|はじめましてよなすです|hajimemashite, Yonasu desu|Muito prazer, eu sou o Jonas}. Muito prazer, eu sou o Jonas.
 Aoki: {はじめまして、中村です|はじめましてなかむらです|hajimemashite, Nakamura desu|Muito prazer, eu sou a Nakamura}. Muito prazer, eu sou a Nakamura.
-Jonas: {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Eu sou alemão|わたしわどいつじんです}. Eu sou alemão.
-Aoki: {私は日本人です|わたしはにほんじんです|watashi wa nihonjin desu|Eu sou japonesa|わたしわにほんじんです}. Eu sou japonesa.
-Jonas: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Eu sou estudante|わたしわがくせいです}. Eu sou estudante.
-Aoki: {私は会社員です|わたしはかいしゃいんです|watashi wa kaishain desu|Eu sou funcionária de empresa|わたしわかいしゃいんです}. Eu sou funcionária de empresa.
-Jonas: {よろしくお願いします|よろしくおねがいします|yoroshiku onegaishimasu|Conto com você}. Conto com você.
-Aoki: {よろしくお願いします|よろしくおねがいします|yoroshiku onegaishimasu|Conto com você}. Conto com você. E agora encenamos o nosso primeiro encontro no curso.
-Jonas: {青木先生、こんにちは|あおきせんせいこんにちは|Aoki-sensei, konnichiwa|Olá, professora Aoki|あおきせんせいこんにちわ}. Olá, professora Aoki.
-Aoki: {こんにちは|こんにちは|konnichiwa|Olá, boa tarde|こんにちわ}. Olá. Depois: {はじめまして、青木です|はじめましてあおきです|hajimemashite, Aoki desu|Muito prazer, eu sou a Aoki}. Muito prazer, eu sou a Aoki.
-Jonas: {はじめまして、ヨナスです|はじめましてよなすです|hajimemashite, Yonasu desu|Muito prazer, eu sou o Jonas}. Muito prazer, eu sou o Jonas.
-Aoki: {私は教師です|わたしはきょうしです|watashi wa kyoushi desu|Eu sou professora|わたしわきょうしです}. Eu sou professora. E mais: {私は日本人です|わたしはにほんじんです|watashi wa nihonjin desu|Eu sou japonesa|わたしわにほんじんです}. Eu sou japonesa.
-Jonas: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Eu sou estudante|わたしわがくせいです}. Eu sou estudante. E mais: {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Eu sou alemão|わたしわどいつじんです}. Eu sou alemão.
+Jonas: {ドイツ人です|どいつじんです|doitsujin desu|sou alemão}. Sou alemão.
+Aoki: {会社員です|かいしゃいんです|kaishain desu|sou funcionária de empresa}. Sou funcionária de empresa.
+Jonas: {学生です|がくせいです|gakusei desu|sou estudante}. Sou estudante.
 Aoki: {よろしくお願いします|よろしくおねがいします|yoroshiku onegaishimasu|Conto com você}. Conto com você.
-Jonas: {先生、よろしくお願いします|せんせいよろしくおねがいします|sensei, yoroshiku onegaishimasu|Professora, conto com você}. Professora, conto com você.
+Jonas: {よろしくお願いします|よろしくおねがいします|yoroshiku onegaishimasu|Conto com você}. Conto com você. A gente nem disse mais {私は|わたしは|watashi wa|eu, como tema|わたしわ}.
+Aoki: Isso, depois do nome já se sabe quem fala. Agora ao contrário: eu digo em alemão, uma pausa curta, depois japonês. Diga você mesmo na pausa.
+Jonas: Tá, eu topo. Olá, professora: {先生、こんにちは|せんせいこんにちは|sensei, konnichiwa|Olá, professora|せんせいこんにちわ}.
+Aoki: Muito prazer, eu sou o Jonas: {はじめまして、ヨナスです|はじめましてよなすです|hajimemashite, Yonasu desu|Muito prazer, eu sou o Jonas}.
+Jonas: Eu sou estudante: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Eu sou estudante|わたしわがくせいです}.
+Aoki: Eu sou alemão: {私はドイツ人です|わたしはどいつじんです|watashi wa doitsujin desu|Eu sou alemão|わたしわどいつじんです}.
+Jonas: A professora Aoki é japonesa: {青木先生は日本人です|あおきせんせいはにほんじんです|Aoki-sensei wa nihonjin desu|A professora Aoki é japonesa|あおきせんせいわにほんじんです}.
+Aoki: Eu sou professora: {私は教師です|わたしはきょうしです|watashi wa kyoushi desu|Eu sou professora|わたしわきょうしです}.
+Jonas: Professora, conto com você: {先生、よろしくお願いします|せんせいよろしくおねがいします|sensei, yoroshiku onegaishimasu|Professora, conto com você}.
 Aoki: Pronto. Você se apresentou todo em japonês.
 Jonas: Vou guardar isso para amanhã: {はじめまして、ヨナスです|はじめましてよなすです|hajimemashite, Yonasu desu|Muito prazer, eu sou o Jonas}. Muito prazer, eu sou o Jonas. E no final: {よろしくお願いします|よろしくおねがいします|yoroshiku onegaishimasu|Conto com você}. Conto com você.
 Aoki: Isso. No próximo texto você conta o que costuma beber: café, chá ou água.

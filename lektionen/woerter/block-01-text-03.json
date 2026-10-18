@@ -142,44 +142,15 @@
     "de": "Eine Frau, die in einem Büro arbeitet."
    }
   ],
-  "78": [
-   {
-    "word": "Merk",
-    "lemma": "sich merken",
-    "pt": [
-     "guarde",
-     "memorize"
-    ],
-    "de": "Behalte es im Kopf."
-   },
-   {
-    "word": "Zusatz",
-    "lemma": "der Zusatz",
-    "pt": [
-     "acréscimo",
-     "complemento"
-    ],
-    "de": "Hier: das „san“ hinter dem Namen."
-   }
-  ],
   "80": [
    {
-    "word": "darum",
-    "lemma": "darum",
+    "word": "stellst",
+    "lemma": "stellen (eine Frage stellen)",
     "pt": [
-     "disso",
-     "sobre isso"
+     "fazer (uma pergunta)",
+     "colocar"
     ],
-    "de": "„Es geht darum“: das ist das Thema."
-   },
-   {
-    "word": "worüber",
-    "lemma": "worüber",
-    "pt": [
-     "sobre o quê",
-     "do que"
-    ],
-    "de": "Über welche Sache man spricht."
+    "de": "Eine Frage stellen heißt: jemanden etwas fragen."
    }
   ]
  }

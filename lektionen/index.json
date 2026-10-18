@@ -48,37 +48,23 @@
     {
       "id": "block-01-text-04",
       "number": 4,
-      "grammar": "Thema und Subjekt",
-      "title": "1.4 — Worüber wir reden und wer etwas tut",
-      "titlePt": "1.4 — De que falamos e quem faz alguma coisa",
+      "grammar": "Fragen mit か, Ja und Nein, verneinen mit ません",
+      "title": "1.4 — Trinkst du Kaffee?",
+      "titlePt": "1.4 — Você bebe café?",
       "de": "lektionen/de-pt/block-01-text-04.txt",
       "pt": "lektionen/de-pt/block-01-text-04.pt.txt",
       "particles": [
-        "は",
-        "が",
-        "を"
+        "か"
       ]
     },
     {
       "id": "block-01-text-05",
       "number": 5,
-      "grammar": "Kontext und Auslassung",
-      "title": "1.5 — Was aus dem Zusammenhang klar ist",
-      "titlePt": "1.5 — O que fica claro pelo contexto",
+      "grammar": "Thema und Subjekt",
+      "title": "1.5 — Worüber wir reden und wer etwas tut",
+      "titlePt": "1.5 — De que falamos e quem faz alguma coisa",
       "de": "lektionen/de-pt/block-01-text-05.txt",
       "pt": "lektionen/de-pt/block-01-text-05.pt.txt",
-      "particles": [
-        "は"
-      ]
-    },
-    {
-      "id": "block-01-text-06",
-      "number": 6,
-      "grammar": "Partikeln als Rollenmarker",
-      "title": "1.6 — Kleine Wörter hinter großen Informationen",
-      "titlePt": "1.6 — Pequenas palavras que indicam relações",
-      "de": "lektionen/de-pt/block-01-text-06.txt",
-      "pt": "lektionen/de-pt/block-01-text-06.pt.txt",
       "particles": [
         "は",
         "が",
@@ -86,13 +72,39 @@
       ]
     },
     {
+      "id": "block-01-text-06",
+      "number": 6,
+      "grammar": "Kontext und Auslassung",
+      "title": "1.6 — Was aus dem Zusammenhang klar ist",
+      "titlePt": "1.6 — O que fica claro pelo contexto",
+      "de": "lektionen/de-pt/block-01-text-06.txt",
+      "pt": "lektionen/de-pt/block-01-text-06.pt.txt",
+      "particles": [
+        "は"
+      ]
+    },
+    {
       "id": "block-01-text-07",
       "number": 7,
-      "grammar": "Existenzort und Handlungsort",
-      "title": "1.7 — Wo etwas ist und wo etwas geschieht",
-      "titlePt": "1.7 — Onde algo está e onde algo acontece",
+      "grammar": "Partikeln als Rollenmarker",
+      "title": "1.7 — Kleine Wörter hinter großen Informationen",
+      "titlePt": "1.7 — Pequenas palavras que indicam relações",
       "de": "lektionen/de-pt/block-01-text-07.txt",
       "pt": "lektionen/de-pt/block-01-text-07.pt.txt",
+      "particles": [
+        "は",
+        "が",
+        "を"
+      ]
+    },
+    {
+      "id": "block-01-text-08",
+      "number": 8,
+      "grammar": "Existenzort und Handlungsort",
+      "title": "1.8 — Wo etwas ist und wo etwas geschieht",
+      "titlePt": "1.8 — Onde algo está e onde algo acontece",
+      "de": "lektionen/de-pt/block-01-text-08.txt",
+      "pt": "lektionen/de-pt/block-01-text-08.pt.txt",
       "particles": [
         "に",
         "で",
@@ -100,28 +112,28 @@
       ]
     },
     {
-      "id": "block-01-text-08",
-      "number": 8,
-      "grammar": "Artikel, Genus und Zahl",
-      "title": "1.8 — Ohne Artikel, Genus und Pflichtplural",
-      "titlePt": "1.8 — Sem artigos, gênero gramatical e plural obrigatório",
-      "de": "lektionen/de-pt/block-01-text-08.txt",
-      "pt": "lektionen/de-pt/block-01-text-08.pt.txt",
-      "particles": []
-    },
-    {
       "id": "block-01-text-09",
       "number": 9,
-      "grammar": "Höflicher und schlichter Stil",
-      "title": "1.9 — Höflich sprechen, lockere Sprache erkennen",
-      "titlePt": "1.9 — Falar de forma polida e reconhecer a linguagem informal",
+      "grammar": "Artikel, Genus und Zahl",
+      "title": "1.9 — Ohne Artikel, Genus und Pflichtplural",
+      "titlePt": "1.9 — Sem artigos, gênero gramatical e plural obrigatório",
       "de": "lektionen/de-pt/block-01-text-09.txt",
       "pt": "lektionen/de-pt/block-01-text-09.pt.txt",
       "particles": []
     },
     {
-      "id": "block-02-text-01",
+      "id": "block-01-text-10",
       "number": 10,
+      "grammar": "Höflicher und schlichter Stil",
+      "title": "1.10 — Höflich sprechen, lockere Sprache erkennen",
+      "titlePt": "1.10 — Falar de forma polida e reconhecer a linguagem informal",
+      "de": "lektionen/de-pt/block-01-text-10.txt",
+      "pt": "lektionen/de-pt/block-01-text-10.pt.txt",
+      "particles": []
+    },
+    {
+      "id": "block-02-text-01",
+      "number": 11,
       "grammar": "Höfliche Verneinung einer Nominalaussage",
       "title": "2.1 — Das ist kein Buch",
       "titlePt": "2.1 — Isto não é um livro",
@@ -131,7 +143,7 @@
     },
     {
       "id": "block-02-text-02",
-      "number": 11,
+      "number": 12,
       "grammar": "Gesprochene Variante der höflichen Verneinung",
       "title": "2.2 — Kürzer gesprochen, weiterhin höflich",
       "titlePt": "2.2 — Uma forma mais curta, ainda polida",
@@ -141,7 +153,7 @@
     },
     {
       "id": "block-02-text-03",
-      "number": 12,
+      "number": 13,
       "grammar": "Höfliche Fragen mit ですか",
       "title": "2.3 — Ist das ein Buch?",
       "titlePt": "2.3 — Isto é um livro?",
@@ -153,7 +165,7 @@
     },
     {
       "id": "block-02-text-04",
-      "number": 13,
+      "number": 14,
       "grammar": "Kurze Antworten, Bestätigung und Richtigstellung",
       "title": "2.4 — Kurz antworten, den Bezug behalten",
       "titlePt": "2.4 — Responder brevemente sem perder a referência",
@@ -163,7 +175,7 @@
     },
     {
       "id": "block-02-text-05",
-      "number": 14,
+      "number": 15,
       "grammar": "Höfliche Vergangenheit mit でした",
       "title": "2.5 — Was damals zutraf",
       "titlePt": "2.5 — O que era verdade naquela época",
@@ -173,7 +185,7 @@
     },
     {
       "id": "block-02-text-06",
-      "number": 15,
+      "number": 16,
       "grammar": "Höfliche verneinte Vergangenheit",
       "title": "2.6 — Was damals nicht zutraf",
       "titlePt": "2.6 — O que não era verdade naquela época",
@@ -183,7 +195,7 @@
     },
     {
       "id": "block-02-text-07",
-      "number": 16,
+      "number": 17,
       "grammar": "Fragen über damals: でしたか",
       "title": "2.7 — Hattest du gestern frei?",
       "titlePt": "2.7 — Você estava de folga ontem?",

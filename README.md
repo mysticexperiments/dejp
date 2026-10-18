@@ -21,12 +21,13 @@ Die neue Reihe ersetzt die fünf alten Kurzlektionen. Aktuell ausgearbeitet:
 | B01-T01 | Erst das Thema, dann die Aussage | [Deutsch](lektionen/de-pt/block-01-text-01.txt) / [Português](lektionen/de-pt/block-01-text-01.pt.txt) |
 | B01-T02 | Was ich trinke — die Handlung am Ende | [Deutsch](lektionen/de-pt/block-01-text-02.txt) / [Português](lektionen/de-pt/block-01-text-02.pt.txt) |
 | B01-T03 | Eine andere Person, derselbe Satzbau | [Deutsch](lektionen/de-pt/block-01-text-03.txt) / [Português](lektionen/de-pt/block-01-text-03.pt.txt) |
-| B01-T04 | Thema und Subjekt auseinanderhalten | [Deutsch](lektionen/de-pt/block-01-text-04.txt) / [Português](lektionen/de-pt/block-01-text-04.pt.txt) |
-| B01-T05 | Was aus dem Zusammenhang klar ist | [Deutsch](lektionen/de-pt/block-01-text-05.txt) / [Português](lektionen/de-pt/block-01-text-05.pt.txt) |
-| B01-T06 | Partikeln als Rollenmarker | [Deutsch](lektionen/de-pt/block-01-text-06.txt) / [Português](lektionen/de-pt/block-01-text-06.pt.txt) |
-| B01-T07 | Existenzort und Handlungsort | [Deutsch](lektionen/de-pt/block-01-text-07.txt) / [Português](lektionen/de-pt/block-01-text-07.pt.txt) |
-| B01-T08 | Artikel, Genus und Zahl | [Deutsch](lektionen/de-pt/block-01-text-08.txt) / [Português](lektionen/de-pt/block-01-text-08.pt.txt) |
-| B01-T09 | Höflicher und schlichter Stil | [Deutsch](lektionen/de-pt/block-01-text-09.txt) / [Português](lektionen/de-pt/block-01-text-09.pt.txt) |
+| B01-T04 | Fragen und Antworten: か, はい / いいえ, ません | [Deutsch](lektionen/de-pt/block-01-text-04.txt) / [Português](lektionen/de-pt/block-01-text-04.pt.txt) |
+| B01-T05 | Thema und Subjekt auseinanderhalten | [Deutsch](lektionen/de-pt/block-01-text-05.txt) / [Português](lektionen/de-pt/block-01-text-05.pt.txt) |
+| B01-T06 | Was aus dem Zusammenhang klar ist | [Deutsch](lektionen/de-pt/block-01-text-06.txt) / [Português](lektionen/de-pt/block-01-text-06.pt.txt) |
+| B01-T07 | Partikeln als Rollenmarker | [Deutsch](lektionen/de-pt/block-01-text-07.txt) / [Português](lektionen/de-pt/block-01-text-07.pt.txt) |
+| B01-T08 | Existenzort und Handlungsort | [Deutsch](lektionen/de-pt/block-01-text-08.txt) / [Português](lektionen/de-pt/block-01-text-08.pt.txt) |
+| B01-T09 | Artikel, Genus und Zahl | [Deutsch](lektionen/de-pt/block-01-text-09.txt) / [Português](lektionen/de-pt/block-01-text-09.pt.txt) |
+| B01-T10 | Höflicher und schlichter Stil | [Deutsch](lektionen/de-pt/block-01-text-10.txt) / [Português](lektionen/de-pt/block-01-text-10.pt.txt) |
 | B02-T01 | Das ist kein Buch | [Deutsch](lektionen/de-pt/block-02-text-01.txt) / [Português](lektionen/de-pt/block-02-text-01.pt.txt) |
 | B02-T02 | Kürzer gesprochen, weiterhin höflich | [Deutsch](lektionen/de-pt/block-02-text-02.txt) / [Português](lektionen/de-pt/block-02-text-02.pt.txt) |
 | B02-T03 | Ist das ein Buch? | [Deutsch](lektionen/de-pt/block-02-text-03.txt) / [Português](lektionen/de-pt/block-02-text-03.pt.txt) |
@@ -34,8 +35,9 @@ Die neue Reihe ersetzt die fünf alten Kurzlektionen. Aktuell ausgearbeitet:
 | B02-T05 | Was damals zutraf | [Deutsch](lektionen/de-pt/block-02-text-05.txt) / [Português](lektionen/de-pt/block-02-text-05.pt.txt) |
 | B02-T06 | Was damals nicht zutraf | [Deutsch](lektionen/de-pt/block-02-text-06.txt) / [Português](lektionen/de-pt/block-02-text-06.pt.txt) |
 
-Block 1 ist vollständig ausgearbeitet: neun Texte in vier Klassen mit
-80–88 Dialogzeilen je Sprache nach der redaktionellen Überarbeitung.
+Block 1 ist vollständig ausgearbeitet: zehn Texte mit 80–88 Dialogzeilen je
+Sprache. Text 1.4 (Fragen und Antworten) wurde am 2026-10-18 eingeschoben;
+die früheren Texte 1.4–1.9 sind seitdem 1.5–1.10.
 Von Block 2 sind die ersten sechs der acht geplanten Texte geschrieben:
 82, 82, 80, 86, 84 und 90 Zeilen je Sprache, zusammen 504 je Sprache.
 Sie bauen Verneinung, Fragen, passende Antworten und die bejahte sowie

@@ -1,0 +1,281 @@
+{
+ "lesson": "block-01-text-04",
+ "cards": {
+  "3": [
+   {
+    "word": "Umstellung",
+    "lemma": "die Umstellung",
+    "pt": [
+     "inversão",
+     "mudança de ordem"
+    ],
+    "de": "Die Wörter kommen in eine andere Reihenfolge."
+   }
+  ],
+  "8": [
+   {
+    "word": "davor",
+    "lemma": "davor",
+    "pt": [
+     "antes",
+     "na frente"
+    ],
+    "de": "Hier: vor dem Wort, zuerst."
+   }
+  ],
+  "10": [
+   {
+    "word": "lässt",
+    "lemma": "lassen",
+    "pt": [
+     "deixa",
+     "omite"
+    ],
+    "de": "„Weglassen“: man sagt es nicht."
+   }
+  ],
+  "13": [
+   {
+    "word": "doppelt",
+    "lemma": "doppelt",
+    "pt": [
+     "dobrado",
+     "duas vezes"
+    ],
+    "de": "Zweimal das Gleiche, also zu viel."
+   },
+   {
+    "word": "gemoppelt",
+    "lemma": "doppelt gemoppelt",
+    "pt": [
+     "repetido à toa",
+     "redundante"
+    ],
+    "de": "Umgangssprachlich: etwas wird unnötig zweimal gesagt."
+   }
+  ],
+  "14": [
+   {
+    "word": "knapp",
+    "lemma": "knapp",
+    "pt": [
+     "seco",
+     "curto demais"
+    ],
+    "de": "Sehr kurz, fast ein bisschen unfreundlich."
+   }
+  ],
+  "22": [
+   {
+    "word": "übrigens",
+    "lemma": "übrigens",
+    "pt": [
+     "aliás",
+     "a propósito"
+    ],
+    "de": "Das sage ich noch nebenbei dazu."
+   }
+  ],
+  "24": [
+   {
+    "word": "Niederländischen",
+    "lemma": "das Niederländische",
+    "pt": [
+     "holandês",
+     "língua holandesa"
+    ],
+    "de": "Die Sprache aus den Niederlanden."
+   }
+  ],
+  "25": [
+   {
+    "word": "sowieso",
+    "lemma": "sowieso",
+    "pt": [
+     "de qualquer jeito",
+     "mesmo assim"
+    ],
+    "de": "Das ist ohnehin so, egal was passiert."
+   }
+  ],
+  "29": [
+   {
+    "word": "fehlt",
+    "lemma": "fehlen",
+    "pt": [
+     "falta",
+     "está faltando"
+    ],
+    "de": "Etwas ist nicht da, man braucht es aber noch."
+   }
+  ],
+  "35": [
+   {
+    "word": "davor",
+    "lemma": "davor",
+    "pt": [
+     "antes",
+     "na frente"
+    ],
+    "de": "Hier: vor dem Wort, zuerst."
+   }
+  ],
+  "38": [
+   {
+    "word": "zeigst",
+    "lemma": "zeigen",
+    "pt": [
+     "mostra",
+     "indica"
+    ],
+    "de": "Du machst etwas klar, damit der andere es sieht."
+   },
+   {
+    "word": "zuhörst",
+    "lemma": "zuhören",
+    "pt": [
+     "escuta",
+     "presta atenção"
+    ],
+    "de": "Aufmerksam hören, was jemand sagt."
+   }
+  ],
+  "40": [
+   {
+    "word": "Genauso",
+    "lemma": "genauso",
+    "pt": [
+     "do mesmo jeito",
+     "igualzinho"
+    ],
+    "de": "Auf die gleiche Art wie vorher."
+   }
+  ],
+  "43": [
+   {
+    "word": "Eher",
+    "lemma": "eher",
+    "pt": [
+     "provavelmente",
+     "mais"
+    ],
+    "de": "Wahrscheinlich, mehr so als anders."
+   }
+  ],
+  "44": [
+   {
+    "word": "Büroangestellte",
+    "lemma": "die Büroangestellte",
+    "pt": [
+     "funcionária de escritório",
+     "funcionária de empresa"
+    ],
+    "de": "Eine Frau, die in einem Büro arbeitet."
+   },
+   {
+    "word": "Statt",
+    "lemma": "statt",
+    "pt": [
+     "em vez de",
+     "no lugar de"
+    ],
+    "de": "Man nimmt das eine und nicht das andere."
+   }
+  ],
+  "45": [
+   {
+    "word": "Büroangestellte",
+    "lemma": "die Büroangestellte",
+    "pt": [
+     "funcionária de escritório",
+     "funcionária de empresa"
+    ],
+    "de": "Eine Frau, die in einem Büro arbeitet."
+   },
+   {
+    "word": "anspreche",
+    "lemma": "ansprechen",
+    "pt": [
+     "falo com",
+     "me dirijo a"
+    ],
+    "de": "Direkt zu jemandem sprechen."
+   }
+  ],
+  "46": [
+   {
+    "word": "statt",
+    "lemma": "statt",
+    "pt": [
+     "em vez de",
+     "no lugar de"
+    ],
+    "de": "Man nimmt das eine und nicht das andere."
+   }
+  ],
+  "59": [
+   {
+    "word": "dran",
+    "lemma": "drankommen",
+    "pt": [
+     "é a vez de",
+     "chega a vez de"
+    ],
+    "de": "„Jetzt kommt sie dran“: jetzt ist sie an der Reihe."
+   }
+  ],
+  "60": [
+   {
+    "word": "fängst",
+    "lemma": "anfangen",
+    "pt": [
+     "começa",
+     "inicia"
+    ],
+    "de": "„Du fängst an“: du bist zuerst dran."
+   }
+  ],
+  "65": [
+   {
+    "word": "zwar",
+    "lemma": "und zwar",
+    "pt": [
+     "mais precisamente",
+     "ou seja"
+    ],
+    "de": "Damit sagt man genauer, was man meint."
+   }
+  ],
+  "68": [
+   {
+    "word": "Büroangestellte",
+    "lemma": "die Büroangestellte",
+    "pt": [
+     "funcionária de escritório",
+     "funcionária de empresa"
+    ],
+    "de": "Eine Frau, die in einem Büro arbeitet."
+   }
+  ],
+  "80": [
+   {
+    "word": "darum",
+    "lemma": "darum",
+    "pt": [
+     "disso",
+     "sobre isso"
+    ],
+    "de": "„Es geht darum“: das ist das Thema."
+   },
+   {
+    "word": "worüber",
+    "lemma": "worüber",
+    "pt": [
+     "sobre o quê",
+     "do que"
+    ],
+    "de": "Über welche Sache man spricht."
+   }
+  ]
+ }
+}

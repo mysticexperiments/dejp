@@ -1,88 +1,84 @@
-Jonas: Já conseguimos dizer quem bebe o quê. Agora também quero entender como um lugar entra na frase.
-Aoki: Imagine uma pequena sala ao lado do escritório, onde fazemos nossa pausa. Há água disponível ali. Primeiro dizemos o que existe nessa sala; depois falamos do que você bebe ali.
-Jonas: De qual palavra nova preciso para sala?
-Aoki: {部屋|へや|heya|sala} significa sala ou cômodo. Nosso exemplo acontece numa sala; você não precisa imaginar especificamente um quarto de dormir.
-Jonas: E como digo que há água disponível?
-Aoki: A nova forma polida {あります|あります|arimasu|há; existe} significa aqui: há alguma coisa, ou algo está presente. Hoje vamos usá-la para água e outras coisas, não para pessoas presentes.
-Jonas: Como fica a frase inteira com a sala e a água?
-Aoki: {部屋に水があります|へやにみずがあります|heya ni mizu ga arimasu|Há água na sala} significa: há água na sala. A frase diz onde existe água; ainda não diz que alguém a bebe.
-Jonas: Qual marcador vem depois de sala?
-Aoki: É {に|に|ni|marcador de lugar aqui com existência}. Nessa frase de existência, ele marca o lugar onde algo está presente. Aqui ele pertence à palavra sala.
-Jonas: E depois de água ouço o marcador de sujeito. Por quê?
-Aoki: {が|が|ga|marcador de sujeito} marca aqui aquilo cuja presença constatamos: água. Água é o sujeito dessa afirmação, embora não faça nada.
-Jonas: Então esse é o caso anunciado em que o sujeito não é uma pessoa realizando uma ação.
-Aoki: Exatamente. {部屋に水があります|へやにみずがあります|heya ni mizu ga arimasu|Há água na sala} significa há água na sala. O lugar é a sala; o que existe ali é água; a afirmação termina com a forma polida de existência.
-Jonas: Ainda acho a frase inteira longa. Como soa primeiro só a indicação de lugar?
-Aoki: {部屋に|へやに|heya ni|na sala, lugar de existência} significa aqui na sala. A palavra sala e o marcador seguinte formam uma unidade; indicam o lugar onde a água está presente.
-Jonas: Depois ouço {水が|みずが|mizu ga|água como sujeito}. É água com o marcador de sujeito, ou seja, aquilo que está presente.
-Aoki: Isso mesmo. Depois vem {あります|あります|arimasu|está presente}: está presente. Portanto, a ordem dos nossos elementos é: lugar, coisa presente com marcador de sujeito, verbo.
-Jonas: Então junto tudo: {部屋に水があります|へやにみずがあります|heya ni mizu ga arimasu|Há água na sala}. Há água na sala. Aqui a água não é objeto da ação de beber.
-Aoki: Exatamente. Ninguém bebe ainda na nossa afirmação. Por isso, aqui a água é marcada como aquilo que está presente, não como a bebida de uma ação de beber.
-Jonas: Preciso acrescentar depois a finalização polida da frase sobre o livro?
-Aoki: Não. {あります|あります|arimasu|há; existe} já é aqui a forma verbal polida completa. Não acrescentamos {です|です|desu|finalização polida}, assim como no verbo polido conhecido para beber.
-Jonas: Podemos primeiro mudar apenas a coisa que existe ali?
-Aoki: Sim. Agora há um livro na sala em vez de água. A frase completa é {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Há um livro na sala}: há um livro na sala.
-Jonas: {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Há um livro na sala}. Há um livro na sala. O que mudou em relação à frase sobre água?
-Aoki: Apenas substituímos água por livro. A sala continua sendo o lugar, e ainda constatamos que algo está presente ali; os dois marcadores continuam iguais.
-Jonas: Essa frase também diz que o livro está sobre uma mesa?
-Aoki: Não. {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Há um livro na sala} significa apenas há um livro na sala. A posição exata dentro da sala e sua localização sobre uma superfície não são mencionadas.
-Jonas: Qual seria a afirmação correspondente sobre chá?
-Aoki: {部屋にお茶があります|へやにおちゃがあります|heya ni ocha ga arimasu|Há chá na sala} significa: há chá na sala. Chá substitui o livro como coisa presente; lugar, marcadores e forma polida de existência permanecem.
-Jonas: E se houver café disponível ali?
-Aoki: {部屋にコーヒーがあります|へやにこーひーがあります|heya ni koohii ga arimasu|Há café na sala} significa: há café na sala. Assim informamos que há café disponível, sem definir ainda quem vai bebê-lo.
-Jonas: Agora quero beber água, e quero fazer isso nessa sala.
-Aoki: Então já estamos falando da sua escolha. Nesse caso cabe {部屋で水を飲みます|へやでみずをのみます|heya de mizu o nomimasu|Eu bebo água na sala|へやでみずおのみます}: eu bebo água na sala. A pessoa está clara na nossa situação e não é mencionada explicitamente.
-Jonas: Desta vez ouço outra coisa depois de sala.
-Aoki: Desta vez temos {で|で|de|lugar da ação}. Aqui ele marca o lugar da ação: beber acontece na sala.
-Jonas: Então ouço {部屋で|へやで|heya de|na sala, lugar da ação}: na sala como lugar da ação de beber. A palavra sala continua igual.
-Aoki: Sim. Compare com {部屋に|へやに|heya ni|na sala, lugar de existência}: na sala como lugar de existência. O outro marcador mostra uma relação diferente com o verbo; não indica outra sala.
-Jonas: Por que não podemos usar o mesmo marcador de lugar de antes?
-Aoki: Porque expressamos uma relação diferente. Antes o foco era água existente num lugar; agora indicamos o lugar de uma ação com o verbo beber.
-Jonas: Mas em alemão ouço im Zimmer nos dois casos.
-Aoki: Exatamente. Uma expressão alemã de lugar não determina sozinha a partícula japonesa. Você também precisa entender se essa frase expressa existência ou uma ação.
-Jonas: Podemos comparar diretamente as duas afirmações completas?
-Aoki: {部屋に水があります|へやにみずがあります|heya ni mizu ga arimasu|Há água na sala} quer dizer há água na sala. Já {部屋で水を飲みます|へやでみずをのみます|heya de mizu o nomimasu|Eu bebo água na sala|へやでみずおのみます}, na nossa conversa sobre você, quer dizer eu bebo água na sala.
-Jonas: Agora eu mesmo digo {部屋で水を飲みます|へやでみずをのみます|heya de mizu o nomimasu|Eu bebo água na sala|へやでみずおのみます}: eu bebo água na sala. Não mudou apenas o marcador depois de sala.
-Aoki: Isso mesmo. Na existência, água recebe o marcador de sujeito. Na ação de beber, água recebe o marcador de objeto, porque é a bebida que você bebe.
-Jonas: E, claro, o verbo é outro.
-Aoki: Sim. A forma de existência diz que a água está ali. O verbo beber diz algo sobre sua ação ou escolha. Por isso comparamos frases inteiras em vez de apenas trocar duas partículas.
-Jonas: Como fica a frase de ação comigo mencionado explicitamente como tema?
-Aoki: {私は部屋で水を飲みます|わたしはへやでみずをのみます|watashi wa heya de mizu o nomimasu|Eu bebo água na sala|わたしわへやでみずおのみます} significa: eu bebo água na sala. Acrescentamos eu com o marcador de tema; a indicação de lugar, a bebida e o verbo continuam iguais.
-Jonas: Quantas funções são marcadas explicitamente aí?
-Aoki: Três: você é o tema, a sala é o lugar da ação e água é o objeto direto. O verbo no final liga essas informações numa afirmação sobre beber.
-Jonas: Posso manter a mesma indicação de lugar e colocar chá de novo?
-Aoki: De {私は部屋で水を飲みます|わたしはへやでみずをのみます|watashi wa heya de mizu o nomimasu|Eu bebo água na sala|わたしわへやでみずおのみます}, eu bebo água na sala, passamos para {私は部屋でお茶を飲みます|わたしはへやでおちゃをのみます|watashi wa heya de ocha o nomimasu|Eu bebo chá na sala|わたしわへやでおちゃおのみます}: eu bebo chá na sala. Só a bebida mudou.
-Jonas: Agora me substituo pela senhora Nakamura: {中村さんは部屋でお茶を飲みます|なかむらさんはへやでおちゃをのみます|Nakamura-san wa heya de ocha o nomimasu|A senhora Nakamura bebe chá na sala|なかむらさんわへやでおちゃおのみます}. A senhora Nakamura bebe chá na sala.
-Aoki: Assim você mudou apenas a pessoa. Chá, a sala e a ação continuaram iguais. O nome de Nakamura com o marcador de tema substitui a unidade com que antes você se apresentava como tema.
-Jonas: Então o novo nome não exige outro marcador para a sala.
-Aoki: Isso mesmo. A sala continua sendo o lugar da ação de beber. A pessoa pode mudar sem que uma ação vire de repente uma afirmação de existência.
-Jonas: Como seria uma afirmação sobre você e café na sala?
-Aoki: {青木さんは部屋でコーヒーを飲みます|あおきさんはへやでこーひーをのみます|Aoki-san wa heya de koohii o nomimasu|A senhora Aoki bebe café na sala|あおきさんわへやでこーひーおのみます} significa: a senhora Aoki bebe café na sala. Em relação ao último exemplo, mudam a pessoa e a bebida; a ação continua acontecendo na mesma sala.
-Jonas: Preciso deduzir pela palavra sala qual marcador está certo?
-Aoki: Não. A mesma palavra sala pode aparecer nos nossos dois padrões. O que importa é sua relação com a afirmação: lugar da existência ou lugar da ação de beber.
-Jonas: Então a regra geral seria: o primeiro marcador de lugar significa estar e o segundo, fazer?
-Aoki: Não. Os marcadores não são esses verbos. Hoje explicamos dois usos limitados; outras frases podem apresentar outras funções das mesmas partículas.
-Jonas: Quais outras funções deixamos de lado de propósito por enquanto?
-Aoki: Destinos de um movimento, horários, destinatários e meios de realizar uma ação vêm depois. Você não precisa deduzi-los do nosso exemplo da sala.
-Jonas: E, para pessoas que estão na sala, não uso simplesmente nossa forma de existência?
-Aoki: Exatamente. Para pessoas e animais presentes, aprenderemos depois outra forma de existência. Hoje os exemplos de existência ficam restritos a água, chá, café e livros.
-Jonas: Posso concluir de há água na sala que tenho permissão para bebê-la?
-Aoki: Não. A afirmação apenas informa que há água ali. Permissão é um significado adicional, para o qual precisaremos depois de outras formas de expressão.
-Jonas: Isso me ajuda a não entender numa frase mais do que realmente foi dito.
-Aoki: Exatamente. Da mesma forma, eu bebo água na sala não diz explicitamente de quem é a sala nem quanta água você bebe.
-Jonas: Agora conheço cinco marcadores diferentes pelos exemplos.
-Aoki: Você conhece o marcador de tema, o de sujeito, o de objeto e dois usos de lugar. Cada um foi explicado com uma frase inteira; isso é mais importante que uma lista isolada.
-Jonas: O lugar também precisa ser mencionado explicitamente sempre?
-Aoki: Não, quando ele já está claro. Se estivermos falando do que há nessa sala, {水があります|みずがあります|mizu ga arimasu|Há água} pode bastar: há água. Nesse caso, o lugar é entendido pela conversa.
-Jonas: O que exatamente fica de fora em relação à afirmação completa sobre água?
-Aoki: Em {部屋に水があります|へやにみずがあります|heya ni mizu ga arimasu|Há água na sala}, há água na sala, a sala é mencionada junto com o marcador de lugar. Em {水があります|みずがあります|mizu ga arimasu|Há água}, há água, essa unidade inteira de lugar fica de fora.
-Jonas: Mas o marcador de sujeito depois de água permanece.
-Aoki: Isso mesmo. Ele pertence à palavra água, não à indicação de sala que ficou implícita. Novamente deixamos uma unidade compreensível de fora sem mudar aleatoriamente as outras relações.
-Jonas: E, na ação de beber, eu também poderia deixar o lugar implícito?
-Aoki: Sim. {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Eu bebo água|わたしわみずおのみます} significa eu bebo água. Diferentemente de {私は部屋で水を飲みます|わたしはへやでみずをのみます|watashi wa heya de mizu o nomimasu|Eu bebo água na sala|わたしわへやでみずおのみます}, eu bebo água na sala, essa frase não menciona explicitamente o lugar.
-Jonas: Então a afirmação mais curta não significa automaticamente uma ação em outro lugar.
-Aoki: Exatamente. Não mencionado não significa negado ou alterado. O lugar pode continuar o mesmo, mas não é informado explicitamente na afirmação mais curta.
-Jonas: Se uma pessoa nova ouvir só a afirmação curta, talvez não saiba o lugar.
-Aoki: Isso mesmo. Sem o contexto anterior, essa informação pode faltar para ela. Se queremos que saiba o lugar com certeza, mencionamos a sala com o marcador adequado à frase.
-Jonas: No caso do livro, você traduz um livro. Como sei, na verdade, se há um ou vários ali?
-Aoki: Vamos esclarecer isso no próximo texto. Vamos examinar quais informações os substantivos japoneses não trazem automaticamente: artigos alemães, gênero gramatical e uma distinção obrigatória entre singular e plural.
+Jonas: Às vezes a pessoa fica implícita na frase curta. Mas as palavrinhas depois de chá ou café continuam nos nossos exemplos.
+Aoki: Sim. Já conhecemos diferentes funções dessas partículas. Hoje praticamos principalmente a escuta: qual marcador pertence a qual expressão, e a que pergunta a frase inteira responde?
+Jonas: Como reconheço a qual expressão um marcador pertence? Afinal, ao ouvir não percebo espaços escritos.
+Aoki: Ouça primeiro {お茶|おちゃ|ocha|chá}, ou seja, chá, e depois {を|を|o|marcador de objeto|お}, o marcador de objeto. Juntos, eles marcam a bebida como objeto na nossa frase sobre beber.
+Jonas: Então o marcador não explica a palavra que vem em seguida.
+Aoki: Nesse padrão, ele pertence à expressão anterior. Em {お茶を飲みます|おちゃをのみます|ocha o nomimasu|Eu bebo chá|おちゃおのみます}, como sua resposta eu bebo chá, o marcador de objeto pertence a chá, não ao verbo seguinte.
+Jonas: Por que você diz expressão, em vez de sempre uma única palavra?
+Aoki: Porque, por exemplo, senhora Nakamura é uma referência formada por um nome e um tratamento respeitoso. Uma partícula pode marcar toda essa referência à pessoa.
+Jonas: Podemos ouvir uma frase completa para isso?
+Aoki: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|A senhora Nakamura bebe chá|なかむらさんわおちゃおのみます} quer dizer: a senhora Nakamura bebe chá. O marcador de tema pertence à referência completa à pessoa; o marcador de objeto pertence ao chá.
+Jonas: E o tratamento depois do nome dela não é, ele próprio, um marcador de tema?
+Aoki: Isso mesmo. {さん|さん|san|tratamento respeitoso após o nome} é o tratamento respeitoso após o nome. É {は|は|wa|marcador de tema|わ} que marca a senhora Nakamura como tema. Esses dois pequenos elementos têm funções diferentes.
+Jonas: Em alemão reconheço essas relações em parte pela ordem.
+Aoki: Sim. Em japonês, as partículas ajudam especialmente. Mesmo assim, não vamos embaralhar as palavras de qualquer jeito; primeiro aprendemos nossos padrões completos e claros.
+Jonas: Como identifico o padrão conhecido sobre mim?
+Aoki: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます} significa eu bebo café. Eu é o tema, café é o objeto direto, e a forma verbal polida fica no final.
+Jonas: Em palavras simples, o que é o objeto direto aqui?
+Aoki: É aquilo que você bebe: o café. Com isso nomeamos uma relação com a ação, não apenas uma categoria como coisa em vez de pessoa.
+Jonas: Por isso posso colocar qualquer bebida com o mesmo marcador?
+Aoki: Nas nossas frases com beber, sim. De {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます}, eu bebo café, passamos, com água, para {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Eu bebo água|わたしわみずおのみます}: eu bebo água.
+Jonas: O que permaneceu igual?
+Aoki: Você continua sendo o tema e a pessoa que bebe. Água ocupa o lugar de café como objeto; o marcador de objeto e a forma verbal polida permanecem.
+Jonas: Agora ainda preciso entender a função do marcador de sujeito numa resposta normal.
+Aoki: Imagine que oferecem chá na pausa. Pergunto em alemão: quem bebe chá? A informação que falta é a pessoa.
+Jonas: E eu sei que a senhora Nakamura fica com o chá.
+Aoki: Então você diz {中村さんがお茶を飲みます|なかむらさんがおちゃをのみます|Nakamura-san ga ocha o nomimasu|A senhora Nakamura bebe chá|なかむらさんがおちゃおのみます}. Significa: a senhora Nakamura bebe chá. Com o marcador de sujeito, você identifica aqui a pessoa procurada.
+Jonas: Minha resposta é {中村さんがお茶を飲みます|なかむらさんがおちゃをのみます|Nakamura-san ga ocha o nomimasu|A senhora Nakamura bebe chá|なかむらさんがおちゃおのみます}: a senhora Nakamura bebe chá. Desta vez ouço outro marcador depois do nome dela.
+Aoki: Sim, agora temos {が|が|ga|marcador de sujeito}. Ele marca a senhora Nakamura como sujeito. Nessa frase de ação, ela é a pessoa que bebe.
+Jonas: Como soa apenas a unidade que identifica essa pessoa como sujeito?
+Aoki: {中村さんが|なかむらさんが|Nakamura-san ga|senhora Nakamura como sujeito}. É senhora Nakamura com o marcador de sujeito. O tratamento respeitoso faz parte da referência pelo nome; depois vem o marcador gramatical.
+Jonas: E no restante ouço {お茶を|おちゃを|ocha o|chá como objeto|おちゃお}, ou seja, chá como objeto, e depois o verbo beber.
+Aoki: Exatamente. Primeiro a pessoa procurada, depois a bebida com seu marcador, por último beber. Assim você identifica as unidades mesmo sem ter palavras escritas à sua frente.
+Jonas: Qual é a diferença em relação à nossa frase antiga sobre ela?
+Aoki: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|A senhora Nakamura bebe chá|なかむらさんわおちゃおのみます} também quer dizer a senhora Nakamura bebe chá. Ali apresentamos ela como tema e contamos algo sobre sua escolha de bebida.
+Jonas: Então a tradução alemã sozinha nem sempre mostra a diferença.
+Aoki: Exatamente. Por isso as situações fazem parte da explicação: o que a senhora Nakamura bebe? nos leva a uma afirmação sobre ela. Quem bebe chá? procura a pessoa que bebe.
+Jonas: Pode repetir a resposta completa à pergunta sobre a pessoa?
+Aoki: {中村さんがお茶を飲みます|なかむらさんがおちゃをのみます|Nakamura-san ga ocha o nomimasu|A senhora Nakamura bebe chá|なかむらさんがおちゃおのみます} significa a senhora Nakamura bebe chá. O marcador de sujeito destaca ela nessa resposta como a pessoa procurada; chá continua sendo o objeto.
+Jonas: Então esse marcador significa sempre somente essa pessoa e mais ninguém?
+Aoki: Não. Nossa resposta identifica uma pessoa, mas o marcador não é uma palavra para somente. A exclusão de outras pessoas depende da afirmação e da conversa.
+Jonas: O que acontece com a pergunta sobre quem bebe água?
+Aoki: Suponha que eu escolha água. Você responde {青木さんが水を飲みます|あおきさんがみずをのみます|Aoki-san ga mizu o nomimasu|A senhora Aoki bebe água|あおきさんがみずおのみます}: a senhora Aoki bebe água. Agora o marcador de sujeito identifica a mim como a pessoa procurada.
+Jonas: Aí mudamos a pessoa e a bebida ao mesmo tempo.
+Aoki: Sim. A senhora Nakamura e chá deram lugar à senhora Aoki e água. O padrão continua: pessoa com marcador de sujeito, bebida com marcador de objeto, verbo polido no final.
+Jonas: Vamos passar para café. Depois podemos mudar apenas a pessoa e manter essa bebida?
+Aoki: Começamos com a pergunta sobre quem bebe café. Sua resposta sobre você é {私がコーヒーを飲みます|わたしがこーひーをのみます|watashi ga koohii o nomimasu|Eu bebo café|わたしがこーひーおのみます}: eu bebo café.
+Jonas: E se a resposta for a senhora Nakamura em vez de mim?
+Aoki: Então a frase inteira é {中村さんがコーヒーを飲みます|なかむらさんがこーひーをのみます|Nakamura-san ga koohii o nomimasu|A senhora Nakamura bebe café|なかむらさんがこーひーおのみます}: a senhora Nakamura bebe café. Só substituímos a referência à pessoa; os marcadores e a bebida continuam iguais.
+Jonas: Por que não usamos automaticamente o marcador de tema depois do nome?
+Aoki: Porque aqui continuamos respondendo à pergunta sobre a pessoa. Um nome não determina por si só qual marcador cabe; importa sua função na afirmação.
+Jonas: Então o mesmo nome pode aparecer em funções diferentes?
+Aoki: Sim. Em {中村さんはコーヒーを飲みます|なかむらさんはこーひーをのみます|Nakamura-san wa koohii o nomimasu|A senhora Nakamura bebe café|なかむらさんわこーひーおのみます}, a senhora Nakamura bebe café, falamos da escolha de bebida dela. Em {中村さんがコーヒーを飲みます|なかむらさんがこーひーをのみます|Nakamura-san ga koohii o nomimasu|A senhora Nakamura bebe café|なかむらさんがこーひーおのみます}, também a senhora Nakamura bebe café, identificamos a pessoa procurada.
+Jonas: Conhecido versus novo seria uma regra simples para isso?
+Aoki: Como regra geral de substituição, isso seria simplificado demais. Já conhecemos a senhora Nakamura há bastante tempo e ainda podemos usar o nome dela com o marcador de sujeito como resposta a quem?
+Jonas: Então não se trata de eu já ter encontrado essa pessoa alguma vez.
+Aoki: Isso mesmo. Aqui importa qual informação é necessária na conversa atual. A diferença não se reduz a pessoas conhecidas versus desconhecidas.
+Jonas: Vamos realmente encenar as duas perguntas. Assim não ouço apenas duas traduções quase iguais.
+Aoki: Estamos falando dos hábitos de Nakamura. Minha pergunta em alemão significa: o que a senhora Nakamura bebe na pausa?
+Jonas: {中村さんはコーヒーを飲みます|なかむらさんはこーひーをのみます|Nakamura-san wa koohii o nomimasu|A senhora Nakamura bebe café|なかむらさんわこーひーおのみます}. A senhora Nakamura bebe café. Retomo ela como tema e informo sua bebida.
+Aoki: Vamos para uma nova cena: sabemos que alguém bebe café, mas ainda não sabemos quem. Quem bebe café?
+Jonas: {中村さんがコーヒーを飲みます|なかむらさんがこーひーをのみます|Nakamura-san ga koohii o nomimasu|A senhora Nakamura bebe café|なかむらさんがこーひーおのみます}. A senhora Nakamura bebe café. Aqui o nome dela fornece a resposta procurada.
+Aoki: Isso mesmo. Café com o marcador de objeto e o verbo continuaram iguais. O marcador depois de Nakamura mudou de acordo com a nova pergunta.
+Jonas: Se eu traduzir as duas frases apenas como A senhora Nakamura bebe café, essa distinção desaparece da tradução.
+Aoki: Por isso também ouvimos sempre o motivo da conversa. Você não precisa montar uma frase alemã artificial; precisa entender qual informação importa em cada resposta.
+Jonas: Ao ouvir, eu poderia simplesmente ignorar os pequenos marcadores e aprender só os substantivos?
+Aoki: Assim você perderia relações importantes. Café, eu e beber, sem a estrutura da frase, dizem menos sobre o que foi apresentado como tema e qual pessoa foi destacada.
+Jonas: Mas ainda não preciso conhecer todos os usos possíveis.
+Aoki: Não. Hoje você reconhece três funções em exemplos concretos: retomar um tema, identificar o sujeito e marcar a bebida como objeto direto.
+Jonas: Talvez, ao ouvir rapidamente, eu entenda o nome de Nakamura, mas não perceba o pequeno som depois dele.
+Aoki: Ouça primeiro a unidade inteira {中村さんは|なかむらさんは|Nakamura-san wa|senhora Nakamura como tema|なかむらさんわ}: senhora Nakamura como tema. Compare com {中村さんが|なかむらさんが|Nakamura-san ga|senhora Nakamura como sujeito}: senhora Nakamura como sujeito. O nome permanece; o marcador muda a maneira de marcar sua função na frase.
+Jonas: Numa resposta curta ainda posso ouvir um marcador de objeto claro?
+Aoki: Sim. {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Eu bebo café|こーひーおのみます} significa eu bebo café quando informa sua escolha de bebida. A pessoa não é pronunciada, mas café continua marcado explicitamente como objeto.
+Jonas: Como resposta à sua pergunta sobre minha bebida, digo {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|Eu bebo café|こーひーおのみます}: eu bebo café. Consigo ouvir o marcador de objeto mesmo sem um eu explícito.
+Aoki: Exatamente. É uma aplicação do texto anterior: a pessoa vem da pergunta, mas a relação entre café e beber continua sendo indicada de forma audível pelo marcador de objeto.
+Jonas: O tema também pode continuar sendo uma coisa que não é bebida?
+Aoki: Sim. {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです} significa isto é um livro. O marcador de tema vem depois da expressão japonesa que significa isto aqui. Livro é a informação atribuída a esse tema.
+Jonas: Por que, então, o marcador de objeto não aparece automaticamente depois de livro?
+Aoki: Porque uma coisa não é automaticamente um objeto direto. Essa frase descreve o que algo é. Ela não contém uma ação como beber, com um objeto que é consumido.
+Jonas: Então coisa e objeto não significam a mesma coisa.
+Aoki: Isso mesmo. Coisa descreve algo no mundo. Objeto direto descreve uma relação gramatical dentro de uma frase específica. Nosso café é um exemplo disso na ação de beber.
+Jonas: Então, na próxima frase nova, devo primeiro entender o que está sendo afirmado.
+Aoki: Sim. Os marcadores ajudam nisso, mas sua função fica clara junto com as palavras e o final da frase. Por isso nunca os aprendemos apenas como uma lista de traduções isoladas.
+Jonas: Com isso já tratamos de todas as partículas de que preciso no começo?
+Aoki: Ainda não. Falta, por exemplo, um lugar: onde existe alguma coisa e onde alguém faz alguma coisa? Para isso aprenderemos a seguir outros dois marcadores em frases completas.

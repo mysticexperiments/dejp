@@ -1,82 +1,88 @@
-Jonas: No último texto falamos de um livro na sala. De onde veio o ein alemão, se não ouvi uma palavra japonesa própria para ele?
-Aoki: Da tradução natural em alemão e da nossa situação. Hoje vamos separar três questões: artigos, gênero gramatical e singular ou plural.
-Jonas: Vamos começar com o artigo e um objeto que você segura na mão.
-Aoki: Eu levanto um único livro e digo {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}. Significa: isto é um livro. A situação deixa claro para qual objeto estou apontando.
-Jonas: Qual parte significa um livro?
-Aoki: {本|ほん|hon|livro} significa livro. A palavra não contém também um artigo indefinido. O alemão precisa de ein Buch nessa frase; o japonês constrói essa afirmação nominal sem esse tipo de artigo.
-Jonas: E isto aqui não é o artigo que falta?
-Aoki: Não. {これ|これ|kore|isto aqui} indica o objeto perto da pessoa que fala. Aqui corresponde a isto aqui e, junto com o marcador de tema, forma o tema da afirmação.
-Jonas: Então, se eu procurar cada palavra alemã separadamente, vou procurar da maneira errada.
-Aoki: Exatamente. {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです} significa, como frase inteira, isto é um livro. As duas línguas não distribuem essa informação pelo mesmo número de palavras com funções idênticas.
-Jonas: Então, em japonês, não há a mesma obrigação de escolher entre ein e der ou das?
-Aoki: Isso mesmo. Não há um sistema de artigos correspondente ao alemão. Mesmo assim, o contexto pode indicar que se trata de um objeto específico.
-Jonas: Como posso ouvir essa diferença com nosso exemplo da sala?
-Aoki: Imagine que você abre uma sala que ainda não conhece e descobre um livro ali. {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Há um livro na sala} significa nessa cena: há um livro na sala.
-Jonas: O livro é mencionado aqui pela primeira vez.
-Aoki: Sim. A tradução alemã com ein Buch cabe nessa apresentação. Isso não faz o substantivo japonês receber um artigo indefinido adicional.
-Jonas: Se o livro já for conhecido, preciso de outra palavra japonesa para livro?
-Aoki: Não. A palavra {本|ほん|hon|livro} continua sendo livro. O contexto ou a organização da frase pode esclarecer a referência conhecida sem que o substantivo receba um artigo definido alemão.
-Jonas: Pode mostrar também uma frase inteira em que falamos de um livro específico e conhecido?
-Aoki: Sim. Você procura o livro que acabamos de usar. Eu digo {本は部屋にあります|ほんはへやにあります|hon wa heya ni arimasu|O livro está na sala|ほんわへやにあります}: o livro está na sala. Agora esse livro é explicitamente nosso tema.
-Jonas: Qual é a diferença em relação à primeira frase sobre um livro na sala?
-Aoki: {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Há um livro na sala} significava, na situação da descoberta, há um livro na sala. Agora a afirmação é {本は部屋にあります|ほんはへやにあります|hon wa heya ni arimasu|O livro está na sala|ほんわへやにあります}: o livro está na sala, como resposta à procura do livro conhecido.
-Jonas: O que mudou além da tradução alemã?
-Aoki: Livro agora vem no início com o marcador de tema. A sala continua ligada ao marcador de lugar de existência, e o verbo continua dizendo que algo está presente.
-Jonas: Então o marcador de sujeito depois de livro foi substituído pelo marcador de tema.
-Aoki: Exatamente, nesse padrão. Retomamos o livro conhecido como tema e dizemos onde ele está. É uma função diferente na conversa em relação a informar o que existe na sala.
-Jonas: Por isso posso traduzir o marcador de tema como o artigo definido?
-Aoki: Não. Ele marca o tema, não a palavra alemã das. Nossas frases sobre mim já usam esse marcador, embora não haja um artigo definido alemão antes.
-Jonas: Se Nakamura procurar esse livro conhecido, posso dizer a ela {本は部屋にあります|ほんはへやにあります|hon wa heya ni arimasu|O livro está na sala|ほんわへやにあります}: o livro está na sala. Não preciso explicar novamente de qual livro se trata.
-Aoki: Exatamente. Vocês já estão falando do mesmo livro. Por isso, na tradução alemã, cabe o artigo definido com livro. Na frase japonesa, a partícula marca o tema; ela não é um artigo.
-Jonas: Então esclarecemos o artigo. Mas em alemão dizemos das Buch e der Kaffee. Também preciso transferir essa diferença para o japonês?
-Aoki: Assim chegamos à segunda questão, o gênero gramatical. Em alemão, das Buch, der Kaffee e die Person pertencem a classes diferentes: neutro, masculino e feminino. O termo técnico alemão para gênero gramatical é Genus.
-Jonas: No caso do café, isso não significa que a bebida seja um homem.
-Aoki: Exatamente. Gênero gramatical não é a mesma coisa que o gênero de uma pessoa. Os substantivos japoneses não têm um sistema obrigatório correspondente a essas três classes alemãs.
-Jonas: Então, com livro, não preciso aprender uma forma japonesa adicional para neutro?
-Aoki: Isso mesmo. {本|ほん|hon|livro} continua sendo livro. Aqui nem o substantivo nem um artigo associado precisam ser adaptados à classe alemã neutro.
-Jonas: E como funciona com uma profissão como professora ou professor?
-Aoki: A palavra conhecida {先生|せんせい|sensei|professora ou professor} pode indicar uma professora ou um professor. Sabemos de qual pessoa se trata pelo nome ou pelo contexto.
-Jonas: No seu caso, a pessoa já está clara na conversa.
-Aoki: Sim. {青木さんは先生です|あおきさんはせんせいです|Aoki-san wa sensei desu|A senhora Aoki é professora|あおきさんわせんせいです} significa: a senhora Aoki é professora. A profissão no feminino em alemão corresponde a mim; ela não vem de uma terminação feminina da palavra japonesa para a profissão.
-Jonas: E como mostramos que a mesma palavra para a profissão também serve para um homem?
-Aoki: Imagine outra pessoa, um homem de quem já estamos falando. Sobre ele digo {先生です|せんせいです|sensei desu|Ele é professor}: ele é professor. A pessoa em questão vem dessa nova situação.
-Jonas: Com isso você não está passando a dizer que é um professor?
-Aoki: Não. Nessa situação, descrevo o homem já mencionado. Como no texto sobre omissão, quem fala não é automaticamente a pessoa descrita.
-Jonas: Agora conto a Nakamura sobre você e digo {先生です|せんせいです|sensei desu|Ela é professora}: ela é professora. Uso a mesma forma, mas falo de uma mulher.
-Aoki: Exatamente. Você me apresentou como a pessoa de quem está falando. Por isso, em alemão cabe a palavra feminina para professora. A palavra japonesa não recebe uma terminação feminina; a conversa deixa clara a pessoa.
-Jonas: Isso significa que o japonês não consegue expressar o gênero de uma pessoa?
-Aoki: Não. Existem palavras e descrições para isso. O que não existe aqui é o sistema alemão de gênero gramatical; isso não significa que diferenças entre pessoas sejam impossíveis de expressar.
-Jonas: E o tratamento depois do nome da senhora Nakamura também não indica gênero feminino?
-Aoki: Isso mesmo. {さん|さん|san|tratamento respeitoso após o nome} é um tratamento respeitoso depois do nome, não um artigo feminino. A palavra alemã que corresponde a senhora é adequada na nossa tradução sobre a colega conhecida, mas não serve como tradução geral para qualquer pessoa.
-Jonas: Então chegamos à terceira questão: um livro ou vários livros.
-Aoki: Exatamente. Em geral, os substantivos japoneses não precisam distinguir singular e plural obrigatoriamente como os alemães. Por isso a palavra conhecida para livro não muda automaticamente.
-Jonas: Podemos ouvir duas situações explicitamente diferentes para isso?
-Aoki: Na primeira situação, há exatamente um livro sobre a mesa. Você informa {本があります|ほんがあります|hon ga arimasu|Há um livro}: há um livro. Sabemos que é singular pela situação descrita.
-Jonas: Informo a primeira observação: {本があります|ほんがあります|hon ga arimasu|Há um livro}. Há um livro. O que acontece se, numa segunda situação, houver vários livros ali?
-Aoki: Nesse caso, a mesma forma {本があります|ほんがあります|hon ga arimasu|Há livros} pode significar: há livros. A situação fornece o plural; a palavra japonesa não recebeu uma terminação adicional de plural como em alemão.
-Jonas: Nessa segunda situação, digo {本があります|ほんがあります|hon ga arimasu|Há livros}: há livros. A afirmação japonesa realmente soa igual, embora agora eu me refira a vários livros.
-Aoki: Sim. Mudamos a situação e por isso adaptamos a tradução natural. Não aprendemos uma nova forma japonesa de plural na segunda frase.
-Jonas: Se Nakamura não conseguir ver os livros e ouvir só minha frase, mesmo assim saberá que são vários?
-Aoki: Não apenas por essa frase. A descrição da situação em alemão revelou o plural para você. Nakamura também precisaria de um contexto adequado ou de uma indicação adicional de quantidade.
-Jonas: Se eu ouvir só a gravação e não souber nada sobre a situação, não saberei a quantidade?
-Aoki: Exatamente. Essa forma curta, sozinha, não indica se se trata de um livro ou de vários. Muito menos permite deduzir um número exato.
-Jonas: Posso traduzir sempre como muitos, por segurança?
-Aoki: Não. A ausência de singular explícito não significa automaticamente muitos. Sem informação adicional, a quantidade permanece em aberto.
-Jonas: E, no sentido contrário, uma palavra sem mudança não significa automaticamente exatamente um.
-Aoki: Isso mesmo. A tradução alemã precisa considerar a situação conhecida. Se não houver situação conhecida, devemos explicar a indefinição em vez de inventar uma quantidade.
-Jonas: Isso também vale para palavras que designam pessoas, como estudante?
-Aoki: Sim. Na sua própria apresentação você diz {学生です|がくせいです|gakusei desu|Eu sou estudante}: eu sou estudante. A situação trata de você como uma única pessoa.
-Jonas: Como seria com um grupo que já foi mencionado na conversa?
-Aoki: Estamos falando explicitamente de um grupo de estudantes. Então {学生です|がくせいです|gakusei desu|Eles são estudantes} pode significar: eles são estudantes. O substantivo e a finalização polida permanecem iguais aos da afirmação curta sobre uma pessoa.
-Jonas: Não muda como em alemão, de bin para sind?
-Aoki: Nesse padrão japonês, não. A tradução alemã precisa de outra forma de pessoa e número; a afirmação japonesa não recebe por isso uma terminação correspondente.
-Jonas: Mesmo assim, o japonês consegue expressar uma quantidade exata de forma clara?
-Aoki: Sim. Mais adiante aprenderemos números com os contadores adequados. Também existem certas expressões de grupo e plural; geralmente não marcado não significa impossível de expressar.
-Jonas: Então não devo transformar este texto numa proibição de todas as formas de plural.
-Aoki: Exatamente. Você apenas não deve procurar automaticamente, em cada substantivo japonês, um artigo alemão, uma classe de gênero e uma terminação de plural.
-Jonas: Então o que nossa palavra para livro informa por si só?
-Aoki: Ela informa o tipo de objeto de que se trata: livro ou livros. Qual livro e quantos são informações dadas pelo contexto ou por indicações adicionais. Já as partículas mostram relações dentro da frase.
-Jonas: No caso do café, também não posso deduzir pela palavra da bebida um número específico de xícaras.
-Aoki: Exatamente. {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます} significa eu bebo café. A frase não menciona nem uma xícara nem várias; uma quantidade exata seria informação adicional.
-Jonas: E os substantivos sem mudança ainda não dizem quão polidamente estou falando.
-Aoki: Exatamente. Por isso, no último texto deste bloco vamos ouvir como as afirmações conhecidas soam no estilo polido e como reconhecer algumas formas informais.
+Jonas: Já conseguimos dizer quem bebe o quê. Agora também quero entender como um lugar entra na frase.
+Aoki: Imagine uma pequena sala ao lado do escritório, onde fazemos nossa pausa. Há água disponível ali. Primeiro dizemos o que existe nessa sala; depois falamos do que você bebe ali.
+Jonas: De qual palavra nova preciso para sala?
+Aoki: {部屋|へや|heya|sala} significa sala ou cômodo. Nosso exemplo acontece numa sala; você não precisa imaginar especificamente um quarto de dormir.
+Jonas: E como digo que há água disponível?
+Aoki: A nova forma polida {あります|あります|arimasu|há; existe} significa aqui: há alguma coisa, ou algo está presente. Hoje vamos usá-la para água e outras coisas, não para pessoas presentes.
+Jonas: Como fica a frase inteira com a sala e a água?
+Aoki: {部屋に水があります|へやにみずがあります|heya ni mizu ga arimasu|Há água na sala} significa: há água na sala. A frase diz onde existe água; ainda não diz que alguém a bebe.
+Jonas: Qual marcador vem depois de sala?
+Aoki: É {に|に|ni|marcador de lugar aqui com existência}. Nessa frase de existência, ele marca o lugar onde algo está presente. Aqui ele pertence à palavra sala.
+Jonas: E depois de água ouço o marcador de sujeito. Por quê?
+Aoki: {が|が|ga|marcador de sujeito} marca aqui aquilo cuja presença constatamos: água. Água é o sujeito dessa afirmação, embora não faça nada.
+Jonas: Então esse é o caso anunciado em que o sujeito não é uma pessoa realizando uma ação.
+Aoki: Exatamente. {部屋に水があります|へやにみずがあります|heya ni mizu ga arimasu|Há água na sala} significa há água na sala. O lugar é a sala; o que existe ali é água; a afirmação termina com a forma polida de existência.
+Jonas: Ainda acho a frase inteira longa. Como soa primeiro só a indicação de lugar?
+Aoki: {部屋に|へやに|heya ni|na sala, lugar de existência} significa aqui na sala. A palavra sala e o marcador seguinte formam uma unidade; indicam o lugar onde a água está presente.
+Jonas: Depois ouço {水が|みずが|mizu ga|água como sujeito}. É água com o marcador de sujeito, ou seja, aquilo que está presente.
+Aoki: Isso mesmo. Depois vem {あります|あります|arimasu|está presente}: está presente. Portanto, a ordem dos nossos elementos é: lugar, coisa presente com marcador de sujeito, verbo.
+Jonas: Então junto tudo: {部屋に水があります|へやにみずがあります|heya ni mizu ga arimasu|Há água na sala}. Há água na sala. Aqui a água não é objeto da ação de beber.
+Aoki: Exatamente. Ninguém bebe ainda na nossa afirmação. Por isso, aqui a água é marcada como aquilo que está presente, não como a bebida de uma ação de beber.
+Jonas: Preciso acrescentar depois a finalização polida da frase sobre o livro?
+Aoki: Não. {あります|あります|arimasu|há; existe} já é aqui a forma verbal polida completa. Não acrescentamos {です|です|desu|finalização polida}, assim como no verbo polido conhecido para beber.
+Jonas: Podemos primeiro mudar apenas a coisa que existe ali?
+Aoki: Sim. Agora há um livro na sala em vez de água. A frase completa é {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Há um livro na sala}: há um livro na sala.
+Jonas: {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Há um livro na sala}. Há um livro na sala. O que mudou em relação à frase sobre água?
+Aoki: Apenas substituímos água por livro. A sala continua sendo o lugar, e ainda constatamos que algo está presente ali; os dois marcadores continuam iguais.
+Jonas: Essa frase também diz que o livro está sobre uma mesa?
+Aoki: Não. {部屋に本があります|へやにほんがあります|heya ni hon ga arimasu|Há um livro na sala} significa apenas há um livro na sala. A posição exata dentro da sala e sua localização sobre uma superfície não são mencionadas.
+Jonas: Qual seria a afirmação correspondente sobre chá?
+Aoki: {部屋にお茶があります|へやにおちゃがあります|heya ni ocha ga arimasu|Há chá na sala} significa: há chá na sala. Chá substitui o livro como coisa presente; lugar, marcadores e forma polida de existência permanecem.
+Jonas: E se houver café disponível ali?
+Aoki: {部屋にコーヒーがあります|へやにこーひーがあります|heya ni koohii ga arimasu|Há café na sala} significa: há café na sala. Assim informamos que há café disponível, sem definir ainda quem vai bebê-lo.
+Jonas: Agora quero beber água, e quero fazer isso nessa sala.
+Aoki: Então já estamos falando da sua escolha. Nesse caso cabe {部屋で水を飲みます|へやでみずをのみます|heya de mizu o nomimasu|Eu bebo água na sala|へやでみずおのみます}: eu bebo água na sala. A pessoa está clara na nossa situação e não é mencionada explicitamente.
+Jonas: Desta vez ouço outra coisa depois de sala.
+Aoki: Desta vez temos {で|で|de|lugar da ação}. Aqui ele marca o lugar da ação: beber acontece na sala.
+Jonas: Então ouço {部屋で|へやで|heya de|na sala, lugar da ação}: na sala como lugar da ação de beber. A palavra sala continua igual.
+Aoki: Sim. Compare com {部屋に|へやに|heya ni|na sala, lugar de existência}: na sala como lugar de existência. O outro marcador mostra uma relação diferente com o verbo; não indica outra sala.
+Jonas: Por que não podemos usar o mesmo marcador de lugar de antes?
+Aoki: Porque expressamos uma relação diferente. Antes o foco era água existente num lugar; agora indicamos o lugar de uma ação com o verbo beber.
+Jonas: Mas em alemão ouço im Zimmer nos dois casos.
+Aoki: Exatamente. Uma expressão alemã de lugar não determina sozinha a partícula japonesa. Você também precisa entender se essa frase expressa existência ou uma ação.
+Jonas: Podemos comparar diretamente as duas afirmações completas?
+Aoki: {部屋に水があります|へやにみずがあります|heya ni mizu ga arimasu|Há água na sala} quer dizer há água na sala. Já {部屋で水を飲みます|へやでみずをのみます|heya de mizu o nomimasu|Eu bebo água na sala|へやでみずおのみます}, na nossa conversa sobre você, quer dizer eu bebo água na sala.
+Jonas: Agora eu mesmo digo {部屋で水を飲みます|へやでみずをのみます|heya de mizu o nomimasu|Eu bebo água na sala|へやでみずおのみます}: eu bebo água na sala. Não mudou apenas o marcador depois de sala.
+Aoki: Isso mesmo. Na existência, água recebe o marcador de sujeito. Na ação de beber, água recebe o marcador de objeto, porque é a bebida que você bebe.
+Jonas: E, claro, o verbo é outro.
+Aoki: Sim. A forma de existência diz que a água está ali. O verbo beber diz algo sobre sua ação ou escolha. Por isso comparamos frases inteiras em vez de apenas trocar duas partículas.
+Jonas: Como fica a frase de ação comigo mencionado explicitamente como tema?
+Aoki: {私は部屋で水を飲みます|わたしはへやでみずをのみます|watashi wa heya de mizu o nomimasu|Eu bebo água na sala|わたしわへやでみずおのみます} significa: eu bebo água na sala. Acrescentamos eu com o marcador de tema; a indicação de lugar, a bebida e o verbo continuam iguais.
+Jonas: Quantas funções são marcadas explicitamente aí?
+Aoki: Três: você é o tema, a sala é o lugar da ação e água é o objeto direto. O verbo no final liga essas informações numa afirmação sobre beber.
+Jonas: Posso manter a mesma indicação de lugar e colocar chá de novo?
+Aoki: De {私は部屋で水を飲みます|わたしはへやでみずをのみます|watashi wa heya de mizu o nomimasu|Eu bebo água na sala|わたしわへやでみずおのみます}, eu bebo água na sala, passamos para {私は部屋でお茶を飲みます|わたしはへやでおちゃをのみます|watashi wa heya de ocha o nomimasu|Eu bebo chá na sala|わたしわへやでおちゃおのみます}: eu bebo chá na sala. Só a bebida mudou.
+Jonas: Agora me substituo pela senhora Nakamura: {中村さんは部屋でお茶を飲みます|なかむらさんはへやでおちゃをのみます|Nakamura-san wa heya de ocha o nomimasu|A senhora Nakamura bebe chá na sala|なかむらさんわへやでおちゃおのみます}. A senhora Nakamura bebe chá na sala.
+Aoki: Assim você mudou apenas a pessoa. Chá, a sala e a ação continuaram iguais. O nome de Nakamura com o marcador de tema substitui a unidade com que antes você se apresentava como tema.
+Jonas: Então o novo nome não exige outro marcador para a sala.
+Aoki: Isso mesmo. A sala continua sendo o lugar da ação de beber. A pessoa pode mudar sem que uma ação vire de repente uma afirmação de existência.
+Jonas: Como seria uma afirmação sobre você e café na sala?
+Aoki: {青木さんは部屋でコーヒーを飲みます|あおきさんはへやでこーひーをのみます|Aoki-san wa heya de koohii o nomimasu|A senhora Aoki bebe café na sala|あおきさんわへやでこーひーおのみます} significa: a senhora Aoki bebe café na sala. Em relação ao último exemplo, mudam a pessoa e a bebida; a ação continua acontecendo na mesma sala.
+Jonas: Preciso deduzir pela palavra sala qual marcador está certo?
+Aoki: Não. A mesma palavra sala pode aparecer nos nossos dois padrões. O que importa é sua relação com a afirmação: lugar da existência ou lugar da ação de beber.
+Jonas: Então a regra geral seria: o primeiro marcador de lugar significa estar e o segundo, fazer?
+Aoki: Não. Os marcadores não são esses verbos. Hoje explicamos dois usos limitados; outras frases podem apresentar outras funções das mesmas partículas.
+Jonas: Quais outras funções deixamos de lado de propósito por enquanto?
+Aoki: Destinos de um movimento, horários, destinatários e meios de realizar uma ação vêm depois. Você não precisa deduzi-los do nosso exemplo da sala.
+Jonas: E, para pessoas que estão na sala, não uso simplesmente nossa forma de existência?
+Aoki: Exatamente. Para pessoas e animais presentes, aprenderemos depois outra forma de existência. Hoje os exemplos de existência ficam restritos a água, chá, café e livros.
+Jonas: Posso concluir de há água na sala que tenho permissão para bebê-la?
+Aoki: Não. A afirmação apenas informa que há água ali. Permissão é um significado adicional, para o qual precisaremos depois de outras formas de expressão.
+Jonas: Isso me ajuda a não entender numa frase mais do que realmente foi dito.
+Aoki: Exatamente. Da mesma forma, eu bebo água na sala não diz explicitamente de quem é a sala nem quanta água você bebe.
+Jonas: Agora conheço cinco marcadores diferentes pelos exemplos.
+Aoki: Você conhece o marcador de tema, o de sujeito, o de objeto e dois usos de lugar. Cada um foi explicado com uma frase inteira; isso é mais importante que uma lista isolada.
+Jonas: O lugar também precisa ser mencionado explicitamente sempre?
+Aoki: Não, quando ele já está claro. Se estivermos falando do que há nessa sala, {水があります|みずがあります|mizu ga arimasu|Há água} pode bastar: há água. Nesse caso, o lugar é entendido pela conversa.
+Jonas: O que exatamente fica de fora em relação à afirmação completa sobre água?
+Aoki: Em {部屋に水があります|へやにみずがあります|heya ni mizu ga arimasu|Há água na sala}, há água na sala, a sala é mencionada junto com o marcador de lugar. Em {水があります|みずがあります|mizu ga arimasu|Há água}, há água, essa unidade inteira de lugar fica de fora.
+Jonas: Mas o marcador de sujeito depois de água permanece.
+Aoki: Isso mesmo. Ele pertence à palavra água, não à indicação de sala que ficou implícita. Novamente deixamos uma unidade compreensível de fora sem mudar aleatoriamente as outras relações.
+Jonas: E, na ação de beber, eu também poderia deixar o lugar implícito?
+Aoki: Sim. {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Eu bebo água|わたしわみずおのみます} significa eu bebo água. Diferentemente de {私は部屋で水を飲みます|わたしはへやでみずをのみます|watashi wa heya de mizu o nomimasu|Eu bebo água na sala|わたしわへやでみずおのみます}, eu bebo água na sala, essa frase não menciona explicitamente o lugar.
+Jonas: Então a afirmação mais curta não significa automaticamente uma ação em outro lugar.
+Aoki: Exatamente. Não mencionado não significa negado ou alterado. O lugar pode continuar o mesmo, mas não é informado explicitamente na afirmação mais curta.
+Jonas: Se uma pessoa nova ouvir só a afirmação curta, talvez não saiba o lugar.
+Aoki: Isso mesmo. Sem o contexto anterior, essa informação pode faltar para ela. Se queremos que saiba o lugar com certeza, mencionamos a sala com o marcador adequado à frase.
+Jonas: No caso do livro, você traduz um livro. Como sei, na verdade, se há um ou vários ali?
+Aoki: Vamos esclarecer isso no próximo texto. Vamos examinar quais informações os substantivos japoneses não trazem automaticamente: artigos alemães, gênero gramatical e uma distinção obrigatória entre singular e plural.

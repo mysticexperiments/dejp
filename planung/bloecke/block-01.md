@@ -1,5 +1,11 @@
 # Block 1 — Wie ein japanischer Satz funktioniert
 
+> **Änderung 2026-10-18:** Ein neuer Text 1.4 „Trinkst du Kaffee?“ (Fragen mit か,
+> はい / いいえ, ません, 何, そうですか) wurde nach T03 eingeschoben. Die hier
+> beschriebenen Texte T04–T09 liegen seitdem als 1.5–1.10 in den Dateien
+> `block-01-text-05` bis `block-01-text-10`. Die Nummern in diesem Dokument
+> sind die alten.
+
 ## Stellung im Kurs
 
 Grundlage ist [Thema 1 des Hauptplans](../hauptplan.md). Es gibt vier Klassen,

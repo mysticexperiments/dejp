@@ -253,18 +253,29 @@
     "de": "Ein Getränk aus Obst, zum Beispiel aus Orangen."
    }
   ],
-  "68": [
+  "67": [
    {
-    "word": "Büroangestellte",
-    "lemma": "die Büroangestellte",
+    "word": "weggelassen",
+    "lemma": "weglassen",
     "pt": [
-     "funcionária de escritório",
-     "funcionária de empresa"
+     "deixado de fora",
+     "omitido"
     ],
-    "de": "Eine Frau, die in einem Büro arbeitet."
+    "de": "Nicht gesagt, obwohl es dazugehören könnte."
    }
   ],
-  "70": [
+  "71": [
+   {
+    "word": "Saft",
+    "lemma": "der Saft",
+    "pt": [
+     "suco",
+     "sumo"
+    ],
+    "de": "Ein Getränk aus Obst, zum Beispiel aus Orangen."
+   }
+  ],
+  "75": [
    {
     "word": "Saft",
     "lemma": "der Saft",

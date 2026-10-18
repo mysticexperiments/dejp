@@ -9,7 +9,7 @@ diese Liste ist eine Redaktionshilfe, keine zusätzliche App-Datenbank.
 
 Neu geschrieben am 2026-10-16 im Japanisch-Schwerpunkt-Stil
 (siehe `planung/a1-plan.md`, Abschnitt 3.2). Deutsch auf B2, aber als
-natürliches Alltagsgespräch (überarbeitet am 2026-10-17).
+natürliches Alltagsgespräch (überarbeitet am 2026-10-17). Am 2026-10-18: Szene natürlicher (私は nur einmal), am Ende eine Abfrage (Deutsch, Pause, Japanisch).
 
 | Schreibung | Kana | Romaji | Bedeutung / ausdrücklich erklärte Funktion |
 |---|---|---|---|
@@ -46,7 +46,7 @@ keine Frage, noch kein さん.
 ## B01-T02 — Getränke, Handlung und Häufigkeit
 
 Neu geschrieben am 2026-10-16 im Japanisch-Schwerpunkt-Stil. Deutsch auf B2, aber
-als natürliches Alltagsgespräch (überarbeitet am 2026-10-17).
+als natürliches Alltagsgespräch (überarbeitet am 2026-10-17). Am 2026-10-18: Szene natürlicher (私は nur einmal), am Ende eine Abfrage (Deutsch, Pause, Japanisch).
 
 Zusätzlich zu T01:
 
@@ -74,7 +74,7 @@ Verneinung, kein Wegfall von を, keine Regel für gerade ablaufende Handlungen.
 ## B01-T03 — Andere Personen, auch mit も
 
 Neu geschrieben am 2026-10-16 im Japanisch-Schwerpunkt-Stil. Deutsch auf B2, aber
-als natürliches Alltagsgespräch (überarbeitet am 2026-10-17).
+als natürliches Alltagsgespräch (überarbeitet am 2026-10-17). Am 2026-10-18: Szene natürlicher (私は nur einmal), am Ende eine Abfrage (Deutsch, Pause, Japanisch).
 
 Zusätzlich zu T01–T02:
 
@@ -109,9 +109,42 @@ Kenntnisgrenze: Person wechseln, dieselbe Verbform für jede Person, も nur
 hinter der Person statt は. Keine Frage, keine Verneinung, kein の, kein
 も hinter dem Objekt.
 
-## B01-T04 — Thema und Subjekt unterscheiden
+## B01-T04 — Fragen und Antworten
+
+Neu eingeschoben am 2026-10-18 im Japanisch-Schwerpunkt-Stil: erst lehren, dann
+im Gespräch benutzen, dann Abfrage (Deutsch, Pause, Japanisch). Deutsch als
+natürliches Alltagsgespräch auf B2.
 
 Zusätzlich zu T01–T03:
+
+| Schreibung | Kana | Romaji | Bedeutung / Funktion |
+|---|---|---|---|
+| か | か | ka | Fragepartikel am Satzende; keine Umstellung, Stimme geht leicht hoch |
+| はい | はい | hai | ja; Antwort wiederholt das Verb (はい、飲みます) |
+| いいえ | いいえ | iie | nein |
+| 飲みません | のみません | nomimasen | trinke nicht; nur die letzte Silbe ändert sich; auch für „kein“ |
+| 何 | なに | nani | was; steht an der Stelle des Getränks (何を) |
+| そうですか | そうですか | sou desu ka | ach so, wirklich?; Hörsignal, keine echte Frage |
+| ビール | びーる | biiru | Bier |
+| ワイン | わいん | wain | Wein |
+
+Vollständig erklärte Sätze:
+- コーヒーを飲みますか / お茶を飲みますか / ビールを飲みますか / ワインを飲みますか — Trinkst du …?
+- はい、飲みます — Ja, trinke ich. / いいえ、飲みません — Nein, trinke ich nicht.
+- 私はビールを飲みません — Ich trinke kein Bier.
+- 何を飲みますか / 朝何を飲みますか — Was trinkst du (morgens)?
+- 中村さんは何を飲みますか — Frau Nakamura, was trinken Sie? (Name statt „du“)
+- 学生ですか / はい、学生です — Bist du Student? Ja.
+- 中村さんは学生ですか / いいえ、会社員です — Nein, Büroangestellte (richtigstellen statt verneinen).
+- お茶を飲みます / ワインを飲みます / 朝コーヒーを飲みます / 毎日飲みます / 私もワインを飲みます.
+
+Kenntnisgrenze: Frage nur mit か am Ende, Verneinung nur beim Verb (ません).
+Keine Verneinung von です (kommt in 2.1), kein の, keine Frage nach Personen (だれ).
+Fragen mit ですか werden in 2.3 wieder aufgegriffen und vertieft.
+
+## B01-T05 — Thema und Subjekt unterscheiden
+
+Früher Text 1.4, seit 2026-10-18 Text 1.5. Zusätzlich zu T01–T04:
 
 | Schreibung | Kana | Romaji | Bedeutung / erklärte Funktion |
 |---|---|---|---|
@@ -134,7 +167,7 @@ Person verschieden. Der Umbau aus 私はコーヒーを飲みます betrifft Ano
 und Marker: は ersetzt hier を, 私 erhält が. Keine freie Umstellung bei
 unverändertem Gesprächsfokus, keine vollständige は/が-Theorie.
 
-## B01-T05 — Verständliche Information unausgesprochen lassen
+## B01-T06 — Verständliche Information unausgesprochen lassen
 
 Keine neuen lexikalischen Grundbausteine. Neu sind vollständig erklärte
 Kurzfassungen mit explizitem Bezug:
@@ -150,7 +183,7 @@ Keine Personenendung im Verb versteckt. Nach unklarem Kontext, Themenpause
 oder Personenwechsel hilft die ausdrücklich genannte Person. Keine Regel,
 dass kurze Sätze unhöflich seien; keine Lehre lockerer Partikelauslassung.
 
-## B01-T06 — Die Rolle einer Partikel am ganzen Satz hören
+## B01-T07 — Die Rolle einer Partikel am ganzen Satz hören
 
 Bekannte Marker は, が, を und Namen werden vertieft:
 - 中村さんがお茶を飲みます — Frau Nakamura trinkt Tee, Antwort auf Wer trinkt Tee?
@@ -166,7 +199,7 @@ ein Namenszusatz. Subjekt nicht mit Mensch und direktes Objekt nicht mit
 jeder Sache gleichsetzen. が bedeutet nicht automatisch nur; die Unterscheidung
 zu は ist keine Regel bekannte gegen unbekannte Menschen.
 
-## B01-T07 — Existenzort gegenüber Handlungsort
+## B01-T08 — Existenzort gegenüber Handlungsort
 
 | Schreibung | Kana | Romaji | Bedeutung / erklärte Funktion |
 |---|---|---|---|
@@ -194,7 +227,7 @@ Verb. Keine universelle Übersetzung ni = sein oder de = tun. Für anwesende
 Menschen/Tiere ist eine andere Existenzform angekündigt, aber noch nicht gelehrt.
 Ziel, Uhrzeit, Empfänger, Verkehrsmittel und Werkzeug bleiben aufgeschoben.
 
-## B01-T08 — Artikel, Genus und gewöhnlich unmarkierte Zahl
+## B01-T09 — Artikel, Genus und gewöhnlich unmarkierte Zahl
 
 Bekannte Wörter in ausdrücklich unterschiedlichen Szenen:
 - 本は部屋にあります — Das Buch ist im Zimmer, bei der Suche nach dem bekannten
@@ -212,7 +245,7 @@ nicht, dass Geschlecht, Gruppen oder genaue Mengen unausdrückbar wären.
 Zählwörter und besondere Mehrzahlausdrücke sind noch nicht eingeführt.
 Das Trinken von Kaffee nennt auch keine bestimmte Zahl von Tassen.
 
-## B01-T09 — Höflicher Stil und erste schlichte Gegenstücke
+## B01-T10 — Höflicher Stil und erste schlichte Gegenstücke
 
 | Schreibung | Kana | Romaji | Bedeutung / erklärte Funktion |
 |---|---|---|---|

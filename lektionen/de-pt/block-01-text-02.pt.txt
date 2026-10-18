@@ -9,7 +9,7 @@ Aoki: Depois vem uma palavrinha: {を|を|o|partícula de objeto|お}. Ela mostr
 Jonas: Então depois do café, não antes?
 Aoki: Isso, sempre depois. Junto: {コーヒーを|こーひーを|koohii o|café, como objeto|こーひーお}. Café, como aquilo que se bebe.
 Jonas: E cadê a palavra para beber?
-Aoki: {飲みます|のみます|nomimasu|bebo, bebe (educado)}. Quer dizer bebo ou bebe, de forma educada.
+Aoki: {飲みます|のみます|nomimasu|bebo, bebe (educado)}. Quer dizer bebo ou bebe, de forma educada. Como em {です|です|desu|finalização educada}, quase não se ouve o u no final.
 Jonas: {飲みます|のみます|nomimasu|bebo, bebe (educado)}. Bebo. Tanto faz se sou eu ou ele que bebe?
 Aoki: Sim, o verbo fica igual. Quem bebe, o tema diz. Com café: {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|bebo café|こーひーおのみます}. Bebo café.
 Jonas: {コーヒーを飲みます|こーひーをのみます|koohii o nomimasu|bebo café|こーひーおのみます}. Bebo café. E a frase inteira?
@@ -60,20 +60,20 @@ Jonas: {こんにちは|こんにちは|konnichiwa|Olá, boa tarde|こんにち�
 Aoki: {こんにちは|こんにちは|konnichiwa|Olá, boa tarde|こんにちわ}. Olá.
 Jonas: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます}. Eu bebo café.
 Aoki: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Eu bebo chá|わたしわおちゃおのみます}. Eu bebo chá.
-Jonas: {私は毎日コーヒーを飲みます|わたしはまいにちこーひーをのみます|watashi wa mainichi koohii o nomimasu|Eu bebo café todo dia|わたしわまいにちこーひーおのみます}. Eu bebo café todo dia.
-Aoki: {私は毎日お茶を飲みます|わたしはまいにちおちゃをのみます|watashi wa mainichi ocha o nomimasu|Eu bebo chá todo dia|わたしわまいにちおちゃおのみます}. Eu bebo chá todo dia.
-Jonas: {私は時々ジュースを飲みます|わたしはときどきじゅーすをのみます|watashi wa tokidoki juusu o nomimasu|Eu bebo suco às vezes|わたしわときどきじゅーすおのみます}. Eu bebo suco às vezes.
-Aoki: {私は時々水を飲みます|わたしはときどきみずをのみます|watashi wa tokidoki mizu o nomimasu|Eu bebo água às vezes|わたしわときどきみずおのみます}. Eu bebo água às vezes.
-Jonas: {私は学生です|わたしはがくせいです|watashi wa gakusei desu|Eu sou estudante|わたしわがくせいです}. Eu sou estudante. Depois: {毎日コーヒーを飲みます|まいにちこーひーをのみます|mainichi koohii o nomimasu|Eu bebo café todo dia|まいにちこーひーおのみます}. Eu bebo café todo dia.
-Aoki: {私は会社員です|わたしはかいしゃいんです|watashi wa kaishain desu|Eu sou funcionária de empresa|わたしわかいしゃいんです}. Eu sou funcionária de empresa. Depois: {毎日お茶を飲みます|まいにちおちゃをのみます|mainichi ocha o nomimasu|Eu bebo chá todo dia|まいにちおちゃおのみます}. Eu bebo chá todo dia.
-Jonas: {私は毎日水を飲みます|わたしはまいにちみずをのみます|watashi wa mainichi mizu o nomimasu|Eu bebo água todo dia|わたしわまいにちみずおのみます}. Eu bebo água todo dia.
-Aoki: {私はジュースを飲みます|わたしはじゅーすをのみます|watashi wa juusu o nomimasu|Eu bebo suco|わたしわじゅーすおのみます}. Eu bebo suco.
-Jonas: {私は時々コーヒーを飲みます|わたしはときどきこーひーをのみます|watashi wa tokidoki koohii o nomimasu|Eu bebo café às vezes|わたしわときどきこーひーおのみます}. Eu bebo café às vezes.
-Aoki: {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Eu bebo água|わたしわみずおのみます}. Eu bebo água.
-Jonas: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Eu bebo chá|わたしわおちゃおのみます}. Eu bebo chá.
-Aoki: {私は時々コーヒーを飲みます|わたしはときどきこーひーをのみます|watashi wa tokidoki koohii o nomimasu|Eu bebo café às vezes|わたしわときどきこーひーおのみます}. Eu bebo café às vezes.
-Jonas: {よろしくお願いします|よろしくおねがいします|yoroshiku onegaishimasu|Conto com você}. Conto com você.
-Aoki: {よろしくお願いします|よろしくおねがいします|yoroshiku onegaishimasu|Conto com você}. Conto com você. E fim da cena.
+Jonas: {毎日コーヒーを飲みます|まいにちこーひーをのみます|mainichi koohii o nomimasu|Eu bebo café todo dia|まいにちこーひーおのみます}. Eu bebo café todo dia.
+Aoki: {毎日お茶を飲みます|まいにちおちゃをのみます|mainichi ocha o nomimasu|Eu bebo chá todo dia|まいにちおちゃおのみます}. Eu bebo chá todo dia.
+Jonas: {時々ジュースを飲みます|ときどきじゅーすをのみます|tokidoki juusu o nomimasu|Eu bebo suco às vezes|ときどきじゅーすおのみます}. Eu bebo suco às vezes.
+Aoki: {時々水を飲みます|ときどきみずをのみます|tokidoki mizu o nomimasu|Eu bebo água às vezes|ときどきみずおのみます}. Eu bebo água às vezes. E fim da cena.
+Jonas: A partir da segunda frase a gente simplesmente deixou de fora {私は|わたしは|watashi wa|eu, como tema|わたしわ}.
+Aoki: Isso, é assim que se fala de verdade. Agora de novo: eu digo em alemão, na pausa você diz em japonês.
+Jonas: Tá. Eu bebo água: {私は水を飲みます|わたしはみずをのみます|watashi wa mizu o nomimasu|Eu bebo água|わたしわみずおのみます}.
+Aoki: Eu bebo chá todo dia: {私は毎日お茶を飲みます|わたしはまいにちおちゃをのみます|watashi wa mainichi ocha o nomimasu|Eu bebo chá todo dia|わたしわまいにちおちゃおのみます}.
+Jonas: Eu bebo suco às vezes: {私は時々ジュースを飲みます|わたしはときどきじゅーすをのみます|watashi wa tokidoki juusu o nomimasu|Eu bebo suco às vezes|わたしわときどきじゅーすおのみます}.
+Aoki: Eu bebo café todo dia: {私は毎日コーヒーを飲みます|わたしはまいにちこーひーをのみます|watashi wa mainichi koohii o nomimasu|Eu bebo café todo dia|わたしわまいにちこーひーおのみます}.
+Jonas: Eu bebo água às vezes: {私は時々水を飲みます|わたしはときどきみずをのみます|watashi wa tokidoki mizu o nomimasu|Eu bebo água às vezes|わたしわときどきみずおのみます}.
+Aoki: E curto, sem tema: café todo dia: {毎日コーヒーを飲みます|まいにちこーひーをのみます|mainichi koohii o nomimasu|Eu bebo café todo dia|まいにちこーひーおのみます}.
+Jonas: Eu bebo suco: {私はジュースを飲みます|わたしはじゅーすをのみます|watashi wa juusu o nomimasu|Eu bebo suco|わたしわじゅーすおのみます}.
+Aoki: Tudo certo. A última: eu bebo chá: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Eu bebo chá|わたしわおちゃおのみます}.
 Jonas: Eu só troquei as bebidas e disse com que frequência. A frase ficou igual.
 Aoki: Isso. Guarde o padrão: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます}. Eu bebo café.
 Jonas: E com a frequência: {私は毎日コーヒーを飲みます|わたしはまいにちこーひーをのみます|watashi wa mainichi koohii o nomimasu|Eu bebo café todo dia|わたしわまいにちこーひーおのみます}. Eu bebo café todo dia.
