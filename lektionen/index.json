@@ -60,9 +60,9 @@
     {
       "id": "block-01-text-05",
       "number": 5,
-      "grammar": "Thema und Subjekt",
-      "title": "1.5 — Worüber wir reden und wer etwas tut",
-      "titlePt": "1.5 — De que falamos e quem faz alguma coisa",
+      "grammar": "Thema mit は, handelnde Person mit が, これ und だれ",
+      "title": "1.5 — Wer trinkt den Kaffee?",
+      "titlePt": "1.5 — Quem bebe o café?",
       "de": "lektionen/de-pt/block-01-text-05.txt",
       "pt": "lektionen/de-pt/block-01-text-05.pt.txt",
       "particles": [

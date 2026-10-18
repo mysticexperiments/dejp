@@ -22,7 +22,7 @@ Die neue Reihe ersetzt die fünf alten Kurzlektionen. Aktuell ausgearbeitet:
 | B01-T02 | Was ich trinke — die Handlung am Ende | [Deutsch](lektionen/de-pt/block-01-text-02.txt) / [Português](lektionen/de-pt/block-01-text-02.pt.txt) |
 | B01-T03 | Eine andere Person, derselbe Satzbau | [Deutsch](lektionen/de-pt/block-01-text-03.txt) / [Português](lektionen/de-pt/block-01-text-03.pt.txt) |
 | B01-T04 | Fragen und Antworten: か, はい / いいえ, ません | [Deutsch](lektionen/de-pt/block-01-text-04.txt) / [Português](lektionen/de-pt/block-01-text-04.pt.txt) |
-| B01-T05 | Thema und Subjekt auseinanderhalten | [Deutsch](lektionen/de-pt/block-01-text-05.txt) / [Português](lektionen/de-pt/block-01-text-05.pt.txt) |
+| B01-T05 | Wer trinkt den Kaffee? | [Deutsch](lektionen/de-pt/block-01-text-05.txt) / [Português](lektionen/de-pt/block-01-text-05.pt.txt) |
 | B01-T06 | Was aus dem Zusammenhang klar ist | [Deutsch](lektionen/de-pt/block-01-text-06.txt) / [Português](lektionen/de-pt/block-01-text-06.pt.txt) |
 | B01-T07 | Partikeln als Rollenmarker | [Deutsch](lektionen/de-pt/block-01-text-07.txt) / [Português](lektionen/de-pt/block-01-text-07.pt.txt) |
 | B01-T08 | Existenzort und Handlungsort | [Deutsch](lektionen/de-pt/block-01-text-08.txt) / [Português](lektionen/de-pt/block-01-text-08.pt.txt) |

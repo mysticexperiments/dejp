@@ -142,30 +142,39 @@ Kenntnisgrenze: Frage nur mit か am Ende, Verneinung nur beim Verb (ません).
 Keine Verneinung von です (kommt in 2.1), kein の, keine Frage nach Personen (だれ).
 Fragen mit ですか werden in 2.3 wieder aufgegriffen und vertieft.
 
-## B01-T05 — Thema und Subjekt unterscheiden
+## B01-T05 — Wer trinkt den Kaffee? Thema und handelnde Person
 
-Früher Text 1.4, seit 2026-10-18 Text 1.5. Zusätzlich zu T01–T04:
+Früher Text 1.4 „Thema und Subjekt“. Am 2026-10-18 als Text 1.5 neu geschrieben
+im Japanisch-Schwerpunkt-Stil: erst lehren, dann im Gespräch benutzen, dann
+Szene mit Nakamura und Abfrage (Deutsch, Pause, Japanisch). Zusätzlich zu T01–T04:
 
 | Schreibung | Kana | Romaji | Bedeutung / erklärte Funktion |
 |---|---|---|---|
-| これ | これ | kore | dies hier, beim Sprecher; nur diese Form eingeführt |
+| これ | これ | kore | dies hier, beim Sprecher; nur diese Form eingeführt (das Wort für Dinge beim anderen kommt später) |
 | 本 | ほん | hon | Buch; Zahl später in T08 ausdrücklich erklärt |
-| が | が | ga | Subjektmarker; hier die gesuchte trinkende Person |
+| 何 (なん) | なん | nan | was, vor です zu なん verkürzt (何ですか); vor を bleibt なに |
+| だれ | だれ | dare | wer; danach steht が, nicht は |
+| が | が | ga | Subjektmarker; hebt die handelnde Person hervor; Antwort auf だれが bekommt auch が |
+| どうぞ | どうぞ | douzo | bitte schön, beim Anbieten oder Hinstellen |
+| ありがとうございます | ありがとうございます | arigatou gozaimasu | vielen Dank, höflich |
 
 Vollständig erklärte neue Sätze:
-- これは本です — Das ist ein Buch.
-- コーヒーは私が飲みます — Den Kaffee trinke ich, beim Verteilen des übrigen Kaffees.
-- お茶は私が飲みます — Den Tee trinke ich, in der entsprechenden Teeszene.
-- お茶は中村さんが飲みます — Den Tee trinkt Frau Nakamura; nur die trinkende
-  Person ändert sich, Tee bleibt das Thema.
+- これは本です — Das ist ein Buch. / これは本ですか — Ist das ein Buch? / はい、本です.
+- これは何ですか — Was ist das? / お茶です — Das ist Tee.
+- これはコーヒーですか — Ist das Kaffee? / はい、コーヒーです / いいえ、お茶です.
+- だれが飲みますか — Wer trinkt das? / 私が飲みます — Ich trinke das.
+- コーヒーはだれが飲みますか — Wer trinkt den Kaffee? / コーヒーは私が飲みます — Den Kaffee trinke ich.
+- お茶はだれが飲みますか / お茶は中村さんが飲みます / お茶は私が飲みます — Tee.
+- ジュースはだれが飲みますか / ジュースは青木さんが飲みます — Saft.
 
-Hörbare Bausteine: コーヒーは / お茶は als Getränk mit Themenmarker und
-私が als ich mit Subjektmarker. Die Teilstücke sind keine neuen ganzen Sätze.
+Hörbare Bausteine: これは, コーヒーは (Getränk als Thema), だれが, 私が,
+中村さんが (handelnde Person). Antworten auf これは…ですか ohne これ (kurz:
+本です, お茶です), weil das Ding dann bei der anderen Person ist.
 
-Thema kann Person oder Sache sein. Im Kaffeesatz sind Thema und handelnde
-Person verschieden. Der Umbau aus 私はコーヒーを飲みます betrifft Anordnung
-und Marker: は ersetzt hier を, 私 erhält が. Keine freie Umstellung bei
-unverändertem Gesprächsfokus, keine vollständige は/が-Theorie.
+Thema = worüber man redet; が = wer etwas tut. Wird das Getränk zum Thema,
+ersetzt は das を. 私はコーヒーを飲みます beim Erzählen über sich,
+コーヒーは私が飲みます beim Verteilen der Tassen. Keine vollständige は/が-Theorie,
+keine それ / あれ, kein だれは.
 
 ## B01-T06 — Verständliche Information unausgesprochen lassen
 

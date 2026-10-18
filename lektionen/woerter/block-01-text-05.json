@@ -1,0 +1,672 @@
+{
+ "lesson": "block-01-text-05",
+ "cards": {
+  "1": [
+   {
+    "word": "geholt",
+    "lemma": "holen",
+    "pt": [
+     "buscou",
+     "foi pegar"
+    ],
+    "de": "Holen: gehen und etwas mitbringen."
+   },
+   {
+    "word": "wusste",
+    "lemma": "wissen",
+    "pt": [
+     "sabia",
+     "tinha certeza"
+    ],
+    "de": "Vergangenheit von wissen."
+   }
+  ],
+  "3": [
+   {
+    "word": "steckt",
+    "lemma": "drinstecken",
+    "pt": [
+     "tem dentro",
+     "está contido"
+    ],
+    "de": "„Da steckt viel drin“: Da ist viel enthalten."
+   },
+   {
+    "word": "drin",
+    "lemma": "drin",
+    "pt": [
+     "dentro",
+     "lá dentro"
+    ],
+    "de": "Kurz für darin: innen, im Inneren."
+   }
+  ],
+  "4": [
+   {
+    "word": "deshalb",
+    "lemma": "deshalb",
+    "pt": [
+     "por isso",
+     "por esse motivo"
+    ],
+    "de": "Aus diesem Grund."
+   },
+   {
+    "word": "vorab",
+    "lemma": "vorab",
+    "pt": [
+     "antes",
+     "de antemão"
+    ],
+    "de": "Zuerst, bevor das Eigentliche kommt."
+   },
+   {
+    "word": "Leichteres",
+    "lemma": "leicht",
+    "pt": [
+     "algo mais fácil",
+     "mais simples"
+    ],
+    "de": "Etwas, das weniger schwer ist."
+   }
+  ],
+  "5": [
+   {
+    "word": "dünnes",
+    "lemma": "dünn",
+    "pt": [
+     "fino",
+     "fininho"
+    ],
+    "de": "Nicht dick, mit wenig Seiten."
+   },
+   {
+    "word": "zufällig",
+    "lemma": "zufällig",
+    "pt": [
+     "por acaso",
+     "sem querer"
+    ],
+    "de": "Ohne Plan, einfach so passiert."
+   },
+   {
+    "word": "beschäftigt",
+    "lemma": "beschäftigt",
+    "pt": [
+     "ocupada",
+     "atarefada"
+    ],
+    "de": "Man hat viel zu tun und wenig Zeit."
+   }
+  ],
+  "7": [
+   {
+    "word": "dahinter",
+    "lemma": "dahinter",
+    "pt": [
+     "atrás disso",
+     "depois disso"
+    ],
+    "de": "Hinter dem Wort, das man gerade nennt."
+   },
+   {
+    "word": "daraus",
+    "lemma": "daraus",
+    "pt": [
+     "disso",
+     "a partir disso"
+    ],
+    "de": "Aus dieser Sache; daraus wird: es entsteht."
+   }
+  ],
+  "9": [
+   {
+    "word": "dünnen",
+    "lemma": "dünn",
+    "pt": [
+     "fino",
+     "fininho"
+    ],
+    "de": "Nicht dick, mit wenig Seiten."
+   }
+  ],
+  "10": [
+   {
+    "word": "draus",
+    "lemma": "daraus",
+    "pt": [
+     "disso",
+     "a partir disso"
+    ],
+    "de": "Umgangssprachlich für daraus: „Mach eine Frage draus.“"
+   }
+  ],
+  "12": [
+   {
+    "word": "zwar",
+    "lemma": "und zwar",
+    "pt": [
+     "e isso",
+     "mais precisamente"
+    ],
+    "de": "„Und zwar“ erklärt genauer, was man meint."
+   },
+   {
+    "word": "beziehungsweise",
+    "lemma": "beziehungsweise",
+    "pt": [
+     "ou seja",
+     "ou melhor"
+    ],
+    "de": "Genauer gesagt; kurz bzw."
+   }
+  ],
+  "13": [
+   {
+    "word": "fällt",
+    "lemma": "einfallen",
+    "pt": [
+     "me ocorre",
+     "lembro"
+    ],
+    "de": "„Mir fällt ein“: Ich denke plötzlich daran."
+   },
+   {
+    "word": "drin",
+    "lemma": "drin",
+    "pt": [
+     "dentro",
+     "lá dentro"
+    ],
+    "de": "Kurz für darin: innen, im Inneren."
+   }
+  ],
+  "17": [
+   {
+    "word": "vermute",
+    "lemma": "vermuten",
+    "pt": [
+     "suponho",
+     "acho"
+    ],
+    "de": "Etwas glauben, ohne es sicher zu wissen."
+   },
+   {
+    "word": "drin",
+    "lemma": "drin",
+    "pt": [
+     "dentro",
+     "lá dentro"
+    ],
+    "de": "Kurz für darin: innen, im Inneren."
+   }
+  ],
+  "18": [
+   {
+    "word": "Annahme",
+    "lemma": "die Annahme",
+    "pt": [
+     "suposição",
+     "palpite"
+    ],
+    "de": "Was man vermutet oder für wahr hält."
+   }
+  ],
+  "20": [
+   {
+    "word": "Fehlt",
+    "lemma": "fehlen",
+    "pt": [
+     "falta",
+     "está faltando"
+    ],
+    "de": "Etwas ist nicht da, man braucht es noch."
+   }
+  ],
+  "22": [
+   {
+    "word": "winziges",
+    "lemma": "winzig",
+    "pt": [
+     "minúsculo",
+     "pequenininho"
+    ],
+    "de": "Sehr, sehr klein."
+   }
+  ],
+  "23": [
+   {
+    "word": "Zweck",
+    "lemma": "der Zweck",
+    "pt": [
+     "finalidade",
+     "propósito"
+    ],
+    "de": "Wozu etwas da ist."
+   },
+   {
+    "word": "davon",
+    "lemma": "davon",
+    "pt": [
+     "disso",
+     "dele"
+    ],
+    "de": "Von dieser Sache."
+   }
+  ],
+  "24": [
+   {
+    "word": "hebt",
+    "lemma": "hervorheben",
+    "pt": [
+     "destaca",
+     "realça"
+    ],
+    "de": "Hervorheben: etwas besonders sichtbar machen."
+   },
+   {
+    "word": "hervor",
+    "lemma": "hervorheben",
+    "pt": [
+     "destaca",
+     "realça"
+    ],
+    "de": "Teil von hervorheben: „hebt … hervor“."
+   },
+   {
+    "word": "handelt",
+    "lemma": "handeln",
+    "pt": [
+     "age",
+     "faz algo"
+    ],
+    "de": "Etwas tun, aktiv sein."
+   }
+  ],
+  "26": [
+   {
+    "word": "behält",
+    "lemma": "behalten",
+    "pt": [
+     "mantém",
+     "conserva"
+    ],
+    "de": "Nicht abgeben, weiter haben."
+   }
+  ],
+  "28": [
+   {
+    "word": "ebenso",
+    "lemma": "ebenso",
+    "pt": [
+     "igualmente",
+     "da mesma forma"
+    ],
+    "de": "Genauso, auf die gleiche Art."
+   }
+  ],
+  "29": [
+   {
+    "word": "davor",
+    "lemma": "davor",
+    "pt": [
+     "antes",
+     "na frente"
+    ],
+    "de": "Vor diesem Wort, zuerst."
+   }
+  ],
+  "30": [
+   {
+    "word": "worüber",
+    "lemma": "worüber",
+    "pt": [
+     "sobre o quê",
+     "do que"
+    ],
+    "de": "Über welche Sache."
+   }
+  ],
+  "31": [
+   {
+    "word": "Ergebnis",
+    "lemma": "das Ergebnis",
+    "pt": [
+     "resultado",
+     "conclusão"
+    ],
+    "de": "Was am Ende herauskommt."
+   },
+   {
+    "word": "besteht",
+    "lemma": "bestehen aus",
+    "pt": [
+     "é composto de",
+     "consiste em"
+    ],
+    "de": "„Besteht aus“: hat diese Teile."
+   }
+  ],
+  "32": [
+   {
+    "word": "genauso",
+    "lemma": "genauso",
+    "pt": [
+     "do mesmo jeito",
+     "igualzinho"
+    ],
+    "de": "Auf die gleiche Art."
+   }
+  ],
+  "33": [
+   {
+    "word": "hintereinander",
+    "lemma": "hintereinander",
+    "pt": [
+     "um atrás do outro",
+     "em seguida"
+    ],
+    "de": "Eins direkt nach dem anderen."
+   }
+  ],
+  "34": [
+   {
+    "word": "geblieben",
+    "lemma": "bleiben",
+    "pt": [
+     "foi parar",
+     "ficou"
+    ],
+    "de": "„Wo ist … geblieben?“: Wo ist es jetzt hin?"
+   }
+  ],
+  "36": [
+   {
+    "word": "hintereinander",
+    "lemma": "hintereinander",
+    "pt": [
+     "um atrás do outro",
+     "em seguida"
+    ],
+    "de": "Eins direkt nach dem anderen."
+   }
+  ],
+  "38": [
+   {
+    "word": "drauf",
+    "lemma": "drauf ankommen",
+    "pt": [
+     "depende",
+     "depende disso"
+    ],
+    "de": "„Kommt drauf an“: Das hängt von der Situation ab."
+   },
+   {
+    "word": "worüber",
+    "lemma": "worüber",
+    "pt": [
+     "sobre o quê",
+     "do que"
+    ],
+    "de": "Über welche Sache."
+   },
+   {
+    "word": "Erzählst",
+    "lemma": "erzählen",
+    "pt": [
+     "conta",
+     "narra"
+    ],
+    "de": "Etwas mit Worten berichten."
+   },
+   {
+    "word": "Aussage",
+    "lemma": "die Aussage",
+    "pt": [
+     "afirmação",
+     "enunciado"
+    ],
+    "de": "Was ein Satz sagt."
+   }
+  ],
+  "40": [
+   {
+    "word": "worüber",
+    "lemma": "worüber",
+    "pt": [
+     "sobre o quê",
+     "do que"
+    ],
+    "de": "Über welche Sache."
+   },
+   {
+    "word": "darum",
+    "lemma": "es geht darum",
+    "pt": [
+     "trata-se de",
+     "a questão é"
+    ],
+    "de": "„Es geht darum“: Das ist das Thema."
+   }
+  ],
+  "41": [
+   {
+    "word": "übertragen",
+    "lemma": "übertragen",
+    "pt": [
+     "aplicar",
+     "transferir"
+    ],
+    "de": "Etwas auf einen anderen Fall anwenden."
+   }
+  ],
+  "42": [
+   {
+    "word": "klappt",
+    "lemma": "klappen",
+    "pt": [
+     "funciona",
+     "dá certo"
+    ],
+    "de": "Umgangssprachlich: es funktioniert."
+   }
+  ],
+  "43": [
+   {
+    "word": "statt",
+    "lemma": "statt",
+    "pt": [
+     "em vez de",
+     "no lugar de"
+    ],
+    "de": "An Stelle von."
+   }
+  ],
+  "44": [
+   {
+    "word": "Saft",
+    "lemma": "der Saft",
+    "pt": [
+     "suco",
+     "sumo"
+    ],
+    "de": "Getränk aus Obst."
+   },
+   {
+    "word": "geholt",
+    "lemma": "holen",
+    "pt": [
+     "buscou",
+     "foi pegar"
+    ],
+    "de": "Holen: gehen und etwas mitbringen."
+   }
+  ],
+  "45": [
+   {
+    "word": "Saft",
+    "lemma": "der Saft",
+    "pt": [
+     "suco",
+     "sumo"
+    ],
+    "de": "Getränk aus Obst."
+   }
+  ],
+  "48": [
+   {
+    "word": "erledigt",
+    "lemma": "erledigen",
+    "pt": [
+     "feito",
+     "resolvido"
+    ],
+    "de": "Fertig gemacht, nichts mehr zu tun."
+   }
+  ],
+  "49": [
+   {
+    "word": "übertreib",
+    "lemma": "übertreiben",
+    "pt": [
+     "exagerar",
+     "passar do ponto"
+    ],
+    "de": "Mehr machen, als gut ist."
+   }
+  ],
+  "60": [
+   {
+    "word": "Gelegenheit",
+    "lemma": "die Gelegenheit",
+    "pt": [
+     "oportunidade",
+     "ocasião"
+    ],
+    "de": "„Bei der Gelegenheit“: wenn wir schon dabei sind."
+   },
+   {
+    "word": "denen",
+    "lemma": "denen",
+    "pt": [
+     "os quais",
+     "com que"
+    ],
+    "de": "Relativpronomen, Dativ Plural: „Wörter, mit denen …“."
+   },
+   {
+    "word": "Anbieten",
+    "lemma": "anbieten",
+    "pt": [
+     "oferecer",
+     "ao oferecer"
+    ],
+    "de": "Jemandem etwas geben wollen: Möchtest du?"
+   }
+  ],
+  "61": [
+   {
+    "word": "hinstellt",
+    "lemma": "hinstellen",
+    "pt": [
+     "coloca",
+     "põe na frente"
+    ],
+    "de": "Etwas irgendwo abstellen."
+   }
+  ],
+  "62": [
+   {
+    "word": "bedankst",
+    "lemma": "sich bedanken",
+    "pt": [
+     "agradece",
+     "diz obrigado"
+    ],
+    "de": "Danke sagen."
+   }
+  ],
+  "76": [
+   {
+    "word": "lief",
+    "lemma": "laufen",
+    "pt": [
+     "foi",
+     "aconteceu"
+    ],
+    "de": "„So lief es“: So ist es passiert."
+   }
+  ],
+  "77": [
+   {
+    "word": "enttäuscht",
+    "lemma": "enttäuscht",
+    "pt": [
+     "decepcionado",
+     "desapontado"
+    ],
+    "de": "Traurig, weil etwas nicht so war wie erhofft."
+   }
+  ],
+  "78": [
+   {
+    "word": "eben",
+    "lemma": "eben",
+    "pt": [
+     "simplesmente",
+     "é que"
+    ],
+    "de": "Partikel: So ist es halt."
+   },
+   {
+    "word": "Leidenschaft",
+    "lemma": "die Leidenschaft",
+    "pt": [
+     "paixão",
+     "entusiasmo"
+    ],
+    "de": "Etwas, das man sehr, sehr gern hat."
+   },
+   {
+    "word": "Abfrage",
+    "lemma": "die Abfrage",
+    "pt": [
+     "teste",
+     "revisão oral"
+    ],
+    "de": "Man wird gefragt, was man gelernt hat."
+   }
+  ],
+  "85": [
+   {
+    "word": "Schadet",
+    "lemma": "schaden",
+    "pt": [
+     "faz mal",
+     "prejudica"
+    ],
+    "de": "„Schadet nicht“: Es ist nicht schlecht."
+   }
+  ],
+  "86": [
+   {
+    "word": "Gegenteil",
+    "lemma": "das Gegenteil",
+    "pt": [
+     "contrário",
+     "oposto"
+    ],
+    "de": "„Im Gegenteil“: Es ist genau andersherum."
+   },
+   {
+    "word": "sowieso",
+    "lemma": "sowieso",
+    "pt": [
+     "de qualquer jeito",
+     "já"
+    ],
+    "de": "Ohnehin, egal was passiert."
+   }
+  ]
+ }
+}

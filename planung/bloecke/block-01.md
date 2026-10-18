@@ -4,7 +4,8 @@
 > はい / いいえ, ません, 何, そうですか) wurde nach T03 eingeschoben. Die hier
 > beschriebenen Texte T04–T09 liegen seitdem als 1.5–1.10 in den Dateien
 > `block-01-text-05` bis `block-01-text-10`. Die Nummern in diesem Dokument
-> sind die alten.
+> sind die alten. Text 1.5 (alt T04) wurde am selben Tag neu geschrieben:
+> „Wer trinkt den Kaffee?“ mit これ, 本, だれ, が, どうぞ, ありがとうございます.
 
 ## Stellung im Kurs
 

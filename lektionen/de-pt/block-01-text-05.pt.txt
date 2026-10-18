@@ -1,86 +1,86 @@
-Jonas: Até agora eu conseguia mudar a pessoa antes do marcador de tema. Então o tema é simplesmente a pessoa que age?
-Aoki: Muitas vezes as duas coisas coincidem, mas nem sempre. Hoje vamos distinguir: de que estamos falando e quem faz alguma coisa?
-Jonas: Podemos começar com a senhora Nakamura e o chá?
-Aoki: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|A senhora Nakamura bebe chá|なかむらさんわおちゃおのみます} significa: a senhora Nakamura bebe chá. Falamos da senhora Nakamura e dizemos o que ela bebe.
-Jonas: Então a senhora Nakamura é o tema. E também é ela quem bebe.
-Aoki: Exatamente. O marcador {は|は|wa|marcador de tema|わ} apresenta o nome dela como tema. O significado da frase inteira também mostra que ela é a pessoa que realiza a ação.
-Jonas: Essa segunda informação já não é o significado do marcador de tema?
-Aoki: Não. A função dele é marcar o tema. O fato de essa mesma pessoa beber aqui vem da frase, não de um significado como pessoa que bebe.
-Jonas: Preciso de um exemplo em que ninguém realize uma ação.
-Aoki: Imagine que estou segurando um livro. A palavra nova {本|ほん|hon|livro} significa livro.
-Jonas: Como posso apresentar essa coisa como tema?
-Aoki: Para isso usamos {これ|これ|kore|isto aqui}. Significa isto aqui e indica aqui o objeto perto de mim, ou seja, o livro na minha mão.
-Jonas: Como fica a frase inteira quando digo o que isso é?
-Aoki: {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです} significa: isto é um livro. A coisa aqui é o tema; a informação sobre ela é que se trata de um livro.
-Jonas: Então não estamos dizendo que o livro faz alguma coisa?
-Aoki: Isso mesmo. É uma afirmação nominal, ou seja, uma afirmação que tem um substantivo como núcleo. Livro é um substantivo; a finalização polida é {です|です|desu|finalização polida}.
-Jonas: Por que o marcador de tema não fica depois da palavra livro, então?
-Aoki: Porque apresentamos isto aqui como tema e dizemos a respeito: um livro. Em {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}, a frase completa significa: isto é um livro.
-Jonas: Posso comparar isso com a frase sobre você?
-Aoki: Sim. {青木さんは先生です|あおきさんはせんせいです|Aoki-san wa sensei desu|A senhora Aoki é professora|あおきさんわせんせいです} significa: a senhora Aoki é professora. Novamente apresentamos um tema e o descrevemos; ninguém precisa realizar uma ação.
-Jonas: Então o tema pode ser uma pessoa ou uma coisa.
-Aoki: Sim. Tema não significa automaticamente pessoa nem pessoa que realiza uma ação. Nossa afirmação também pode explicar o que uma coisa é.
-Jonas: Mas, numa frase de ação, o tema pode ser diferente da pessoa que realiza a ação?
-Aoki: Sim. Imagine nossa pausa no escritório: sobrou uma xícara de café. Já estamos falando desse café e pensando em quem vai bebê-lo.
-Jonas: Quero dizer: o café, eu bebo. Não a senhora Nakamura.
-Aoki: Nesse caso cabe {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café, eu bebo|こーひーわわたしがのみます}. Aqui significa: o café, eu bebo. Café é o tema; você se apresenta como a pessoa que vai bebê-lo.
-Jonas: O que é a palavrinha depois de eu?
-Aoki: É {が|が|ga|marcador de sujeito}. Aqui ele marca o sujeito, ou seja, a pessoa que bebe. Nessa situação, a resposta destaca quem fica com o café.
-Jonas: Quero ouvir as partes separadamente. Como apresento café como tema?
-Aoki: Com {コーヒーは|こーひーは|koohii wa|café como tema|こーひーわ}. Como ajuda para explicar, significa: quanto ao café. Café com seu marcador de tema forma o primeiro elemento.
-Jonas: Depois vem {私が|わたしが|watashi ga|eu como sujeito}, ou seja, eu com o marcador de sujeito. Assim me identifico como a pessoa que bebe.
-Aoki: Isso mesmo. Por último vem {飲みます|のみます|nomimasu|beber, forma polida}, a forma polida de beber. Falamos do café, você o bebe e o verbo encerra a afirmação.
-Jonas: Juntando tudo, digo {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café, eu bebo|こーひーわわたしがのみます}: o café, eu bebo. Agora reconheço os três elementos.
-Aoki: Exatamente. Assim você responde à nossa pergunta sobre a xícara que sobrou. Não explica apenas que bebe café em geral, mas quem fica com esse café.
-Jonas: Por que você me chama de sujeito nessa frase sobre o café, e não simplesmente de tema outra vez?
-Aoki: Porque as funções são diferentes: já estamos falando do café. A informação que ainda falta é que você vai bebê-lo.
-Jonas: Pode explicar a frase novamente com as duas funções?
-Aoki: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café, eu bebo|こーひーわわたしがのみます} quer dizer: o café, eu bebo. Depois de café vem o marcador de tema; depois de eu vem o marcador de sujeito; no final vem beber na forma polida.
-Jonas: Então o café não vira de repente aquele que bebe.
-Aoki: Exatamente. Falamos do café, mas o café não bebe nada. Você o bebe. Por isso distinguimos duas perguntas: de que estamos falando? E quem bebe?
-Jonas: Onde foi parar o marcador de objeto que eu já conheço?
-Aoki: Na frase conhecida {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます}, ou seja, eu bebo café, {を|を|o|marcador de objeto|お} vem depois de café. Ali ele marca a bebida como objeto direto.
-Jonas: E quando essa mesma bebida passa a ser o tema?
-Aoki: No nosso exemplo, o marcador de tema substitui o de objeto: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café, eu bebo|こーひーわわたしがのみます} significa o café, eu bebo. Não colocamos os dois marcadores depois de café.
-Jonas: Então só trocamos uma palavrinha?
-Aoki: Não. Colocamos café no início como tema e apresentamos eu com o marcador de sujeito. Considere essa transformação como um exemplo completo, não como uma troca qualquer.
-Jonas: Quando eu usaria a primeira versão?
-Aoki: Quando falamos de você e da sua escolha de bebida: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます}. Significa eu bebo café. Por exemplo, você conta o que costuma beber na pausa.
-Jonas: E quando eu usaria a versão que começa com café?
-Aoki: Quando o café já é o nosso tema e esclarecemos quem vai bebê-lo: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café, eu bebo|こーひーわわたしがのみます}. Aqui significa o café, eu bebo.
-Jonas: Se eu apenas contar como costuma ser minha pausa, digo {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます}: eu bebo café. Nesse caso, apareço como tema no começo.
-Aoki: Sim. Já no caso da xícara que sobrou, estávamos falando do café. A mesma pessoa pode beber a mesma bebida, enquanto a pergunta na conversa é outra.
-Jonas: Posso entender esse segundo padrão também com chá?
-Aoki: Sim. O ponto de partida é {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café, eu bebo|こーひーわわたしがのみます}: o café, eu bebo. Agora sobrou uma xícara de chá, e estamos falando desse chá.
-Jonas: O novo começo é {お茶は|おちゃは|ocha wa|chá como tema|おちゃわ}, ou seja, chá como tema. O marcador de tema continua depois da bebida.
-Aoki: O resultado completo é {お茶は私が飲みます|おちゃはわたしがのみます|ocha wa watashi ga nomimasu|O chá, eu bebo|おちゃわわたしがのみます}. Significa: o chá, eu bebo. Chá substitui café; a pessoa eu e a forma verbal polida continuam iguais.
-Jonas: E como seria minha afirmação normal sobre escolher chá?
-Aoki: {私はお茶を飲みます|わたしはおちゃをのみます|watashi wa ocha o nomimasu|Eu bebo chá|わたしわおちゃおのみます} significa: eu bebo chá. Aqui você é o tema, e chá é marcado como aquilo que você bebe.
-Jonas: Mantemos a xícara de chá que sobrou, mas desta vez Nakamura fica com ela. Qual parte precisa mudar?
-Aoki: A pessoa que bebe. De O chá, eu bebo passamos para {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|O chá, a senhora Nakamura bebe|おちゃわなかむらさんがのみます}: o chá, a senhora Nakamura bebe. Chá continua sendo o tema; o nome de Nakamura substitui eu antes do marcador de sujeito.
-Jonas: Então digo {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|O chá, a senhora Nakamura bebe|おちゃわなかむらさんがのみます}: o chá, a senhora Nakamura bebe. A frase trata do chá, embora seja Nakamura quem o bebe.
-Aoki: Essa é exatamente a diferença de que precisamos hoje. Em outras situações, o marcador de tema também pode ajudar a estabelecer contraste. Por enquanto, basta isto: retomamos o chá e dizemos quem o bebe.
-Jonas: Preciso sempre montar uma tradução alemã com uma expressão que significa quanto a?
-Aoki: Não. Quanto ao chá é uma ajuda para explicar. Em alemão natural, basta dizer Den Tee trinke ich. O marcador de tema não tem uma única palavra fixa como tradução em alemão.
-Jonas: Nas nossas frases sobre bebidas, encontro o sujeito perguntando Quem bebe? Posso usar essa pergunta em qualquer frase?
-Aoki: Não. Ela ajuda nas nossas frases sobre beber. Mas um sujeito não precisa ser uma pessoa nem fazer alguma coisa. Na frase futura sobre água na sala, água será o sujeito, sem beber nada.
-Jonas: Então não devo decorar sujeito simplesmente como autor da ação.
-Aoki: Exatamente. Para o nosso café, a pergunta Quem bebe? ajuda. É uma ajuda para esse tipo de frase, não uma definição para todas as frases japonesas.
-Jonas: Uma frase pode conter os dois marcadores sem que eles se contradigam?
-Aoki: Nosso exemplo mostra isso: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café, eu bebo|こーひーわわたしがのみます} quer dizer o café, eu bebo. O marcador de tema pertence a café; o marcador de sujeito, a eu. Eles têm funções diferentes.
-Jonas: Por isso preciso construir todas as frases de forma tão completa?
-Aoki: Não. Este é um exemplo de duas funções. Não vamos transformar isso numa obrigação de dizer separadamente tema e sujeito em toda frase.
-Jonas: Agora volto a contar um hábito de Nakamura: {中村さんはお茶を飲みます|なかむらさんはおちゃをのみます|Nakamura-san wa ocha o nomimasu|A senhora Nakamura bebe chá|なかむらさんわおちゃおのみます}. A senhora Nakamura bebe chá. Aqui ela mesma é o tema.
-Aoki: E ela é a pessoa que bebe. Portanto, o tema e a pessoa que age podem coincidir. Nosso exemplo da xícara que sobrou mostra apenas que isso não precisa acontecer sempre.
-Jonas: E, no caso do livro, não há uma pessoa realizando uma ação.
-Aoki: Isso mesmo. {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです} significa isto é um livro. Dizemos o que uma coisa é; o tema é esta coisa aqui.
-Jonas: Então primeiro procuro entender a afirmação, não apenas a posição de uma palavra.
-Aoki: Sim. Preste atenção nas palavras, nos seus marcadores e no final da frase. Só a primeira posição ainda não informa quem age ou o que está sendo descrito.
-Jonas: Essa já é toda a explicação sobre esses dois marcadores?
-Aoki: Não. Esclarecemos duas situações concretas. Vamos aprender os muitos outros usos separadamente mais adiante, em vez de transformar esses exemplos numa regra para tudo.
-Jonas: Mas, numa conversa, muitas vezes já está claro de que estamos falando.
-Aoki: Exatamente. Quando a senhora Nakamura já é o tema da conversa, não precisamos repetir automaticamente o nome dela em cada frase seguinte.
-Jonas: Se a senhora Nakamura é nosso tema, ela continua sendo o tema quando muda a pessoa que fala?
-Aoki: Pode continuar. Uma mudança de falante não é automaticamente uma mudança de tema. Você e eu podemos falar alternadamente da mesma colega sem que a pessoa de quem falamos mude.
-Jonas: Então quero entender o que pode ficar de fora e como reconheço a pessoa a quem a frase se refere.
-Aoki: É isso que veremos no próximo texto: vamos ouvir situações completas e comparar pessoas mencionadas explicitamente com informações que o contexto já fornece.
+Jonas: Hoje de manhã a Nakamura buscou bebidas para a nossa pausa juntos. Três xícaras, e ninguém sabia qual era de quem.
+Aoki: Clássico. Justamente para isso tem uma frase hoje: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Quem bebe o café?|こーひーわだれがのみますか}. Quem bebe o café?
+Jonas: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Quem bebe o café?|こーひーわだれがのみますか}. Quem bebe o café? Mas tem bastante coisa aí dentro.
+Aoki: Verdade, por isso antes algo mais fácil. A Nakamura também estava com um livro. Livro é {本|ほん|hon|livro}.
+Jonas: {本|ほん|hon|livro}. Livro. Um bem fininho. Ela deixou ele por acaso na minha mesa, de tão ocupada que estava.
+Aoki: Então pegue ele na mão. Para uma coisa bem perto de você, você diz {これ|これ|kore|isto aqui, perto de mim}. Isto aqui.
+Jonas: {これ|これ|kore|isto aqui, perto de mim}. Isto aqui. Com o marcador de tópico {は|は|wa|marcador de tópico|わ} atrás, vira {これは|これは|kore wa|isto aqui como tópico|これわ}?
+Aoki: Isso. E com {です|です|desu|fechamento educado} no final: {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}. Isto é um livro.
+Jonas: {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}. Isto é um livro. Mas com aquela coisa fininha eu nem tinha tanta certeza.
+Aoki: Então transforme em pergunta, com {か|か|ka|partícula de pergunta} como da última vez: {これは本ですか|これはほんですか|kore wa hon desu ka|Isto é um livro?|これわほんですか}. Isto é um livro?
+Jonas: {これは本ですか|これはほんですか|kore wa hon desu ka|Isto é um livro?|これわほんですか}. Isto é um livro? E a Nakamura diz: {はい、本です|はいほんです|hai, hon desu|Sim, é um livro}. Sim, é um livro.
+Aoki: Certo, e sem {これ|これ|kore|isto aqui, perto de mim} na resposta. Para coisas perto da outra pessoa, ou seja, na mão dela, existe uma palavra própria. Isso vem depois.
+Jonas: Acabei de lembrar: nas xícaras nem dá para ver o que tem dentro.
+Aoki: Aí você pergunta com {何|なに|nani|o quê}. Mas antes de {です|です|desu|fechamento educado} ele fica mais curto, vira {何|なん|nan|o quê, antes de です}. Simplesmente é mais fácil de falar.
+Jonas: {何|なん|nan|o quê, antes de です}. Então: {これは何ですか|これはなんですか|kore wa nan desu ka|O que é isto?|これわなんですか}. O que é isto?
+Aoki: Isso: {これは何ですか|これはなんですか|kore wa nan desu ka|O que é isto?|これわなんですか}. O que é isto? A resposta é curta: {お茶です|おちゃです|ocha desu|É chá}. É chá.
+Jonas: {お茶です|おちゃです|ocha desu|É chá}. É chá. E se eu achar que tem café dentro: {これはコーヒーですか|これはこーひーですか|kore wa koohii desu ka|Isto é café?|これわこーひーですか}. Isto é café?
+Aoki: Bem montado. Se a sua suposição estiver certa: {はい、コーヒーです|はいこーひーです|hai, koohii desu|Sim, é café}. Sim, é café.
+Jonas: {はい、コーヒーです|はいこーひーです|hai, koohii desu|Sim, é café}. Sim, é café. E se não for: {いいえ、お茶です|いいえおちゃです|iie, ocha desu|Não, é chá}. Não, é chá.
+Aoki: Perfeito. Agora você sabe o que tem nas xícaras. Só falta para quem. Quem é {だれ|だれ|dare|quem}.
+Jonas: {だれ|だれ|dare|quem}. Quem. E aí, como com {何|なに|nani|o quê}, simplesmente no lugar da pessoa?
+Aoki: Quase. Depois de {だれ|だれ|dare|quem} não vem {は|は|wa|marcador de tópico|わ}, e sim uma palavrinha nova: {が|が|ga|marcador de sujeito: quem faz algo}.
+Jonas: {が|が|ga|marcador de sujeito: quem faz algo}. E qual é a função disso?
+Aoki: {が|が|ga|marcador de sujeito: quem faz algo} destaca quem faz algo. Então: {だれが|だれが|dare ga|quem, como a pessoa que age}. Quem, como a pessoa que age.
+Jonas: {だれが|だれが|dare ga|quem, como a pessoa que age}. Com verbo e pergunta: {だれが飲みますか|だれがのみますか|dare ga nomimasu ka|Quem bebe?}. Quem bebe?
+Aoki: Isso: {だれが飲みますか|だれがのみますか|dare ga nomimasu ka|Quem bebe?}. E quem responde mantém o {が|が|ga|marcador de sujeito: quem faz algo}, então: {私が飲みます|わたしがのみます|watashi ga nomimasu|Sou eu que bebo}. Sou eu que bebo.
+Jonas: {私が飲みます|わたしがのみます|watashi ga nomimasu|Sou eu que bebo}. Sou eu que bebo. Por que não {は|は|wa|marcador de tópico|わ}, como sempre comigo?
+Aoki: Porque a pergunta era sobre a pessoa. A resposta para {だれが|だれが|dare ga|quem, como a pessoa que age} também recebe {が|が|ga|marcador de sujeito: quem faz algo}. Esse é todo o segredo.
+Jonas: Tá. Mas na sua frase do começo ainda tinha {コーヒーは|こーひーは|koohii wa|café como tópico|こーひーわ} antes.
+Aoki: Certo. Com isso você diz primeiro do que vocês estão falando: do café. Depois vem {だれが飲みますか|だれがのみますか|dare ga nomimasu ka|Quem bebe?}. Quem bebe?
+Jonas: Como resultado, então: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Quem bebe o café?|こーひーわだれがのみますか}. Quem bebe o café? A frase é composta de três partes.
+Aoki: Isso: tópico, pessoa, verbo. E a resposta é montada do mesmo jeito: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café sou eu que bebo|こーひーわわたしがのみます}. O café sou eu que bebo.
+Jonas: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café sou eu que bebo|こーひーわわたしがのみます}. O café sou eu que bebo. Aí {は|は|wa|marcador de tópico|わ} e {私|わたし|watashi|eu} vêm grudados, soa engraçado.
+Aoki: Soa repetido, mas é totalmente normal. E onde foi parar o {を|を|o|marcador de objeto|お}?
+Jonas: É mesmo, normalmente é {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます}. Eu bebo café.
+Aoki: Quando o café vira o tópico, {は|は|wa|marcador de tópico|わ} substitui o {を|を|o|marcador de objeto|お}. Os dois juntos não dá.
+Jonas: E quando eu digo qual frase? {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます} ou {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café sou eu que bebo|こーひーわわたしがのみます}?
+Aoki: Depende do que vocês estão falando. Se você conta de você, você é o tópico da frase: {私はコーヒーを飲みます|わたしはこーひーをのみます|watashi wa koohii o nomimasu|Eu bebo café|わたしわこーひーおのみます}. Eu bebo café.
+Jonas: E quando todo mundo está na frente das xícaras e ninguém sabe para quem é o café: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café sou eu que bebo|こーひーわわたしがのみます}. O café sou eu que bebo.
+Aoki: Isso. O tópico é aquilo de que se fala. Nem sempre se trata de quem faz algo. Para isso existe o {が|が|ga|marcador de sujeito: quem faz algo}.
+Jonas: Posso aplicar isso ao chá? {お茶はだれが飲みますか|おちゃはだれがのみますか|ocha wa dare ga nomimasu ka|Quem bebe o chá?|おちゃわだれがのみますか}. Quem bebe o chá?
+Aoki: Claro, funciona tanto com café quanto com chá. A resposta: {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|O chá é a senhora Nakamura que bebe|おちゃわなかむらさんがのみます}. O chá é a senhora Nakamura que bebe.
+Jonas: {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|O chá é a senhora Nakamura que bebe|おちゃわなかむらさんがのみます}. O chá é a senhora Nakamura que bebe. Então {中村さんが|なかむらさんが|Nakamura san ga|a senhora Nakamura, como a pessoa que age} em vez de {私が|わたしが|watashi ga|eu, como a pessoa que age}.
+Aoki: Certo, só a pessoa muda. E se eu estivesse lá, a Nakamura teria buscado suco também: {ジュースはだれが飲みますか|じゅーすはだれがのみますか|juusu wa dare ga nomimasu ka|Quem bebe o suco?|じゅーすわだれがのみますか}. Quem bebe o suco?
+Jonas: {ジュースはだれが飲みますか|じゅーすはだれがのみますか|juusu wa dare ga nomimasu ka|Quem bebe o suco?|じゅーすわだれがのみますか}. Quem bebe o suco? Claro que você: {ジュースは青木さんが飲みます|じゅーすはあおきさんがのみます|juusu wa Aoki san ga nomimasu|O suco é a senhora Aoki que bebe|じゅーすわあおきさんがのみます}. O suco é a senhora Aoki que bebe.
+Aoki: Ótimo. Agora você com chá: {お茶は私が飲みます|おちゃはわたしがのみます|ocha wa watashi ga nomimasu|O chá sou eu que bebo|おちゃわわたしがのみます}. O chá sou eu que bebo. Qual é o tópico aí?
+Jonas: O chá. E {私が|わたしが|watashi ga|eu, como a pessoa que age} diz quem bebe. Então {お茶は私が飲みます|おちゃはわたしがのみます|ocha wa watashi ga nomimasu|O chá sou eu que bebo|おちゃわわたしがのみます}. O chá sou eu que bebo.
+Aoki: Muito bem, com isso o mais importante está feito. Resumindo: depois de {だれ|だれ|dare|quem} vem {が|が|ga|marcador de sujeito: quem faz algo}, e na resposta também.
+Jonas: Tá, então me testa. Mas não exagera, isso tudo ainda é novo.
+Aoki: Fica tranquilo. {これは本ですか|これはほんですか|kore wa hon desu ka|Isto é um livro?|これわほんですか}. Isto é um livro?
+Jonas: {はい、本です|はいほんです|hai, hon desu|Sim, é um livro}. Sim, é um livro.
+Aoki: E esta xícara aqui: {これは何ですか|これはなんですか|kore wa nan desu ka|O que é isto?|これわなんですか}. O que é isto?
+Jonas: {お茶です|おちゃです|ocha desu|É chá}. É chá.
+Aoki: {これはコーヒーですか|これはこーひーですか|kore wa koohii desu ka|Isto é café?|これわこーひーですか}. Isto é café?
+Jonas: {いいえ、お茶です|いいえおちゃです|iie, ocha desu|Não, é chá}. Não, é chá.
+Aoki: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Quem bebe o café?|こーひーわだれがのみますか}. Quem bebe o café?
+Jonas: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café sou eu que bebo|こーひーわわたしがのみます}. O café sou eu que bebo.
+Aoki: {お茶はだれが飲みますか|おちゃはだれがのみますか|ocha wa dare ga nomimasu ka|Quem bebe o chá?|おちゃわだれがのみますか}. Quem bebe o chá?
+Jonas: {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|O chá é a senhora Nakamura que bebe|おちゃわなかむらさんがのみます}. O chá é a senhora Nakamura que bebe.
+Aoki: {そうですか|そうですか|sou desu ka|Ah é? Sério?}. Ah, é? Aproveitando, mais duas palavras com as quais você fica educado em toda xícara. Ao oferecer, se diz {どうぞ|どうぞ|douzo|aqui está, pode pegar}.
+Jonas: {どうぞ|どうぞ|douzo|aqui está, pode pegar}. Aqui está. Então quando a gente coloca a xícara na frente de alguém?
+Aoki: Isso. E você agradece educadamente com {ありがとうございます|ありがとうございます|arigatou gozaimasu|muito obrigado (educado)}. Muito obrigado.
+Jonas: {ありがとうございます|ありがとうございます|arigatou gozaimasu|muito obrigado (educado)}. Muito obrigado. Bem comprido para um obrigado.
+Aoki: Mas vale a pena, você precisa disso todo dia, assim como {どうぞ|どうぞ|douzo|aqui está, pode pegar}. Então, cena: eu sou a Nakamura e entro com as xícaras.
+Jonas: {こんにちは|こんにちは|konnichiwa|Olá, boa tarde|こんにちわ}. Olá.
+Aoki: {こんにちは|こんにちは|konnichiwa|Olá, boa tarde|こんにちわ}. Olá. {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Quem bebe o café?|こーひーわだれがのみますか}. Quem bebe o café?
+Jonas: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café sou eu que bebo|こーひーわわたしがのみます}. O café sou eu que bebo.
+Aoki: {どうぞ|どうぞ|douzo|aqui está, pode pegar}. Aqui está.
+Jonas: {ありがとうございます|ありがとうございます|arigatou gozaimasu|muito obrigado (educado)}. Muito obrigado. E a segunda xícara: {これはコーヒーですか|これはこーひーですか|kore wa koohii desu ka|Isto é café?|これわこーひーですか}. Isto também é café?
+Aoki: {いいえ、お茶です|いいえおちゃです|iie, ocha desu|Não, é chá}. Não, é chá.
+Jonas: {お茶はだれが飲みますか|おちゃはだれがのみますか|ocha wa dare ga nomimasu ka|Quem bebe o chá?|おちゃわだれがのみますか}. Quem bebe o chá?
+Aoki: {お茶は私が飲みます|おちゃはわたしがのみます|ocha wa watashi ga nomimasu|O chá sou eu que bebo|おちゃわわたしがのみます}. O chá sou eu que bebo.
+Jonas: {そうですか|そうですか|sou desu ka|Ah é? Sério?}. Ah, é? E isto aqui na minha mesa: {これは本ですか|これはほんですか|kore wa hon desu ka|Isto é um livro?|これわほんですか}. Isto é um livro?
+Aoki: {はい、本です|はいほんです|hai, hon desu|Sim, é um livro}. Sim, é um livro. {どうぞ|どうぞ|douzo|aqui está, pode pegar}. Pode pegar.
+Jonas: {ありがとうございます|ありがとうございます|arigatou gozaimasu|muito obrigado (educado)}. Muito obrigado.
+Aoki: Fim da cena. Foi mais ou menos assim hoje de manhã, né?
+Jonas: Quase. Só que o meu café já estava frio quando eu peguei. Aí fiquei um pouco decepcionado.
+Aoki: Café é a sua paixão, né. Agora o teste: alemão, pausa, japonês. Quem bebe o café: {コーヒーはだれが飲みますか|こーひーはだれがのみますか|koohii wa dare ga nomimasu ka|Quem bebe o café?|こーひーわだれがのみますか}.
+Jonas: O café sou eu que bebo: {コーヒーは私が飲みます|こーひーはわたしがのみます|koohii wa watashi ga nomimasu|O café sou eu que bebo|こーひーわわたしがのみます}.
+Aoki: O chá é a senhora Nakamura que bebe: {お茶は中村さんが飲みます|おちゃはなかむらさんがのみます|ocha wa Nakamura san ga nomimasu|O chá é a senhora Nakamura que bebe|おちゃわなかむらさんがのみます}.
+Jonas: O que é isto: {これは何ですか|これはなんですか|kore wa nan desu ka|O que é isto?|これわなんですか}.
+Aoki: Isto é um livro: {これは本です|これはほんです|kore wa hon desu|Isto é um livro|これわほんです}.
+Jonas: Quem bebe: {だれが飲みますか|だれがのみますか|dare ga nomimasu ka|Quem bebe?}.
+Aoki: Muito obrigado: {ありがとうございます|ありがとうございます|arigatou gozaimasu|muito obrigado (educado)}.
+Jonas: Aqui está: {どうぞ|どうぞ|douzo|aqui está, pode pegar}. Não faz mal ouvir tudo isso de novo.
+Aoki: Pelo contrário. No próximo texto a gente deixa de fora o que já está claro na conversa.
