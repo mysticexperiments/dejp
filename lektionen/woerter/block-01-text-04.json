@@ -36,15 +36,6 @@
   ],
   "13": [
    {
-    "word": "doppelt",
-    "lemma": "doppelt",
-    "pt": [
-     "dobrado",
-     "duas vezes"
-    ],
-    "de": "Zweimal das Gleiche, also zu viel."
-   },
-   {
     "word": "gemoppelt",
     "lemma": "doppelt gemoppelt",
     "pt": [
@@ -74,17 +65,6 @@
      "a propósito"
     ],
     "de": "Das sage ich noch nebenbei dazu."
-   }
-  ],
-  "24": [
-   {
-    "word": "Niederländischen",
-    "lemma": "das Niederländische",
-    "pt": [
-     "holandês",
-     "língua holandesa"
-    ],
-    "de": "Die Sprache aus den Niederlanden."
    }
   ],
   "25": [
