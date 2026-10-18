@@ -13,32 +13,34 @@
    },
    {
     "word": "wusste",
-    "lemma": "wissen",
-    "pt": [
-     "sabia",
-     "tinha certeza"
+    "ws": [
+     "wusste",
+     "keiner",
+     "welche",
+     "wen"
     ],
-    "de": "Vergangenheit von wissen."
+    "lemma": "keiner wusste, welche für wen ist",
+    "pt": [
+     "ninguém sabia qual era de quem",
+     "ninguém sabia de quem era cada uma"
+    ],
+    "de": "Niemand wusste, wem welche Tasse gehört."
    }
   ],
   "3": [
    {
     "word": "steckt",
-    "lemma": "drinstecken",
-    "pt": [
-     "tem dentro",
-     "está contido"
+    "ws": [
+     "steckt",
+     "einiges",
+     "drin"
     ],
-    "de": "„Da steckt viel drin“: Da ist viel enthalten."
-   },
-   {
-    "word": "drin",
-    "lemma": "drin",
+    "lemma": "da steckt einiges drin",
     "pt": [
-     "dentro",
-     "lá dentro"
+     "tem muita coisa aí",
+     "isso tem muito conteúdo"
     ],
-    "de": "Kurz für darin: innen, im Inneren."
+    "de": "In dem Satz sind viele Teile."
    }
   ],
   "4": [
@@ -68,6 +70,19 @@
      "mais simples"
     ],
     "de": "Etwas, das weniger schwer ist."
+   },
+   {
+    "word": "hatte",
+    "ws": [
+     "hatte",
+     "dabei"
+    ],
+    "lemma": "etwas dabeihaben",
+    "pt": [
+     "estava com",
+     "trazia consigo"
+    ],
+    "de": "Sie hatte es bei sich."
    }
   ],
   "5": [
@@ -90,13 +105,31 @@
     "de": "Ohne Plan, einfach so passiert."
    },
    {
-    "word": "beschäftigt",
-    "lemma": "beschäftigt",
-    "pt": [
-     "ocupada",
-     "atarefada"
+    "word": "lassen",
+    "ws": [
+     "lassen",
+     "liegen"
     ],
-    "de": "Man hat viel zu tun und wenig Zeit."
+    "lemma": "etwas liegen lassen",
+    "pt": [
+     "deixar (esquecido)",
+     "esquecer"
+    ],
+    "de": "Man geht weg und vergisst es."
+   },
+   {
+    "word": "beschäftigt",
+    "ws": [
+     "beschäftigt",
+     "so",
+     "war"
+    ],
+    "lemma": "so beschäftigt war sie",
+    "pt": [
+     "de tão ocupada que estava",
+     "estava tão ocupada"
+    ],
+    "de": "Sie hatte sehr viel zu tun."
    }
   ],
   "7": [
@@ -132,24 +165,34 @@
   ],
   "10": [
    {
-    "word": "draus",
-    "lemma": "daraus",
-    "pt": [
-     "disso",
-     "a partir disso"
+    "word": "mach",
+    "ws": [
+     "mach",
+     "draus",
+     "Frage",
+     "eine"
     ],
-    "de": "Umgangssprachlich für daraus: „Mach eine Frage draus.“"
+    "lemma": "eine Frage daraus machen",
+    "pt": [
+     "transforme em pergunta",
+     "faça uma pergunta disso"
+    ],
+    "de": "Aus dem Satz wird eine Frage."
    }
   ],
   "12": [
    {
     "word": "zwar",
+    "ws": [
+     "zwar",
+     "und"
+    ],
     "lemma": "und zwar",
     "pt": [
      "e isso",
      "mais precisamente"
     ],
-    "de": "„Und zwar“ erklärt genauer, was man meint."
+    "de": "Damit sagt man es genauer."
    },
    {
     "word": "beziehungsweise",
@@ -164,12 +207,17 @@
   "13": [
    {
     "word": "fällt",
-    "lemma": "einfallen",
-    "pt": [
-     "me ocorre",
-     "lembro"
+    "ws": [
+     "fällt",
+     "ein",
+     "Mir"
     ],
-    "de": "„Mir fällt ein“: Ich denke plötzlich daran."
+    "lemma": "mir fällt ein",
+    "pt": [
+     "acabei de lembrar",
+     "me ocorre"
+    ],
+    "de": "Ich denke plötzlich daran."
    },
    {
     "word": "drin",
@@ -179,6 +227,22 @@
      "lá dentro"
     ],
     "de": "Kurz für darin: innen, im Inneren."
+   }
+  ],
+  "14": [
+   {
+    "word": "Spricht",
+    "ws": [
+     "Spricht",
+     "leichter",
+     "sich"
+    ],
+    "lemma": "sich leichter sprechen",
+    "pt": [
+     "é mais fácil de falar",
+     "sai mais fácil"
+    ],
+    "de": "Man kann es einfacher aussprechen."
    }
   ],
   "17": [
@@ -215,12 +279,17 @@
   "20": [
    {
     "word": "Fehlt",
-    "lemma": "fehlen",
-    "pt": [
-     "falta",
-     "está faltando"
+    "ws": [
+     "Fehlt",
+     "nur",
+     "noch"
     ],
-    "de": "Etwas ist nicht da, man braucht es noch."
+    "lemma": "fehlt nur noch …",
+    "pt": [
+     "só falta",
+     "falta só"
+    ],
+    "de": "Das ist das Letzte, was wir brauchen."
    }
   ],
   "22": [
@@ -303,6 +372,19 @@
      "da mesma forma"
     ],
     "de": "Genauso, auf die gleiche Art."
+   },
+   {
+    "word": "Geheimnis",
+    "ws": [
+     "Geheimnis",
+     "ganze"
+    ],
+    "lemma": "das ist das ganze Geheimnis",
+    "pt": [
+     "esse é todo o segredo",
+     "é só isso"
+    ],
+    "de": "Mehr muss man nicht wissen."
    }
   ],
   "29": [
@@ -393,13 +475,18 @@
   ],
   "38": [
    {
-    "word": "drauf",
-    "lemma": "drauf ankommen",
+    "word": "Kommt",
+    "ws": [
+     "Kommt",
+     "drauf",
+     "an"
+    ],
+    "lemma": "es kommt darauf an",
     "pt": [
      "depende",
-     "depende disso"
+     "isso depende"
     ],
-    "de": "„Kommt drauf an“: Das hängt von der Situation ab."
+    "de": "Es hängt von der Situation ab."
    },
    {
     "word": "worüber",
@@ -440,13 +527,20 @@
     "de": "Über welche Sache."
    },
    {
-    "word": "darum",
-    "lemma": "es geht darum",
-    "pt": [
-     "trata-se de",
-     "a questão é"
+    "word": "geht",
+    "ws": [
+     "geht",
+     "darum",
+     "nicht",
+     "immer",
+     "Es"
     ],
-    "de": "„Es geht darum“: Das ist das Thema."
+    "lemma": "es geht nicht immer darum",
+    "pt": [
+     "nem sempre se trata de",
+     "nem sempre é sobre"
+    ],
+    "de": "Das ist nicht immer das Wichtigste."
    }
   ],
   "41": [
@@ -478,6 +572,20 @@
      "dá certo"
     ],
     "de": "Umgangssprachlich: es funktioniert."
+   },
+   {
+    "word": "sowohl",
+    "ws": [
+     "sowohl",
+     "als",
+     "auch"
+    ],
+    "lemma": "sowohl … als auch",
+    "pt": [
+     "tanto … quanto",
+     "tanto … como"
+    ],
+    "de": "Beides: das eine und das andere."
    }
   ],
   "43": [
@@ -520,39 +628,79 @@
      "sumo"
     ],
     "de": "Getränk aus Obst."
+   },
+   {
+    "word": "klar",
+    "ws": [
+     "klar",
+     "Ganz"
+    ],
+    "lemma": "ganz klar",
+    "pt": [
+     "com certeza",
+     "claramente"
+    ],
+    "de": "Das ist sicher, ohne Zweifel."
    }
   ],
   "48": [
    {
     "word": "erledigt",
-    "lemma": "erledigen",
-    "pt": [
-     "feito",
-     "resolvido"
+    "ws": [
+     "erledigt",
+     "Wichtigste",
+     "das",
+     "ist"
     ],
-    "de": "Fertig gemacht, nichts mehr zu tun."
+    "lemma": "damit ist das Wichtigste erledigt",
+    "pt": [
+     "o mais importante está feito",
+     "o principal já foi"
+    ],
+    "de": "Den größten Teil haben wir geschafft."
+   },
+   {
+    "word": "gesagt",
+    "ws": [
+     "gesagt",
+     "Kurz"
+    ],
+    "lemma": "kurz gesagt",
+    "pt": [
+     "resumindo",
+     "em resumo"
+    ],
+    "de": "In wenigen Worten."
    }
   ],
   "49": [
    {
     "word": "übertreib",
-    "lemma": "übertreiben",
-    "pt": [
-     "exagerar",
-     "passar do ponto"
+    "ws": [
+     "übertreib",
+     "nicht"
     ],
-    "de": "Mehr machen, als gut ist."
+    "lemma": "übertreib nicht!",
+    "pt": [
+     "não exagera",
+     "vai com calma"
+    ],
+    "de": "Mach nicht zu viel."
    }
   ],
   "60": [
    {
     "word": "Gelegenheit",
-    "lemma": "die Gelegenheit",
-    "pt": [
-     "oportunidade",
-     "ocasião"
+    "ws": [
+     "Gelegenheit",
+     "der"
     ],
-    "de": "„Bei der Gelegenheit“: wenn wir schon dabei sind."
+    "lemma": "bei der Gelegenheit",
+    "pt": [
+     "aproveitando",
+     "já que estamos nisso"
+    ],
+    "de": "Wenn wir schon dabei sind."
    },
    {
     "word": "denen",
@@ -595,15 +743,64 @@
     "de": "Danke sagen."
    }
   ],
+  "63": [
+   {
+    "word": "lang",
+    "ws": [
+     "lang",
+     "schön",
+     "Ganz"
+    ],
+    "lemma": "ganz schön lang",
+    "pt": [
+     "bem comprido",
+     "bastante longo"
+    ],
+    "de": "Ziemlich lang, länger als gedacht."
+   }
+  ],
+  "64": [
+   {
+    "word": "Lohnt",
+    "ws": [
+     "Lohnt",
+     "sich"
+    ],
+    "lemma": "es lohnt sich",
+    "pt": [
+     "vale a pena",
+     "compensa"
+    ],
+    "de": "Die Mühe bringt etwas."
+   },
+   {
+    "word": "komme",
+    "ws": [
+     "komme",
+     "rein"
+    ],
+    "lemma": "reinkommen",
+    "pt": [
+     "entro",
+     "chego"
+    ],
+    "de": "Ich gehe in den Raum hinein."
+   }
+  ],
   "76": [
    {
     "word": "lief",
-    "lemma": "laufen",
-    "pt": [
-     "foi",
-     "aconteceu"
+    "ws": [
+     "lief",
+     "ungefähr",
+     "So"
     ],
-    "de": "„So lief es“: So ist es passiert."
+    "lemma": "so ungefähr lief es",
+    "pt": [
+     "foi mais ou menos assim",
+     "aconteceu mais ou menos assim"
+    ],
+    "de": "Ungefähr so ist es passiert."
    }
   ],
   "77": [
@@ -649,32 +846,43 @@
   "85": [
    {
     "word": "Schadet",
-    "lemma": "schaden",
-    "pt": [
-     "faz mal",
-     "prejudica"
+    "ws": [
+     "Schadet",
+     "nicht"
     ],
-    "de": "„Schadet nicht“: Es ist nicht schlecht."
+    "lemma": "schadet nicht",
+    "pt": [
+     "não faz mal",
+     "não custa"
+    ],
+    "de": "Es ist nicht schlecht, es hilft sogar."
    }
   ],
   "86": [
    {
     "word": "Gegenteil",
-    "lemma": "das Gegenteil",
-    "pt": [
-     "contrário",
-     "oposto"
+    "ws": [
+     "Gegenteil"
     ],
-    "de": "„Im Gegenteil“: Es ist genau andersherum."
+    "lemma": "im Gegenteil",
+    "pt": [
+     "pelo contrário",
+     "ao contrário"
+    ],
+    "de": "Es ist genau andersherum."
    },
    {
     "word": "sowieso",
-    "lemma": "sowieso",
-    "pt": [
-     "de qualquer jeito",
-     "já"
+    "ws": [
+     "sowieso",
+     "klar"
     ],
-    "de": "Ohnehin, egal was passiert."
+    "lemma": "sowieso klar",
+    "pt": [
+     "já está claro",
+     "claro de qualquer jeito"
+    ],
+    "de": "Das weiß man schon, man muss es nicht sagen."
    }
   ]
  }

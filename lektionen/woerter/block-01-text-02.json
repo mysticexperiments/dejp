@@ -1,6 +1,53 @@
 {
  "lesson": "block-01-text-02",
  "cards": {
+  "1": [
+   {
+    "word": "so",
+    "ws": [
+     "so",
+     "trinke",
+     "was"
+    ],
+    "lemma": "was ich so trinke",
+    "pt": [
+     "o que eu costumo beber",
+     "o que eu bebo normalmente"
+    ],
+    "de": "So heißt hier: normalerweise, ungefähr."
+   }
+  ],
+  "2": [
+   {
+    "word": "Hör",
+    "ws": [
+     "Hör"
+    ],
+    "lemma": "hör mal",
+    "pt": [
+     "escuta",
+     "olha só"
+    ],
+    "de": "Pass auf, ich sage dir etwas."
+   }
+  ],
+  "3": [
+   {
+    "word": "kommt",
+    "ws": [
+     "kommt",
+     "bekannt",
+     "vor",
+     "mir"
+    ],
+    "lemma": "jemandem bekannt vorkommen",
+    "pt": [
+     "me parece familiar",
+     "soa conhecido"
+    ],
+    "de": "Ich glaube, ich kenne das schon."
+   }
+  ],
   "4": [
    {
     "word": "worum",
@@ -47,22 +94,18 @@
   ],
   "18": [
    {
-    "word": "Daran",
-    "lemma": "daran",
-    "pt": [
-     "a isso",
-     "com isso"
-    ],
-    "de": "„Daran gewöhnen“: an diese Sache."
-   },
-   {
     "word": "gewöhnst",
-    "lemma": "sich gewöhnen",
-    "pt": [
-     "se acostuma",
-     "se habitua"
+    "ws": [
+     "gewöhnst",
+     "Daran",
+     "dich"
     ],
-    "de": "Nach einer Zeit ist es für dich normal."
+    "lemma": "sich an etwas gewöhnen",
+    "pt": [
+     "acostumar-se com isso",
+     "se habituar"
+    ],
+    "de": "Mit der Zeit ist es normal für dich."
    }
   ],
   "20": [
@@ -74,6 +117,19 @@
      "além disso"
     ],
     "de": "Noch zusätzlich."
+   },
+   {
+    "word": "wäre",
+    "ws": [
+     "wäre",
+     "doppelt"
+    ],
+    "lemma": "doppelt sein",
+    "pt": [
+     "seria repetido",
+     "seria redundante"
+    ],
+    "de": "Man sagt dasselbe zweimal, das braucht man nicht."
    }
   ],
   "21": [
@@ -145,12 +201,16 @@
   "34": [
    {
     "word": "Merkst",
-    "lemma": "merken",
-    "pt": [
-     "percebe",
-     "nota"
+    "ws": [
+     "Merkst",
+     "was"
     ],
-    "de": "„Merkst du was?“: Siehst du es?"
+    "lemma": "Merkst du was?",
+    "pt": [
+     "percebeu?",
+     "notou algo?"
+    ],
+    "de": "Siehst du etwas Besonderes?"
    },
    {
     "word": "wechselt",
@@ -160,6 +220,21 @@
      "troca"
     ],
     "de": "Es wird ein anderes."
+   }
+  ],
+  "39": [
+   {
+    "word": "stimmt",
+    "ws": [
+     "stimmt",
+     "sogar"
+    ],
+    "lemma": "das stimmt sogar",
+    "pt": [
+     "é até verdade",
+     "isso é verdade mesmo"
+    ],
+    "de": "Das ist wirklich so, man glaubt es kaum."
    }
   ],
   "40": [
@@ -207,12 +282,31 @@
   "47": [
    {
     "word": "leg",
-    "lemma": "loslegen",
+    "ws": [
+     "leg",
+     "los"
+    ],
+    "lemma": "leg los",
     "pt": [
-     "começa",
+     "pode começar",
      "manda ver"
     ],
-    "de": "„Leg los“: Fang an!"
+    "de": "Fang an!"
+   }
+  ],
+  "57": [
+   {
+    "word": "denn",
+    "ws": [
+     "denn",
+     "so"
+    ],
+    "lemma": "Was … denn so?",
+    "pt": [
+     "o que … costuma",
+     "afinal, o que"
+    ],
+    "de": "Denn und so machen die Frage freundlich und neugierig."
    }
   ],
   "58": [
@@ -282,12 +376,16 @@
   "78": [
    {
     "word": "Merk",
-    "lemma": "sich merken",
+    "ws": [
+     "Merk",
+     "dir"
+    ],
+    "lemma": "sich etwas merken",
     "pt": [
      "guarde",
      "memorize"
     ],
-    "de": "Behalte es im Kopf."
+    "de": "Vergiss das nicht."
    }
   ]
  }

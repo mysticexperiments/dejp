@@ -3,22 +3,30 @@
  "cards": {
   "1": [
    {
-    "word": "ehrlich",
-    "lemma": "ehrlich",
-    "pt": [
-     "sinceramente",
-     "honestamente"
+    "word": "Lampenfieber",
+    "ws": [
+     "Lampenfieber",
+     "hab"
     ],
-    "de": "„Ehrlich gesagt“: Ich sage dir, wie es wirklich ist."
+    "lemma": "Lampenfieber haben",
+    "pt": [
+     "frio na barriga",
+     "nervosismo antes de se apresentar"
+    ],
+    "de": "Man ist nervös, bevor man vor anderen spricht."
    },
    {
-    "word": "Lampenfieber",
-    "lemma": "das Lampenfieber",
-    "pt": [
-     "nervosismo",
-     "frio na barriga"
+    "word": "gesagt",
+    "ws": [
+     "gesagt",
+     "ehrlich"
     ],
-    "de": "Du bist nervös, bevor du vor anderen etwas machst."
+    "lemma": "ehrlich gesagt",
+    "pt": [
+     "para ser sincero",
+     "sinceramente"
+    ],
+    "de": "So sage ich, was ich wirklich denke."
    },
    {
     "word": "angespannt",
@@ -28,9 +36,63 @@
      "nervoso"
     ],
     "de": "Nervös und unruhig, nicht locker."
+   },
+   {
+    "word": "fängt",
+    "ws": [
+     "fängt",
+     "an"
+    ],
+    "lemma": "anfangen",
+    "pt": [
+     "começa",
+     "inicia"
+    ],
+    "de": "Es beginnt. Das Verb steht hier in zwei Teilen."
    }
   ],
   "2": [
+   {
+    "word": "Sorge",
+    "ws": [
+     "Sorge",
+     "Keine"
+    ],
+    "lemma": "keine Sorge",
+    "pt": [
+     "não se preocupe",
+     "fica tranquilo"
+    ],
+    "de": "Du musst keine Angst haben."
+   },
+   {
+    "word": "Ruhe",
+    "ws": [
+     "Ruhe",
+     "ganz",
+     "in"
+    ],
+    "lemma": "ganz in Ruhe",
+    "pt": [
+     "com calma",
+     "sem pressa"
+    ],
+    "de": "Langsam, ohne Stress."
+   },
+   {
+    "word": "Fangen",
+    "ws": [
+     "Fangen",
+     "an",
+     "mit"
+    ],
+    "lemma": "mit etwas anfangen",
+    "pt": [
+     "começar com",
+     "começar por"
+    ],
+    "de": "Das ist der erste Schritt."
+   },
    {
     "word": "Gruß",
     "lemma": "der Gruß",
@@ -39,15 +101,6 @@
      "saudação"
     ],
     "de": "Damit sagst du Hallo zu jemandem."
-   },
-   {
-    "word": "Ruhe",
-    "lemma": "die Ruhe",
-    "pt": [
-     "calma",
-     "tranquilidade"
-    ],
-    "de": "„In Ruhe“: ohne Stress, langsam."
    }
   ],
   "4": [
@@ -77,6 +130,34 @@
      "dirigir-se a"
     ],
     "de": "Jemandem etwas sagen, das Gespräch beginnen."
+   },
+   {
+    "word": "besten",
+    "ws": [
+     "besten",
+     "am"
+    ],
+    "lemma": "am besten",
+    "pt": [
+     "o melhor é",
+     "de preferência"
+    ],
+    "de": "So ist es am klügsten."
+   }
+  ],
+  "6": [
+   {
+    "word": "spricht",
+    "ws": [
+     "spricht",
+     "an"
+    ],
+    "lemma": "jemanden ansprechen",
+    "pt": [
+     "dirige-se a",
+     "fala com"
+    ],
+    "de": "Man sagt etwas zu jemandem, man redet ihn an."
    }
   ],
   "8": [
@@ -136,6 +217,19 @@
   ],
   "21": [
    {
+    "word": "Passt",
+    "ws": [
+     "Passt",
+     "ja"
+    ],
+    "lemma": "das passt",
+    "pt": [
+     "faz sentido",
+     "combina"
+    ],
+    "de": "Das stimmt, das ist richtig für mich."
+   },
+   {
     "word": "immerhin",
     "lemma": "immerhin",
     "pt": [
@@ -159,12 +253,16 @@
   "24": [
    {
     "word": "dran",
-    "lemma": "daran",
-    "pt": [
-     "junto",
-     "na frente"
+    "ws": [
+     "dran",
+     "vorne"
     ],
-    "de": "„Vorne dran“: ganz vorne, am Anfang."
+    "lemma": "vorne dran",
+    "pt": [
+     "na frente",
+     "no começo"
+    ],
+    "de": "Ganz vorne, am Anfang."
    }
   ],
   "26": [
@@ -189,6 +287,22 @@
     "de": "Ein Wort raus, ein anderes rein."
    }
   ],
+  "30": [
+   {
+    "word": "einfach",
+    "ws": [
+     "einfach",
+     "so",
+     "ist"
+    ],
+    "lemma": "so einfach ist das",
+    "pt": [
+     "simples assim",
+     "é fácil assim"
+    ],
+    "de": "Es ist wirklich nicht schwer."
+   }
+  ],
   "34": [
    {
     "word": "beruflich",
@@ -202,6 +316,19 @@
   ],
   "35": [
    {
+    "word": "Warte",
+    "ws": [
+     "Warte",
+     "mal"
+    ],
+    "lemma": "warte mal",
+    "pt": [
+     "espera aí",
+     "peraí"
+    ],
+    "de": "Halt, kurz! Ich habe eine Frage."
+   },
+   {
     "word": "vorhin",
     "lemma": "vorhin",
     "pt": [
@@ -212,15 +339,6 @@
    }
   ],
   "36": [
-   {
-    "word": "eingebildet",
-    "lemma": "eingebildet",
-    "pt": [
-     "convencido",
-     "metido"
-    ],
-    "de": "Man hält sich selbst für besser als andere."
-   },
    {
     "word": "Betrachte",
     "lemma": "betrachten",
@@ -240,13 +358,17 @@
     "de": "Alle Menschen eines Landes und ihre Regeln."
    },
    {
-    "word": "wirken",
-    "lemma": "wirken",
-    "pt": [
-     "parecer",
-     "dar a impressão"
+    "word": "eingebildet",
+    "ws": [
+     "eingebildet",
+     "wirken"
     ],
-    "de": "Einen bestimmten Eindruck machen."
+    "lemma": "eingebildet wirken",
+    "pt": [
+     "parecer convencido",
+     "parecer arrogante"
+    ],
+    "de": "Andere denken, man hält sich für etwas Besseres."
    }
   ],
   "39": [
@@ -269,25 +391,23 @@
     "de": "Hier: zum Ende kommen, aufhören."
    }
   ],
+  "40": [
+   {
+    "word": "Zusammenarbeit",
+    "ws": [
+     "Zusammenarbeit",
+     "gute",
+     "Auf"
+    ],
+    "lemma": "Auf gute Zusammenarbeit!",
+    "pt": [
+     "conto com você",
+     "que a gente trabalhe bem junto"
+    ],
+    "de": "Ein Wunsch: Wir arbeiten gut zusammen."
+   }
+  ],
   "42": [
-   {
-    "word": "bittet",
-    "lemma": "bitten",
-    "pt": [
-     "pede",
-     "solicita"
-    ],
-    "de": "Man möchte, dass der andere etwas tut."
-   },
-   {
-    "word": "darum",
-    "lemma": "darum",
-    "pt": [
-     "por isso",
-     "por aquilo"
-    ],
-    "de": "„Darum bitten“: um diese Sache bitten."
-   },
    {
     "word": "oberflächlich",
     "lemma": "oberflächlich",
@@ -296,29 +416,65 @@
      "raso"
     ],
     "de": "Nicht tief, nur das Äußere."
+   },
+   {
+    "word": "bittet",
+    "ws": [
+     "bittet",
+     "darum"
+    ],
+    "lemma": "um etwas bitten",
+    "pt": [
+     "pede que",
+     "pede"
+    ],
+    "de": "Man sagt höflich, was man sich wünscht."
+   },
+   {
+    "word": "läuft",
+    "ws": [
+     "läuft",
+     "gut"
+    ],
+    "lemma": "gut laufen",
+    "pt": [
+     "ir bem",
+     "dar certo"
+    ],
+    "de": "Es klappt, es gibt keine Probleme."
    }
   ],
   "46": [
    {
     "word": "hinterlässt",
-    "lemma": "hinterlassen",
-    "pt": [
-     "deixa",
-     "causa"
+    "ws": [
+     "hinterlässt",
+     "Eindruck",
+     "einen",
+     "guten"
     ],
-    "de": "„Einen Eindruck hinterlassen“: so wirkt man auf andere."
-   },
-   {
-    "word": "Eindruck",
-    "lemma": "der Eindruck",
+    "lemma": "einen guten Eindruck hinterlassen",
     "pt": [
-     "impressão",
-     "imagem"
+     "causar boa impressão",
+     "deixar boa impressão"
     ],
-    "de": "Was andere über einen denken."
+    "de": "Die anderen denken danach gut über dich."
    }
   ],
   "47": [
+   {
+    "word": "Rede",
+    "ws": [
+     "Rede",
+     "halbe"
+    ],
+    "lemma": "eine halbe Rede",
+    "pt": [
+     "quase um discurso",
+     "meio discurso"
+    ],
+    "de": "Schon fast ein ganzer Vortrag, also sehr lang."
+   },
    {
     "word": "Fassung",
     "lemma": "die Fassung",
@@ -340,22 +496,31 @@
   ],
   "48": [
    {
-    "word": "lässt",
-    "lemma": "lassen",
-    "pt": [
-     "deixa",
-     "omite"
+    "word": "Irrglaube",
+    "ws": [
+     "Irrglaube",
+     "Es",
+     "ein"
     ],
-    "de": "„Weglassen“: man sagt es nicht."
+    "lemma": "Es ist ein Irrglaube, dass …",
+    "pt": [
+     "é um engano achar que",
+     "é um mito que"
+    ],
+    "de": "Viele glauben das, aber es stimmt nicht."
    },
    {
-    "word": "Irrglaube",
-    "lemma": "der Irrglaube",
-    "pt": [
-     "engano",
-     "crença errada"
+    "word": "lässt",
+    "ws": [
+     "lässt",
+     "weg"
     ],
-    "de": "Etwas, das man fälschlich glaubt."
+    "lemma": "weglassen",
+    "pt": [
+     "deixa de fora",
+     "omite"
+    ],
+    "de": "Man sagt es nicht."
    }
   ],
   "49": [
@@ -376,6 +541,36 @@
      "na frente"
     ],
     "de": "Hier: vor dem Namen, zuerst."
+   }
+  ],
+  "50": [
+   {
+    "word": "stellen",
+    "ws": [
+     "stellen",
+     "vor",
+     "sich"
+    ],
+    "lemma": "sich vorstellen",
+    "pt": [
+     "se apresentam",
+     "apresentar-se"
+    ],
+    "de": "Man sagt seinen Namen und wer man ist."
+   },
+   {
+    "word": "kommst",
+    "ws": [
+     "kommst",
+     "an",
+     "gut"
+    ],
+    "lemma": "gut ankommen",
+    "pt": [
+     "agradar",
+     "ser bem recebido"
+    ],
+    "de": "Die anderen finden dich sympathisch."
    }
   ],
   "52": [
@@ -478,24 +673,34 @@
    },
    {
     "word": "kehren",
-    "lemma": "umkehren",
+    "ws": [
+     "kehren",
+     "um"
+    ],
+    "lemma": "etwas umkehren",
     "pt": [
      "inverter",
-     "virar ao contrário"
+     "fazer ao contrário"
     ],
-    "de": "„Wir kehren es um“: andersherum machen."
+    "de": "Wir machen es andersherum."
+   }
+  ],
+  "75": [
+   {
+    "word": "mach",
+    "ws": [
+     "mach",
+     "mit"
+    ],
+    "lemma": "mitmachen",
+    "pt": [
+     "eu topo",
+     "participar"
+    ],
+    "de": "Ich bin dabei, ich mache auch mit."
    }
   ],
   "82": [
-   {
-    "word": "vorgestellt",
-    "lemma": "sich vorstellen",
-    "pt": [
-     "apresentou",
-     "se apresentou"
-    ],
-    "de": "Du sagst, wer du bist."
-   },
    {
     "word": "Erledigt",
     "lemma": "erledigen",
@@ -515,13 +720,27 @@
     "de": "Was am Ende herauskommt."
    },
    {
-    "word": "gelungen",
-    "lemma": "gelingen",
+    "word": "vorgestellt",
+    "lemma": "sich vorstellen",
     "pt": [
-     "deu certo",
-     "saiu bem"
+     "apresentou",
+     "se apresentou"
     ],
-    "de": "Es hat gut geklappt."
+    "de": "Du sagst, wer du bist."
+   },
+   {
+    "word": "gelungen",
+    "ws": [
+     "gelungen",
+     "ist",
+     "dir"
+    ],
+    "lemma": "jemandem gelingen",
+    "pt": [
+     "você conseguiu",
+     "deu certo para você"
+    ],
+    "de": "Du hast es gut geschafft."
    }
   ],
   "83": [
@@ -537,15 +756,6 @@
   ],
   "84": [
    {
-    "word": "erzählst",
-    "lemma": "erzählen",
-    "pt": [
-     "conta",
-     "fala"
-    ],
-    "de": "Du sagst etwas über dich oder eine Sache."
-   },
-   {
     "word": "Lampenfieber",
     "lemma": "das Lampenfieber",
     "pt": [
@@ -556,12 +766,39 @@
    },
    {
     "word": "umsonst",
-    "lemma": "umsonst",
-    "pt": [
-     "à toa",
-     "em vão"
+    "ws": [
+     "umsonst",
+     "war"
     ],
-    "de": "Ohne Grund, es war nicht nötig."
+    "lemma": "umsonst sein",
+    "pt": [
+     "foi à toa",
+     "foi em vão"
+    ],
+    "de": "Es war nicht nötig."
+   },
+   {
+    "word": "erzählst",
+    "lemma": "erzählen",
+    "pt": [
+     "conta",
+     "fala"
+    ],
+    "de": "Du sagst etwas über dich oder eine Sache."
+   },
+   {
+    "word": "so",
+    "ws": [
+     "so",
+     "trinkst",
+     "was"
+    ],
+    "lemma": "was du so trinkst",
+    "pt": [
+     "o que você costuma beber",
+     "o que você bebe normalmente"
+    ],
+    "de": "So heißt hier: normalerweise, ungefähr."
    }
   ]
  }

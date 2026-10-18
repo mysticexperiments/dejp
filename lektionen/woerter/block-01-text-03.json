@@ -1,6 +1,21 @@
 {
  "lesson": "block-01-text-03",
  "cards": {
+  "3": [
+   {
+    "word": "geht",
+    "ws": [
+     "geht",
+     "um"
+    ],
+    "lemma": "es geht um",
+    "pt": [
+     "se trata de",
+     "é sobre"
+    ],
+    "de": "Das ist das Thema."
+   }
+  ],
   "5": [
    {
     "word": "geblieben",
@@ -14,16 +29,46 @@
   ],
   "8": [
    {
-    "word": "Höflichkeit",
-    "lemma": "die Höflichkeit",
-    "pt": [
-     "educação",
-     "cortesia"
+    "word": "hängt",
+    "ws": [
+     "hängt",
+     "an"
     ],
-    "de": "Man ist nett und respektvoll zu anderen."
+    "lemma": "etwas an etwas hängen",
+    "pt": [
+     "coloca depois",
+     "acrescenta"
+    ],
+    "de": "Man setzt es hinten dazu."
+   },
+   {
+    "word": "Höflichkeit",
+    "ws": [
+     "Höflichkeit",
+     "aus"
+    ],
+    "lemma": "aus Höflichkeit",
+    "pt": [
+     "por educação",
+     "por cortesia"
+    ],
+    "de": "Weil man höflich sein will."
    }
   ],
   "14": [
+   {
+    "word": "Bloß",
+    "ws": [
+     "Bloß",
+     "nicht"
+    ],
+    "lemma": "bloß nicht!",
+    "pt": [
+     "de jeito nenhum",
+     "nem pensar"
+    ],
+    "de": "Das solltest du auf keinen Fall machen."
+   },
    {
     "word": "eingebildet",
     "lemma": "eingebildet",
@@ -81,12 +126,17 @@
   "25": [
    {
     "word": "dran",
-    "lemma": "daran",
-    "pt": [
-     "atrás",
-     "junto"
+    "ws": [
+     "dran",
+     "hinten",
+     "was"
     ],
-    "de": "„Hinten dran“: am Ende vom Wort."
+    "lemma": "was hinten dran",
+    "pt": [
+     "algo atrás",
+     "algo no final"
+    ],
+    "de": "Etwas, das man ans Ende hängt."
    }
   ],
   "27": [
@@ -100,6 +150,37 @@
     "de": "Das sage ich noch nebenbei dazu."
    }
   ],
+  "28": [
+   {
+    "word": "Pass",
+    "ws": [
+     "Pass",
+     "auf"
+    ],
+    "lemma": "auf etwas aufpassen",
+    "pt": [
+     "presta atenção",
+     "cuidado com"
+    ],
+    "de": "Hör genau hin, das ist wichtig."
+   }
+  ],
+  "33": [
+   {
+    "word": "wissen",
+    "ws": [
+     "wissen",
+     "Gut",
+     "zu"
+    ],
+    "lemma": "gut zu wissen",
+    "pt": [
+     "bom saber",
+     "que bom saber"
+    ],
+    "de": "Das ist nützlich, das merke ich mir."
+   }
+  ],
   "34": [
    {
     "word": "Runde",
@@ -111,6 +192,21 @@
     "de": "Hier: ein Durchgang, eine kleine Übung."
    }
   ],
+  "39": [
+   {
+    "word": "Geht",
+    "ws": [
+     "Geht",
+     "kurz"
+    ],
+    "lemma": "Geht das kurz?",
+    "pt": [
+     "dá para dizer curto?",
+     "tem jeito mais curto?"
+    ],
+    "de": "Kann man das kürzer sagen?"
+   }
+  ],
   "46": [
    {
     "word": "erzählst",
@@ -120,6 +216,51 @@
      "narra"
     ],
     "de": "Etwas mit Worten berichten."
+   }
+  ],
+  "48": [
+   {
+    "word": "klar",
+    "ws": [
+     "klar",
+     "Na"
+    ],
+    "lemma": "na klar",
+    "pt": [
+     "claro",
+     "com certeza"
+    ],
+    "de": "Natürlich, sicher."
+   }
+  ],
+  "56": [
+   {
+    "word": "Ausnahme",
+    "ws": [
+     "Ausnahme",
+     "ohne"
+    ],
+    "lemma": "ohne Ausnahme",
+    "pt": [
+     "sem exceção",
+     "sempre"
+    ],
+    "de": "Wirklich immer, kein einziges Mal anders."
+   }
+  ],
+  "58": [
+   {
+    "word": "spielen",
+    "ws": [
+     "spielen",
+     "durch"
+    ],
+    "lemma": "etwas durchspielen",
+    "pt": [
+     "encenar",
+     "ensaiar"
+    ],
+    "de": "Wir spielen die Szene einmal ganz."
    }
   ],
   "59": [
@@ -151,6 +292,21 @@
      "funcionária de empresa"
     ],
     "de": "Eine Frau, die in einem Büro arbeitet."
+   }
+  ],
+  "73": [
+   {
+    "word": "fragst",
+    "ws": [
+     "fragst",
+     "ab"
+    ],
+    "lemma": "jemanden abfragen",
+    "pt": [
+     "me testa",
+     "me pergunta"
+    ],
+    "de": "Du stellst Fragen, um zu prüfen, was ich weiß."
    }
   ],
   "80": [

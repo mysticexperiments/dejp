@@ -1,6 +1,37 @@
 {
  "lesson": "block-01-text-04",
  "cards": {
+  "1": [
+   {
+    "word": "fragen",
+    "ws": [
+     "fragen",
+     "mal",
+     "was"
+    ],
+    "lemma": "jemanden mal was fragen",
+    "pt": [
+     "perguntar alguma coisa",
+     "fazer uma perguntinha"
+    ],
+    "de": "Mal und was machen die Bitte locker."
+   }
+  ],
+  "2": [
+   {
+    "word": "redest",
+    "ws": [
+     "redest",
+     "sonst"
+    ],
+    "lemma": "sonst redest nur du",
+    "pt": [
+     "senão só você fala",
+     "caso contrário"
+    ],
+    "de": "Wenn nicht, dann spricht nur einer."
+   }
+  ],
   "3": [
    {
     "word": "Umstellung",
@@ -10,6 +41,22 @@
      "mudança de ordem"
     ],
     "de": "Die Wörter kommen in eine andere Reihenfolge."
+   }
+  ],
+  "4": [
+   {
+    "word": "bleibt",
+    "ws": [
+     "bleibt",
+     "wie",
+     "ist"
+    ],
+    "lemma": "bleiben, wie es ist",
+    "pt": [
+     "fica como está",
+     "não muda"
+    ],
+    "de": "Man ändert nichts."
    }
   ],
   "8": [
@@ -26,37 +73,77 @@
   "10": [
    {
     "word": "lässt",
-    "lemma": "lassen",
+    "ws": [
+     "lässt",
+     "weg"
+    ],
+    "lemma": "weglassen",
     "pt": [
-     "deixa",
+     "deixa de fora",
      "omite"
     ],
-    "de": "„Weglassen“: man sagt es nicht."
+    "de": "Man sagt es nicht."
+   },
+   {
+    "word": "sieht",
+    "ws": [
+     "sieht",
+     "ja"
+    ],
+    "lemma": "man sieht ja …",
+    "pt": [
+     "dá para ver",
+     "é óbvio"
+    ],
+    "de": "Es ist klar, jeder sieht es."
    }
   ],
   "13": [
    {
     "word": "gemoppelt",
+    "ws": [
+     "gemoppelt",
+     "doppelt"
+    ],
     "lemma": "doppelt gemoppelt",
     "pt": [
      "repetido à toa",
      "redundante"
     ],
-    "de": "Umgangssprachlich: etwas wird unnötig zweimal gesagt."
+    "de": "Witzig gesagt: zweimal dasselbe."
    }
   ],
   "14": [
    {
-    "word": "knapp",
-    "lemma": "knapp",
-    "pt": [
-     "seco",
-     "curto demais"
+    "word": "klingt",
+    "ws": [
+     "klingt",
+     "knapp",
+     "ziemlich"
     ],
-    "de": "Sehr kurz, fast ein bisschen unfreundlich."
+    "lemma": "ziemlich knapp klingen",
+    "pt": [
+     "soa seco",
+     "soa curto demais"
+    ],
+    "de": "Es wirkt kurz und ein bisschen unfreundlich."
    }
   ],
   "22": [
+   {
+    "word": "macht",
+    "ws": [
+     "macht",
+     "Unterschied",
+     "keinen"
+    ],
+    "lemma": "keinen Unterschied machen",
+    "pt": [
+     "não faz diferença",
+     "dá no mesmo"
+    ],
+    "de": "Es ist beides gleich."
+   },
    {
     "word": "übrigens",
     "lemma": "übrigens",
@@ -70,12 +157,16 @@
   "25": [
    {
     "word": "sowieso",
-    "lemma": "sowieso",
-    "pt": [
-     "de qualquer jeito",
-     "mesmo assim"
+    "ws": [
+     "sowieso",
+     "nicht"
     ],
-    "de": "Das ist ohnehin so, egal was passiert."
+    "lemma": "sowieso nicht",
+    "pt": [
+     "de qualquer jeito, não",
+     "já não"
+    ],
+    "de": "Auch aus anderen Gründen nicht."
    }
   ],
   "29": [
@@ -193,15 +284,51 @@
     "de": "Man nimmt das eine und nicht das andere."
    }
   ],
+  "48": [
+   {
+    "word": "Ist",
+    "ws": [
+     "Ist",
+     "es",
+     "auch"
+    ],
+    "lemma": "ist es auch",
+    "pt": [
+     "é mesmo",
+     "e é"
+    ],
+    "de": "Ja, das stimmt wirklich."
+   }
+  ],
+  "50": [
+   {
+    "word": "hin",
+    "ws": [
+     "hin",
+     "her",
+     "und"
+    ],
+    "lemma": "hin und her",
+    "pt": [
+     "vai e volta",
+     "de lá para cá"
+    ],
+    "de": "Abwechselnd: einmal du, einmal ich."
+   }
+  ],
   "59": [
    {
-    "word": "dran",
+    "word": "kommt",
+    "ws": [
+     "kommt",
+     "dran"
+    ],
     "lemma": "drankommen",
     "pt": [
-     "é a vez de",
-     "chega a vez de"
+     "é a vez",
+     "chega a vez"
     ],
-    "de": "„Jetzt kommt sie dran“: jetzt ist sie an der Reihe."
+    "de": "Jetzt ist sie an der Reihe."
    }
   ],
   "60": [
@@ -218,12 +345,16 @@
   "65": [
    {
     "word": "zwar",
+    "ws": [
+     "zwar",
+     "Und"
+    ],
     "lemma": "und zwar",
     "pt": [
-     "mais precisamente",
-     "ou seja"
+     "e mais",
+     "mais precisamente"
     ],
-    "de": "Damit sagt man genauer, was man meint."
+    "de": "Damit sagt man es genauer."
    }
   ],
   "68": [
@@ -239,13 +370,31 @@
   ],
   "80": [
    {
-    "word": "darum",
-    "lemma": "darum",
-    "pt": [
-     "disso",
-     "sobre isso"
+    "word": "Finde",
+    "ws": [
+     "Finde",
+     "ich",
+     "auch"
     ],
-    "de": "„Es geht darum“: das ist das Thema."
+    "lemma": "finde ich auch",
+    "pt": [
+     "também acho",
+     "concordo"
+    ],
+    "de": "Ich denke das Gleiche."
+   },
+   {
+    "word": "geht",
+    "ws": [
+     "geht",
+     "darum"
+    ],
+    "lemma": "es geht darum",
+    "pt": [
+     "se trata de",
+     "o assunto é"
+    ],
+    "de": "Das ist das Thema."
    },
    {
     "word": "worüber",
